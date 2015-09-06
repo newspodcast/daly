@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 06 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 06 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 06 Sep 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 06 Sep 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 06.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150906_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 06.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/43/53/40/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;FlÃ¼chtlinge im Bus +++ Drohnen im Anflug +++ KÃ¼he im Hinterhof +++ Auf der IFA: Neue Fernseher+++ Mobiles rbb-Studio tourt durch Berlin und Brandenburg&lt;/p&gt;&lt;p&gt;06.09.2015 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-06-09-2015-19-30/rbb-Fernsehen/Video?documentId=30435328&amp;bcastId=3822076&quot;&gt;Abendschau 06.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;FlÃ¼chtlinge im Bus +++ Drohnen im Anflug +++ KÃ¼he im Hinterhof +++ Auf der IFA: Neue Fernseher+++ Mobiles rbb-Studio tourt durch Berlin und Brandenburg&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150906_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sun, 06 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0906/TV-20150906-2025-2401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Ankommende FlÃ¼chtlinge werden auf die BundeslÃ¤nder verteilt, Lage in Ãsterreich beruhigt sich etwas, Etwa 1.800 FlÃ¼chtlinge erreichen griechisches Festland, Koalitionsausschuss zur FlÃ¼chtlingspolitik, EU-Kommission will Liste sicherer HerkunftslÃ¤nder vorlegen, Papst Franziskus ruft zu SolidaritÃ¤t mit FlÃ¼chtlingen auf, KÃ¤mpfe im SÃ¼dosten der TÃ¼rkei, Volksentscheid gegen Gerichtsstrukturreform in Mecklenburg-Vorpommern gescheitert, Gedenkstunde im ehemaligen sowjetischen Speziallager Sachsenhausen, Knappe Niederlage fÃ¼r deutsches Basketball-Team, Hamilton gewinnt GroÃen Preis von Italien, WM-Silber fÃ¼r Deutschland-Achter, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0906/TV-20150906-2025-2401.webl.h264.mp4"/>
+			<pubDate>Sun, 06 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 05.09.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150905_sdg_m_16_9_512x288.mp4</link>
