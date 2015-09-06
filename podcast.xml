@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 06 Sep 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 06 Sep 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 06 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 06 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -85,20 +85,6 @@
 			<description>Themen der Sendung: Bayern bittet andere BundeslÃ¤nder um UnterstÃ¼tzung, Ungarn sperrt Bahnhof fÃ¼r FlÃ¼chtlinge, Rajoy und Merkel fordern einheitliche Asylpolitik, Sachsens MinisterprÃ¤sident Tillich verurteilt Fremdenhass, Arbeitslosenquote im August leicht gestiegen, GDL stimmt fÃ¼r Tarifpaket, Milchbauern protestieren gegen Preisverfall, Waffenruhe in Ost-Ukraine, Papst erlaubt allen Priestern Vergebung fÃ¼r Abtreibung, Proteste gegen Regierung im Libanon, Obama mahnt Folgen des Klimawandels an, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0901/TV-20150901-2021-5002.webl.h264.mp4"/>
 			<pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>31.08.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0831/TV-20150831-2024-0001.webl.h264.mp4</link>
-			<description>Themen der Sendung: Merkel erklÃ¤rt FlÃ¼chtlingskrise zur nationalen Aufgabe, SPD stellt Konzept zur FlÃ¼chtlingspolitik vor, Ãsterreich erlaubt ZÃ¼gen mit FlÃ¼chtlingen die Weiterfahrt, Frankreichs Premier besucht FlÃ¼chtlingslager in Calais, Willkommensklassen fÃ¼r FlÃ¼chtlingskinder, Gedenken an deutsch-deutschen Einigungsvertrag, Verletzte bei Protesten vor Parlament in Kiew, IS zerstÃ¶rt vermutlich weitere Tempelanlage in Palmyra, Waldbrand in Spanien, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0831/TV-20150831-2024-0001.webl.h264.mp4"/>
-			<pubDate>Mon, 31 Aug 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 31.08.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150831_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 31.08.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/34/00/16/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Kaum Abschiebungen von abgelehnten Asylbewerbern in Berlin +++ Chaos am Lageso: Czaja weist Kritik zurÃ¼ck +++ Berlin Energie vor dem Aus? +++ Neues Schuljahr, alte Schule +++ Â´ Sanierungs-Horror in der Kopenhagener Str. 46 +++ Mieten und Wohnen in Berlin Â +++ Â Wohnungsbaugesellschaften auf Einkaufstour +++ Union Berlin entlÃ¤sst DÃ¼wel â Lewandowski kommt +++&lt;/p&gt;&lt;p&gt;31.08.2015 | 29:25 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-31-08-2015-19-30/rbb-Fernsehen/Video?documentId=30340004&amp;bcastId=3822076&quot;&gt;Abendschau 31.08.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Kaum Abschiebungen von abgelehnten Asylbewerbern in Berlin +++ Chaos am Lageso: Czaja weist Kritik zurÃ¼ck +++ Berlin Energie vor dem Aus? +++ Neues Schuljahr, alte Schule +++ Â´ Sanierungs-Horror in der Kopenhagener Str. 46 +++ Mieten und Wohnen in Berlin Â +++ Â Wohnungsbaugesellschaften auf Einkaufstour +++ Union Berlin entlÃ¤sst DÃ¼wel â Lewandowski kommt +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150831_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 31 Aug 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
