@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 06 Sep 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Sun, 06 Sep 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Sep 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Sep 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2015/0906/TV-20150906-2025-2401.webl.h264.mp4</link>
 			<description>Themen der Sendung: Ankommende FlÃ¼chtlinge werden auf die BundeslÃ¤nder verteilt, Lage in Ãsterreich beruhigt sich etwas, Etwa 1.800 FlÃ¼chtlinge erreichen griechisches Festland, Koalitionsausschuss zur FlÃ¼chtlingspolitik, EU-Kommission will Liste sicherer HerkunftslÃ¤nder vorlegen, Papst Franziskus ruft zu SolidaritÃ¤t mit FlÃ¼chtlingen auf, KÃ¤mpfe im SÃ¼dosten der TÃ¼rkei, Volksentscheid gegen Gerichtsstrukturreform in Mecklenburg-Vorpommern gescheitert, Gedenkstunde im ehemaligen sowjetischen Speziallager Sachsenhausen, Knappe Niederlage fÃ¼r deutsches Basketball-Team, Hamilton gewinnt GroÃen Preis von Italien, WM-Silber fÃ¼r Deutschland-Achter, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0906/TV-20150906-2025-2401.webl.h264.mp4"/>
+			<pubDate>Sun, 06 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0906/TV-20150906-2155-1001.webl.h264.mp4</link>
+			<description>Themen der Sendung: Ankommende FlÃ¼chtlinge werden auf die BundeslÃ¤nder verteilt, Lage in Ãsterreich beruhigt sich etwas, Etwa 1.800 FlÃ¼chtlinge erreichen griechisches Festland, Koalitionsausschuss zur FlÃ¼chtlingspolitik, EU-Kommission will Liste sicherer HerkunftslÃ¤nder vorlegen, Papst Franziskus ruft zu SolidaritÃ¤t mit FlÃ¼chtlingen auf, KÃ¤mpfe im SÃ¼dosten der TÃ¼rkei, Volksentscheid zur Gerichtsstrukturreform in Mecklenburg-Vorpommern, Gedenkstunde im ehemaligen sowjetischen Speziallager Sachsenhausen, Knappe Niederlage fÃ¼r deutsches Basketball-Team, Hamilton gewinnt GroÃen Preis von Italien, WM-Silber fÃ¼r Deutschland-Achter, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0906/TV-20150906-2155-1001.webl.h264.mp4"/>
 			<pubDate>Sun, 06 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
