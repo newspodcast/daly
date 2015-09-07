@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 07 Sep 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Sep 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -92,20 +92,6 @@
 			<description>Themen der Sendung: Tausende Menschen protestieren gegen ungarische FlÃ¼chtlingspolitik, Lage am MÃ¼nchner Hauptbahnhof entspannt sich, Grenzkontrollen am Brennerpass, Mehrere Tausend FlÃ¼chtlinge erreichen griechisches Festland, Diskussion Ã¼ber Gesundheitskarte fÃ¼r FlÃ¼chtlinge, Innenausschuss des Bundestages berÃ¤t Ã¼ber FlÃ¼chtlingspolitik, Tarifverhandlungen zwischen Piloten und Lufthansa-Konzern gescheitert, RebellenfÃ¼hrer aus dem Kongo vor Internationalem Strafgerichtshof, Filmfestspiele in Venedig erÃ¶ffnet, Los Angeles bewirbt sich fÃ¼r Olympische Sommerspiele 2024, Astronauten aus Kasachstan, Russland und DÃ¤nemark starten zur ISS, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0902/TV-20150902-2025-1401.webl.h264.mp4"/>
 			<pubDate>Wed, 02 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 01.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150901_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 01.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/35/63/50/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ BÃ¼rgerworkshop zur Neugestaltung des Alexanderplatzes +++ Teilerfolg bei Zensusklage +++ Azubi-Welcome-Day +++ Berliner Verwaltung vernachlÃ¤ssigt Daten-Sicherheit +++ Serie: Wo wollen wir kÃ¼nftig wohnen? +++ Unterwegs an der Rummelsburger Bucht +++&lt;/p&gt;&lt;p&gt;01.09.2015 | 29:31 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-01-09-2015-19-30/rbb-Fernsehen/Video?documentId=30356338&amp;bcastId=3822076&quot;&gt;Abendschau 01.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ BÃ¼rgerworkshop zur Neugestaltung des Alexanderplatzes +++ Teilerfolg bei Zensusklage +++ Azubi-Welcome-Day +++ Berliner Verwaltung vernachlÃ¤ssigt Daten-Sicherheit +++ Serie: Wo wollen wir kÃ¼nftig wohnen? +++ Unterwegs an der Rummelsburger Bucht +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150901_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>01.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0901/TV-20150901-2021-5002.webl.h264.mp4</link>
-			<description>Themen der Sendung: Bayern bittet andere BundeslÃ¤nder um UnterstÃ¼tzung, Ungarn sperrt Bahnhof fÃ¼r FlÃ¼chtlinge, Rajoy und Merkel fordern einheitliche Asylpolitik, Sachsens MinisterprÃ¤sident Tillich verurteilt Fremdenhass, Arbeitslosenquote im August leicht gestiegen, GDL stimmt fÃ¼r Tarifpaket, Milchbauern protestieren gegen Preisverfall, Waffenruhe in Ost-Ukraine, Papst erlaubt allen Priestern Vergebung fÃ¼r Abtreibung, Proteste gegen Regierung im Libanon, Obama mahnt Folgen des Klimawandels an, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0901/TV-20150901-2021-5002.webl.h264.mp4"/>
-			<pubDate>Tue, 01 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
