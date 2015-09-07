@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 07 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 07 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 07 Sep 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 07 Sep 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 07.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150907_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 07.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/45/29/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Hunderte FlÃ¼chtlinge aus Ungarn treffen in Berlin ein +++ Mehr Geld und schÃ¤rfere Regeln +++ Neue Standorte zur FlÃ¼chtlingsregistrierung +++ Wie tolerant ist Berlin? +++ Egon Bahr in Berlin beigesetzt +++ Neue SchieÃstÃ¤nde fÃ¼r Berlins Polizei +++ Vom Eierfahrer zum Immobilienunternehmer +++ WeiÃe Ware auf der IFA +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;07.09.2015 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-07-09-2015-19-30/rbb-Fernsehen/Video?documentId=30452912&amp;bcastId=3822076&quot;&gt;Abendschau 07.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Hunderte FlÃ¼chtlinge aus Ungarn treffen in Berlin ein +++ Mehr Geld und schÃ¤rfere Regeln +++ Neue Standorte zur FlÃ¼chtlingsregistrierung +++ Wie tolerant ist Berlin? +++ Egon Bahr in Berlin beigesetzt +++ Neue SchieÃstÃ¤nde fÃ¼r Berlins Polizei +++ Vom Eierfahrer zum Immobilienunternehmer +++ WeiÃe Ware auf der IFA +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150907_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Mon, 07 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>07.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0907/TV-20150907-2023-4601.webl.h264.mp4</link>
+			<description>Themen der Sendung: GroÃe Koalition einigt sich auf MaÃnahmenpaket fÃ¼r FlÃ¼chtlinge, Reaktionen auf BeschlÃ¼sse der Koalition, Tausende FlÃ¼chtlinge kommen in MÃ¼nchen an, Angespannte Lage auf griechischer Insel Lesbos, Feuer in zwei FlÃ¼chtlingsheimen mit sechs Verletzten, KÃ¤mpfe zwischen Armee und Kurden im SÃ¼dosten der TÃ¼rkei, Britische IS-KÃ¤mpfer bei Drohnenangriff in Syrien getÃ¶tet, Aufgebrachte Milchbauern fordern mehr UnterstÃ¼tzung von der EU, Piloten der Lufthansa wollen ab morgen erneut streiken, Kinderbuchautor Max Kruse gestorben, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0907/TV-20150907-2023-4601.webl.h264.mp4"/>
+			<pubDate>Mon, 07 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 06.09.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150906_sdg_m_16_9_512x288.mp4</link>
