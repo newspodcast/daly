@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 08 Sep 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Tue, 08 Sep 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Tue, 08 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Tue, 08 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -92,20 +92,6 @@
 			<description>Themen der Sendung: Ungarn stoppt Zug mit FlÃ¼chtlingen, Ungarischer PrÃ¤sident Orban in BrÃ¼ssel, Parteien positionieren sich zur FlÃ¼chtlingspolitik, UN zu Syrien, MutmaÃliche Schleuser festgenommen, MilitÃ¤rparade in Peking, OberbÃ¼rgermeister-Wahl in KÃ¶ln verschoben, VW-Spitze einigt sich auf neuen Aufsichtsratschef, IFA-ErÃ¶ffnung in Berlin, 6. Deutscher Radiopreis in Hamburg, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0903/TV-20150903-2025-1301.webl.h264.mp4"/>
 			<pubDate>Thu, 03 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 02.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150902_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 02.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/37/44/74/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlinge: Suche nach mehr UnterkÃ¼nften +++ Schule in Kaulsdorf geschlossen +++ Mehr Aufseher fÃ¼r Berliner GefÃ¤ngnisse +++ Startup fÃ¼r Produktion von Feinchemikalien +++ Serie: Wo wollen wir kÃ¼nftig wohnen? +++ Premiere: Sechs neue Folgen &quot;Weissensee&quot; +++ Vorbereitungen fÃ¼r IFA +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;02.09.2015 | 29:44 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-02-09-2015/rbb-Fernsehen/Video?documentId=30374462&amp;bcastId=3822076&quot;&gt;Abendschau vom 02.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlinge: Suche nach mehr UnterkÃ¼nften +++ Schule in Kaulsdorf geschlossen +++ Mehr Aufseher fÃ¼r Berliner GefÃ¤ngnisse +++ Startup fÃ¼r Produktion von Feinchemikalien +++ Serie: Wo wollen wir kÃ¼nftig wohnen? +++ Premiere: Sechs neue Folgen &quot;Weissensee&quot; +++ Vorbereitungen fÃ¼r IFA +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150902_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Wed, 02 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0902/TV-20150902-2025-1401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Tausende Menschen protestieren gegen ungarische FlÃ¼chtlingspolitik, Lage am MÃ¼nchner Hauptbahnhof entspannt sich, Grenzkontrollen am Brennerpass, Mehrere Tausend FlÃ¼chtlinge erreichen griechisches Festland, Diskussion Ã¼ber Gesundheitskarte fÃ¼r FlÃ¼chtlinge, Innenausschuss des Bundestages berÃ¤t Ã¼ber FlÃ¼chtlingspolitik, Tarifverhandlungen zwischen Piloten und Lufthansa-Konzern gescheitert, RebellenfÃ¼hrer aus dem Kongo vor Internationalem Strafgerichtshof, Filmfestspiele in Venedig erÃ¶ffnet, Los Angeles bewirbt sich fÃ¼r Olympische Sommerspiele 2024, Astronauten aus Kasachstan, Russland und DÃ¤nemark starten zur ISS, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0902/TV-20150902-2025-1401.webl.h264.mp4"/>
-			<pubDate>Wed, 02 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
