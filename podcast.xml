@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 09 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Sep 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Sep 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 09.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150909_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 09.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/49/00/48/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Gericht stoppt Lufthansastreik +++ Weiter heftiger Andrang von FlÃ¼chtlingen +++ FlÃ¼chtlingsportrÃ¤ts +++ Reha-Klinik Median in Mitte wird geschlossen +++ Weiter Streit um Dragoner Areal +++ Vom Hauptquartier zum Wohnquartier +++ MittagsgesprÃ¤ch in der GemÃ¤ldegalerie +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;09.09.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-09-09-2015-19-30/rbb-Fernsehen/Video?documentId=30490036&amp;bcastId=3822076&quot;&gt;Abendschau 09.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Gericht stoppt Lufthansastreik +++ Weiter heftiger Andrang von FlÃ¼chtlingen +++ FlÃ¼chtlingsportrÃ¤ts +++ Reha-Klinik Median in Mitte wird geschlossen +++ Weiter Streit um Dragoner Areal +++ Vom Hauptquartier zum Wohnquartier +++ MittagsgesprÃ¤ch in der GemÃ¤ldegalerie +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150909_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Wed, 09 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 08.09.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150908_sdg_m_16_9_512x288.mp4</link>
