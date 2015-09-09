@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 09 Sep 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Sep 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 09 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 09 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -92,20 +92,6 @@
 			<description>Themen der Sendung: FlÃ¼chtlingssituation in Ungarn spitzt sich zu, ZusammenstÃ¶Ãe zwischen FlÃ¼chtlingen und Polizei auf Lesbos, EU-Oststaaten lehnen FlÃ¼chtlingsquote ab, EU-AuÃenminister streiten Ã¼ber FlÃ¼chtlingspolitik, GroÃbritannien will doch mehr FlÃ¼chtlinge aufnehmen, SPD-Fraktion berÃ¤t Ã¼ber FlÃ¼chtlingspolitik, Brand in Heppenheimer FlÃ¼chtlingsunterkunft, Bundesregierung plant MilitÃ¤reinsatz gegen Schleuser, IS-Terrormiliz zerstÃ¶rt erneut antike Bauwerke in Palmyra, Maldonado neuer PrÃ¤sident in Guatemala, CSU erinnert an Franz Josef StrauÃ, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0904/TV-20150904-2040-3401.webl.h264.mp4"/>
 			<pubDate>Fri, 04 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 03.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150903_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 03.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/39/15/50/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Logistik der FlÃ¼chtlingsunterbringung +++ Weiter Andrang beim LaGeSo +++ Ideenwettbewerb fÃ¼r Museum der Moderne +++Â Teurer Tilla-Durieux-Park? +++ Serie: Wohnen der Zukunft +++ Gala zum IFA-Auftakt +++ Piet-Mondrian-Ausstellung im Gropius-Bau +++ Das Wetter im SpÃ¤tsommer +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;03.09.2015 | 28:40 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-03-09-2015-19-30/rbb-Fernsehen/Video?documentId=30391538&amp;bcastId=3822076&quot;&gt;Abendschau 03.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Logistik der FlÃ¼chtlingsunterbringung +++ Weiter Andrang beim LaGeSo +++ Ideenwettbewerb fÃ¼r Museum der Moderne +++Â Teurer Tilla-Durieux-Park? +++ Serie: Wohnen der Zukunft +++ Gala zum IFA-Auftakt +++ Piet-Mondrian-Ausstellung im Gropius-Bau +++ Das Wetter im SpÃ¤tsommer +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150903_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 03 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>03.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0903/TV-20150903-2025-1301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Ungarn stoppt Zug mit FlÃ¼chtlingen, Ungarischer PrÃ¤sident Orban in BrÃ¼ssel, Parteien positionieren sich zur FlÃ¼chtlingspolitik, UN zu Syrien, MutmaÃliche Schleuser festgenommen, MilitÃ¤rparade in Peking, OberbÃ¼rgermeister-Wahl in KÃ¶ln verschoben, VW-Spitze einigt sich auf neuen Aufsichtsratschef, IFA-ErÃ¶ffnung in Berlin, 6. Deutscher Radiopreis in Hamburg, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0903/TV-20150903-2025-1301.webl.h264.mp4"/>
-			<pubDate>Thu, 03 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
