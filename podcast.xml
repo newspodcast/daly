@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 10 Sep 2015 12:30:07 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Sep 2015 12:30:07 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Sep 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Sep 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>10.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0910/TV-20150910-2025-4801.webl.h264.mp4</link>
+			<description>Themen der Sendung: Merkel betont Grundrecht auf Asyl, Asylverfahren in Deutschland, Nahverkehr der dÃ¤nischen Bahn wieder in Betrieb, Lage an den BahnhÃ¶fen in Wien und Budapest, ZusÃ¤tzliche FÃ¤hren fÃ¼r FlÃ¼chtlinge in Griechenland, Hartz IV um fÃ¼nf Euro erhÃ¶ht, Stromkonzern E.on behÃ¤lt Atomkraftwerke, Gipfel zum Ukraine-Konflikt geplant, Ãberschwemmungen in Japan, ArchÃ¤ologen finden unbekannte Urmenschen-Art, Basketball-EM: Deutschland verliert gegen Spanien, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0910/TV-20150910-2025-4801.webl.h264.mp4"/>
+			<pubDate>Thu, 10 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 09.09.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150909_sdg_m_16_9_512x288.mp4</link>
