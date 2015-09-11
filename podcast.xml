@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 11 Sep 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 11 Sep 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 11 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 11 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,13 @@
 			<link>http://media.tagesschau.de/video/2015/0910/TV-20150910-2025-4801.webl.h264.mp4</link>
 			<description>Themen der Sendung: Merkel betont Grundrecht auf Asyl, Asylverfahren in Deutschland, Nahverkehr der dÃ¤nischen Bahn wieder in Betrieb, Lage an den BahnhÃ¶fen in Wien und Budapest, ZusÃ¤tzliche FÃ¤hren fÃ¼r FlÃ¼chtlinge in Griechenland, Hartz IV um fÃ¼nf Euro erhÃ¶ht, Stromkonzern E.on behÃ¤lt Atomkraftwerke, Gipfel zum Ukraine-Konflikt geplant, Ãberschwemmungen in Japan, ArchÃ¤ologen finden unbekannte Urmenschen-Art, Basketball-EM: Deutschland verliert gegen Spanien, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0910/TV-20150910-2025-4801.webl.h264.mp4"/>
+			<pubDate>Thu, 10 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 10.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150910_sdg_neu_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 10.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/51/73/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Lenins Granitkopf ausgegraben +++ Verkauf des Dragoner-Areals gestoppt +++ Abgeordnetenhaus debattiert Ã¼ber FlÃ¼chtlinge +++ FlÃ¼chtlingsportraits: Masoma aus Pakistan +++ Highlights aus der Sammlung WÃ¼rth +++ Ende eines SpÃ¤tis +++ Das Wochenendwetter +++&lt;/p&gt;&lt;p&gt;10.09.2015 | 29:21 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-10-09-2015/rbb-Fernsehen/Video?documentId=30517374&amp;bcastId=3822076&quot;&gt;Abendschau vom 10.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Lenins Granitkopf ausgegraben +++ Verkauf des Dragoner-Areals gestoppt +++ Abgeordnetenhaus debattiert Ã¼ber FlÃ¼chtlinge +++ FlÃ¼chtlingsportraits: Masoma aus Pakistan +++ Highlights aus der Sammlung WÃ¼rth +++ Ende eines SpÃ¤tis +++ Das Wochenendwetter +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150910_sdg_neu_m_16_9_512x288.mp4"/>
 			<pubDate>Thu, 10 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -85,20 +92,6 @@
 			<description>Themen der Sendung: Ankommende FlÃ¼chtlinge werden auf die BundeslÃ¤nder verteilt, Lage in Ãsterreich beruhigt sich etwas, Etwa 1.800 FlÃ¼chtlinge erreichen griechisches Festland, Koalitionsausschuss zur FlÃ¼chtlingspolitik, EU-Kommission will Liste sicherer HerkunftslÃ¤nder vorlegen, Papst Franziskus ruft zu SolidaritÃ¤t mit FlÃ¼chtlingen auf, KÃ¤mpfe im SÃ¼dosten der TÃ¼rkei, Volksentscheid zur Gerichtsstrukturreform in Mecklenburg-Vorpommern, Gedenkstunde im ehemaligen sowjetischen Speziallager Sachsenhausen, Knappe Niederlage fÃ¼r deutsches Basketball-Team, Hamilton gewinnt GroÃen Preis von Italien, WM-Silber fÃ¼r Deutschland-Achter, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0906/TV-20150906-2155-1001.webl.h264.mp4"/>
 			<pubDate>Sun, 06 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 05.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150905_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 05.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/42/13/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;FlÃ¼chtlinge aus Ungarn in Berlin erwartet +++ 'Wohnen der Zukunft': Zahlen und Fakten +++ Nachrichten +++ 'Wohnen der Zukunft': UnterkÃ¼nfte fÃ¼r FlÃ¼chtlinge +++ Willkommenskonzert fÃ¼r FlÃ¼chtlinge +++ Verleihung der Goldenen Henne +++ Gleich nebenan: Berlins Ã¤ltester KÃ¼chenladen&lt;/p&gt;&lt;p&gt;05.09.2015 | 28:18 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-09-2015-19-30/rbb-Fernsehen/Video?documentId=30421326&amp;bcastId=3822076&quot;&gt;Abendschau 05.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;FlÃ¼chtlinge aus Ungarn in Berlin erwartet +++ 'Wohnen der Zukunft': Zahlen und Fakten +++ Nachrichten +++ 'Wohnen der Zukunft': UnterkÃ¼nfte fÃ¼r FlÃ¼chtlinge +++ Willkommenskonzert fÃ¼r FlÃ¼chtlinge +++ Verleihung der Goldenen Henne +++ Gleich nebenan: Berlins Ã¤ltester KÃ¼chenladen&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150905_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sat, 05 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0905/TV-20150905-2029-4601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Tausende FlÃ¼chtlinge kommen in Wien und MÃ¼nchen an, FlÃ¼chtlinge drÃ¤ngen von Serbien nach Ungarn, FlÃ¼chtlings-Ankunft in MÃ¼nchen, EU-AuÃenminister wollen Schleuser stÃ¤rker bekÃ¤mpfen, Merkel warnt vor Rechtsterrorismus, WM-Gold fÃ¼r Ruderer, Deutsche Basketballer siegen gegen Island, Deutschland besiegt Polen in FuÃball-EM-Qualifikation, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0905/TV-20150905-2029-4601.webl.h264.mp4"/>
-			<pubDate>Sat, 05 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
