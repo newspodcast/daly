@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 14 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Sep 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Sep 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 14.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150914_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 14.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/57/72/00/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin macht Platz fÃ¼r FlÃ¼chtlinge +++ Nachrichten I +++ UnternehmensverbÃ¤nde investieren in Berufsorientierung +++ Giffey will &quot;ProblemhÃ¤user angehen +++ Nachrichten II +++ Art Week in Berlin beginnt +++ First Steps Award ehrt Knut Elstermann +++ Neue Serie: Landlust +++ Moderation: Sascha Hingst +++&lt;/p&gt;&lt;p&gt;14.09.2015 | 29:34 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-14-09-2015/rbb-Fernsehen/Video?documentId=30577186&amp;bcastId=3822076&quot;&gt;Abendschau vom 14.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin macht Platz fÃ¼r FlÃ¼chtlinge +++ Nachrichten I +++ UnternehmensverbÃ¤nde investieren in Berufsorientierung +++ Giffey will &quot;ProblemhÃ¤user angehen +++ Nachrichten II +++ Art Week in Berlin beginnt +++ First Steps Award ehrt Knut Elstermann +++ Neue Serie: Landlust +++ Moderation: Sascha Hingst +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150914_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Mon, 14 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>14.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0914/TV-20150914-2029-1201.webl.h264.mp4</link>
+			<description>Themen der Sendung: VerschÃ¤rfte Grenzkontrollen in Ungarn und Ãsterreich, Streit Ã¼ber Grenzkontrollen in Deutschland, Treffen der EU-Innenminister zur FlÃ¼chtlingsquote, Bundesjustizminister Maas ermahnt Facebook wegen Hasskommentaren, Australischer Premierminister Abbot abgewÃ¤hlt, MilitÃ¤r tÃ¶tet Touristen in Ãgypten,Taliban-KÃ¤mpfer befreien Gefangene in Afghanistan, FIFA- Korruptionsskandal weitet sich aus, Vulkanausbruch in Japan, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0914/TV-20150914-2029-1201.webl.h264.mp4"/>
+			<pubDate>Mon, 14 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 13.09.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150913_sdg_m_16_9_512x288.mp4</link>
