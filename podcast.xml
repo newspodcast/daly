@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 18 Sep 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Sep 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 19 Sep 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 19 Sep 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/0918/TV-20150918-2025-3501.webl.h264.mp4</link>
 			<description>Themen der Sendung: BA-Chef Weise wird neuer PrÃ¤sident des BundesflÃ¼chtlingsamtes, FlÃ¼chtlinge in Europa: Kroatien sieht sich Ã¼berfordert, Eurostat verÃ¶ffentlicht Zahlen zu AsylantrÃ¤gen, Millionen Syrer verlassen ihre Heimat, Russland erwÃ¤gt Syrien-Einsatz, Vor der Parlamentswahl in Griechenland, FIFA-GeneralsekretÃ¤r Valcke suspendiert, DFB-Frauen starten mit Sieg in die EM-Qualifikation, FuÃballtrainer Dettmar Cramer gestorben, Studenten-Oscar fÃ¼r deutschen Filmemacher &amp;#304;lker Ãatak, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0918/TV-20150918-2025-3501.webl.h264.mp4"/>
+			<pubDate>Fri, 18 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 18.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150918_sdg_neu_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 18.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/65/94/80/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Nach dem Tod des Islamisten Rafik Y. +++ Pankower Turnhallen fÃ¼r FlÃ¼chtlinge +++ Wo wollen die FlÃ¼chtlinge hin? +++ Digitale Nazi-JÃ¤ger gegen Hasspostings +++ Park(ing) Day in Berlin +++ Serie &quot;Landlust&quot;: Mit Bauwagen in Bad Belzig +++ Ausflugstipp: Herbstfeste in Potsdam +++&lt;/p&gt;&lt;p&gt;18.09.2015 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-18-09-2015-19-30/rbb-Fernsehen/Video?documentId=30659468&amp;bcastId=3822076&quot;&gt;Abendschau 18.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Nach dem Tod des Islamisten Rafik Y. +++ Pankower Turnhallen fÃ¼r FlÃ¼chtlinge +++ Wo wollen die FlÃ¼chtlinge hin? +++ Digitale Nazi-JÃ¤ger gegen Hasspostings +++ Park(ing) Day in Berlin +++ Serie &quot;Landlust&quot;: Mit Bauwagen in Bad Belzig +++ Ausflugstipp: Herbstfeste in Potsdam +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150918_sdg_neu_m_16_9_512x288.mp4"/>
 			<pubDate>Fri, 18 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
