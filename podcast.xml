@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 18 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Sep 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Sep 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,20 @@
 			<link>http://media.tagesschau.de/video/100s/2015/0918/TV-100s-1236.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:36 Uhr vom 18.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0918/TV-100s-1236.webl.h264.mp4"/>
+			<pubDate>Fri, 18 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.09.2015 21:13 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0918/TV-100s-2113.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 18.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0918/TV-100s-2113.webl.h264.mp4"/>
+			<pubDate>Fri, 18 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0918/TV-20150918-2025-3501.webl.h264.mp4</link>
+			<description>Themen der Sendung: BA-Chef Weise wird neuer PrÃ¤sident des BundesflÃ¼chtlingsamtes, FlÃ¼chtlinge in Europa: Kroatien sieht sich Ã¼berfordert, Eurostat verÃ¶ffentlicht Zahlen zu AsylantrÃ¤gen, Millionen Syrer verlassen ihre Heimat, Russland erwÃ¤gt Syrien-Einsatz, Vor der Parlamentswahl in Griechenland, FIFA-GeneralsekretÃ¤r Valcke suspendiert, DFB-Frauen starten mit Sieg in die EM-Qualifikation, FuÃballtrainer Dettmar Cramer gestorben, Studenten-Oscar fÃ¼r deutschen Filmemacher &amp;#304;lker Ãatak, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0918/TV-20150918-2025-3501.webl.h264.mp4"/>
 			<pubDate>Fri, 18 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
