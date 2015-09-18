@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 18 Sep 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Sep 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>18.09.2015 12:36 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0918/TV-100s-1236.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:36 Uhr vom 18.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0918/TV-100s-1236.webl.h264.mp4"/>
+			<pubDate>Fri, 18 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>17.09.2015 11:31 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/0917/TV-100s-1131.webl.h264.mp4</link>
@@ -106,20 +113,6 @@
 			<description>Themen der Sendung: Deutschland fÃ¼hrt Grenzkontrollen wieder ein, FlÃ¼chtlingskrise: Bayern fordert mehr UnterstÃ¼tzung von BundeslÃ¤ndern, 800 FlÃ¼chtlinge erreichen Dortmund, Tausende Schleuser seit Jahresbeginn festgenommen, Ãrzte beklagen schlechte Versorgung in ungarischem FlÃ¼chtlingslager, Angespannte Lage auf griechischer Insel Lesbos, Russland will Syrien weiterhin militÃ¤risch unterstÃ¼tzen, FuÃball-Bundesliga, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0913/TV-20150913-2108-5501.webl.h264.mp4"/>
 			<pubDate>Sun, 13 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 12.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150912_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 12.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/54/18/28/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Lollapalooza: Kult-Festival in Tempelhof +++ Taschendieben auf der SpurÂ  +++ Nachrichten I +++ Banker engagieren sich +++ FlÃ¼chtlingsportraits: Tamea und Natalia aus Syrien +++ Berlin Tipps der New York Times +++ Hertha besiegt Stuttgart +++ Nachrichten II +++ Staatsoper feiert Start der Spielzeit +++ Gleich nebenan: BuchBund&lt;/p&gt;&lt;p&gt;12.09.2015 | 29:44 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-12-09-2015-19-30/rbb-Fernsehen/Video?documentId=30541816&amp;bcastId=3822076&quot;&gt;Abendschau 12.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Lollapalooza: Kult-Festival in Tempelhof +++ Taschendieben auf der SpurÂ  +++ Nachrichten I +++ Banker engagieren sich +++ FlÃ¼chtlingsportraits: Tamea und Natalia aus Syrien +++ Berlin Tipps der New York Times +++ Hertha besiegt Stuttgart +++ Nachrichten II +++ Staatsoper feiert Start der Spielzeit +++ Gleich nebenan: BuchBund&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150912_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sat, 12 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0912/TV-20150912-2024-0101.webl.h264.mp4</link>
-			<description>Themen der Sendung: Diskussion Ã¼ber Verteilung von FlÃ¼chtlingen in Deutschland, Demonstration gegen Fremdenhass in Hamburg, Zehntausende demonstrieren in Kopenhagen fÃ¼r FlÃ¼chtlinge, Ãsterreich kritisiert Ungarns FlÃ¼chtlingspolitik, Jeremy Corbyn ist neuer Chef der Labour Partei, AuÃenminister beraten Ã¼ber Ukraine-Krise, Gasexplosion in Indien, Mindestens 107 Tote bei Kran-UnglÃ¼ck in Mekka, FuÃball-Bundesliga, Die Lottozahlen, WaldbrÃ¤nde in Kalifornien, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0912/TV-20150912-2024-0101.webl.h264.mp4"/>
-			<pubDate>Sat, 12 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
