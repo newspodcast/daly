@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 19 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 19 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 19 Sep 2015 21:30:18 GMT</pubDate>
+		<lastBuildDate>Sat, 19 Sep 2015 21:30:18 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/0919/TV-100s-1213.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:13 Uhr vom 19.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0919/TV-100s-1213.webl.h264.mp4"/>
+			<pubDate>Sat, 19 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 19.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150919_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 19.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/67/11/80/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Volles Programm am Wochenende in Berlin +++ AmtseinfÃ¼hrung von Erzbischof Koch +++ Lageso beschlagnahmt SEZ +++ Lichtenberg kommt +++ Die junge Pfarrerin +++ Gleich nebenan: Ed &amp; Fred Nussdepot +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;19.09.2015 | 28:55 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-19-09-2015-19-30/rbb-Fernsehen/Video?documentId=30671168&amp;bcastId=3822076&quot;&gt;Abendschau 19.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Volles Programm am Wochenende in Berlin +++ AmtseinfÃ¼hrung von Erzbischof Koch +++ Lageso beschlagnahmt SEZ +++ Lichtenberg kommt +++ Die junge Pfarrerin +++ Gleich nebenan: Ed &amp; Fred Nussdepot +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150919_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sat, 19 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.09.2015 21:13 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0919/TV-100s-2113.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 19.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0919/TV-100s-2113.webl.h264.mp4"/>
+			<pubDate>Sat, 19 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0919/TV-20150919-2027-1301.webl.h264.mp4</link>
+			<description>Themen der Sendung: FlÃ¼chtlingskrise auf dem Balkan, Debatte um FlÃ¼chtlingspolitik der Bundesregierung, Russland sendet Kampfjets nach Syrien, Neue Regierung in Ãgypten, Japan Ã¤ndert MilitÃ¤rdoktrin, VW droht Milliardenstrafe in den USA, Auftakt der Publikumstage auf der IAA, Beginn des Oktoberfests, FuÃball-Bundesliga, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0919/TV-20150919-2027-1301.webl.h264.mp4"/>
 			<pubDate>Sat, 19 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
