@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 20 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 20 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 20 Sep 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 20 Sep 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/0920/TV-100s-1113.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:13 Uhr vom 20.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0920/TV-100s-1113.webl.h264.mp4"/>
+			<pubDate>Sun, 20 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 20.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150920_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 20.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/68/07/54/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Teil des BER-Terminals gesperrt +++ Diebe rasen mit PKW in JuweliergeschÃ¤ft +++ Ein Toter bei SchieÃerei in NeukÃ¶lln +++ FlÃ¼chtlingskinder in Berlin +++ Das Start-up Boat +++ TÃ¼rken und Kurden in Berlin +++ Imkern auf dem Friedhof +++ Wo steht Berlins Ã¤lteste Orgel? +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;20.09.2015 | 29:00 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-20-09-2015-19-30/rbb-Fernsehen/Video?documentId=30680742&amp;bcastId=3822076&quot;&gt;Abendschau 20.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Teil des BER-Terminals gesperrt +++ Diebe rasen mit PKW in JuweliergeschÃ¤ft +++ Ein Toter bei SchieÃerei in NeukÃ¶lln +++ FlÃ¼chtlingskinder in Berlin +++ Das Start-up Boat +++ TÃ¼rken und Kurden in Berlin +++ Imkern auf dem Friedhof +++ Wo steht Berlins Ã¤lteste Orgel? +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150920_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sun, 20 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>20.09.2015 21:13 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0920/TV-100s-2113.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 20.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0920/TV-100s-2113.webl.h264.mp4"/>
+			<pubDate>Sun, 20 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>20.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0920/TV-20150920-2031-0001.webl.h264.mp4</link>
+			<description>Themen der Sendung: LinksbÃ¼ndnis gewinnt offenbar Parlamentswahl in Griechenland, US-AuÃenminister Kerry und Steinmeier beraten Ã¼ber Lage in Syrien, Tausende FlÃ¼chtlinge erreichen Ãsterreich, FlÃ¼chtlinge im Mittelmeer gerettet, Offenbar Brandanschlag auf geplante FlÃ¼chtlingsunterkunft in Wertheim, VW rÃ¤umt Manipulationen ein, Papst Franziskus zu Besuch in Kuba, FuÃball-Bundesliga, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0920/TV-20150920-2031-0001.webl.h264.mp4"/>
 			<pubDate>Sun, 20 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
