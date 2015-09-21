@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 21 Sep 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 21 Sep 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 21 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 21 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>21.09.2015 12:30 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0921/TV-100s-1230.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:30 Uhr vom 21.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0921/TV-100s-1230.webl.h264.mp4"/>
+			<pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>20.09.2015 11:13 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/0920/TV-100s-1113.webl.h264.mp4</link>
@@ -155,20 +162,6 @@
 			<description>Themen der Sendung: Wege nach West-Europa immer schwieriger fÃ¼r FlÃ¼chtlinge, Lage am serbisch-ungarischen GrenzÃ¼bergang in Horgos beruhigt, Internationale Besorgnis Ã¼ber Umgang mit FlÃ¼chtlingen, Vermehrt FlÃ¼chtlingskontrollen an deutsch-ungarischer Grenze, FlÃ¼chtlingssituation am Salzburger Hauptbahnhof angespannt, Bund berÃ¤t Ã¼ber Umgang mit FlÃ¼chtlingen, Kabinett beschlieÃt Bundeswehr-Einsatz im Mittelmeer auszuweiten, UN-Kulturorganisation will Schmuggel von IS-Terrororganisation stoppen, Handelskommissarin MalmstrÃ¶m schlÃ¤gt neuen Gerichtshof vor, Neue Fassung der Lutherbibel, 60 Schulkinder entgehen schwerem Unfall in Niedersachsen, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0916/TV-20150916-2027-0301.webl.h264.mp4"/>
 			<pubDate>Wed, 16 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 15.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150915_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 15.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/60/39/34/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Art Week - ein Wirtschaftsfaktor? +++ FlÃ¼chtlingsgipfel im Kanzleramt +++ Abschiebung von der Schulbank +++ Nachrichten +++ Senat beschlieÃt Wohnraumversorgungsgesetz +++ Art Week in der Berlinischen Galerie +++ Serie &quot;Landlust&quot;: Coworking-Space im GrÃ¼nen +++ Moderation: Sascha Hingst +++&lt;/p&gt;&lt;p&gt;15.09.2015 | 28:15 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-15-09-2015/rbb-Fernsehen/Video?documentId=30603922&amp;bcastId=3822076&quot;&gt;Abendschau vom 15.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Art Week - ein Wirtschaftsfaktor? +++ FlÃ¼chtlingsgipfel im Kanzleramt +++ Abschiebung von der Schulbank +++ Nachrichten +++ Senat beschlieÃt Wohnraumversorgungsgesetz +++ Art Week in der Berlinischen Galerie +++ Serie &quot;Landlust&quot;: Coworking-Space im GrÃ¼nen +++ Moderation: Sascha Hingst +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150915_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 15 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0915/TV-20150915-2022-3601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Merkel und Faymann fordern Sondergipfel zur EU-FlÃ¼chtlingspolitik, Merkel berÃ¤t mit LÃ¤ndern Ã¼ber Unterbringung von FlÃ¼chtlingen, Ungarn riegelt Grenze zu Serbien ab, Kampf gegen IS: Putin will Assad unterstÃ¼tzen - Frankreich plant Luftangriffe, EuGH urteilt zu Hartz IV fÃ¼r EU-BÃ¼rger, Sieben Tote bei LawinenunglÃ¼ck in Frankreich, Prinzentag in den Niederlanden, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0915/TV-20150915-2022-3601.webl.h264.mp4"/>
-			<pubDate>Tue, 15 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
