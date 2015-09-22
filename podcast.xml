@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 22 Sep 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Sep 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 22 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Tue, 22 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>22.09.2015 11:33 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0922/TV-100s-1133.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:33 Uhr vom 22.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0922/TV-100s-1133.webl.h264.mp4"/>
+			<pubDate>Tue, 22 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>21.09.2015 12:30 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/0921/TV-100s-1230.webl.h264.mp4</link>
@@ -162,27 +169,6 @@
 			<description>Themen der Sendung: BAMF-Chef Schmidt zurÃ¼ckgetreten, PlÃ¤ne fÃ¼r Ãnderungen im Asylrecht, FlÃ¼chtlinge suchen neue Transitrouten, EU-RatsprÃ¤sident Tusk beruft Sondergipfel zur FlÃ¼chtlingskrise ein, Gewalt gegen FlÃ¼chtlingsunterkÃ¼nfte in Deutschland, Polizei erschieÃt Islamisten nach Messerattacke in Berlin, Merkel besucht IAA in Frankfurt, BND-NSA-AffÃ¤re vor Bundesverfassungsgericht, Kritik an Sanktionsliste der Ukraine, Juncker-Befragung zur LuxLeaks-AffÃ¤re,US-Notenbank erhÃ¶ht den Leitzins, Schweres Erdbeben in Chile, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0917/TV-20150917-2023-2601.webl.h264.mp4"/>
 			<pubDate>Thu, 17 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 16.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150916_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 16.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/62/30/64/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Runder Tisch zur Integration der FlÃ¼chtlinge +++ Neuer Integrationsbeauftragter Germershausen vorgestellt +++ Studiogast: Andreas Germershausen +++ Berliner Polizei probt Anschlagsszenario +++ Studie zu Burnout vorgestellt +++ &quot;Time capsules&quot; â Fotoausstellung von Wim Wenders +++ Serie &quot;Landlust&quot;: Von Pankow ins Oderbruch +++ Â &lt;/p&gt;&lt;p&gt;16.09.2015 | 29:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-16-09-2015-19-30/rbb-Fernsehen/Video?documentId=30623052&amp;bcastId=3822076&quot;&gt;Abendschau 16.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Runder Tisch zur Integration der FlÃ¼chtlinge +++ Neuer Integrationsbeauftragter Germershausen vorgestellt +++ Studiogast: Andreas Germershausen +++ Berliner Polizei probt Anschlagsszenario +++ Studie zu Burnout vorgestellt +++ &quot;Time capsules&quot; â Fotoausstellung von Wim Wenders +++ Serie &quot;Landlust&quot;: Von Pankow ins Oderbruch +++ Â &lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150916_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Wed, 16 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>16.09.2015 21:31 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0916/TV-100s-2131.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:31 Uhr vom 16.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0916/TV-100s-2131.webl.h264.mp4"/>
-			<pubDate>Wed, 16 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>16.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0916/TV-20150916-2027-0301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Wege nach West-Europa immer schwieriger fÃ¼r FlÃ¼chtlinge, Lage am serbisch-ungarischen GrenzÃ¼bergang in Horgos beruhigt, Internationale Besorgnis Ã¼ber Umgang mit FlÃ¼chtlingen, Vermehrt FlÃ¼chtlingskontrollen an deutsch-ungarischer Grenze, FlÃ¼chtlingssituation am Salzburger Hauptbahnhof angespannt, Bund berÃ¤t Ã¼ber Umgang mit FlÃ¼chtlingen, Kabinett beschlieÃt Bundeswehr-Einsatz im Mittelmeer auszuweiten, UN-Kulturorganisation will Schmuggel von IS-Terrororganisation stoppen, Handelskommissarin MalmstrÃ¶m schlÃ¤gt neuen Gerichtshof vor, Neue Fassung der Lutherbibel, 60 Schulkinder entgehen schwerem Unfall in Niedersachsen, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0916/TV-20150916-2027-0301.webl.h264.mp4"/>
-			<pubDate>Wed, 16 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
