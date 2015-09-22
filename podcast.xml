@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 22 Sep 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Tue, 22 Sep 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Sep 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Sep 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,20 @@
 			<link>http://media.tagesschau.de/video/2015/0922/TV-20150922-2028-3101.webl.h264.mp4</link>
 			<description>Themen der Sendung: VW-Konzern tief in der Krise, Funktionsweise des Abgas-Tricks, Innenminister beschlieÃen Verteilung von FlÃ¼chtlingen, Diskussion Ã¼ber FlÃ¼chtlingspolitik in Berlin, Gabriel besucht FlÃ¼chtlingslager in Jordanien, Stoltenberg sagt Ukraine UnterstÃ¼tzung zu, Linksfraktion scheitert mit Verfassungsklage, Ermittlungen gegen mutmaÃliche Islamisten in Berlin, Frank Bsirske bleibt Verdi-Chef, Deutscher Umweltpreis fÃ¼r zwei Wissenschaftler, DFB-Frauen erfolgreich gegen Kroatien, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0922/TV-20150922-2028-3101.webl.h264.mp4"/>
+			<pubDate>Tue, 22 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 22.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150922_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 22.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/71/83/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ GroÃrazzia gegen mutmaÃliche Islamisten +++ Neuer FlÃ¼chtlingskoordinator fÃ¼r Berlin +++ OECD stellt Migrationsbericht 2015 vor +++ Prozess um ICE-Unfall +++ Volkswagen rÃ¤umt Manipulationen ein +++ Bauarbeiten im Zeitplan +++ Serie: Neue Formen des Einkaufens +++&lt;/p&gt;&lt;p&gt;22.09.2015 | 29:00 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-22-09-2015/rbb-Fernsehen/Video?documentId=30718326&amp;bcastId=3822076&quot;&gt;Abendschau vom 22.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ GroÃrazzia gegen mutmaÃliche Islamisten +++ Neuer FlÃ¼chtlingskoordinator fÃ¼r Berlin +++ OECD stellt Migrationsbericht 2015 vor +++ Prozess um ICE-Unfall +++ Volkswagen rÃ¤umt Manipulationen ein +++ Bauarbeiten im Zeitplan +++ Serie: Neue Formen des Einkaufens +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150922_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Tue, 22 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>22.09.2015 23:12 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0922/TV-100s-2312.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:12 Uhr vom 22.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0922/TV-100s-2312.webl.h264.mp4"/>
 			<pubDate>Tue, 22 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
