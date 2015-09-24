@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 24 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Sep 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Sep 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/0924/TV-100s-1035.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 10:35 Uhr vom 24.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0924/TV-100s-1035.webl.h264.mp4"/>
+			<pubDate>Thu, 24 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 24.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150924_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 24.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/75/42/76/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Hertha-Sponsor unter Druck +++ FlÃ¼chtlingsgipfel im Bundeskanzleramt +++ Gewerkschaften gegen Missbrauch von WerksvertrÃ¤gen +++ 69. Sitzung des Abgeordnetenhauses +++ Parkplatzsuche einfach gemacht +++ Wochenserie: Neue Formen des Einkaufens +++ Prima Klima zum Marathon? +++&lt;/p&gt;&lt;p&gt;24.09.2015 | 28:39 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-24-09-2015/rbb-Fernsehen/Video?documentId=30754264&amp;bcastId=3822076&quot;&gt;Abendschau vom 24.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Hertha-Sponsor unter Druck +++ FlÃ¼chtlingsgipfel im Bundeskanzleramt +++ Gewerkschaften gegen Missbrauch von WerksvertrÃ¤gen +++ 69. Sitzung des Abgeordnetenhauses +++ Parkplatzsuche einfach gemacht +++ Wochenserie: Neue Formen des Einkaufens +++ Prima Klima zum Marathon? +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150924_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Thu, 24 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>24.09.2015 18:31 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0924/TV-100s-1831.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 18:31 Uhr vom 24.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0924/TV-100s-1831.webl.h264.mp4"/>
+			<pubDate>Thu, 24 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>24.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0924/TV-20150924-2023-2001.webl.h264.mp4</link>
+			<description>Themen der Sendung: Mehr als 700 Pilger sterben bei Massenpanik in Mekka, Porsche-Chef MÃ¼ller soll neuer VW-Vorstandschef werden, Berliner und BrÃ¼sseler Sondergipfel zur FlÃ¼chtlingshilfe, Soziogramm zu FlÃ¼chtlingen in Deutschland, Merkel spricht sich fÃ¼r direkte GesprÃ¤che mit Assad aus, Papst mahnt Menschenrechte vor dem US-Kongress an, Pumuckl-Erfinderin Ellis Kaut ist gestorben, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0924/TV-20150924-2023-2001.webl.h264.mp4"/>
 			<pubDate>Thu, 24 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
