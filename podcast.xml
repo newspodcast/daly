@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 25 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Sep 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Sep 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/0925/TV-100s-1137.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:37 Uhr vom 25.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0925/TV-100s-1137.webl.h264.mp4"/>
+			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 25.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150925_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 25.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/77/95/18/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Feuer im Kaufhaus &quot;Galeries Lafayette&quot; +++ BER-Aufsichtsrat tagt nach Baustopp +++ Bundesrat verhandelt Dispozinsen +++ Reaktionen auf BeschlÃ¼sse des FlÃ¼chtlingsgipfels +++ Staatsopern-Ausschuss tagt +++ Erinnerungen an ersten gesamtdeutschen Berlin-Marathon +++ Serie: Neue Formen des Einkaufens +++ Ausflugstipp: Ethnologisches Museum Dahlem +++&lt;/p&gt;&lt;p&gt;25.09.2015 | 29:08 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-25-09-2015/rbb-Fernsehen/Video?documentId=30779506&amp;bcastId=3822076&quot;&gt;Abendschau vom 25.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Feuer im Kaufhaus &quot;Galeries Lafayette&quot; +++ BER-Aufsichtsrat tagt nach Baustopp +++ Bundesrat verhandelt Dispozinsen +++ Reaktionen auf BeschlÃ¼sse des FlÃ¼chtlingsgipfels +++ Staatsopern-Ausschuss tagt +++ Erinnerungen an ersten gesamtdeutschen Berlin-Marathon +++ Serie: Neue Formen des Einkaufens +++ Ausflugstipp: Ethnologisches Museum Dahlem +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150925_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.09.2015 19:03 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0925/TV-100s-1903.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:03 Uhr vom 25.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0925/TV-100s-1903.webl.h264.mp4"/>
+			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0925/TV-20150925-2023-1401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Matthias MÃ¼ller wird neuer VW-Chef, Ergebnisse und Reaktionen nach FlÃ¼chtlingsgipfel, MinderjÃ¤hrige unbegleitete FlÃ¼chtlinge sollen besser versorgt werden, UN-Gipfel verabschiedet Agenda fÃ¼r nachhaltige Entwicklung, PrÃ¤sident des US-ReprÃ¤sentantenhauses tritt zurÃ¼ck, Verantwortung fÃ¼r Massenpanik in Mekka bleibt unklar, Schweizer Bundesanwaltschaft ermittelt gegen FIFA-Chef Blatter, Lutherhaus in Eisenach wird wiedererÃ¶ffnet, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0925/TV-20150925-2023-1401.webl.h264.mp4"/>
 			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
