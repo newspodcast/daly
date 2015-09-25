@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 25 Sep 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Sep 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Sat, 26 Sep 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 26 Sep 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -42,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2015/0925/TV-20150925-2023-1401.webl.h264.mp4</link>
 			<description>Themen der Sendung: Matthias MÃ¼ller wird neuer VW-Chef, Ergebnisse und Reaktionen nach FlÃ¼chtlingsgipfel, MinderjÃ¤hrige unbegleitete FlÃ¼chtlinge sollen besser versorgt werden, UN-Gipfel verabschiedet Agenda fÃ¼r nachhaltige Entwicklung, PrÃ¤sident des US-ReprÃ¤sentantenhauses tritt zurÃ¼ck, Verantwortung fÃ¼r Massenpanik in Mekka bleibt unklar, Schweizer Bundesanwaltschaft ermittelt gegen FIFA-Chef Blatter, Lutherhaus in Eisenach wird wiedererÃ¶ffnet, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0925/TV-20150925-2023-1401.webl.h264.mp4"/>
+			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.09.2015 23:16 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0925/TV-100s-2316.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:16 Uhr vom 25.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0925/TV-100s-2316.webl.h264.mp4"/>
 			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
