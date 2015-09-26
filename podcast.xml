@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 26 Sep 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 26 Sep 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 27 Sep 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 27 Sep 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/100s/2015/0926/TV-100s-2119.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 26.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0926/TV-100s-2119.webl.h264.mp4"/>
+			<pubDate>Sat, 26 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0926/TV-20150926-2117-1101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Ukraine und Russland legen Gasstreit bei, GrÃ¼ne schlagen Integrationsfonds vor, Zehntausende FlÃ¼chtlinge passieren Kroatien, Bundesumweltministerin Hendricks kritisiert Volkswagen wegen des Abgas-Skandals, SPD erinnert an gesamtdeutschen Zusammenschluss vor 25 Jahren, PlagiatsvorwÃ¼rfe gegen von der Leyen, Merkel besucht Ground Zero, Gedenken an vermisste Studenten in Mexiko, 769 Pilger bei Massenpanik in Mekka getÃ¶tet, Gedenken an Oktoberfest-Attentat vor 35 Jahren, WiedererÃ¶ffnung des Lutherhauses in Eisenach, Ergebnisse des 7. Spieltags in der Bundesliga, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0926/TV-20150926-2117-1101.webl.h264.mp4"/>
 			<pubDate>Sat, 26 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
