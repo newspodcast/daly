@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 27 Sep 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 27 Sep 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 27 Sep 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 27 Sep 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>27.09.2015 11:14 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0927/TV-100s-1114.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:14 Uhr vom 27.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0927/TV-100s-1114.webl.h264.mp4"/>
+			<pubDate>Sun, 27 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>26.09.2015 11:43 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/0926/TV-100s-1143.webl.h264.mp4</link>
@@ -183,34 +190,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:12 Uhr vom 22.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0922/TV-100s-2312.webl.h264.mp4"/>
 			<pubDate>Tue, 22 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>21.09.2015 12:30 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0921/TV-100s-1230.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:30 Uhr vom 21.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0921/TV-100s-1230.webl.h264.mp4"/>
-			<pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 21.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150921_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 21.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/69/83/62/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ BaubehÃ¶rde stoppt Arbeiten am BER +++ Bundeswehr hilft bei Registrierung von FlÃ¼chtlingen +++ Wann dÃ¼rfen PrivatgebÃ¤ude beschlagnahmt werden? +++ Â PolizeiprÃ¤sident zu Islamist befragt Â Â +++ Neuer Baustellen Atlas +++ Neues Herz fÃ¼r den kleinen Recep +++ Neue Formen des Einkaufens +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;21.09.2015 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-09-2015-19-30/rbb-Fernsehen/Video?documentId=30698350&amp;bcastId=3822076&quot;&gt;Abendschau 21.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ BaubehÃ¶rde stoppt Arbeiten am BER +++ Bundeswehr hilft bei Registrierung von FlÃ¼chtlingen +++ Wann dÃ¼rfen PrivatgebÃ¤ude beschlagnahmt werden? +++ Â PolizeiprÃ¤sident zu Islamist befragt Â Â +++ Neuer Baustellen Atlas +++ Neues Herz fÃ¼r den kleinen Recep +++ Neue Formen des Einkaufens +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150921_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>21.09.2015 21:20 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0921/TV-100s-2120.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:20 Uhr vom 21.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0921/TV-100s-2120.webl.h264.mp4"/>
-			<pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>21.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0921/TV-20150921-2022-4201.webl.h264.mp4</link>
-			<description>Themen der Sendung: Manipulationsskandal bei VW, Tsipras nach Syriza-Wahlsieg als MinisterprÃ¤sident vereidigt, Reaktionen zur Griechenland-Wahl, FlÃ¼chtlinge in Europa: Kroatien erÃ¶ffnet Aufnahmezentrum, FlÃ¼chtlinge in Deutschland: Beschleunigung von Asylverfahren, NRW-MinisterprÃ¤sidentin Kraft bildet Kabinett um, FlÃ¼chtlingskrise Thema bei Bischofskonferenz, Baustopp am Hauptstadtflughafen BER verhÃ¤ngt, Hackerangriff auf Apples App Store, Papst-Besuch in Kuba, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0921/TV-20150921-2022-4201.webl.h264.mp4"/>
-			<pubDate>Mon, 21 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
