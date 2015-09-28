@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 28 Sep 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Mon, 28 Sep 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 29 Sep 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Tue, 29 Sep 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -42,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2015/0928/TV-20150928-2057-0601.webl.h264.mp4</link>
 			<description>Themen der Sendung: UN-Generaldebatte in New York, Debatte in der Union Ã¼ber Merkels FlÃ¼chtlingspolitik, Taliban erobern Kundus, Urteil im Prozess um Kriegsverbrechen im Ostkongo, Separatisten gewinnen Regionalwahl in Katalonien, Staatsanwaltschaft ermittelt gegen Ex-VW-Chef Winterkorn, UEFA-PrÃ¤sident Platini stellt sich FIFA-Ethikkommission, Ãlkonzern Shell stoppt Bohrungen vor der KÃ¼ste Alaskas, NASA findet flÃ¼ssiges Wasser auf dem Mars, Totale Mondfinsternis, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0928/TV-20150928-2057-0601.webl.h264.mp4"/>
+			<pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>28.09.2015 22:09 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0928/TV-100s-2209.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:09 Uhr vom 28.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0928/TV-100s-2209.webl.h264.mp4"/>
 			<pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
