@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 30 Sep 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Sep 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Sep 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Sep 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/0930/TV-100s-1231.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:31 Uhr vom 30.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0930/TV-100s-1231.webl.h264.mp4"/>
+			<pubDate>Wed, 30 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 30.09.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150930_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 30.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/85/81/44/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ HÃ¶here Fahrpreise in Berlin und Brandenburg +++ Kritik Ã¼ber Verschwendung von Steuergeldern +++ Mehr Routen bei Ryanair +++ Bauausschuss +++ Kirchturmuhr in KÃ¶penick zurÃ¼ck +++ West-Berliner im Osten +++ Helmut Karasek gestorben +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;30.09.2015 | 29:25 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-30-09-2015-19-30/rbb-Fernsehen/Video?documentId=30858132&amp;bcastId=3822076&quot;&gt;Abendschau 30.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ HÃ¶here Fahrpreise in Berlin und Brandenburg +++ Kritik Ã¼ber Verschwendung von Steuergeldern +++ Mehr Routen bei Ryanair +++ Bauausschuss +++ Kirchturmuhr in KÃ¶penick zurÃ¼ck +++ West-Berliner im Osten +++ Helmut Karasek gestorben +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150930_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Wed, 30 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>30.09.2015 21:24 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/0930/TV-100s-2124.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:24 Uhr vom 30.09.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0930/TV-100s-2124.webl.h264.mp4"/>
+			<pubDate>Wed, 30 Sep 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>30.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/0930/TV-20150930-2021-3701.webl.h264.mp4</link>
+			<description>Themen der Sendung: Russland greift militÃ¤risch in Syrien-Konflikt ein, Reaktionen auf russische Luftangriffe, Abbas distanziert sich von Oslo-VertrÃ¤gen, Einigung im Kita-Tarifstreit, Wanka gibt 130 Millionen Euro fÃ¼r Integration junger FlÃ¼chtlinge, VW-Aufsichtsratsspitze berÃ¤t Ã¼ber weiteres Vorgehen, Springer-Verlag muss Schmerzensgeld an Kachelmann zahlen, Hellmuth Karasek gestorben, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0930/TV-20150930-2021-3701.webl.h264.mp4"/>
 			<pubDate>Wed, 30 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
