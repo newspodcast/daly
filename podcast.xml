@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 01 Oct 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Oct 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Oct 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Oct 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -42,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2015/1001/TV-20151001-2022-5201.webl.h264.mp4</link>
 			<description>Themen der Sendung: Bundestag berÃ¤t Ã¼ber Gesetzespaket zur FlÃ¼chtlingskrise, Bundeswehreinsatz im Mittelmeer wird ausgeweitet, Lage an der serbisch-mazedonischen Grenze, Umstrittene russische Luftangriffe in Syrien, Radikal-islamische Taliban weitgehend aus Kundus verdrÃ¤ngt, VW-Skandal: PÃ¶tsch soll Aufsichtsratschef werden, Smartphone-Nutzung bei Kindern, Alternative Nobelpreise vergeben, Gauck ehrt Verdienste fÃ¼r deutsche Einheit, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1001/TV-20151001-2022-5201.webl.h264.mp4"/>
+			<pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>01.10.2015 23:31 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1001/TV-100s-2331.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:31 Uhr vom 01.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1001/TV-100s-2331.webl.h264.mp4"/>
 			<pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
