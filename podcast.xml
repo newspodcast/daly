@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 01 Oct 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Thu, 01 Oct 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Thu, 01 Oct 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Thu, 01 Oct 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>01.10.2015 12:02 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1001/TV-100s-1202.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:02 Uhr vom 01.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1001/TV-100s-1202.webl.h264.mp4"/>
+			<pubDate>Thu, 01 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>30.09.2015 12:31 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/0930/TV-100s-1231.webl.h264.mp4</link>
@@ -162,41 +169,6 @@
 			<description>Themen der Sendung: Ukraine und Russland legen Gasstreit bei, GrÃ¼ne schlagen Integrationsfonds vor, Zehntausende FlÃ¼chtlinge passieren Kroatien, Bundesumweltministerin Hendricks kritisiert Volkswagen wegen des Abgas-Skandals, SPD erinnert an gesamtdeutschen Zusammenschluss vor 25 Jahren, PlagiatsvorwÃ¼rfe gegen von der Leyen, Merkel besucht Ground Zero, Gedenken an vermisste Studenten in Mexiko, 769 Pilger bei Massenpanik in Mekka getÃ¶tet, Gedenken an Oktoberfest-Attentat vor 35 Jahren, WiedererÃ¶ffnung des Lutherhauses in Eisenach, Ergebnisse des 7. Spieltags in der Bundesliga, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0926/TV-20150926-2117-1101.webl.h264.mp4"/>
 			<pubDate>Sat, 26 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.09.2015 11:37 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0925/TV-100s-1137.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:37 Uhr vom 25.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0925/TV-100s-1137.webl.h264.mp4"/>
-			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 25.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150925_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 25.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/77/95/18/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Feuer im Kaufhaus &quot;Galeries Lafayette&quot; +++ BER-Aufsichtsrat tagt nach Baustopp +++ Bundesrat verhandelt Dispozinsen +++ Reaktionen auf BeschlÃ¼sse des FlÃ¼chtlingsgipfels +++ Staatsopern-Ausschuss tagt +++ Erinnerungen an ersten gesamtdeutschen Berlin-Marathon +++ Serie: Neue Formen des Einkaufens +++ Ausflugstipp: Ethnologisches Museum Dahlem +++&lt;/p&gt;&lt;p&gt;25.09.2015 | 29:08 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-25-09-2015/rbb-Fernsehen/Video?documentId=30779506&amp;bcastId=3822076&quot;&gt;Abendschau vom 25.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Feuer im Kaufhaus &quot;Galeries Lafayette&quot; +++ BER-Aufsichtsrat tagt nach Baustopp +++ Bundesrat verhandelt Dispozinsen +++ Reaktionen auf BeschlÃ¼sse des FlÃ¼chtlingsgipfels +++ Staatsopern-Ausschuss tagt +++ Erinnerungen an ersten gesamtdeutschen Berlin-Marathon +++ Serie: Neue Formen des Einkaufens +++ Ausflugstipp: Ethnologisches Museum Dahlem +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150925_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.09.2015 19:03 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0925/TV-100s-1903.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:03 Uhr vom 25.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0925/TV-100s-1903.webl.h264.mp4"/>
-			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0925/TV-20150925-2023-1401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Matthias MÃ¼ller wird neuer VW-Chef, Ergebnisse und Reaktionen nach FlÃ¼chtlingsgipfel, MinderjÃ¤hrige unbegleitete FlÃ¼chtlinge sollen besser versorgt werden, UN-Gipfel verabschiedet Agenda fÃ¼r nachhaltige Entwicklung, PrÃ¤sident des US-ReprÃ¤sentantenhauses tritt zurÃ¼ck, Verantwortung fÃ¼r Massenpanik in Mekka bleibt unklar, Schweizer Bundesanwaltschaft ermittelt gegen FIFA-Chef Blatter, Lutherhaus in Eisenach wird wiedererÃ¶ffnet, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0925/TV-20150925-2023-1401.webl.h264.mp4"/>
-			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.09.2015 23:16 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0925/TV-100s-2316.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:16 Uhr vom 25.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0925/TV-100s-2316.webl.h264.mp4"/>
-			<pubDate>Fri, 25 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
