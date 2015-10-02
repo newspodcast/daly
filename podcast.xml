@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 02 Oct 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 02 Oct 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 02 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 02 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,20 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1002/TV-100s-1230.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:30 Uhr vom 02.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1002/TV-100s-1230.webl.h264.mp4"/>
+			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>02.10.2015 21:23 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1002/TV-100s-2123.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:23 Uhr vom 02.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1002/TV-100s-2123.webl.h264.mp4"/>
+			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>02.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1002/TV-20151002-2023-2401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Bundesregierung fordert europÃ¤isches Asylrecht, Hamburg beschlieÃt Beschlagnahmung leerer Gewerbe-Immobilien fÃ¼r FlÃ¼chtlinge, Vierer-Gipfel in Paris zu Ukraine-Konflikt, Russische Luftangriffe in Syrien international kritisiert, UN-Vollversammlung zu Syrien, Einigung im Kita-Tarifstreit, Obama fordert erneut schÃ¤rfere Waffengesetze, Bilanz nach 25 Jahren Deutscher Einheit, BÃ¼rgerfest zur Deutschen Einheit in Frankfurt am Main, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1002/TV-20151002-2023-2401.webl.h264.mp4"/>
 			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
