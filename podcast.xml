@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 03 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 03 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 03 Oct 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 03 Oct 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>03.10.2015 11:04 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1003/TV-100s-1104.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:04 Uhr vom 03.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1003/TV-100s-1104.webl.h264.mp4"/>
+			<pubDate>Sat, 03 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>02.10.2015 12:30 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1002/TV-100s-1230.webl.h264.mp4</link>
@@ -35,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2015/1002/TV-20151002-2023-2401.webl.h264.mp4</link>
 			<description>Themen der Sendung: Bundesregierung fordert europÃ¤isches Asylrecht, Hamburg beschlieÃt Beschlagnahmung leerer Gewerbe-Immobilien fÃ¼r FlÃ¼chtlinge, Vierer-Gipfel in Paris zu Ukraine-Konflikt, Russische Luftangriffe in Syrien international kritisiert, UN-Vollversammlung zu Syrien, Einigung im Kita-Tarifstreit, Obama fordert erneut schÃ¤rfere Waffengesetze, Bilanz nach 25 Jahren Deutscher Einheit, BÃ¼rgerfest zur Deutschen Einheit in Frankfurt am Main, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1002/TV-20151002-2023-2401.webl.h264.mp4"/>
+			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 02.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151002_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 02.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/89/68/10/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Systematischer Betrug durch Lageso-Sicherheitsleute +++ BÃ¼rgerfest zur Deutschen Einheit +++ Chancen des wiedervereinten Berlins +++ Drei Opern feiern Premiere +++ App-Entwickler-Konferenz in Mitte +++ Ausflugstipp: Vogelzug in Brandenburg +++ Berlin und Brandenburg von oben +++&lt;/p&gt;&lt;p&gt;02.10.2015 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-02-10-2015-19-30/rbb-Fernsehen/Video?documentId=30896798&amp;bcastId=3822076&quot;&gt;Abendschau 02.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Systematischer Betrug durch Lageso-Sicherheitsleute +++ BÃ¼rgerfest zur Deutschen Einheit +++ Chancen des wiedervereinten Berlins +++ Drei Opern feiern Premiere +++ App-Entwickler-Konferenz in Mitte +++ Ausflugstipp: Vogelzug in Brandenburg +++ Berlin und Brandenburg von oben +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151002_sdg_m_16_9_512x288.mp4"/>
 			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -162,34 +176,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:09 Uhr vom 28.09.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0928/TV-100s-2209.webl.h264.mp4"/>
 			<pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.09.2015 11:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0927/TV-100s-1114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:14 Uhr vom 27.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0927/TV-100s-1114.webl.h264.mp4"/>
-			<pubDate>Sun, 27 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 27.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150927_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 27.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/80/29/78/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin-Marathon +++ Marathon-Wette +++ Willkommenskultur in Berlin +++ FlÃ¼chtlingshilfe der Muslime? +++ Nachrichten +++ Hornisten-Marathon +++ Mondfinsternis +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;27.09.2015 | 29:30 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-27-09-2015/rbb-Fernsehen/Video?documentId=30802966&amp;bcastId=3822076&quot;&gt;Abendschau vom 27.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin-Marathon +++ Marathon-Wette +++ Willkommenskultur in Berlin +++ FlÃ¼chtlingshilfe der Muslime? +++ Nachrichten +++ Hornisten-Marathon +++ Mondfinsternis +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150927_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sun, 27 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.09.2015 18:49 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0927/TV-100s-1849.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 18:49 Uhr vom 27.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0927/TV-100s-1849.webl.h264.mp4"/>
-			<pubDate>Sun, 27 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0927/TV-20150927-2024-3601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Frankreich startet Luftangriffe gegen IS-Terrormiliz, Diskussion Ã¼ber Russland-Sanktionen, Lage der FlÃ¼chtlinge in SÃ¼dosteuropa weiterhin angespannt, Mehr FlÃ¼chtlinge aus Afghanistan erwartet, Gauck besucht Interkulturelle Woche, Abgasmanipulation bei VW offenbar schon lÃ¤nger bekannt, Abschluss der IAA, Parlamentswahlen in der nordspanischen Region Katalonien, Tausende erinnern an ermordete Studenten in Mexiko, Erneut Auseinandersetzungen zwischen PalÃ¤stinensern und israelischen SicherheitskrÃ¤ften, Ergebnisse des 7. Spieltags, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0927/TV-20150927-2024-3601.webl.h264.mp4"/>
-			<pubDate>Sun, 27 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
