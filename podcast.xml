@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 04 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 04 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 04 Oct 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 04 Oct 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>04.10.2015 11:22 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1004/TV-100s-1122.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:22 Uhr vom 04.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1004/TV-100s-1122.webl.h264.mp4"/>
+			<pubDate>Sun, 04 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>03.10.2015 11:04 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1003/TV-100s-1104.webl.h264.mp4</link>
@@ -162,41 +169,6 @@
 			<description>Themen der Sendung: Obama und Putin beraten Ã¼ber Syrien-Konflikt, Diskussion Ã¼ber Afghanistan-Einsatz, Kabinett bringt Ãnderungen zum Asylverfahren auf den Weg, UN gibt FlÃ¼chtlingszahlen bekannt, FlÃ¼chtlingslage in Osteuropa bleibt unverÃ¤ndert angespannt, Abgasskandal: Schwere VorwÃ¼rfe gegen VW-Manager, VW ruft fÃ¼nf Millionen Autos zurÃ¼ck, Bilanz nach 25 Jahren Deutsche Einheit, ARD-Themenwoche Heimat, EM-Gold fÃ¼r Tischtennis-Damen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0929/TV-20150929-2020-1201.webl.h264.mp4"/>
 			<pubDate>Tue, 29 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>28.09.2015 11:29 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0928/TV-100s-1129.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:29 Uhr vom 28.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0928/TV-100s-1129.webl.h264.mp4"/>
-			<pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 28.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150928_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 28.09.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/82/06/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ WÃ¤nde des BER wackeln +++ VorwÃ¼rfe gegen Sicherheitsleute am LaGeSo +++ rbb SPEZIAL +++ Nachrichten +++ Bezirksseniorenversammlung +++ Kulturausschuss +++ 150 Jahre Hertling +++ Serie 25 Jahre Deutsche Einheit +++ Skywalk Marzahn +++ Mondfinsternis +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;28.09.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-28-09-2015/rbb-Fernsehen/Video?documentId=30820626&amp;bcastId=3822076&quot;&gt;Abendschau vom 28.09.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ WÃ¤nde des BER wackeln +++ VorwÃ¼rfe gegen Sicherheitsleute am LaGeSo +++ rbb SPEZIAL +++ Nachrichten +++ Bezirksseniorenversammlung +++ Kulturausschuss +++ 150 Jahre Hertling +++ Serie 25 Jahre Deutsche Einheit +++ Skywalk Marzahn +++ Mondfinsternis +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150928_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>28.09.2015 19:37 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0928/TV-100s-1937.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:37 Uhr vom 28.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0928/TV-100s-1937.webl.h264.mp4"/>
-			<pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>28.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0928/TV-20150928-2057-0601.webl.h264.mp4</link>
-			<description>Themen der Sendung: UN-Generaldebatte in New York, Debatte in der Union Ã¼ber Merkels FlÃ¼chtlingspolitik, Taliban erobern Kundus, Urteil im Prozess um Kriegsverbrechen im Ostkongo, Separatisten gewinnen Regionalwahl in Katalonien, Staatsanwaltschaft ermittelt gegen Ex-VW-Chef Winterkorn, UEFA-PrÃ¤sident Platini stellt sich FIFA-Ethikkommission, Ãlkonzern Shell stoppt Bohrungen vor der KÃ¼ste Alaskas, NASA findet flÃ¼ssiges Wasser auf dem Mars, Totale Mondfinsternis, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0928/TV-20150928-2057-0601.webl.h264.mp4"/>
-			<pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>28.09.2015 22:09 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0928/TV-100s-2209.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:09 Uhr vom 28.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0928/TV-100s-2209.webl.h264.mp4"/>
-			<pubDate>Mon, 28 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
