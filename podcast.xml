@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 05 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 05 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 05 Oct 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 05 Oct 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>05.10.2015 12:30 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1005/TV-100s-1230.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:30 Uhr vom 05.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1005/TV-100s-1230.webl.h264.mp4"/>
+			<pubDate>Mon, 05 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>04.10.2015 11:22 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1004/TV-100s-1122.webl.h264.mp4</link>
@@ -162,34 +169,6 @@
 			<description>Themen der Sendung: Russland greift militÃ¤risch in Syrien-Konflikt ein, Reaktionen auf russische Luftangriffe, Abbas distanziert sich von Oslo-VertrÃ¤gen, Einigung im Kita-Tarifstreit, Wanka gibt 130 Millionen Euro fÃ¼r Integration junger FlÃ¼chtlinge, VW-Aufsichtsratsspitze berÃ¤t Ã¼ber weiteres Vorgehen, Springer-Verlag muss Schmerzensgeld an Kachelmann zahlen, Hellmuth Karasek gestorben, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0930/TV-20150930-2021-3701.webl.h264.mp4"/>
 			<pubDate>Wed, 30 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.09.2015 11:29 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0929/TV-100s-1129.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:29 Uhr vom 29.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0929/TV-100s-1129.webl.h264.mp4"/>
-			<pubDate>Tue, 29 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 29.09.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150929_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 29.09.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/84/16/02/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ BER braucht bessere BrandschutzwÃ¤nde +++ Statistik der Einheit +++ Was bedeutet Heimat? +++ Die West-Berliner +++ Leere RÃ¤ume fÃ¼r starke Kunst +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;29.09.2015 | 29:40 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-29-09-2015-19-30/rbb-Fernsehen/Video?documentId=30841590&amp;bcastId=3822076&quot;&gt;Abendschau 29.09.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ BER braucht bessere BrandschutzwÃ¤nde +++ Statistik der Einheit +++ Was bedeutet Heimat? +++ Die West-Berliner +++ Leere RÃ¤ume fÃ¼r starke Kunst +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20150929_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 29 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.09.2015 21:17 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/0929/TV-100s-2117.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 29.09.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/0929/TV-100s-2117.webl.h264.mp4"/>
-			<pubDate>Tue, 29 Sep 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.09.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/0929/TV-20150929-2020-1201.webl.h264.mp4</link>
-			<description>Themen der Sendung: Obama und Putin beraten Ã¼ber Syrien-Konflikt, Diskussion Ã¼ber Afghanistan-Einsatz, Kabinett bringt Ãnderungen zum Asylverfahren auf den Weg, UN gibt FlÃ¼chtlingszahlen bekannt, FlÃ¼chtlingslage in Osteuropa bleibt unverÃ¤ndert angespannt, Abgasskandal: Schwere VorwÃ¼rfe gegen VW-Manager, VW ruft fÃ¼nf Millionen Autos zurÃ¼ck, Bilanz nach 25 Jahren Deutsche Einheit, ARD-Themenwoche Heimat, EM-Gold fÃ¼r Tischtennis-Damen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/0929/TV-20150929-2020-1201.webl.h264.mp4"/>
-			<pubDate>Tue, 29 Sep 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
