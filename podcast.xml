@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 06 Oct 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Tue, 06 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Tue, 06 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,20 @@
 			<link>http://media.tagesschau.de/video/2015/1006/TV-20151006-1116-3201.webl.h264.mp4</link>
 			<description>Themen der Sendung: Festakt zum 25. Jahrestag der Deutschen Einheit, Berlin feiert 25 Jahre Wiedervereinigung, SÃ¶der stellt Grundrecht auf Asyl infrage, Hunderte FlÃ¼chtlinge versuchen Durchquerung des Eurotunnels, US-Luftwaffe bombardiert Krankenhaus in Kundus, Ukrainisches MilitÃ¤r und pro-russische Separatisten beginnen Teil-Abzug von Waffen, Sponsoren fordern RÃ¼cktritt von FIFA-PrÃ¤sident Blatter, Ergebnisse des  8.Spieltags, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1006/TV-20151006-1116-3201.webl.h264.mp4"/>
+			<pubDate>Tue, 06 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.10.2015 21:22 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1006/TV-100s-2122.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:22 Uhr vom 06.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1006/TV-100s-2122.webl.h264.mp4"/>
+			<pubDate>Tue, 06 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1006/TV-20151006-2023-1901.webl.h264.mp4</link>
+			<description>Themen der Sendung: EuropÃ¤ischer Gerichtshof kippt Daten-Abkommen &quot;Safe Harbor&quot;, VW-Chef MÃ¼ller schlieÃt Abbau von ArbeitsplÃ¤tzen nicht aus, FlÃ¼chtlingspolitik wird kÃ¼nftig im Kanzleramt koordiniert, NATO kritisiert Russlands Luftraumverletzung in der TÃ¼rkei, Geplante Wahlen in der Ost-Ukraine verschoben, Israel zerstÃ¶rt HÃ¤user palÃ¤stinensischer AttentÃ¤ter, Lagebericht 2014 zu organisierter KriminalitÃ¤t, Physik-Nobelpreis verliehen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1006/TV-20151006-2023-1901.webl.h264.mp4"/>
 			<pubDate>Tue, 06 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
