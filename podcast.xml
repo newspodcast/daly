@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 06 Oct 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Tue, 06 Oct 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Oct 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Oct 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -42,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2015/1006/TV-20151006-2023-1901.webl.h264.mp4</link>
 			<description>Themen der Sendung: EuropÃ¤ischer Gerichtshof kippt Daten-Abkommen &quot;Safe Harbor&quot;, VW-Chef MÃ¼ller schlieÃt Abbau von ArbeitsplÃ¤tzen nicht aus, FlÃ¼chtlingspolitik wird kÃ¼nftig im Kanzleramt koordiniert, NATO kritisiert Russlands Luftraumverletzung in der TÃ¼rkei, Geplante Wahlen in der Ost-Ukraine verschoben, Israel zerstÃ¶rt HÃ¤user palÃ¤stinensischer AttentÃ¤ter, Lagebericht 2014 zu organisierter KriminalitÃ¤t, Physik-Nobelpreis verliehen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1006/TV-20151006-2023-1901.webl.h264.mp4"/>
+			<pubDate>Tue, 06 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 06.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151006_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 06.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/95/52/66/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Bezirk darf nicht rÃ¤umen +++ Genug Geld trotz FlÃ¼chtlingskrise +++ EuGH weist Facebook in die Schranken +++ Paketkasten fÃ¼r MehrfamilienhÃ¤user +++ Mieterprotest gegen umstrittene Sanierung +++ Mainzer StraÃenbahner unterstÃ¼tzen BVG +++ Columbia in neuem Glanz +++ Serie: Heimat Museum +++&lt;/p&gt;&lt;p&gt;06.10.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-06-10-2015/rbb-Fernsehen/Video?documentId=30955254&amp;bcastId=3822076&quot;&gt;Abendschau vom 06.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Bezirk darf nicht rÃ¤umen +++ Genug Geld trotz FlÃ¼chtlingskrise +++ EuGH weist Facebook in die Schranken +++ Paketkasten fÃ¼r MehrfamilienhÃ¤user +++ Mieterprotest gegen umstrittene Sanierung +++ Mainzer StraÃenbahner unterstÃ¼tzen BVG +++ Columbia in neuem Glanz +++ Serie: Heimat Museum +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151006_sdg_m_16_9_512x288.mp4"/>
 			<pubDate>Tue, 06 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
