@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 07 Oct 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 07 Oct 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 07 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 07 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,34 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1007/TV-100s-1231.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:31 Uhr vom 07.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1007/TV-100s-1231.webl.h264.mp4"/>
+			<pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 07.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151007_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 07.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/97/84/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Ullstein-Haus verkauft +++ Situation am LaGeSo +++ CDU-FunktionÃ¤re kritisieren FlÃ¼chtlingspolitik +++ Aktionstag fÃ¼r bessere Kitas +++ SPD rÃ¼sten sich fÃ¼r den Wahlkampf +++ Energie aus MÃ¼ll +++ Wochenserie: Heimat im Museum +++&lt;/p&gt;&lt;p&gt;07.10.2015 | 29:37 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-07-10-2015/rbb-Fernsehen/Video?documentId=30978412&amp;bcastId=3822076&quot;&gt;Abendschau vom 07.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Ullstein-Haus verkauft +++ Situation am LaGeSo +++ CDU-FunktionÃ¤re kritisieren FlÃ¼chtlingspolitik +++ Aktionstag fÃ¼r bessere Kitas +++ SPD rÃ¼sten sich fÃ¼r den Wahlkampf +++ Energie aus MÃ¼ll +++ Wochenserie: Heimat im Museum +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151007_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>07.10.2015 21:16 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1007/TV-100s-2116.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:16 Uhr vom 07.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1007/TV-100s-2116.webl.h264.mp4"/>
+			<pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>07.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1007/TV-20151007-2023-2401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Russland unterstÃ¼tzt Assads Bodenoffensive in Syrien, Merkel und Hollande im EU-Parlament, EU-Marinemission gegen Schlepper im Mittelmeer, Kanzleramtschef Altmaier wird Koordinator fÃ¼r FlÃ¼chtlingshilfe, Demo gegen Sparpolitik in BrÃ¼ssel, Deutsch-israelisches Regierungstreffen abgesagt, Ex-Finanzvorstand PÃ¶tsch wird Chef des VW-Aufsichtsrats, Stromnetz: Kabinett beschlieÃt Erdverkabelung, Gauck bei Obama empfangen, Chemie-Nobelpreis bekanntgegeben, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1007/TV-20151007-2023-2401.webl.h264.mp4"/>
+			<pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>13.09.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1007/TV-20151007-1842-3601.webl.h264.mp4</link>
+			<description>Themen der Sendung: Deutschland fÃ¼hrt Grenzkontrollen wieder ein, FlÃ¼chtlingskrise: Bayern fordert mehr UnterstÃ¼tzung von BundeslÃ¤ndern, 800 FlÃ¼chtlinge erreichen Dortmund, Tausende Schleuser seit Jahresbeginn festgenommen, Ãrzte beklagen schlechte Versorgung in ungarischem FlÃ¼chtlingslager, Angespannte Lage auf griechischer Insel Lesbos, Russland will Syrien weiterhin militÃ¤risch unterstÃ¼tzen, FuÃball-Bundesliga, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1007/TV-20151007-1842-3601.webl.h264.mp4"/>
 			<pubDate>Wed, 07 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
