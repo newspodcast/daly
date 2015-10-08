@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 08 Oct 2015 21:30:07 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Oct 2015 21:30:07 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Oct 2015 00:30:05 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Oct 2015 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -42,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2015/1008/TV-20151008-2025-4701.webl.h264.mp4</link>
 			<description>Themen der Sendung: FIFA-Ethikkommission suspendiert Blatter und Platini, Merkel bekrÃ¤ftigt FlÃ¼chtlingspolitik, EU-Innenminister fÃ¼r beschleunigte Abschiebung abgelehnter Asylbewerber, Herbstgutachten der Wirtschaftsforschungsinstitute, Rekordverluste fÃ¼r Deutsche Bank, Treffen der NATO-Verteidigungsminister, VW-Skandal: AnhÃ¶rungen in den USA, Weitere ZwischenfÃ¤lle in Israel, Tsipras Ã¼bersteht Vertrauensvotum, Literaturnobelpreis fÃ¼r Swetlana Alexijewitsch, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1008/TV-20151008-2025-4701.webl.h264.mp4"/>
+			<pubDate>Thu, 08 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>08.10.2015 23:10 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1008/TV-100s-2310.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:10 Uhr vom 08.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1008/TV-100s-2310.webl.h264.mp4"/>
 			<pubDate>Thu, 08 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
