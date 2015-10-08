@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 08 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 08 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 08 Oct 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Thu, 08 Oct 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>08.10.2015 11:31 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1008/TV-100s-1131.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:31 Uhr vom 08.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1008/TV-100s-1131.webl.h264.mp4"/>
+			<pubDate>Thu, 08 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>07.10.2015 12:31 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1007/TV-100s-1231.webl.h264.mp4</link>
@@ -169,34 +176,6 @@
 			<description>Themen der Sendung: Festakt zum 25. Jahrestag der Deutschen Einheit, Berlin feiert 25 Jahre Wiedervereinigung, SÃ¶der stellt Grundrecht auf Asyl infrage, Hunderte FlÃ¼chtlinge versuchen Durchquerung des Eurotunnels, US-Luftwaffe bombardiert Krankenhaus in Kundus, Ukrainisches MilitÃ¤r und pro-russische Separatisten beginnen Teil-Abzug von Waffen, Sponsoren fordern RÃ¼cktritt von FIFA-PrÃ¤sident Blatter, Ergebnisse des  8.Spieltags, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1003/TV-20151003-2029-4901.webl.h264.mp4"/>
 			<pubDate>Sat, 03 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.10.2015 12:30 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1002/TV-100s-1230.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:30 Uhr vom 02.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1002/TV-100s-1230.webl.h264.mp4"/>
-			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.10.2015 21:23 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1002/TV-100s-2123.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:23 Uhr vom 02.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1002/TV-100s-2123.webl.h264.mp4"/>
-			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1002/TV-20151002-2023-2401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Bundesregierung fordert europÃ¤isches Asylrecht, Hamburg beschlieÃt Beschlagnahmung leerer Gewerbe-Immobilien fÃ¼r FlÃ¼chtlinge, Vierer-Gipfel in Paris zu Ukraine-Konflikt, Russische Luftangriffe in Syrien international kritisiert, UN-Vollversammlung zu Syrien, Einigung im Kita-Tarifstreit, Obama fordert erneut schÃ¤rfere Waffengesetze, Bilanz nach 25 Jahren Deutscher Einheit, BÃ¼rgerfest zur Deutschen Einheit in Frankfurt am Main, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1002/TV-20151002-2023-2401.webl.h264.mp4"/>
-			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 02.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151002_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 02.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/89/68/10/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Systematischer Betrug durch Lageso-Sicherheitsleute +++ BÃ¼rgerfest zur Deutschen Einheit +++ Chancen des wiedervereinten Berlins +++ Drei Opern feiern Premiere +++ App-Entwickler-Konferenz in Mitte +++ Ausflugstipp: Vogelzug in Brandenburg +++ Berlin und Brandenburg von oben +++&lt;/p&gt;&lt;p&gt;02.10.2015 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-02-10-2015-19-30/rbb-Fernsehen/Video?documentId=30896798&amp;bcastId=3822076&quot;&gt;Abendschau 02.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Systematischer Betrug durch Lageso-Sicherheitsleute +++ BÃ¼rgerfest zur Deutschen Einheit +++ Chancen des wiedervereinten Berlins +++ Drei Opern feiern Premiere +++ App-Entwickler-Konferenz in Mitte +++ Ausflugstipp: Vogelzug in Brandenburg +++ Berlin und Brandenburg von oben +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151002_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Fri, 02 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
