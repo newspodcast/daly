@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 09 Oct 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Oct 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Oct 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Oct 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1009/TV-100s-1230.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:30 Uhr vom 09.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1009/TV-100s-1230.webl.h264.mp4"/>
+			<pubDate>Fri, 09 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 09.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151009_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 09.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/02/65/66/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Suche nach Mohammed geht weiter +++ Moabit hilft +++ U-Ausschuss Staatsoper +++ Nachrichten +++ Richtfest Gartenstadt +++ Festival of Lights +++ Heimatmuseum Charlottenburg-Wilmersdorf +++ New Music Award +++ Ausflugstipp +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;09.10.2015 | 29:26 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-09-10-2015/rbb-Fernsehen/Video?documentId=31026554&amp;bcastId=3822076&quot;&gt;Abendschau vom 09.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Suche nach Mohammed geht weiter +++ Moabit hilft +++ U-Ausschuss Staatsoper +++ Nachrichten +++ Richtfest Gartenstadt +++ Festival of Lights +++ Heimatmuseum Charlottenburg-Wilmersdorf +++ New Music Award +++ Ausflugstipp +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151009_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Fri, 09 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>09.10.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1009/TV-100s-2115.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 09.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1009/TV-100s-2115.webl.h264.mp4"/>
+			<pubDate>Fri, 09 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>09.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1009/TV-20151009-2028-1201.webl.h264.mp4</link>
+			<description>Themen der Sendung: Bayern will Zuzug von FlÃ¼chtlingen begrenzen, SPD-Politiker warnen vor unbegrenzter Zuwanderung, De MaiziÃ¨re beklagt wachsende Gewalt gegen FlÃ¼chtlinge, Verteilung von FlÃ¼chtlingen auf EU-LÃ¤nder angelaufen, Friedensnobelpreis geht nach Tunesien, USA Ã¤ndern Strategie im Syrien-Konflikt, Gewalt im Nahen Osten weitet sich aus, BemÃ¼hungen um eine Einheitsregierung in Libyen, Tarifeinheitsgesetz bleibt vorerst in Kraft, VW debattiert Ã¼ber Konsequenzen aus dem Abgas-Skandal, Bahnstreik in Belgien, FIFA-Chef Blatter legt Einspruch ein, Klopp als neuer Trainer von Liverpool vorgestellt, Nach der Niederlage gegen Irland in der EM-Qualifikation, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1009/TV-20151009-2028-1201.webl.h264.mp4"/>
 			<pubDate>Fri, 09 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
