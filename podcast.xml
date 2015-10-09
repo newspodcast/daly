@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 09 Oct 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 09 Oct 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Fri, 09 Oct 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 09 Oct 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>09.10.2015 12:30 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1009/TV-100s-1230.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:30 Uhr vom 09.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1009/TV-100s-1230.webl.h264.mp4"/>
+			<pubDate>Fri, 09 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>08.10.2015 11:31 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1008/TV-100s-1131.webl.h264.mp4</link>
@@ -176,34 +183,6 @@
 			<description>Themen der Sendung: Jerusalemer Altstadt fÃ¼r PalÃ¤stinenser gesperrt, Merkel verteidigt flÃ¼chtlingspolitischen Kurs, Tausende demonstrieren in Sebnitz gegen Zuwanderung, EU will bei FlÃ¼chtlingspolitik mit TÃ¼rkei kooperieren, BestÃ¼rzung nach Angriff auf Klinik in Kundus, Coelho-BÃ¼ndnis bei Parlamentswahl in Portugal vorn, Bischofssynode in Rom erÃ¶ffnet, Erste GestÃ¤ndnisse zu Manipulationen im VW-Skandal, Mindestens 17 Tote bei Unwetter in SÃ¼dfrankreich, FuÃball-Bundesliga, Dimitri Ovtcharov gewinnt Tischtennis-Europameisterschaft, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1004/TV-20151004-2023-2101.webl.h264.mp4"/>
 			<pubDate>Sun, 04 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>03.10.2015 11:04 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1003/TV-100s-1104.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:04 Uhr vom 03.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1003/TV-100s-1104.webl.h264.mp4"/>
-			<pubDate>Sat, 03 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 03.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151003_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 03.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/90/58/24/1663778729/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;JubilÃ¤um: Berlin feiert 25 Jahre Wiedervereinigung +++ Parteitag: Piraten ringen um StabilitÃ¤t +++ Nachrichten I +++ Messe fÃ¼r Erfinder +++ RÃ¼ckblick: Wiedervereinigung vor 25 Jahren +++ 'Festival der Einheit' +++ Gleich nebenan: CafÃ© Botanico +++ 'Berlin und Brandenburg von oben'&lt;/p&gt;&lt;p&gt;03.10.2015 | 29:05 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-03-10-2015-19-30/rbb-Fernsehen/Video?documentId=30905816&amp;bcastId=3822076&quot;&gt;Abendschau 03.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;JubilÃ¤um: Berlin feiert 25 Jahre Wiedervereinigung +++ Parteitag: Piraten ringen um StabilitÃ¤t +++ Nachrichten I +++ Messe fÃ¼r Erfinder +++ RÃ¼ckblick: Wiedervereinigung vor 25 Jahren +++ 'Festival der Einheit' +++ Gleich nebenan: CafÃ© Botanico +++ 'Berlin und Brandenburg von oben'&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151003_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sat, 03 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>03.10.2015 21:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1003/TV-100s-2114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 03.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1003/TV-100s-2114.webl.h264.mp4"/>
-			<pubDate>Sat, 03 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>03.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1003/TV-20151003-2029-4901.webl.h264.mp4</link>
-			<description>Themen der Sendung: Festakt zum 25. Jahrestag der Deutschen Einheit, Berlin feiert 25 Jahre Wiedervereinigung, SÃ¶der stellt Grundrecht auf Asyl infrage, Hunderte FlÃ¼chtlinge versuchen Durchquerung des Eurotunnels, US-Luftwaffe bombardiert Krankenhaus in Kundus, Ukrainisches MilitÃ¤r und pro-russische Separatisten beginnen Teil-Abzug von Waffen, Sponsoren fordern RÃ¼cktritt von FIFA-PrÃ¤sident Blatter, Ergebnisse des  8.Spieltags, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1003/TV-20151003-2029-4901.webl.h264.mp4"/>
-			<pubDate>Sat, 03 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
