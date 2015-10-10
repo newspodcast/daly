@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 10 Oct 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 10 Oct 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 11 Oct 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 11 Oct 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -42,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2015/1010/TV-20151010-2021-0601.webl.h264.mp4</link>
 			<description>Themen der Sendung: Anschlag in Ankara, Reaktion auf den Terror in der TÃ¼rkei, Demonstration gegen TTIP und Ceta in Berlin, Gutachten zu Kosten des Atomausstiegs, MilitÃ¤rparade in Nordkorea, EM-Qualifikation: Vor dem Spiel gegen Georgien, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1010/TV-20151010-2021-0601.webl.h264.mp4"/>
+			<pubDate>Sat, 10 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>10.10.2015 22:40 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1010/TV-100s-2240.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:40 Uhr vom 10.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1010/TV-100s-2240.webl.h264.mp4"/>
 			<pubDate>Sat, 10 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
