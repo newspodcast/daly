@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 11 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 11 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 11 Oct 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 11 Oct 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>11.10.2015 11:13 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1011/TV-100s-1113.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:13 Uhr vom 11.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1011/TV-100s-1113.webl.h264.mp4"/>
+			<pubDate>Sun, 11 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>10.10.2015 12:22 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1010/TV-100s-1222.webl.h264.mp4</link>
@@ -183,34 +190,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 06.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/95/52/66/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Bezirk darf nicht rÃ¤umen +++ Genug Geld trotz FlÃ¼chtlingskrise +++ EuGH weist Facebook in die Schranken +++ Paketkasten fÃ¼r MehrfamilienhÃ¤user +++ Mieterprotest gegen umstrittene Sanierung +++ Mainzer StraÃenbahner unterstÃ¼tzen BVG +++ Columbia in neuem Glanz +++ Serie: Heimat Museum +++&lt;/p&gt;&lt;p&gt;06.10.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-06-10-2015/rbb-Fernsehen/Video?documentId=30955254&amp;bcastId=3822076&quot;&gt;Abendschau vom 06.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Bezirk darf nicht rÃ¤umen +++ Genug Geld trotz FlÃ¼chtlingskrise +++ EuGH weist Facebook in die Schranken +++ Paketkasten fÃ¼r MehrfamilienhÃ¤user +++ Mieterprotest gegen umstrittene Sanierung +++ Mainzer StraÃenbahner unterstÃ¼tzen BVG +++ Columbia in neuem Glanz +++ Serie: Heimat Museum +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151006_sdg_m_16_9_512x288.mp4"/>
 			<pubDate>Tue, 06 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.10.2015 12:30 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1005/TV-100s-1230.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:30 Uhr vom 05.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1005/TV-100s-1230.webl.h264.mp4"/>
-			<pubDate>Mon, 05 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 05.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151005_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 05.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/93/46/06/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Keine Coffeeshops in Friedrichshain-Kreuzberg +++ Innensenator fÃ¼r gemeinsame Leitstelle +++ Weniger Geld fÃ¼r Neurentner +++ Begegnungszone MaaÃenstraÃe erÃ¶ffnet +++ 85 Jahre Konnopke +++ Wochenserie: Heimat im Museum +++&lt;/p&gt;&lt;p&gt;05.10.2015 | 29:10 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-05-10-2015/rbb-Fernsehen/Video?documentId=30934594&amp;bcastId=3822076&quot;&gt;Abendschau vom 05.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Keine Coffeeshops in Friedrichshain-Kreuzberg +++ Innensenator fÃ¼r gemeinsame Leitstelle +++ Weniger Geld fÃ¼r Neurentner +++ Begegnungszone MaaÃenstraÃe erÃ¶ffnet +++ 85 Jahre Konnopke +++ Wochenserie: Heimat im Museum +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151005_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 05 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.10.2015 21:13 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1005/TV-100s-2113.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 05.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1005/TV-100s-2113.webl.h264.mp4"/>
-			<pubDate>Mon, 05 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1005/TV-20151005-2021-5601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Diskussion Ã¼ber FlÃ¼chtlingszahlen, Pegida-Demo in Dresden, Erdogan zu GesprÃ¤chen in BrÃ¼ssel, Russischer Kampfjet dringt in tÃ¼rkischen Luftraum ein, IS-Terrormiliz zerstÃ¶rt weiteres Bauwerk in Palmyra, Gewalt zwischen Israelis und PalÃ¤stinensern, Merkel zu RegierungsgesprÃ¤chen in Indien, Wahlergebnis Portugal, Spatenstich am Frankfurter Flughafen, Air-France-Mitarbeiter greifen Personalchef an, Medizin-Nobelpreis, Schriftsteller Henning Mankell tot, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1005/TV-20151005-2021-5601.webl.h264.mp4"/>
-			<pubDate>Mon, 05 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
