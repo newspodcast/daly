@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 12 Oct 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 12 Oct 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 12 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 12 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1012/TV-100s-1232.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:32 Uhr vom 12.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1012/TV-100s-1232.webl.h264.mp4"/>
+			<pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 12.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151012_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 12.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/06/77/20/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ AuswÃ¤rtiges Amt verschÃ¤rft Reisehinweis fÃ¼r die TÃ¼rkei +++ Asylbewerber verklagen LaGeSo +++ Serie: Familie Suleiman auf dem Weg nach Berlin +++ Familie Suleiman auf dem Weg nach Berlin +++ Terminprobleme bei der KFZ-Zulassung +++ EindrÃ¼cke vom Festival of Lights +++&lt;/p&gt;&lt;p&gt;12.10.2015 | 29:43 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-12-10-2015-19-30/rbb-Fernsehen/Video?documentId=31067708&amp;bcastId=3822076&quot;&gt;Abendschau 12.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ AuswÃ¤rtiges Amt verschÃ¤rft Reisehinweis fÃ¼r die TÃ¼rkei +++ Asylbewerber verklagen LaGeSo +++ Serie: Familie Suleiman auf dem Weg nach Berlin +++ Familie Suleiman auf dem Weg nach Berlin +++ Terminprobleme bei der KFZ-Zulassung +++ EindrÃ¼cke vom Festival of Lights +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151012_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>12.10.2015 21:22 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1012/TV-100s-2122.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:22 Uhr vom 12.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1012/TV-100s-2122.webl.h264.mp4"/>
+			<pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>12.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1012/TV-20151012-2022-5601.webl.h264.mp4</link>
+			<description>Themen der Sendung: Debatte Ã¼ber Transitzonen, Lage in der TÃ¼rkei nach Anschlag, EU-AuÃenminister beraten Ã¼ber Syrien-Konflikt, Wahl in WeiÃrussland, BundesprÃ¤sident Gauck in SÃ¼dkorea, Wirtschaftsnobelpreis geht an Angus Deaton, Deutscher Buchpreis fÃ¼r Frank Witzel, EM-Qualifikationsspiel Deutschland gegen Georgien, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1012/TV-20151012-2022-5601.webl.h264.mp4"/>
 			<pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
