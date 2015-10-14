@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 14 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 14 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 14 Oct 2015 12:30:06 GMT</pubDate>
+		<lastBuildDate>Wed, 14 Oct 2015 12:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>14.10.2015 12:36 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1014/TV-100s-1236.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:36 Uhr vom 14.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1014/TV-100s-1236.webl.h264.mp4"/>
+			<pubDate>Wed, 14 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>13.10.2015 12:33 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1013/TV-100s-1233.webl.h264.mp4</link>
@@ -162,41 +169,6 @@
 			<description>Themen der Sendung: Bayern will Zuzug von FlÃ¼chtlingen begrenzen, SPD-Politiker warnen vor unbegrenzter Zuwanderung, De MaiziÃ¨re beklagt wachsende Gewalt gegen FlÃ¼chtlinge, Verteilung von FlÃ¼chtlingen auf EU-LÃ¤nder angelaufen, Friedensnobelpreis geht nach Tunesien, USA Ã¤ndern Strategie im Syrien-Konflikt, Gewalt im Nahen Osten weitet sich aus, BemÃ¼hungen um eine Einheitsregierung in Libyen, Tarifeinheitsgesetz bleibt vorerst in Kraft, VW debattiert Ã¼ber Konsequenzen aus dem Abgas-Skandal, Bahnstreik in Belgien, FIFA-Chef Blatter legt Einspruch ein, Klopp als neuer Trainer von Liverpool vorgestellt, Nach der Niederlage gegen Irland in der EM-Qualifikation, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1009/TV-20151009-2028-1201.webl.h264.mp4"/>
 			<pubDate>Fri, 09 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.10.2015 11:31 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1008/TV-100s-1131.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:31 Uhr vom 08.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1008/TV-100s-1131.webl.h264.mp4"/>
-			<pubDate>Thu, 08 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 08.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151008_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 08.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/30/99/95/98/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Dramatische Wende im Fall Mohammed +++ Prozess um Mord an schwangerer Frau +++ Abgeordnetenhaus debattiert Ã¼ber FlÃ¼chtlingskrise +++ BÃ¼rgerÃ¤mter ohne Zeit fÃ¼r BÃ¼rger +++ Risiken durch Legionellen in Hellersdorf +++ Serie: Heimat im Museum +++ Das Wochenendwetter +++&lt;/p&gt;&lt;p&gt;08.10.2015 | 28:49 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-08-10-2015/rbb-Fernsehen/Video?documentId=30999586&amp;bcastId=3822076&quot;&gt;Abendschau vom 08.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Dramatische Wende im Fall Mohammed +++ Prozess um Mord an schwangerer Frau +++ Abgeordnetenhaus debattiert Ã¼ber FlÃ¼chtlingskrise +++ BÃ¼rgerÃ¤mter ohne Zeit fÃ¼r BÃ¼rger +++ Risiken durch Legionellen in Hellersdorf +++ Serie: Heimat im Museum +++ Das Wochenendwetter +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151008_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 08 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.10.2015 21:19 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1008/TV-100s-2119.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 08.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1008/TV-100s-2119.webl.h264.mp4"/>
-			<pubDate>Thu, 08 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1008/TV-20151008-2025-4701.webl.h264.mp4</link>
-			<description>Themen der Sendung: FIFA-Ethikkommission suspendiert Blatter und Platini, Merkel bekrÃ¤ftigt FlÃ¼chtlingspolitik, EU-Innenminister fÃ¼r beschleunigte Abschiebung abgelehnter Asylbewerber, Herbstgutachten der Wirtschaftsforschungsinstitute, Rekordverluste fÃ¼r Deutsche Bank, Treffen der NATO-Verteidigungsminister, VW-Skandal: AnhÃ¶rungen in den USA, Weitere ZwischenfÃ¤lle in Israel, Tsipras Ã¼bersteht Vertrauensvotum, Literaturnobelpreis fÃ¼r Swetlana Alexijewitsch, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1008/TV-20151008-2025-4701.webl.h264.mp4"/>
-			<pubDate>Thu, 08 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.10.2015 23:10 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1008/TV-100s-2310.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:10 Uhr vom 08.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1008/TV-100s-2310.webl.h264.mp4"/>
-			<pubDate>Thu, 08 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
