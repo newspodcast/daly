@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 15 Oct 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Oct 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 15 Oct 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 15 Oct 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1015/TV-100s-1130.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:30 Uhr vom 15.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1015/TV-100s-1130.webl.h264.mp4"/>
+			<pubDate>Thu, 15 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 15.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151015_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 15.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/12/46/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Registrierungsstelle in der Bundesallee nimmt Arbeit auf +++ BER soll sich nach ErÃ¶ffnung selbst finanzierenÂ  +++ PolizeiprÃ¤sident ordnet ÃberprÃ¼fung an +++ Â Ãkostrom-Umlage und NetzgebÃ¼hr steigen +++ Feindliche Ãbernahme auf dem Wohnungsmarkt +++ Serie: Die Flucht +++Â  Tribute to Bambi +++ Wochenendwetter +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;15.10.2015 | 29:29 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-15-10-2015-19-30/rbb-Fernsehen/Video?documentId=31124634&amp;bcastId=3822076&quot;&gt;Abendschau 15.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Registrierungsstelle in der Bundesallee nimmt Arbeit auf +++ BER soll sich nach ErÃ¶ffnung selbst finanzierenÂ  +++ PolizeiprÃ¤sident ordnet ÃberprÃ¼fung an +++ Â Ãkostrom-Umlage und NetzgebÃ¼hr steigen +++ Feindliche Ãbernahme auf dem Wohnungsmarkt +++ Serie: Die Flucht +++Â  Tribute to Bambi +++ Wochenendwetter +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151015_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Thu, 15 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>15.10.2015 17:36 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1015/TV-100s-1736.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 17:36 Uhr vom 15.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1015/TV-100s-1736.webl.h264.mp4"/>
+			<pubDate>Thu, 15 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>15.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1015/TV-20151015-2021-4401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Bundestag beschlieÃt umstrittenes Asylpaket, Mehr Schutz fÃ¼r FlÃ¼chtlingskinder, FlÃ¼chtlingskrise im Mittelpunkt des EU-Gipfels, RÃ¼ckrufaktion bei VW, MinisterprÃ¤sident Kataloniens wegen Volksabstimmung vor Gericht, US-Truppen bleiben lÃ¤nger in Afghanistan, BND spionierte offenbar Partnerstaaten aus, Skandal um Herztransplantationen, Zweiter Atomreaktor in Fukushima in Betrieb genommen, UEFA stÃ¤rkt suspendierten PrÃ¤sidenten Platini, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1015/TV-20151015-2021-4401.webl.h264.mp4"/>
 			<pubDate>Thu, 15 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
