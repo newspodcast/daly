@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 16 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Oct 2015 12:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Oct 2015 12:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>16.10.2015 12:31 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1016/TV-100s-1231.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:31 Uhr vom 16.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1016/TV-100s-1231.webl.h264.mp4"/>
+			<pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>15.10.2015 11:30 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1015/TV-100s-1130.webl.h264.mp4</link>
@@ -162,41 +169,6 @@
 			<description>Themen der Sendung: Trauer und Proteste nach Ankara-Anschlag, Merkel schlieÃt SteuererhÃ¶hungen aus, Diskussion Ã¼ber Transitzonen, Beratungen Ã¼ber FlÃ¼chtlingspolitik im Kanzleramt, DGB warnt vor Schwarzarbeit, Landtagswahl in Wien, Wahl in WeiÃrussland, BÃ¼rgerkrieg in Syrien, Gewalt zwischen Israelis und PalÃ¤stinensern, Formel 1, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1011/TV-20151011-2022-2601.webl.h264.mp4"/>
 			<pubDate>Sun, 11 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.10.2015 12:22 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1010/TV-100s-1222.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:22 Uhr vom 10.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1010/TV-100s-1222.webl.h264.mp4"/>
-			<pubDate>Sat, 10 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 10.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151010_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 10.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/03/72/12/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;GroÃdemo gegen TTTIP in Berlin +++ GrÃ¼ne schÃ¤rfen Ãko-Profil +++ LiteraturnobelpreistrÃ¤gerin in Berlin +++ Heimat im Museum Reinickendorf +++ Festival of Lights +++ The Bowl - Clean Eating an der Warschauer StraÃe&lt;/p&gt;&lt;p&gt;10.10.2015 | 29:19 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-10-10-2015-19-30/rbb-Fernsehen/Video?documentId=31037200&amp;bcastId=3822076&quot;&gt;Abendschau 10.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;GroÃdemo gegen TTTIP in Berlin +++ GrÃ¼ne schÃ¤rfen Ãko-Profil +++ LiteraturnobelpreistrÃ¤gerin in Berlin +++ Heimat im Museum Reinickendorf +++ Festival of Lights +++ The Bowl - Clean Eating an der Warschauer StraÃe&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151010_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sat, 10 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.10.2015 21:24 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1010/TV-100s-2124.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:24 Uhr vom 10.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1010/TV-100s-2124.webl.h264.mp4"/>
-			<pubDate>Sat, 10 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1010/TV-20151010-2021-0601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Anschlag in Ankara, Reaktion auf den Terror in der TÃ¼rkei, Demonstration gegen TTIP und Ceta in Berlin, Gutachten zu Kosten des Atomausstiegs, MilitÃ¤rparade in Nordkorea, EM-Qualifikation: Vor dem Spiel gegen Georgien, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1010/TV-20151010-2021-0601.webl.h264.mp4"/>
-			<pubDate>Sat, 10 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.10.2015 22:40 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1010/TV-100s-2240.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:40 Uhr vom 10.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1010/TV-100s-2240.webl.h264.mp4"/>
-			<pubDate>Sat, 10 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
