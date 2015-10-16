@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 16 Oct 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 16 Oct 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 16 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 16 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,20 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1016/TV-100s-1231.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:31 Uhr vom 16.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1016/TV-100s-1231.webl.h264.mp4"/>
+			<pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.10.2015 21:34 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1016/TV-100s-2134.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:34 Uhr vom 16.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1016/TV-100s-2134.webl.h264.mp4"/>
+			<pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1016/TV-20151016-2023-2901.webl.h264.mp4</link>
+			<description>Themen der Sendung: 'Spiegel' berichtet Ã¼ber schwarze Kasse beim DFB, Bundestag beschlieÃt Vorratsdatenspeicherung, Bundesrat stimmt Asylrechts-VerschÃ¤rfungen zu, Mehr Asylbewerber erhalten Hartz-IV, EU und TÃ¼rkei wollen gemeinsam Flucht eindÃ¤mmen, Ungarn riegelt Grenze nach Kroatien ab, GedenkstÃ¤tte erinnert an Internierungslager Rivesalte, GÃ¶ring-Eckardt will Spitzenkandidatin bei den GrÃ¼nen werden, Staatsanwaltschaft ermittelt gegen VW-Mitarbeiter, NASA verÃ¶ffentlicht neue Fotos von Pluto, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1016/TV-20151016-2023-2901.webl.h264.mp4"/>
 			<pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
