@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 18 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 18 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 18 Oct 2015 12:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 18 Oct 2015 12:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>18.10.2015 11:19 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1018/TV-100s-1119.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:19 Uhr vom 18.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1018/TV-100s-1119.webl.h264.mp4"/>
+			<pubDate>Sun, 18 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>17.10.2015 11:14 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1017/TV-100s-1114.webl.h264.mp4</link>
@@ -162,34 +169,6 @@
 			<description>Themen der Sendung: MH17-Abschlussbericht, Tausende FlÃ¼chtlinge in der KÃ¤lte-Falle, EmpÃ¶rung Ã¼ber Galgen fÃ¼r Merkel und Gabriel bei Pegida, FÃ¼hrungswechsel bei der Linkspartei, GrÃ¼ne im Bundestag bestÃ¤tigen Fraktionsspitze, Abgaskrise zwingt VW zu Einsparungen, Tote bei Terrorattacken in Israel, Verbraucherpreise verharren auf Niveau des Vorjahres, Frankfurter Buchmesse Ã¶ffnet fÃ¼r Fachbesucher, Fotografin Hilla Becher gestorben, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1013/TV-20151013-2021-5501.webl.h264.mp4"/>
 			<pubDate>Tue, 13 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.10.2015 12:32 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1012/TV-100s-1232.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:32 Uhr vom 12.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1012/TV-100s-1232.webl.h264.mp4"/>
-			<pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 12.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151012_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 12.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/06/77/20/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ AuswÃ¤rtiges Amt verschÃ¤rft Reisehinweis fÃ¼r die TÃ¼rkei +++ Asylbewerber verklagen LaGeSo +++ Serie: Familie Suleiman auf dem Weg nach Berlin +++ Familie Suleiman auf dem Weg nach Berlin +++ Terminprobleme bei der KFZ-Zulassung +++ EindrÃ¼cke vom Festival of Lights +++&lt;/p&gt;&lt;p&gt;12.10.2015 | 29:43 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-12-10-2015-19-30/rbb-Fernsehen/Video?documentId=31067708&amp;bcastId=3822076&quot;&gt;Abendschau 12.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ AuswÃ¤rtiges Amt verschÃ¤rft Reisehinweis fÃ¼r die TÃ¼rkei +++ Asylbewerber verklagen LaGeSo +++ Serie: Familie Suleiman auf dem Weg nach Berlin +++ Familie Suleiman auf dem Weg nach Berlin +++ Terminprobleme bei der KFZ-Zulassung +++ EindrÃ¼cke vom Festival of Lights +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151012_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.10.2015 21:22 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1012/TV-100s-2122.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:22 Uhr vom 12.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1012/TV-100s-2122.webl.h264.mp4"/>
-			<pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1012/TV-20151012-2022-5601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Debatte Ã¼ber Transitzonen, Lage in der TÃ¼rkei nach Anschlag, EU-AuÃenminister beraten Ã¼ber Syrien-Konflikt, Wahl in WeiÃrussland, BundesprÃ¤sident Gauck in SÃ¼dkorea, Wirtschaftsnobelpreis geht an Angus Deaton, Deutscher Buchpreis fÃ¼r Frank Witzel, EM-Qualifikationsspiel Deutschland gegen Georgien, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1012/TV-20151012-2022-5601.webl.h264.mp4"/>
-			<pubDate>Mon, 12 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
