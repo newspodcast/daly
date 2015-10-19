@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 19 Oct 2015 12:30:05 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Oct 2015 12:30:05 GMT</lastBuildDate>
+		<pubDate>Mon, 19 Oct 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 19 Oct 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,27 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1019/TV-100s-1152.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:52 Uhr vom 19.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1019/TV-100s-1152.webl.h264.mp4"/>
+			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 19.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151019_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 19.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/18/69/06/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Zukunft des Spreeparks +++ ZustÃ¤nde im Lageso angeprangert +++ Wie gewappnet ist die S-Bahn? +++ Abzocke bei Hard Candy? +++ Bilanz der Berliner Fahrradstaffel +++Â Neue Wochenserie: Familienunternehmen +++ Menzel-Dach der Humboldt-UniversitÃ¤t verschwindet +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;19.10.2015 | 29:34 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-19-10-2015-19-30/rbb-Fernsehen/Video?documentId=31186894&amp;bcastId=3822076&quot;&gt;Abendschau 19.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Zukunft des Spreeparks +++ ZustÃ¤nde im Lageso angeprangert +++ Wie gewappnet ist die S-Bahn? +++ Abzocke bei Hard Candy? +++ Bilanz der Berliner Fahrradstaffel +++Â Neue Wochenserie: Familienunternehmen +++ Menzel-Dach der Humboldt-UniversitÃ¤t verschwindet +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151019_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.10.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1019/TV-100s-2115.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 19.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1019/TV-100s-2115.webl.h264.mp4"/>
+			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1019/TV-20151019-2022-4301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Pegida: AnhÃ¤nger und Gegner demonstrieren in Dresden, Politiker warnen vor Hetze in der FlÃ¼chtlingsdebatte, Henriette Reker gewinnt OberbÃ¼rgermeisterwahl in KÃ¶ln, Neuer Generalbundesanwalt nimmt Arbeit auf, FlÃ¼chtlinge auf der Balkanroute, Registrierungsstelle fÃ¼r FlÃ¼chtlinge auf Lesbos, AuÃenminister Steinmeier in Saudi Arabien, Unruhen in Israel, Konzernumbau der Deutschen Bank, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1019/TV-20151019-2022-4301.webl.h264.mp4"/>
 			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
