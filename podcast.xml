@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 19 Oct 2015 09:11:03 GMT</pubDate>
-		<lastBuildDate>Mon, 19 Oct 2015 09:11:03 GMT</lastBuildDate>
+		<pubDate>Mon, 19 Oct 2015 12:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 19 Oct 2015 12:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,13 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1019/TV-100s-0832.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 08:32 Uhr vom 19.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1019/TV-100s-0832.webl.h264.mp4"/>
+			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.10.2015 11:52 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1019/TV-100s-1152.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:52 Uhr vom 19.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1019/TV-100s-1152.webl.h264.mp4"/>
 			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
