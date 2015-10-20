@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 20 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Tue, 20 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Tue, 20 Oct 2015 12:30:05 GMT</pubDate>
+		<lastBuildDate>Tue, 20 Oct 2015 12:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>20.10.2015 11:44 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1020/TV-100s-1144.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:44 Uhr vom 20.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1020/TV-100s-1144.webl.h264.mp4"/>
+			<pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>19.10.2015 08:32 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1019/TV-100s-0832.webl.h264.mp4</link>
@@ -169,34 +176,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:36 Uhr vom 15.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1015/TV-100s-2136.webl.h264.mp4"/>
 			<pubDate>Thu, 15 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.10.2015 12:36 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1014/TV-100s-1236.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:36 Uhr vom 14.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1014/TV-100s-1236.webl.h264.mp4"/>
-			<pubDate>Wed, 14 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 14.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151014_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 14.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/10/38/16/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Marode SchieÃstÃ¤nde und die Folgen +++ Erfolg fÃ¼r Bohrer &quot;BÃ¤rlinde +++ Registrierungsstelle in der Bundesallee vorgestellt +++ KrankenkassenbeitrÃ¤ge steigen offenbar +++ Die Sorgen des Mittelstands +++ Studie &quot;Berlin postmigrantisch&quot; +++ Serie: Die Flucht +++ Die Schreibtische der MÃ¤chtigen +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;14.10.2015 | 28:59 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-14-10-2015-19-30/rbb-Fernsehen/Video?documentId=31103804&amp;bcastId=3822076&quot;&gt;Abendschau 14.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Marode SchieÃstÃ¤nde und die Folgen +++ Erfolg fÃ¼r Bohrer &quot;BÃ¤rlinde +++ Registrierungsstelle in der Bundesallee vorgestellt +++ KrankenkassenbeitrÃ¤ge steigen offenbar +++ Die Sorgen des Mittelstands +++ Studie &quot;Berlin postmigrantisch&quot; +++ Serie: Die Flucht +++ Die Schreibtische der MÃ¤chtigen +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151014_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Wed, 14 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.10.2015 21:32 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1014/TV-100s-2132.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:32 Uhr vom 14.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1014/TV-100s-2132.webl.h264.mp4"/>
-			<pubDate>Wed, 14 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1014/TV-20151014-2021-2601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Union Ã¤uÃert scharfe Kritik an Merkels FlÃ¼chtlingspolitik, Neue FlÃ¼chtlings-Erstregistrierungsstelle in Berlin, Regierung rechnet mit 1,7 Prozent Wirtschafts-Wachstum, Kabinett legt Gesetzesentwurf fÃ¼r Atomausstieg vor, Beitragsanstieg bei gesetzlichen Krankenkassen, Offensichtlichen MÃ¤ngel bei Sturmgewehr G36, Commerzbank soll BuÃgeld wegen Beihilfe zur Steuerhinterziehung zahlen, Nach Gewaltwelle riegelt israelische Armee arabische Wohngebiete ab, Hochrangige Beamte nach Anschlag in Ankara entlassen, Iranischer WÃ¤chterrat stimmt Atomabkommen zu, Ãberraschende SchneefÃ¤lle in Teilen Deutschlands, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1014/TV-20151014-2021-2601.webl.h264.mp4"/>
-			<pubDate>Wed, 14 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
