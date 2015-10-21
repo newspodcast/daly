@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 21 Oct 2015 12:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 21 Oct 2015 12:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 21 Oct 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Wed, 21 Oct 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,20 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1021/TV-100s-1231.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:31 Uhr vom 21.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1021/TV-100s-1231.webl.h264.mp4"/>
+			<pubDate>Wed, 21 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>21.10.2015 21:18 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1021/TV-100s-2118.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:18 Uhr vom 21.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1021/TV-100s-2118.webl.h264.mp4"/>
+			<pubDate>Wed, 21 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>21.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1021/TV-20151021-2022-0701.webl.h264.mp4</link>
+			<description>Themen der Sendung: FlÃ¼chtlinge: Angespannte Lage auf der &quot;Balkanroute&quot;, Begrenzung des Zuzugs: 215 BÃ¼rgermeister appellieren an Merkel, Laut BKA-Analyse Angriffe auf FlÃ¼chtlingsunterkÃ¼nfte angestiegen, Kabinett genehmigt deutlich mehr RÃ¼stungsexporte, Merkel trifft Nethanyahu, Gewerkschaftstag der IG-Metall, EU-Kommission erklÃ¤rt SteuervergÃ¼nstigungen fÃ¼r GroÃkonzerne in zwei FÃ¤llen fÃ¼r illegal, Assad trifft Putin, Post erhÃ¶ht Briefporto, Franz Beckenbauer im Visier der  FIFA-Ethik-Kommission, KonzeptkÃ¼nstler Wolfgang Laib mit Kunstpreis &quot;Praemium Imperiale&quot; geehrt, Frank-Schirrmacher-Preis, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1021/TV-20151021-2022-0701.webl.h264.mp4"/>
 			<pubDate>Wed, 21 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
