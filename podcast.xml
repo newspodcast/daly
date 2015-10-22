@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 22 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 22 Oct 2015 12:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 22 Oct 2015 12:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>22.10.2015 12:31 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1022/TV-100s-1231.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:31 Uhr vom 22.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1022/TV-100s-1231.webl.h264.mp4"/>
+			<pubDate>Thu, 22 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>21.10.2015 12:31 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1021/TV-100s-1231.webl.h264.mp4</link>
@@ -176,34 +183,6 @@
 			<description>Themen der Sendung: Messerangriff auf KÃ¶lner Politikerin, Ungarn schlieÃt Grenzen zu Nachbarland Kroatien, Lichterkette fÃ¼r FlÃ¼chtlinge in Berlin, AuÃenminister Steinmeier zu Besuch im Iran, Griechisches Parlament stimmt neuem Sparpaket zu, Erneut  Messerangriffe in Nahost, Winterkorn gibt Chefposten bei VW-GroÃaktionÃ¤r Porsche-Holding auf, DFB-Chef Niersbach weist VorwÃ¼rfe zurÃ¼ck, Ergebnisse des 9. Spieltags und Gesamtsieg der DTM, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1017/TV-20151017-2024-1701.webl.h264.mp4"/>
 			<pubDate>Sat, 17 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>16.10.2015 12:31 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1016/TV-100s-1231.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:31 Uhr vom 16.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1016/TV-100s-1231.webl.h264.mp4"/>
-			<pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>16.10.2015 21:34 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1016/TV-100s-2134.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:34 Uhr vom 16.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1016/TV-100s-2134.webl.h264.mp4"/>
-			<pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>16.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1016/TV-20151016-2023-2901.webl.h264.mp4</link>
-			<description>Themen der Sendung: 'Spiegel' berichtet Ã¼ber schwarze Kasse beim DFB, Bundestag beschlieÃt Vorratsdatenspeicherung, Bundesrat stimmt Asylrechts-VerschÃ¤rfungen zu, Mehr Asylbewerber erhalten Hartz-IV, EU und TÃ¼rkei wollen gemeinsam Flucht eindÃ¤mmen, Ungarn riegelt Grenze nach Kroatien ab, GedenkstÃ¤tte erinnert an Internierungslager Rivesalte, GÃ¶ring-Eckardt will Spitzenkandidatin bei den GrÃ¼nen werden, Staatsanwaltschaft ermittelt gegen VW-Mitarbeiter, NASA verÃ¶ffentlicht neue Fotos von Pluto, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1016/TV-20151016-2023-2901.webl.h264.mp4"/>
-			<pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 16.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151016_sdg1_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 16.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/15/11/34/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Bundesrat stimmt Asylpaket zu +++ Eine Nacht vor dem LaGeSo +++ Serie: Die Flucht (5) +++ Ferienstress am Zentralen Omnibus Bahnhof +++ Festival israelischer KÃ¼nstler in Deutschland Â +++ Ausflugstipp: Guben und Gubin +++ Moderation: Sascha HingstÂ Â Â Â Â Â Â Â &lt;/p&gt;&lt;p&gt;16.10.2015 | 29:18 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-16-10-2015-19-30/rbb-Fernsehen/Video?documentId=31151122&amp;bcastId=3822076&quot;&gt;Abendschau 16.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Bundesrat stimmt Asylpaket zu +++ Eine Nacht vor dem LaGeSo +++ Serie: Die Flucht (5) +++ Ferienstress am Zentralen Omnibus Bahnhof +++ Festival israelischer KÃ¼nstler in Deutschland Â +++ Ausflugstipp: Guben und Gubin +++ Moderation: Sascha HingstÂ Â Â Â Â Â Â Â &lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151016_sdg1_m_16_9_512x288.mp4"/>
-			<pubDate>Fri, 16 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
