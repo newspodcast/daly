@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 23 Oct 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 23 Oct 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Oct 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 24 Oct 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/1023/TV-20151023-2023-2001.webl.h264.mp4</link>
 			<description>Themen der Sendung: Das neue Asylrecht wird morgen in Kraft treten, Slowenien zieht Grenzzaun zu Kroatien in ErwÃ¤gung, AuÃenminister beraten Ã¼ber Lage in Syrien, Ex-DFB-PrÃ¤sident erhebt schwere VorwÃ¼rfe, 60 Jahre Saar-Referendum, 43 Tote bei BusunglÃ¼ck nahe Bordeaux, Mexiko bereitet sich auf Hurrikan &quot;Patricia&quot; vor, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1023/TV-20151023-2023-2001.webl.h264.mp4"/>
+			<pubDate>Fri, 23 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 23.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151023_sdg1_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 23.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/26/28/62/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ S-Bahn-freies Wochenende in NeukÃ¶lln +++ SchlÃ¤gerei vor dem LaGeSo +++ Winterflugplan von Air Berlin in Gefahr +++ Landeskirche schlÃ¤gt Alarm bei Schinkel-Bau +++ BER-Nordbahnsanierung abgeschlossen +++ Volker Staab gewinnt Architektenwettbewerb +++ Serie Berliner Familienunternehmen: Reinigungsunternehmen GRG +++ Ausflugstipp: Pankow â Geschichte zum Anfassen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;23.10.2015 | 29:25 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-23-10-2015/rbb-Fernsehen/Video?documentId=31262850&amp;bcastId=3822076&quot;&gt;Abendschau vom 23.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ S-Bahn-freies Wochenende in NeukÃ¶lln +++ SchlÃ¤gerei vor dem LaGeSo +++ Winterflugplan von Air Berlin in Gefahr +++ Landeskirche schlÃ¤gt Alarm bei Schinkel-Bau +++ BER-Nordbahnsanierung abgeschlossen +++ Volker Staab gewinnt Architektenwettbewerb +++ Serie Berliner Familienunternehmen: Reinigungsunternehmen GRG +++ Ausflugstipp: Pankow â Geschichte zum Anfassen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151023_sdg1_m_16_9_512x288.mp4"/>
 			<pubDate>Fri, 23 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
