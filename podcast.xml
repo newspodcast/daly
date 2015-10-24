@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 24 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 24 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 24 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 24 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 24.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151024_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 24.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/28/27/54/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Tempelhof wird FlÃ¼chtlingsunterkunft +++ Kongress fÃ¼r FirmengrÃ¼nder +++ Verkehrschaos im Norden befÃ¼rchtet +++ Zuschauer unterstÃ¼tzen syrischen FlÃ¼chtling +++ 70 Jahre VolkssolidaritÃ¤t +++ Homeland und die arabischen Graffiti +++ Gleich nebenan: Antquariat Mertens und Pomplun +++&lt;/p&gt;&lt;p&gt;24.10.2015 | 29:18 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-24-10-2015-19-30/rbb-Fernsehen/Video?documentId=31282742&amp;bcastId=3822076&quot;&gt;Abendschau 24.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Tempelhof wird FlÃ¼chtlingsunterkunft +++ Kongress fÃ¼r FirmengrÃ¼nder +++ Verkehrschaos im Norden befÃ¼rchtet +++ Zuschauer unterstÃ¼tzen syrischen FlÃ¼chtling +++ 70 Jahre VolkssolidaritÃ¤t +++ Homeland und die arabischen Graffiti +++ Gleich nebenan: Antquariat Mertens und Pomplun +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151024_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sat, 24 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>24.10.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1024/TV-100s-2115.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 24.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1024/TV-100s-2115.webl.h264.mp4"/>
+			<pubDate>Sat, 24 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>24.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1024/TV-20151024-2022-2201.webl.h264.mp4</link>
+			<description>Themen der Sendung: Union streitet Ã¼ber FlÃ¼chtlingspolitik, 16-Punkte-Plan fÃ¼r FlÃ¼chtlingskrise von EU-KommissionsprÃ¤sident Juncker, Balkanstaaten erwÃ¤gen GrenzschlieÃung, Lage an der serbisch-kroatischen Grenze,  70. Geburtstag der Vereinten Nationen, Abschlussbericht der Bischofssynode in Rom, Stilllegung der Braunkohle-Kraftwerke, Hurrikan &quot;Patricia&quot; Ã¼ber Mexiko, Bundesliga am Samstag, Die Lottozahlen, Zeitumstellung, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1024/TV-20151024-2022-2201.webl.h264.mp4"/>
+			<pubDate>Sat, 24 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 23.10.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151023_sdg_m_16_9_512x288.mp4</link>
@@ -190,34 +211,6 @@
 			<description>Themen der Sendung: Pegida: AnhÃ¤nger und Gegner demonstrieren in Dresden, Politiker warnen vor Hetze in der FlÃ¼chtlingsdebatte, Henriette Reker gewinnt OberbÃ¼rgermeisterwahl in KÃ¶ln, Neuer Generalbundesanwalt nimmt Arbeit auf, FlÃ¼chtlinge auf der Balkanroute, Registrierungsstelle fÃ¼r FlÃ¼chtlinge auf Lesbos, AuÃenminister Steinmeier in Saudi Arabien, Unruhen in Israel, Konzernumbau der Deutschen Bank, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1019/TV-20151019-2022-4301.webl.h264.mp4"/>
 			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>18.10.2015 11:19 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1018/TV-100s-1119.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:19 Uhr vom 18.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1018/TV-100s-1119.webl.h264.mp4"/>
-			<pubDate>Sun, 18 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 18.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151018_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 18.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/16/80/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Suche nach dem kleinen Mohammed +++ Katastrophale Gesundheitsversorgung am LagesoÂ  +++ Kunst fÃ¼r die FlÃ¼chtlingshilfe +++ Verleihung des âEcho Klassikâ +++ Festival of Lights geht zu Ende +++ Sonntagsfrage: Welche ist die Ã¤lteste Schule Berlins? +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;18.10.2015 | 29:11 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-18-10-2015-19-30/rbb-Fernsehen/Video?documentId=31168082&amp;bcastId=3822076&quot;&gt;Abendschau 18.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Suche nach dem kleinen Mohammed +++ Katastrophale Gesundheitsversorgung am LagesoÂ  +++ Kunst fÃ¼r die FlÃ¼chtlingshilfe +++ Verleihung des âEcho Klassikâ +++ Festival of Lights geht zu Ende +++ Sonntagsfrage: Welche ist die Ã¤lteste Schule Berlins? +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151018_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sun, 18 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>18.10.2015 21:20 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1018/TV-100s-2120.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:20 Uhr vom 18.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1018/TV-100s-2120.webl.h264.mp4"/>
-			<pubDate>Sun, 18 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>18.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1018/TV-20151018-2023-5901.webl.h264.mp4</link>
-			<description>Themen der Sendung: Merkel zu GesprÃ¤chen in der TÃ¼rkei, Polizeigewerkschaft fordert Grenzzaun, OberbÃ¼rgermeister-Wahl in KÃ¶ln, Nationalratswahlen in der Schweiz, Parlamentswahlen in Ãgypten, Deutsche Bank vor Konzernumbau, Auftakt des IG-Metall-Gewerkschaftstags, Navid Kermani erhÃ¤lt Friedenspreis, Bundesliga, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1018/TV-20151018-2023-5901.webl.h264.mp4"/>
-			<pubDate>Sun, 18 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
