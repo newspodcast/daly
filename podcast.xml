@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 25 Oct 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Sun, 25 Oct 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Oct 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Oct 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/1025/TV-20151025-2022-4801.webl.h264.mp4</link>
 			<description>Themen der Sendung: EU-Sondertreffen zur FlÃ¼chtlingskrise, Diskussion in der Union Ã¼ber Kurs der Kanzlerin, Demos gegen &quot;Hogesa&quot;, Parlamentswahl in Polen, Argentinier wÃ¤hlen PrÃ¤sidenten, Moskau und Kiew verhÃ¤ngen Flugverbote, Proteste gegen Regierung in Montenegro, Deutsche Frauen-Elf bezwingt die TÃ¼rkei, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1025/TV-20151025-2022-4801.webl.h264.mp4"/>
+			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.10.2015 22:01 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2201.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:01 Uhr vom 25.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2201.webl.h264.mp4"/>
 			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
