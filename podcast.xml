@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 25 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 25 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 25 Oct 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 25 Oct 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 25.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151025_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 25.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/29/16/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ BombenentschÃ¤rfung in Kreuzberg erfolgreich +++ EU debattiert Ã¼ber gerechte Verteilung von FlÃ¼chtlingen +++ Refugee Hackathon in Berlin +++ Bezahlen mit dem Smartphone +++ Premiere an der SchaubÃ¼hne: Fear +++ Sonntagsfrage +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;25.10.2015 | 29:09 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-25-10-2015/rbb-Fernsehen/Video?documentId=31291612&amp;bcastId=3822076&quot;&gt;Abendschau vom 25.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ BombenentschÃ¤rfung in Kreuzberg erfolgreich +++ EU debattiert Ã¼ber gerechte Verteilung von FlÃ¼chtlingen +++ Refugee Hackathon in Berlin +++ Bezahlen mit dem Smartphone +++ Premiere an der SchaubÃ¼hne: Fear +++ Sonntagsfrage +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151025_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.10.2015 21:17 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2117.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 25.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2117.webl.h264.mp4"/>
+			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1025/TV-20151025-2022-4801.webl.h264.mp4</link>
+			<description>Themen der Sendung: EU-Sondertreffen zur FlÃ¼chtlingskrise, Diskussion in der Union Ã¼ber Kurs der Kanzlerin, Demos gegen &quot;Hogesa&quot;, Parlamentswahl in Polen, Argentinier wÃ¤hlen PrÃ¤sidenten, Moskau und Kiew verhÃ¤ngen Flugverbote, Proteste gegen Regierung in Montenegro, Deutsche Frauen-Elf bezwingt die TÃ¼rkei, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1025/TV-20151025-2022-4801.webl.h264.mp4"/>
+			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 24.10.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151024_sdg_m_16_9_512x288.mp4</link>
@@ -176,41 +197,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:12 Uhr vom 20.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1020/TV-100s-2312.webl.h264.mp4"/>
 			<pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.10.2015 08:32 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1019/TV-100s-0832.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 08:32 Uhr vom 19.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1019/TV-100s-0832.webl.h264.mp4"/>
-			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.10.2015 11:52 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1019/TV-100s-1152.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:52 Uhr vom 19.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1019/TV-100s-1152.webl.h264.mp4"/>
-			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 19.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151019_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 19.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/18/69/06/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Zukunft des Spreeparks +++ ZustÃ¤nde im Lageso angeprangert +++ Wie gewappnet ist die S-Bahn? +++ Abzocke bei Hard Candy? +++ Bilanz der Berliner Fahrradstaffel +++Â Neue Wochenserie: Familienunternehmen +++ Menzel-Dach der Humboldt-UniversitÃ¤t verschwindet +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;19.10.2015 | 29:34 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-19-10-2015-19-30/rbb-Fernsehen/Video?documentId=31186894&amp;bcastId=3822076&quot;&gt;Abendschau 19.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Zukunft des Spreeparks +++ ZustÃ¤nde im Lageso angeprangert +++ Wie gewappnet ist die S-Bahn? +++ Abzocke bei Hard Candy? +++ Bilanz der Berliner Fahrradstaffel +++Â Neue Wochenserie: Familienunternehmen +++ Menzel-Dach der Humboldt-UniversitÃ¤t verschwindet +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151019_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.10.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1019/TV-100s-2115.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 19.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1019/TV-100s-2115.webl.h264.mp4"/>
-			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1019/TV-20151019-2022-4301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Pegida: AnhÃ¤nger und Gegner demonstrieren in Dresden, Politiker warnen vor Hetze in der FlÃ¼chtlingsdebatte, Henriette Reker gewinnt OberbÃ¼rgermeisterwahl in KÃ¶ln, Neuer Generalbundesanwalt nimmt Arbeit auf, FlÃ¼chtlinge auf der Balkanroute, Registrierungsstelle fÃ¼r FlÃ¼chtlinge auf Lesbos, AuÃenminister Steinmeier in Saudi Arabien, Unruhen in Israel, Konzernumbau der Deutschen Bank, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1019/TV-20151019-2022-4301.webl.h264.mp4"/>
-			<pubDate>Mon, 19 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
