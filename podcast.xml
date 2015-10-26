@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 26 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 26 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 26 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 26 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>26.10.2015 21:22 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1026/TV-100s-2122.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:22 Uhr vom 26.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1026/TV-100s-2122.webl.h264.mp4"/>
+			<pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1026/TV-20151026-2055-1001.webl.h264.mp4</link>
+			<description>Themen der Sendung: FlÃ¼chtlingsgipfel in BrÃ¼ssel, Verhaltene Reaktionen aus Berlin auf FlÃ¼chtlingsgipfel, Arbeitsministerin Nahles bezeichnet FlÃ¼chtlinge als groÃe Chance fÃ¼r deutschen Arbeitsmarkt, Erzkonservative Partei PiS gewinnt Wahl in Polen, Von der Leyen sichert MilitÃ¤reinsatz im Irak zu, Schweres Erdbeben in Afghanistan und Pakistan, Beckenbauer Ã¤uÃert sich zu AffÃ¤re um WM 2006, FIFA wÃ¤hlt neuen PrÃ¤sidenten, Hoffenheim entlÃ¤sst Trainer Gisdol, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1026/TV-20151026-2055-1001.webl.h264.mp4"/>
+			<pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 25.10.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151025_sdg_m_16_9_512x288.mp4</link>
@@ -162,48 +176,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 21.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/22/38/98/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Verkehrschaos in der Stadt +++ Brandbrief von Air Berlin +++ Potsdamer Platz im Wandel +++Â So funktioniert das &quot;FlÃ¼chtlingsmanagement&quot; +++ Probleme mit unbegleiteten FlÃ¼chtlingen +++ Serie: Familienunternehmen MT.DERM GmbH +++ ZurÃ¼ck in die Zukunft +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;21.10.2015 | 29:41 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-10-2015-19-30/rbb-Fernsehen/Video?documentId=31223886&amp;bcastId=3822076&quot;&gt;Abendschau 21.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Verkehrschaos in der Stadt +++ Brandbrief von Air Berlin +++ Potsdamer Platz im Wandel +++Â So funktioniert das &quot;FlÃ¼chtlingsmanagement&quot; +++ Probleme mit unbegleiteten FlÃ¼chtlingen +++ Serie: Familienunternehmen MT.DERM GmbH +++ ZurÃ¼ck in die Zukunft +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151021_sdg_m_16_9_512x288.mp4"/>
 			<pubDate>Wed, 21 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>20.10.2015 11:44 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1020/TV-100s-1144.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 11:44 Uhr vom 20.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1020/TV-100s-1144.webl.h264.mp4"/>
-			<pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>20.10.2015 19:34 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1020/TV-100s-1934.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:34 Uhr vom 20.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1020/TV-100s-1934.webl.h264.mp4"/>
-			<pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>20.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1020/TV-20151020-2021-5301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Reaktionen auf &quot;Pegida&quot;-Demonstration, Ehrenamtliche FlÃ¼chtlingshelfer stoÃen an ihre Grenzen, Weiterhin hoher Andrang auf Balkanroute, Zehntausende fliehen aus Syrien, Ban Ki Moon trifft Regierungschef Netanjahu, Liberale gewinnen Parlamentswahl in Kanada, Chinesischer PrÃ¤sident Xi auf Staatsbesuch in London, Marine Le-Pen wegen islamkritischer ÃuÃerungen vor Gericht, Pistorius in Hausarrest, JÃ¶rg Hoffmann neuer Vorsitzender der IG Metall, BGH-Urteil zu Ersatz-Bankkarte, Merkel besucht Trauernde in Haltern, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1020/TV-20151020-2021-5301.webl.h264.mp4"/>
-			<pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>17.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1020/TV-20151020-1406-4601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Messerangriff auf KÃ¶lner Politikerin, Ungarn schlieÃt Grenzen zu Nachbarland Kroatien, AuÃenminister Steinmeier zu Besuch im Iran, Griechisches Parlament stimmt neuem Sparpaket zu, Erneut  Messerangriffe in Nahost, Winterkorn gibt Chefposten bei VW-GroÃaktionÃ¤r Porsche-Holding auf, DFB-Chef Niersbach weist VorwÃ¼rfe zurÃ¼ck, Ergebnisse des 9. Spieltags und Gesamtsieg der DTM, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1020/TV-20151020-1406-4601.webl.h264.mp4"/>
-			<pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 20.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151020_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 20.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/20/69/58/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++Â Wie weiter im CafÃ© Kranzler? +++ Prozess zu NVA-Uniformen eingestellt +++ IQ-Test fÃ¼r Berliner +++Â Neue Notunterkunft fÃ¼r Obdachlose +++ Suleiman-Familie nach Flucht in Berlin angekommen +++ Serie Familienunternehmen: Kfz-Meister Lundt +++ Alba bei Eurocup-Heimpremiere +++ StraÃensÃ¤ngerin Elen Wendt vor Riesenkonzert +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;20.10.2015 | 29:21 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-20-10-2015-19-30/rbb-Fernsehen/Video?documentId=31206946&amp;bcastId=3822076&quot;&gt;Abendschau 20.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++Â Wie weiter im CafÃ© Kranzler? +++ Prozess zu NVA-Uniformen eingestellt +++ IQ-Test fÃ¼r Berliner +++Â Neue Notunterkunft fÃ¼r Obdachlose +++ Suleiman-Familie nach Flucht in Berlin angekommen +++ Serie Familienunternehmen: Kfz-Meister Lundt +++ Alba bei Eurocup-Heimpremiere +++ StraÃensÃ¤ngerin Elen Wendt vor Riesenkonzert +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151020_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>20.10.2015 23:12 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1020/TV-100s-2312.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:12 Uhr vom 20.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1020/TV-100s-2312.webl.h264.mp4"/>
-			<pubDate>Tue, 20 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
