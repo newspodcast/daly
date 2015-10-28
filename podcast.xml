@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 28 Oct 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Wed, 28 Oct 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Wed, 28 Oct 2015 21:30:08 GMT</pubDate>
+		<lastBuildDate>Wed, 28 Oct 2015 21:30:08 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 28.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151028_sdg_NEU_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 28.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/34/54/44/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Wieder Bombenfund in Kreuzberg +++ Wieder Bombenfund in Kreuzberg +++ Wieder Bombenfund in Kreuzberg +++ Nachrichten I +++ Live: Roter Teppich fÃ¼r 007 +++ Stimmung an der SPD-Basis +++ FlÃ¼chtlinge an der FU +++ Nachrichten II +++ Serie: Berliner in Kalifornien&lt;/p&gt;&lt;p&gt;28.10.2015 | 28:59 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-28-10-2015-19-30/rbb-Fernsehen/Video?documentId=31345432&amp;bcastId=3822076&quot;&gt;Abendschau 28.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Wieder Bombenfund in Kreuzberg +++ Wieder Bombenfund in Kreuzberg +++ Wieder Bombenfund in Kreuzberg +++ Nachrichten I +++ Live: Roter Teppich fÃ¼r 007 +++ Stimmung an der SPD-Basis +++ FlÃ¼chtlinge an der FU +++ Nachrichten II +++ Serie: Berliner in Kalifornien&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151028_sdg_NEU_m_16_9_512x288.mp4"/>
+			<pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>28.10.2015 21:03 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1028/TV-100s-2103.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:03 Uhr vom 28.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1028/TV-100s-2103.webl.h264.mp4"/>
+			<pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>28.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1028/TV-20151028-2023-2501.webl.h264.mp4</link>
+			<description>Themen der Sendung: Diskussion Ã¼ber FlÃ¼chtlingskrise, USA erwÃ¤gen neue Strategie gegen IS, Kabinett beschlieÃt Recht auf Basiskonto, Quartalszahlen VW, Neue EU-Abgasregeln, Lammert fordert mehr Transparenz bei TTIP, Gabriel trifft Putin, TÃ¼rkische Polizei stÃ¼rmt Medienkonzern, Abbas bittet UN-Menschenrechtsrat um Hilfe, Brandrodungen in Indonesien, Prozessbeginn &quot;Stuttgart 21&quot;, H.-J.-Friedrichs-Preis fÃ¼r Fernsehjournalismus,  Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1028/TV-20151028-2023-2501.webl.h264.mp4"/>
+			<pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 27.10.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151027_sdg_m_16_9_512x288.mp4</link>
@@ -141,48 +162,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 23.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/26/28/62/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ S-Bahn-freies Wochenende in NeukÃ¶lln +++ SchlÃ¤gerei vor dem LaGeSo +++ Winterflugplan von Air Berlin in Gefahr +++ Landeskirche schlÃ¤gt Alarm bei Schinkel-Bau +++ BER-Nordbahnsanierung abgeschlossen +++ Volker Staab gewinnt Architektenwettbewerb +++ Serie Berliner Familienunternehmen: Reinigungsunternehmen GRG +++ Ausflugstipp: Pankow â Geschichte zum Anfassen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;23.10.2015 | 29:25 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-23-10-2015/rbb-Fernsehen/Video?documentId=31262850&amp;bcastId=3822076&quot;&gt;Abendschau vom 23.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ S-Bahn-freies Wochenende in NeukÃ¶lln +++ SchlÃ¤gerei vor dem LaGeSo +++ Winterflugplan von Air Berlin in Gefahr +++ Landeskirche schlÃ¤gt Alarm bei Schinkel-Bau +++ BER-Nordbahnsanierung abgeschlossen +++ Volker Staab gewinnt Architektenwettbewerb +++ Serie Berliner Familienunternehmen: Reinigungsunternehmen GRG +++ Ausflugstipp: Pankow â Geschichte zum Anfassen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151023_sdg1_m_16_9_512x288.mp4"/>
 			<pubDate>Fri, 23 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>22.10.2015 12:31 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1022/TV-100s-1231.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 12:31 Uhr vom 22.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1022/TV-100s-1231.webl.h264.mp4"/>
-			<pubDate>Thu, 22 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>22.10.2015 19:45 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1022/TV-100s-1945.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:45 Uhr vom 22.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1022/TV-100s-1945.webl.h264.mp4"/>
-			<pubDate>Thu, 22 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>22.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1022/TV-20151022-2044-5801.webl.h264.mp4</link>
-			<description>Themen der Sendung: Polizei zerschlÃ¤gt rechtsextremes Netzwerk, Henriette Reker nimmt Wahl zur OberbÃ¼rgermeisterin an, Lage in Slowenien spitzt sich zu, Netanjahu und Kerry zu Nahost-GesprÃ¤chen in Berlin, DFB-Chef Niersbach weist KorruptionsvorwÃ¼rfe zurÃ¼ck, Prozessauftakt gegen Ex-Porsche-Chef Wiedeking, EZB-BeschlÃ¼sse zu Leitzins und Anleiheprogramm, Hillary Clinton Ã¼bernimmt politische Verantwortung fÃ¼r Bengasi-Anschlag, UN warnen vor Hungerkatastrophe im SÃ¼d-Sudan, Tote und Verletzte bei Schwertattacke in Schweden, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1022/TV-20151022-2044-5801.webl.h264.mp4"/>
-			<pubDate>Thu, 22 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 22.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151022_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 22.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/24/30/48/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Illegale Ferienwohnung am Pranger +++ Kleingartenkolonie Oeynhausen vor dem Aus +++ Bilanz der neuen FlÃ¼chtlingsregistrierung +++ Nachrichten I +++ MietenbÃ¼ndnis dÃ¤mpft Preise +++ Ausstellung: Wohnen der Zukunft +++ Nachrichten II +++ AmtseinfÃ¼hrung der neuen Polizeipfarrerin +++ Familienunternehmen: Hahn Bestattungen +++ Das Wetter: Ende der Sommerzeit +++ Berliner soll in Simbabwe Elefanten erschossen haben&lt;/p&gt;&lt;p&gt;22.10.2015 | 29:36 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-22-10-2015-19-30/rbb-Fernsehen/Video?documentId=31243036&amp;bcastId=3822076&quot;&gt;Abendschau 22.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Illegale Ferienwohnung am Pranger +++ Kleingartenkolonie Oeynhausen vor dem Aus +++ Bilanz der neuen FlÃ¼chtlingsregistrierung +++ Nachrichten I +++ MietenbÃ¼ndnis dÃ¤mpft Preise +++ Ausstellung: Wohnen der Zukunft +++ Nachrichten II +++ AmtseinfÃ¼hrung der neuen Polizeipfarrerin +++ Familienunternehmen: Hahn Bestattungen +++ Das Wetter: Ende der Sommerzeit +++ Berliner soll in Simbabwe Elefanten erschossen haben&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151022_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 22 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>22.10.2015 21:41 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1022/TV-100s-2141.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:41 Uhr vom 22.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1022/TV-100s-2141.webl.h264.mp4"/>
-			<pubDate>Thu, 22 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 22.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151022_sdg_blur_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 22.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/24/30/48/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Illegale Ferienwohnung am Pranger +++ Kleingartenkolonie Oeynhausen vor dem Aus +++ Bilanz der neuen FlÃ¼chtlingsregistrierung +++ MietenbÃ¼ndnis dÃ¤mpft Preise +++ Wohnen der Zukunft +++ AmtseinfÃ¼hrung der neuen Polizeipfarrerin +++ Familienunternehmen: Hahn Bestattungen +++ Ende der Sommerzeit +++ Berliner soll in Simbabwe Elefanten erschossen haben +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;22.10.2015 | 29:38 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-22-10-2015-19-30/rbb-Fernsehen/Video?documentId=31243036&amp;bcastId=3822076&quot;&gt;Abendschau 22.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Illegale Ferienwohnung am Pranger +++ Kleingartenkolonie Oeynhausen vor dem Aus +++ Bilanz der neuen FlÃ¼chtlingsregistrierung +++ MietenbÃ¼ndnis dÃ¤mpft Preise +++ Wohnen der Zukunft +++ AmtseinfÃ¼hrung der neuen Polizeipfarrerin +++ Familienunternehmen: Hahn Bestattungen +++ Ende der Sommerzeit +++ Berliner soll in Simbabwe Elefanten erschossen haben +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151022_sdg_blur_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 22 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
