@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 30 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 30 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 30 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 30 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 30.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151030_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 30.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/38/19/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Fall Elias: Polizei macht verdÃ¤chtigen Fund +++ Fall Mohamed: Situation am LaGeSo +++ Fall Elias: Reaktionen aus der Wohnumgebung +++ Bombe in Kreuzberg entschÃ¤rft +++ Zehn Jahre Ermittlungsgruppe Berlin-Brandenburg +++ KÃ¤ltehilfe fÃ¼r Obdachlose +++ Serie: Kalifornische Berliner +++ Ausflugstipp: Schlepzig +++&lt;/p&gt;&lt;p&gt;30.10.2015 | 29:07 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-30-10-2015-19-30/rbb-Fernsehen/Video?documentId=31381982&amp;bcastId=3822076&quot;&gt;Abendschau 30.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Fall Elias: Polizei macht verdÃ¤chtigen Fund +++ Fall Mohamed: Situation am LaGeSo +++ Fall Elias: Reaktionen aus der Wohnumgebung +++ Bombe in Kreuzberg entschÃ¤rft +++ Zehn Jahre Ermittlungsgruppe Berlin-Brandenburg +++ KÃ¤ltehilfe fÃ¼r Obdachlose +++ Serie: Kalifornische Berliner +++ Ausflugstipp: Schlepzig +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151030_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Fri, 30 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>30.10.2015 21:14 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1030/TV-100s-2114.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 30.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1030/TV-100s-2114.webl.h264.mp4"/>
+			<pubDate>Fri, 30 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>30.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1030/TV-20151030-2024-1101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Mehrere Staaten beraten Ã¼ber den Syrien-Konflikt, US-Regierung bereitet Bodentruppen gegen Terrormiliz IS vor, Lage der Menschen in Syrien wird immer verzweifelter, Tote bei UnglÃ¼cken vor griechischen Inseln, Koalition vor dem Gipfel weiter tief zerstritten, Wohnungsbau soll mit Blick auf die FlÃ¼chtlingskrise angekurbelt werden, Bundesregierung will die Arbeit vom BND strenger regulieren,  VW plant Amnestie fÃ¼r verwickelte Mitarbeiter, Schweres BusunglÃ¼ck in Erfurt, KassenbeitrÃ¤ge sollen nÃ¤chstes Jahr steigen, Vulkan Popocatepetl in Mexiko ausgebrochen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1030/TV-20151030-2024-1101.webl.h264.mp4"/>
+			<pubDate>Fri, 30 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 29.10.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151029_sdg_m_16_9_512x288.mp4</link>
@@ -134,27 +155,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:01 Uhr vom 25.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2201.webl.h264.mp4"/>
 			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 24.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151024_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 24.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/28/27/54/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Tempelhof wird FlÃ¼chtlingsunterkunft +++ Kongress fÃ¼r FirmengrÃ¼nder +++ Verkehrschaos im Norden befÃ¼rchtet +++ Zuschauer unterstÃ¼tzen syrischen FlÃ¼chtling +++ 70 Jahre VolkssolidaritÃ¤t +++ Homeland und die arabischen Graffiti +++ Gleich nebenan: Antquariat Mertens und Pomplun +++&lt;/p&gt;&lt;p&gt;24.10.2015 | 29:18 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-24-10-2015-19-30/rbb-Fernsehen/Video?documentId=31282742&amp;bcastId=3822076&quot;&gt;Abendschau 24.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Tempelhof wird FlÃ¼chtlingsunterkunft +++ Kongress fÃ¼r FirmengrÃ¼nder +++ Verkehrschaos im Norden befÃ¼rchtet +++ Zuschauer unterstÃ¼tzen syrischen FlÃ¼chtling +++ 70 Jahre VolkssolidaritÃ¤t +++ Homeland und die arabischen Graffiti +++ Gleich nebenan: Antquariat Mertens und Pomplun +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151024_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sat, 24 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>24.10.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1024/TV-100s-2115.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 24.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1024/TV-100s-2115.webl.h264.mp4"/>
-			<pubDate>Sat, 24 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>24.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1024/TV-20151024-2022-2201.webl.h264.mp4</link>
-			<description>Themen der Sendung: Union streitet Ã¼ber FlÃ¼chtlingspolitik, 16-Punkte-Plan fÃ¼r FlÃ¼chtlingskrise von EU-KommissionsprÃ¤sident Juncker, Balkanstaaten erwÃ¤gen GrenzschlieÃung, Lage an der serbisch-kroatischen Grenze,  70. Geburtstag der Vereinten Nationen, Abschlussbericht der Bischofssynode in Rom, Stilllegung der Braunkohle-Kraftwerke, Hurrikan &quot;Patricia&quot; Ã¼ber Mexiko, Bundesliga am Samstag, Die Lottozahlen, Zeitumstellung, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1024/TV-20151024-2022-2201.webl.h264.mp4"/>
-			<pubDate>Sat, 24 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
