@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 31 Oct 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 31 Oct 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 31 Oct 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 31 Oct 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 31.10.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151031_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 31.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/39/50/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Trauer um Mohamed und Elias +++ Zunehmende Gewalt am Kotti +++ Nachrichten I +++ &quot;League of Legends&quot; lockt tausende Zuschauer +++ Neuerungen beim Meldegesetz +++ Nachrichten II +++ Serie: Berliner in Kalifornien +++ Gleich nebenan: Emmas Enkel&lt;/p&gt;&lt;p&gt;31.10.2015 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-31-10-2015-19-30/rbb-Fernsehen/Video?documentId=31395034&amp;bcastId=3822076&quot;&gt;Abendschau 31.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Trauer um Mohamed und Elias +++ Zunehmende Gewalt am Kotti +++ Nachrichten I +++ &quot;League of Legends&quot; lockt tausende Zuschauer +++ Neuerungen beim Meldegesetz +++ Nachrichten II +++ Serie: Berliner in Kalifornien +++ Gleich nebenan: Emmas Enkel&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151031_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>31.10.2015 21:27 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1031/TV-100s-2127.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:27 Uhr vom 31.10.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1031/TV-100s-2127.webl.h264.mp4"/>
+			<pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>31.10.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1031/TV-20151031-2022-5102.webl.h264.mp4</link>
+			<description>Themen der Sendung: Schweres FlugzeugunglÃ¼ck in Ãgypten, SPD prÃ¤sentiert Einreisekonzept fÃ¼r FlÃ¼chtlinge, Lage an der Grenze Sloweniens, Evangelische Kirche feiert Reformationstag, SPD-GeneralsekretÃ¤rin Fahimi will nicht erneut kandidieren, NRW kauft weitere Steuer-CD, UN-GeneralsekretÃ¤r Ban beim Roten Kreuz, EZB prÃ¼ft Griechenlands Banken, Tote bei Brand in Bukarester Diskothek, Rainald Goetz erhÃ¤lt BÃ¼chner-Preis, Ergebnisse der FuÃball-Bundesliga, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1031/TV-20151031-2022-5102.webl.h264.mp4"/>
+			<pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 30.10.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151030_sdg_m_16_9_512x288.mp4</link>
@@ -127,34 +148,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:58 Uhr vom 26.10.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1026/TV-100s-2158.webl.h264.mp4"/>
 			<pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 25.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151025_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 25.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/29/16/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ BombenentschÃ¤rfung in Kreuzberg erfolgreich +++ EU debattiert Ã¼ber gerechte Verteilung von FlÃ¼chtlingen +++ Refugee Hackathon in Berlin +++ Bezahlen mit dem Smartphone +++ Premiere an der SchaubÃ¼hne: Fear +++ Sonntagsfrage +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;25.10.2015 | 29:09 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-25-10-2015/rbb-Fernsehen/Video?documentId=31291612&amp;bcastId=3822076&quot;&gt;Abendschau vom 25.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ BombenentschÃ¤rfung in Kreuzberg erfolgreich +++ EU debattiert Ã¼ber gerechte Verteilung von FlÃ¼chtlingen +++ Refugee Hackathon in Berlin +++ Bezahlen mit dem Smartphone +++ Premiere an der SchaubÃ¼hne: Fear +++ Sonntagsfrage +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151025_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.10.2015 21:17 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2117.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 25.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2117.webl.h264.mp4"/>
-			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1025/TV-20151025-2022-4801.webl.h264.mp4</link>
-			<description>Themen der Sendung: EU-Sondertreffen zur FlÃ¼chtlingskrise, Diskussion in der Union Ã¼ber Kurs der Kanzlerin, Demos gegen &quot;Hogesa&quot;, Parlamentswahl in Polen, Argentinier wÃ¤hlen PrÃ¤sidenten, Moskau und Kiew verhÃ¤ngen Flugverbote, Proteste gegen Regierung in Montenegro, Deutsche Frauen-Elf bezwingt die TÃ¼rkei, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1025/TV-20151025-2022-4801.webl.h264.mp4"/>
-			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.10.2015 22:01 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2201.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:01 Uhr vom 25.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1025/TV-100s-2201.webl.h264.mp4"/>
-			<pubDate>Sun, 25 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
