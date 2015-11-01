@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 01 Nov 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 01 Nov 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Nov 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Nov 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/1101/TV-20151101-2024-2101.webl.h264.mp4</link>
 			<description>Themen der Sendung: Keine Einigung beim FlÃ¼chtlingsgipfel, Lage der FlÃ¼chtlinge in Deutschland, AKP gewinnt Parlamentswahl in der TÃ¼rkei, Terroranschlag in Mogadischu , Ermittlungen zum Flugzeugabsturz in Ãgypten, Israelis gedenken Rabin, GÃ¼nter Schabowski gestorben, Katholiken begehen Allerheiligen, Ergebnisse der FuÃball-Bundesliga, Bronzemedaille fÃ¼r Deutschland bei Turn-WM, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1101/TV-20151101-2024-2101.webl.h264.mp4"/>
+			<pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 01.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151101_sdg1_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 01.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/40/69/56/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ GÃ¼nter Schabowski gestorben +++ In Luckenwalde gefundene Leiche ist Elias +++ Wohnungsbau: KleingÃ¤rten mÃ¼ssen weichen +++ Antisemitismus im AmateurfuÃball +++ Karte fÃ¼r StraÃenmusiker +++ Sonntagsfrage: GlÃ¤serne Blume aus dem Palast der Republik +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;01.11.2015 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-01-11-2015/rbb-Fernsehen/Video?documentId=31406944&amp;bcastId=3822076&quot;&gt;Abendschau vom 01.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ GÃ¼nter Schabowski gestorben +++ In Luckenwalde gefundene Leiche ist Elias +++ Wohnungsbau: KleingÃ¤rten mÃ¼ssen weichen +++ Antisemitismus im AmateurfuÃball +++ Karte fÃ¼r StraÃenmusiker +++ Sonntagsfrage: GlÃ¤serne Blume aus dem Palast der Republik +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151101_sdg1_m_16_9_512x288.mp4"/>
 			<pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
