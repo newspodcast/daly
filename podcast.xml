@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 01 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 01 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 01 Nov 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 01 Nov 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 01.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151101_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 01.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/40/69/56/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ GÃ¼nter Schabowski gestorben +++ In Luckenwalde gefundene Leiche ist Elias +++ Wohnungsbau: KleingÃ¤rten mÃ¼ssen weichen +++ Antisemitismus im AmateurfuÃball +++ Karte fÃ¼r StraÃenmusiker +++ Sonntagsfrage: GlÃ¤serne Blume aus dem Palast der Republik +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;01.11.2015 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-01-11-2015/rbb-Fernsehen/Video?documentId=31406944&amp;bcastId=3822076&quot;&gt;Abendschau vom 01.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ GÃ¼nter Schabowski gestorben +++ In Luckenwalde gefundene Leiche ist Elias +++ Wohnungsbau: KleingÃ¤rten mÃ¼ssen weichen +++ Antisemitismus im AmateurfuÃball +++ Karte fÃ¼r StraÃenmusiker +++ Sonntagsfrage: GlÃ¤serne Blume aus dem Palast der Republik +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151101_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>01.11.2015 21:21 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1101/TV-100s-2121.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:21 Uhr vom 01.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1101/TV-100s-2121.webl.h264.mp4"/>
+			<pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>01.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1101/TV-20151101-2024-2101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Keine Einigung beim FlÃ¼chtlingsgipfel, Lage der FlÃ¼chtlinge in Deutschland, AKP gewinnt Parlamentswahl in der TÃ¼rkei, Terroranschlag in Mogadischu , Ermittlungen zum Flugzeugabsturz in Ãgypten, Israelis gedenken Rabin, GÃ¼nter Schabowski gestorben, Katholiken begehen Allerheiligen, Ergebnisse der FuÃball-Bundesliga, Bronzemedaille fÃ¼r Deutschland bei Turn-WM, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1101/TV-20151101-2024-2101.webl.h264.mp4"/>
+			<pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 31.10.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151031_sdg_m_16_9_512x288.mp4</link>
@@ -120,34 +141,6 @@
 			<description>Themen der Sendung: Bayern macht Ãsterreich in FlÃ¼chtlingskrise massive VorwÃ¼rfe, Seehofer stellt Merkel eine Frist in der FlÃ¼chtlingspolitik, Von der Leyen sagt weitere Hilfe fÃ¼r Kurden zu, EU-Parlament verabschiedet Neuregelung zur Telekommunikation, Deutschland und Frankreich wollen Zusammenarbeit der digitalen Wirtschaft vertiefen, Neue Erkenntnisse zum Tod von Oury Jalloh, USA senden Kriegsschiff ins sÃ¼dchinesische Meer, Rettungsarbeiten im Hindukusch ausgeweitet, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1027/TV-20151027-2022-2101.webl.h264.mp4"/>
 			<pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>26.10.2015 21:22 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1026/TV-100s-2122.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:22 Uhr vom 26.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1026/TV-100s-2122.webl.h264.mp4"/>
-			<pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>26.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1026/TV-20151026-2055-1001.webl.h264.mp4</link>
-			<description>Themen der Sendung: FlÃ¼chtlingsgipfel in BrÃ¼ssel, Verhaltene Reaktionen aus Berlin auf FlÃ¼chtlingsgipfel, Arbeitsministerin Nahles bezeichnet FlÃ¼chtlinge als groÃe Chance fÃ¼r deutschen Arbeitsmarkt, Erzkonservative Partei PiS gewinnt Wahl in Polen, Von der Leyen sichert MilitÃ¤reinsatz im Irak zu, Schweres Erdbeben in Afghanistan und Pakistan, Beckenbauer Ã¤uÃert sich zu AffÃ¤re um WM 2006, FIFA wÃ¤hlt neuen PrÃ¤sidenten, Hoffenheim entlÃ¤sst Trainer Gisdol, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1026/TV-20151026-2055-1001.webl.h264.mp4"/>
-			<pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 26.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151026_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 26.10.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/30/88/32/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Diskussion um Qualifikation von Sicherheitsdiensten +++ Symposium zu Tempelhof +++ Polizeiaktion: Auf der Jagd nach HandysÃ¼ndern und Gurtmuffeln +++ Neues Konzept fÃ¼r das Wohnen im Alter +++ Ai Weiwei an der UniversitÃ¤t der KÃ¼nste +++ Startup vermittelt Mitbewohner +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;26.10.2015 | 29:30 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-26-10-2015/rbb-Fernsehen/Video?documentId=31308820&amp;bcastId=3822076&quot;&gt;Abendschau vom 26.10.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Diskussion um Qualifikation von Sicherheitsdiensten +++ Symposium zu Tempelhof +++ Polizeiaktion: Auf der Jagd nach HandysÃ¼ndern und Gurtmuffeln +++ Neues Konzept fÃ¼r das Wohnen im Alter +++ Ai Weiwei an der UniversitÃ¤t der KÃ¼nste +++ Startup vermittelt Mitbewohner +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151026_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>26.10.2015 21:58 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1026/TV-100s-2158.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:58 Uhr vom 26.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1026/TV-100s-2158.webl.h264.mp4"/>
-			<pubDate>Mon, 26 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
