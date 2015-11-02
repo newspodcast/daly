@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 02 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 02 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 02 Nov 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 02 Nov 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 02.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151102_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 02.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/42/36/52/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlinge im Flughafen Tempelhof +++ Neue Ãrzteversorgung am LaGeSo +++ Mohamed soll zeitnah bestattet werden +++ Prozessbeginn nach Ãberfall auf Bauhaus-Filiale +++ Absolute Mehrheit fÃ¼r Erdogans AKP +++ Serie: UnabhÃ¤ngige Buchhandlungen +++ Tabaluga fÃ¼r Kita-Kinder +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;02.11.2015 | 29:08 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-02-11-2015/rbb-Fernsehen/Video?documentId=31423640&amp;bcastId=3822076&quot;&gt;Abendschau vom 02.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlinge im Flughafen Tempelhof +++ Neue Ãrzteversorgung am LaGeSo +++ Mohamed soll zeitnah bestattet werden +++ Prozessbeginn nach Ãberfall auf Bauhaus-Filiale +++ Absolute Mehrheit fÃ¼r Erdogans AKP +++ Serie: UnabhÃ¤ngige Buchhandlungen +++ Tabaluga fÃ¼r Kita-Kinder +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151102_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Mon, 02 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>02.11.2015 21:17 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1102/TV-100s-2117.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 02.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1102/TV-100s-2117.webl.h264.mp4"/>
+			<pubDate>Mon, 02 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>02.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1102/TV-20151102-2022-2401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Union und SPD streiten Ã¼ber mÃ¶gliche Transitzonen fÃ¼r Asylsuchende, UN nennt Rekordzahlen bei Mittelmeer-FlÃ¼chtlingen, TÃ¼rkische AKP kann mit absoluter Mehrheit regieren, Reaktionen nach Parlamentswahl in der TÃ¼rkei, Katarina Barley als neue SPD-GeneralsekretÃ¤rin vorgeschlagen, VW-Abgas-AffÃ¤re in den USA weitet sich aus, MÃ¶gliche Lufthansa-Streiks schon ab Freitag, Ursachen-Ermittlung zum Flugzeugabsturz in Ãgypten, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1102/TV-20151102-2022-2401.webl.h264.mp4"/>
+			<pubDate>Mon, 02 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 01.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151101_sdg_m_16_9_512x288.mp4</link>
@@ -127,27 +148,6 @@
 			<description>Themen der Sendung: Diskussion Ã¼ber FlÃ¼chtlingskrise, USA erwÃ¤gen neue Strategie gegen IS, Kabinett beschlieÃt Recht auf Basiskonto, Quartalszahlen VW, Neue EU-Abgasregeln, Lammert fordert mehr Transparenz bei TTIP, Gabriel trifft Putin, TÃ¼rkische Polizei stÃ¼rmt Medienkonzern, Abbas bittet UN-Menschenrechtsrat um Hilfe, Brandrodungen in Indonesien, Prozessbeginn &quot;Stuttgart 21&quot;, H.-J.-Friedrichs-Preis fÃ¼r Fernsehjournalismus,  Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1028/TV-20151028-2023-2501.webl.h264.mp4"/>
 			<pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 27.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151027_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 27.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/32/63/04/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Fall Mohamed: Neue Bilder verÃ¶ffentlicht +++ Kopftuchverbot an Berlins BehÃ¶rden bleibt +++ Lange Staus auf dem Stadtring +++ Nachrichten I +++ Studie: Psychische Leiden nehmen zu +++ Wie gefÃ¤hrlich ist die Wurst? +++ Nachrichten II +++ Mielke: Dokudrama Ã¼ber den Meister der Angst +++ Serie: Berliner in Kalifornien +++ Berlin genieÃt den 'Indian Summer'&lt;/p&gt;&lt;p&gt;27.10.2015 | 28:56 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-27-10-2015-19-30/rbb-Fernsehen/Video?documentId=31326292&amp;bcastId=3822076&quot;&gt;Abendschau 27.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Fall Mohamed: Neue Bilder verÃ¶ffentlicht +++ Kopftuchverbot an Berlins BehÃ¶rden bleibt +++ Lange Staus auf dem Stadtring +++ Nachrichten I +++ Studie: Psychische Leiden nehmen zu +++ Wie gefÃ¤hrlich ist die Wurst? +++ Nachrichten II +++ Mielke: Dokudrama Ã¼ber den Meister der Angst +++ Serie: Berliner in Kalifornien +++ Berlin genieÃt den 'Indian Summer'&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151027_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.10.2015 21:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1027/TV-100s-2114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 27.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1027/TV-100s-2114.webl.h264.mp4"/>
-			<pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1027/TV-20151027-2022-2101.webl.h264.mp4</link>
-			<description>Themen der Sendung: Bayern macht Ãsterreich in FlÃ¼chtlingskrise massive VorwÃ¼rfe, Seehofer stellt Merkel eine Frist in der FlÃ¼chtlingspolitik, Von der Leyen sagt weitere Hilfe fÃ¼r Kurden zu, EU-Parlament verabschiedet Neuregelung zur Telekommunikation, Deutschland und Frankreich wollen Zusammenarbeit der digitalen Wirtschaft vertiefen, Neue Erkenntnisse zum Tod von Oury Jalloh, USA senden Kriegsschiff ins sÃ¼dchinesische Meer, Rettungsarbeiten im Hindukusch ausgeweitet, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1027/TV-20151027-2022-2101.webl.h264.mp4"/>
-			<pubDate>Tue, 27 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
