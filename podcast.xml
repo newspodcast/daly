@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 03 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Tue, 03 Nov 2015 21:30:07 GMT</pubDate>
+		<lastBuildDate>Tue, 03 Nov 2015 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 03.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 03.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/44/34/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;03.11.2015 | 29:43 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-03-11-2015/rbb-Fernsehen/Video?documentId=31443414&amp;bcastId=3822076&quot;&gt;Abendschau vom 03.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>03.11.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1103/TV-100s-2115.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 03.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1103/TV-100s-2115.webl.h264.mp4"/>
+			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>03.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1103/TV-20151103-2022-1601.webl.h264.mp4</link>
+			<description>Themen der Sendung: Kompromissbereitschaft im Transitzonen-Streit, BDI-Chef Grillo mahnt zur Einigkeit in der FlÃ¼chtlingspolitik, Kroatien errichtet neues Winter-Aufnahmelager, Lage in Syrien, VW rÃ¤umt weitere UnregelmÃ¤Ãigkeiten bei Abgaswerten ein, Steuer-Razzia beim DFB, Neuregelung der Sterbehilfe vor Abstimmung, Tagesschau im Miniatur Wunderland, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1103/TV-20151103-2022-1601.webl.h264.mp4"/>
+			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 02.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151102_sdg_m_16_9_512x288.mp4</link>
@@ -127,27 +148,6 @@
 			<description>Themen der Sendung: Deutsche Bank kÃ¼ndigt Stellenabbau an, Arbeitsmarkt, FlÃ¼chtlinge und Arbeitsmarkt, Keine Entspannung an Ã¶sterreichisch-deutscher Grenze, Steinmeier sichert Griechenland FlÃ¼chtlingshilfe zu, Kerry in Wien zur Syrien-Konferenz, Merkel in China, China schafft Ein-Kind-Politik ab, Blogger Badawi erhÃ¤lt EU-Menschenrechtspreis, Studien-Ergebnisse zu VerkehrslÃ¤rm und seine gesundheitlichen Auswirkungen, Kita-Tarifstreit endgÃ¼ltig beendet, Ãberschwemmungen in Italien, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1029/TV-20151029-2022-3801.webl.h264.mp4"/>
 			<pubDate>Thu, 29 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 28.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151028_sdg_NEU_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 28.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/34/54/44/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Wieder Bombenfund in Kreuzberg +++ Wieder Bombenfund in Kreuzberg +++ Wieder Bombenfund in Kreuzberg +++ Nachrichten I +++ Live: Roter Teppich fÃ¼r 007 +++ Stimmung an der SPD-Basis +++ FlÃ¼chtlinge an der FU +++ Nachrichten II +++ Serie: Berliner in Kalifornien&lt;/p&gt;&lt;p&gt;28.10.2015 | 28:59 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-28-10-2015-19-30/rbb-Fernsehen/Video?documentId=31345432&amp;bcastId=3822076&quot;&gt;Abendschau 28.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Wieder Bombenfund in Kreuzberg +++ Wieder Bombenfund in Kreuzberg +++ Wieder Bombenfund in Kreuzberg +++ Nachrichten I +++ Live: Roter Teppich fÃ¼r 007 +++ Stimmung an der SPD-Basis +++ FlÃ¼chtlinge an der FU +++ Nachrichten II +++ Serie: Berliner in Kalifornien&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151028_sdg_NEU_m_16_9_512x288.mp4"/>
-			<pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>28.10.2015 21:03 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1028/TV-100s-2103.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:03 Uhr vom 28.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1028/TV-100s-2103.webl.h264.mp4"/>
-			<pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>28.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1028/TV-20151028-2023-2501.webl.h264.mp4</link>
-			<description>Themen der Sendung: Diskussion Ã¼ber FlÃ¼chtlingskrise, USA erwÃ¤gen neue Strategie gegen IS, Kabinett beschlieÃt Recht auf Basiskonto, Quartalszahlen VW, Neue EU-Abgasregeln, Lammert fordert mehr Transparenz bei TTIP, Gabriel trifft Putin, TÃ¼rkische Polizei stÃ¼rmt Medienkonzern, Abbas bittet UN-Menschenrechtsrat um Hilfe, Brandrodungen in Indonesien, Prozessbeginn &quot;Stuttgart 21&quot;, H.-J.-Friedrichs-Preis fÃ¼r Fernsehjournalismus,  Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1028/TV-20151028-2023-2501.webl.h264.mp4"/>
-			<pubDate>Wed, 28 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
