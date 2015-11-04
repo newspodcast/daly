@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 04 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 04 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 04 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Wed, 04 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 04.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151104_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 04.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/46/23/76/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ BER kein Drehkreuz mehr +++ VCD fÃ¼r mehr Infos in Bus und Bahn +++ Wohnungen fÃ¼r FlÃ¼chtlinge gesucht +++ Mietergesetz im Bauausschuss +++ Pirat Delius kandidiert 2016 nicht mehr +++ Weltpremiere der &quot;Tribute von Panem&quot; +++ Serie: Buchladen Bayerischer Platz +++&lt;/p&gt;&lt;p&gt;04.11.2015 | 29:42 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-04-11-2015-19-30/rbb-Fernsehen/Video?documentId=31462364&amp;bcastId=3822076&quot;&gt;Abendschau 04.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ BER kein Drehkreuz mehr +++ VCD fÃ¼r mehr Infos in Bus und Bahn +++ Wohnungen fÃ¼r FlÃ¼chtlinge gesucht +++ Mietergesetz im Bauausschuss +++ Pirat Delius kandidiert 2016 nicht mehr +++ Weltpremiere der &quot;Tribute von Panem&quot; +++ Serie: Buchladen Bayerischer Platz +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151104_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Wed, 04 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>04.11.2015 21:30 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1104/TV-100s-2130.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:30 Uhr vom 04.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1104/TV-100s-2130.webl.h264.mp4"/>
+			<pubDate>Wed, 04 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>04.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1104/TV-20151104-2024-3101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Bundesregierung fordert schnelle AufklÃ¤rung im VW-Skandal, Bundeswehr Ã¼bernimmt langfristig Aufgaben in der FlÃ¼chtlingshilfe, Razzia gegen internationales Schleuser-Netzwerk in Deutschland, UNICEF zu FlÃ¼chtlingszahlen, Europaweite Verteilung von FlÃ¼chtlingen beginnt, BGH-Urteil zu MieterhÃ¶hungen, GroÃbritannien setzt Sinai-FlÃ¼ge aus, GrÃ¼nen-Politiker Beck mit Leo-Baeck-Preis gegen Antisemitismus geehrt, Vatileaks-Journalist Nuzzi wirft Vatikan Geldverschwendung vor, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1104/TV-20151104-2024-3101.webl.h264.mp4"/>
+			<pubDate>Wed, 04 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 03.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_m_16_9_512x288.mp4</link>
@@ -35,6 +56,13 @@
 			<link>http://media.tagesschau.de/video/2015/1103/TV-20151103-2022-1601.webl.h264.mp4</link>
 			<description>Themen der Sendung: Kompromissbereitschaft im Transitzonen-Streit, BDI-Chef Grillo mahnt zur Einigkeit in der FlÃ¼chtlingspolitik, Kroatien errichtet neues Winter-Aufnahmelager, Lage in Syrien, VW rÃ¤umt weitere UnregelmÃ¤Ãigkeiten bei Abgaswerten ein, Steuer-Razzia beim DFB, Neuregelung der Sterbehilfe vor Abstimmung, Tagesschau im Miniatur Wunderland, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1103/TV-20151103-2022-1601.webl.h264.mp4"/>
+			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 03.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_neu_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 03.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/44/34/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;03.11.2015 | 29:44 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-03-11-2015/rbb-Fernsehen/Video?documentId=31443414&amp;bcastId=3822076&quot;&gt;Abendschau vom 03.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_neu_m_16_9_512x288.mp4"/>
 			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -127,27 +155,6 @@
 			<description>Themen der Sendung: Mehrere Staaten beraten Ã¼ber den Syrien-Konflikt, US-Regierung bereitet Bodentruppen gegen Terrormiliz IS vor, Lage der Menschen in Syrien wird immer verzweifelter, Tote bei UnglÃ¼cken vor griechischen Inseln, Koalition vor dem Gipfel weiter tief zerstritten, Wohnungsbau soll mit Blick auf die FlÃ¼chtlingskrise angekurbelt werden, Bundesregierung will die Arbeit vom BND strenger regulieren,  VW plant Amnestie fÃ¼r verwickelte Mitarbeiter, Schweres BusunglÃ¼ck in Erfurt, KassenbeitrÃ¤ge sollen nÃ¤chstes Jahr steigen, Vulkan Popocatepetl in Mexiko ausgebrochen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1030/TV-20151030-2024-1101.webl.h264.mp4"/>
 			<pubDate>Fri, 30 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 29.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151029_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 29.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/36/41/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;EntfÃ¼hrter FlÃ¼chtlingsjunge Mohamed ist tot +++ Bauarbeiten der Bahn +++ Nachrichten I +++ Berliner Zoo erhÃ¤lt Panda-PÃ¤rchen +++ Goldener Oktober auf dem Arbeitsmarkt +++ Wirtschaftsboom durch FlÃ¼chtlinge +++ Kompromiss zu Moabiter GroÃmarkt +++ Nachrichten II +++ Kompromiss zu Moabiter GroÃmarkt Â &lt;/p&gt;&lt;p&gt;29.10.2015 | 29:25 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-29-10-2015-19-30/rbb-Fernsehen/Video?documentId=31364134&amp;bcastId=3822076&quot;&gt;Abendschau 29.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;EntfÃ¼hrter FlÃ¼chtlingsjunge Mohamed ist tot +++ Bauarbeiten der Bahn +++ Nachrichten I +++ Berliner Zoo erhÃ¤lt Panda-PÃ¤rchen +++ Goldener Oktober auf dem Arbeitsmarkt +++ Wirtschaftsboom durch FlÃ¼chtlinge +++ Kompromiss zu Moabiter GroÃmarkt +++ Nachrichten II +++ Kompromiss zu Moabiter GroÃmarkt Â &lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151029_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 29 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.10.2015 21:23 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1029/TV-100s-2123.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:23 Uhr vom 29.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1029/TV-100s-2123.webl.h264.mp4"/>
-			<pubDate>Thu, 29 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1029/TV-20151029-2022-3801.webl.h264.mp4</link>
-			<description>Themen der Sendung: Deutsche Bank kÃ¼ndigt Stellenabbau an, Arbeitsmarkt, FlÃ¼chtlinge und Arbeitsmarkt, Keine Entspannung an Ã¶sterreichisch-deutscher Grenze, Steinmeier sichert Griechenland FlÃ¼chtlingshilfe zu, Kerry in Wien zur Syrien-Konferenz, Merkel in China, China schafft Ein-Kind-Politik ab, Blogger Badawi erhÃ¤lt EU-Menschenrechtspreis, Studien-Ergebnisse zu VerkehrslÃ¤rm und seine gesundheitlichen Auswirkungen, Kita-Tarifstreit endgÃ¼ltig beendet, Ãberschwemmungen in Italien, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1029/TV-20151029-2022-3801.webl.h264.mp4"/>
-			<pubDate>Thu, 29 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
