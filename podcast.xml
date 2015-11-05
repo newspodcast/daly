@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 05 Nov 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Nov 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Nov 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Nov 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2015/1105/TV-20151105-2021-4401.webl.h264.mp4</link>
 			<description>Themen der Sendung: Koalition einigt sich auf Asyl-Schnellverfahren, SchÃ¤uble stellt Ergebnisse der SteuerschÃ¤tzung vor, Flugbegleiter der Lufthansa kÃ¼ndigen Streik an, Spekulationen Ã¼ber Absturzursache in Ãgypten, BND-Sonderermittler Graulich vor NSA-Ausschuss, Bundestag beschlieÃt Palliativ- und Hospizgesetz, Bundestag verabschiedet Krankenhausreform, Prozessauftakt gegen &quot;Mafia Capitale&quot; in Rom, Historiker Hans Mommsen gestorben, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1105/TV-20151105-2021-4401.webl.h264.mp4"/>
+			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 05.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151105_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 05.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/48/22/42/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;&lt;p&gt;05.11.2015 | 29:16 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-11-2015-19-30/rbb-Fernsehen/Video?documentId=31482230&amp;bcastId=3822076&quot;&gt;Abendschau 05.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151105_sdg_m_16_9_512x288.mp4"/>
 			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
