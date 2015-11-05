@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 05 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 05 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 05 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 05 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>05.11.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1105/TV-100s-2115.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 05.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1105/TV-100s-2115.webl.h264.mp4"/>
+			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>05.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1105/TV-20151105-2021-4401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Koalition einigt sich auf Asyl-Schnellverfahren, SchÃ¤uble stellt Ergebnisse der SteuerschÃ¤tzung vor, Flugbegleiter der Lufthansa kÃ¼ndigen Streik an, Spekulationen Ã¼ber Absturzursache in Ãgypten, BND-Sonderermittler Graulich vor NSA-Ausschuss, Bundestag beschlieÃt Palliativ- und Hospizgesetz, Bundestag verabschiedet Krankenhausreform, Prozessauftakt gegen &quot;Mafia Capitale&quot; in Rom, Historiker Hans Mommsen gestorben, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1105/TV-20151105-2021-4401.webl.h264.mp4"/>
+			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 04.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151104_sdg_m_16_9_512x288.mp4</link>
@@ -134,27 +148,6 @@
 			<description>Themen der Sendung: Schweres FlugzeugunglÃ¼ck in Ãgypten, SPD prÃ¤sentiert Einreisekonzept fÃ¼r FlÃ¼chtlinge, Lage an der Grenze Sloweniens, Evangelische Kirche feiert Reformationstag, SPD-GeneralsekretÃ¤rin Fahimi will nicht erneut kandidieren, NRW kauft weitere Steuer-CD, UN-GeneralsekretÃ¤r Ban beim Roten Kreuz, EZB prÃ¼ft Griechenlands Banken, Tote bei Brand in Bukarester Diskothek, Rainald Goetz erhÃ¤lt BÃ¼chner-Preis, Ergebnisse der FuÃball-Bundesliga, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1031/TV-20151031-2022-5102.webl.h264.mp4"/>
 			<pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 30.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151030_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 30.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/38/19/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Fall Elias: Polizei macht verdÃ¤chtigen Fund +++ Fall Mohamed: Situation am LaGeSo +++ Fall Elias: Reaktionen aus der Wohnumgebung +++ Bombe in Kreuzberg entschÃ¤rft +++ Zehn Jahre Ermittlungsgruppe Berlin-Brandenburg +++ KÃ¤ltehilfe fÃ¼r Obdachlose +++ Serie: Kalifornische Berliner +++ Ausflugstipp: Schlepzig +++&lt;/p&gt;&lt;p&gt;30.10.2015 | 29:07 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-30-10-2015-19-30/rbb-Fernsehen/Video?documentId=31381982&amp;bcastId=3822076&quot;&gt;Abendschau 30.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Fall Elias: Polizei macht verdÃ¤chtigen Fund +++ Fall Mohamed: Situation am LaGeSo +++ Fall Elias: Reaktionen aus der Wohnumgebung +++ Bombe in Kreuzberg entschÃ¤rft +++ Zehn Jahre Ermittlungsgruppe Berlin-Brandenburg +++ KÃ¤ltehilfe fÃ¼r Obdachlose +++ Serie: Kalifornische Berliner +++ Ausflugstipp: Schlepzig +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151030_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Fri, 30 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>30.10.2015 21:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1030/TV-100s-2114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 30.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1030/TV-100s-2114.webl.h264.mp4"/>
-			<pubDate>Fri, 30 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>30.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1030/TV-20151030-2024-1101.webl.h264.mp4</link>
-			<description>Themen der Sendung: Mehrere Staaten beraten Ã¼ber den Syrien-Konflikt, US-Regierung bereitet Bodentruppen gegen Terrormiliz IS vor, Lage der Menschen in Syrien wird immer verzweifelter, Tote bei UnglÃ¼cken vor griechischen Inseln, Koalition vor dem Gipfel weiter tief zerstritten, Wohnungsbau soll mit Blick auf die FlÃ¼chtlingskrise angekurbelt werden, Bundesregierung will die Arbeit vom BND strenger regulieren,  VW plant Amnestie fÃ¼r verwickelte Mitarbeiter, Schweres BusunglÃ¼ck in Erfurt, KassenbeitrÃ¤ge sollen nÃ¤chstes Jahr steigen, Vulkan Popocatepetl in Mexiko ausgebrochen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1030/TV-20151030-2024-1101.webl.h264.mp4"/>
-			<pubDate>Fri, 30 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
