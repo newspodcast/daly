@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 06 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 06 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 06 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Fri, 06 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 06.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151106_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 06.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/50/44/56/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mohameds Familie darf bleiben +++ GeschÃ¤ftsmÃ¤Ãige Sterbehilfe verboten +++ CDU berÃ¤t Wahlprogramm +++ Wohnungsmodernisierung vor Gericht +++ PortrÃ¤t: Yigit Muk +++ &quot;BuchSegler&quot; in Pankow +++ Ausflugstipp: DomÃ¤ne Dahlem +++&lt;/p&gt;&lt;p&gt;06.11.2015 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-06-11-2015-19-30/rbb-Fernsehen/Video?documentId=31504444&amp;bcastId=3822076&quot;&gt;Abendschau 06.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mohameds Familie darf bleiben +++ GeschÃ¤ftsmÃ¤Ãige Sterbehilfe verboten +++ CDU berÃ¤t Wahlprogramm +++ Wohnungsmodernisierung vor Gericht +++ PortrÃ¤t: Yigit Muk +++ &quot;BuchSegler&quot; in Pankow +++ Ausflugstipp: DomÃ¤ne Dahlem +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151106_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Fri, 06 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.11.2015 21:22 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1106/TV-100s-2122.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:22 Uhr vom 06.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1106/TV-100s-2122.webl.h264.mp4"/>
+			<pubDate>Fri, 06 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1106/TV-20151106-2023-3201.webl.h264.mp4</link>
+			<description>Themen der Sendung: Innenministerium will Familiennachzug fÃ¼r syrische FlÃ¼chtlinge verbieten, GeschÃ¤ftsmÃ¤Ãige Sterbehilfe wird verboten, Vorratsdatenspeicherung wird wieder eingefÃ¼hrt, Streik bei Lufthansa wird fortgesetzt, Nach dem Flugzeugabsturz in Ãgypten, Obama zu Keystone-Pipeline, Athen billigt Reformpaket, AuÃenminister-Treffen zu Ukraine, Merkel im Biblis-Ausschuss, VW Ã¼bernimmt mÃ¶gliche Kfz-Steuernachzahlungen, ZugunglÃ¼ck in Bayern, Schlammlawine in Brasilien, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1106/TV-20151106-2023-3201.webl.h264.mp4"/>
+			<pubDate>Fri, 06 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>05.11.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1105/TV-100s-2115.webl.h264.mp4</link>
@@ -35,6 +56,13 @@
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151105_sdg_m_16_9_512x288.mp4</link>
 			<description>&lt;h3&gt;Abendschau - Abendschau 05.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/48/22/42/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;&lt;p&gt;05.11.2015 | 29:16 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-11-2015-19-30/rbb-Fernsehen/Video?documentId=31482230&amp;bcastId=3822076&quot;&gt;Abendschau 05.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151105_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 05.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151105_sdg_neu_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 05.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/48/22/42/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;&lt;p&gt;05.11.2015 | 29:03 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-11-2015-19-30/rbb-Fernsehen/Video?documentId=31482230&amp;bcastId=3822076&quot;&gt;Abendschau 05.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151105_sdg_neu_m_16_9_512x288.mp4"/>
 			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -134,27 +162,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 01.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/40/69/56/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ GÃ¼nter Schabowski gestorben +++ In Luckenwalde gefundene Leiche ist Elias +++ Wohnungsbau: KleingÃ¤rten mÃ¼ssen weichen +++ Antisemitismus im AmateurfuÃball +++ Karte fÃ¼r StraÃenmusiker +++ Sonntagsfrage: GlÃ¤serne Blume aus dem Palast der Republik +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;01.11.2015 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-01-11-2015/rbb-Fernsehen/Video?documentId=31406944&amp;bcastId=3822076&quot;&gt;Abendschau vom 01.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ GÃ¼nter Schabowski gestorben +++ In Luckenwalde gefundene Leiche ist Elias +++ Wohnungsbau: KleingÃ¤rten mÃ¼ssen weichen +++ Antisemitismus im AmateurfuÃball +++ Karte fÃ¼r StraÃenmusiker +++ Sonntagsfrage: GlÃ¤serne Blume aus dem Palast der Republik +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151101_sdg1_m_16_9_512x288.mp4"/>
 			<pubDate>Sun, 01 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 31.10.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151031_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 31.10.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/39/50/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Trauer um Mohamed und Elias +++ Zunehmende Gewalt am Kotti +++ Nachrichten I +++ &quot;League of Legends&quot; lockt tausende Zuschauer +++ Neuerungen beim Meldegesetz +++ Nachrichten II +++ Serie: Berliner in Kalifornien +++ Gleich nebenan: Emmas Enkel&lt;/p&gt;&lt;p&gt;31.10.2015 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-31-10-2015-19-30/rbb-Fernsehen/Video?documentId=31395034&amp;bcastId=3822076&quot;&gt;Abendschau 31.10.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Trauer um Mohamed und Elias +++ Zunehmende Gewalt am Kotti +++ Nachrichten I +++ &quot;League of Legends&quot; lockt tausende Zuschauer +++ Neuerungen beim Meldegesetz +++ Nachrichten II +++ Serie: Berliner in Kalifornien +++ Gleich nebenan: Emmas Enkel&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151031_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>31.10.2015 21:27 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1031/TV-100s-2127.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:27 Uhr vom 31.10.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1031/TV-100s-2127.webl.h264.mp4"/>
-			<pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>31.10.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1031/TV-20151031-2022-5102.webl.h264.mp4</link>
-			<description>Themen der Sendung: Schweres FlugzeugunglÃ¼ck in Ãgypten, SPD prÃ¤sentiert Einreisekonzept fÃ¼r FlÃ¼chtlinge, Lage an der Grenze Sloweniens, Evangelische Kirche feiert Reformationstag, SPD-GeneralsekretÃ¤rin Fahimi will nicht erneut kandidieren, NRW kauft weitere Steuer-CD, UN-GeneralsekretÃ¤r Ban beim Roten Kreuz, EZB prÃ¼ft Griechenlands Banken, Tote bei Brand in Bukarester Diskothek, Rainald Goetz erhÃ¤lt BÃ¼chner-Preis, Ergebnisse der FuÃball-Bundesliga, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1031/TV-20151031-2022-5102.webl.h264.mp4"/>
-			<pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
