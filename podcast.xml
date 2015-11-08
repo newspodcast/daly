@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 08 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 08 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 08 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 08 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 08.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151108_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 08.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/52/90/64/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Regeln fÃ¼r Berlins grÃ¶Ãte Spielwiese +++ Garantiezins bei Lebensversicherungen entfÃ¤llt +++ Neues GrÃ¼nderzentrum in Charlottenburg +++ 300. Geburtstag von KÃ¶nigein Elisabeth Christine +++ Die Sonntagsfrage +++ &quot;Le Nozze de Figaro&quot; feiert Premiere in der Staatsoper +++&lt;/p&gt;&lt;p&gt;08.11.2015 | 28:28 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-08-11-2015/rbb-Fernsehen/Video?documentId=31529052&amp;bcastId=3822076&quot;&gt;Abendschau vom 08.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Regeln fÃ¼r Berlins grÃ¶Ãte Spielwiese +++ Garantiezins bei Lebensversicherungen entfÃ¤llt +++ Neues GrÃ¼nderzentrum in Charlottenburg +++ 300. Geburtstag von KÃ¶nigein Elisabeth Christine +++ Die Sonntagsfrage +++ &quot;Le Nozze de Figaro&quot; feiert Premiere in der Staatsoper +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151108_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sun, 08 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>08.11.2015 21:19 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1108/TV-100s-2119.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 08.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1108/TV-100s-2119.webl.h264.mp4"/>
+			<pubDate>Sun, 08 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>08.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1108/TV-20151108-2024-0201.webl.h264.mp4</link>
+			<description>Themen der Sendung: Streit um FlÃ¼chtlingspolitik in der Koalition, EKD-Synode zu Umgang mit FlÃ¼chtlingskrise, Kopf-an-Kopf-Rennen bei Parlamentswahl in Kroatien, Parlamentswahl in Myanmar, Neue Details in der VW-AffÃ¤re, Deutscher Umweltpreis, Lufthansa-Streik wird ausgeweitet, Ergebnisse der FuÃball-Bundesliga, Olympischen Ringe in Hamburger Stadtpark, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1108/TV-20151108-2024-0201.webl.h264.mp4"/>
+			<pubDate>Sun, 08 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 07.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151107_sdg_m_16_9_512x288.mp4</link>
@@ -141,27 +162,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 03.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/44/34/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;03.11.2015 | 29:44 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-03-11-2015/rbb-Fernsehen/Video?documentId=31443414&amp;bcastId=3822076&quot;&gt;Abendschau vom 03.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_neu_m_16_9_512x288.mp4"/>
 			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 02.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151102_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 02.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/42/36/52/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlinge im Flughafen Tempelhof +++ Neue Ãrzteversorgung am LaGeSo +++ Mohamed soll zeitnah bestattet werden +++ Prozessbeginn nach Ãberfall auf Bauhaus-Filiale +++ Absolute Mehrheit fÃ¼r Erdogans AKP +++ Serie: UnabhÃ¤ngige Buchhandlungen +++ Tabaluga fÃ¼r Kita-Kinder +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;02.11.2015 | 29:08 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-02-11-2015/rbb-Fernsehen/Video?documentId=31423640&amp;bcastId=3822076&quot;&gt;Abendschau vom 02.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlinge im Flughafen Tempelhof +++ Neue Ãrzteversorgung am LaGeSo +++ Mohamed soll zeitnah bestattet werden +++ Prozessbeginn nach Ãberfall auf Bauhaus-Filiale +++ Absolute Mehrheit fÃ¼r Erdogans AKP +++ Serie: UnabhÃ¤ngige Buchhandlungen +++ Tabaluga fÃ¼r Kita-Kinder +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151102_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 02 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.11.2015 21:17 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1102/TV-100s-2117.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 02.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1102/TV-100s-2117.webl.h264.mp4"/>
-			<pubDate>Mon, 02 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1102/TV-20151102-2022-2401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Union und SPD streiten Ã¼ber mÃ¶gliche Transitzonen fÃ¼r Asylsuchende, UN nennt Rekordzahlen bei Mittelmeer-FlÃ¼chtlingen, TÃ¼rkische AKP kann mit absoluter Mehrheit regieren, Reaktionen nach Parlamentswahl in der TÃ¼rkei, Katarina Barley als neue SPD-GeneralsekretÃ¤rin vorgeschlagen, VW-Abgas-AffÃ¤re in den USA weitet sich aus, MÃ¶gliche Lufthansa-Streiks schon ab Freitag, Ursachen-Ermittlung zum Flugzeugabsturz in Ãgypten, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1102/TV-20151102-2022-2401.webl.h264.mp4"/>
-			<pubDate>Mon, 02 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
