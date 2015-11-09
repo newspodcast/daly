@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 09 Nov 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Nov 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Nov 2015 00:30:05 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Nov 2015 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,20 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1109/TV-100s-2119.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 09.11.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1109/TV-100s-2119.webl.h264.mp4"/>
+			<pubDate>Mon, 09 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 09.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151109_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 09.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/54/50/36/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ U-Bahnbau sorgt fÃ¼r Verkehrsstress Â Â +++ Mehr Personal fÃ¼r mehr Sicherheit +++ Ergebnisse der SPD-Mitgliederbefragung +++ Quo vadis, Berliner Stadtwerke? +++ Die &quot;Waschbar&quot; in OberschÃ¶neweide +++ Berliner Tatort-Team ermittelt wieder +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;09.11.2015 | 28:09 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-09-11-2015-19-30/rbb-Fernsehen/Video?documentId=31545024&amp;bcastId=3822076&quot;&gt;Abendschau 09.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ U-Bahnbau sorgt fÃ¼r Verkehrsstress Â Â +++ Mehr Personal fÃ¼r mehr Sicherheit +++ Ergebnisse der SPD-Mitgliederbefragung +++ Quo vadis, Berliner Stadtwerke? +++ Die &quot;Waschbar&quot; in OberschÃ¶neweide +++ Berliner Tatort-Team ermittelt wieder +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151109_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Mon, 09 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>09.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1109/TV-20151109-2138-4801.webl.h264.mp4</link>
+			<description>Themen der Sendung: DFB-PrÃ¤sident Niersbach tritt zurÃ¼ck, Russlands Leichtathleten droht Olympia-Ausschluss, Streit in der Koalition Ã¼ber syrische FlÃ¼chtlinge, EU-Innenminister beraten Ã¼ber Verteilung von FlÃ¼chtlingen, Parlamentswahl in Kroatien, Pegida-Demonstration, Jahrestag der Reichspogromnacht, Gedenken Mauerfall, Flugbegleiter der Lufthansa weiten Streik auf MÃ¼nchen aus, ZschÃ¤pe will aussagen, Katalonien verabschiedet Resolution fÃ¼r UnabhÃ¤ngigkeit, Myanmar: Deutlicher Sieg fÃ¼r FriedensnobelpreistrÃ¤gerin zeichnet sich ab, Maler Ernst Fuchs gestorben, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1109/TV-20151109-2138-4801.webl.h264.mp4"/>
 			<pubDate>Mon, 09 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
