@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 09 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 09 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 09 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 09 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,13 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>09.11.2015 21:19 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1109/TV-100s-2119.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 09.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1109/TV-100s-2119.webl.h264.mp4"/>
+			<pubDate>Mon, 09 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 08.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151108_sdg_m_16_9_512x288.mp4</link>
@@ -134,34 +141,6 @@
 			<description>Themen der Sendung: Bundesregierung fordert schnelle AufklÃ¤rung im VW-Skandal, Bundeswehr Ã¼bernimmt langfristig Aufgaben in der FlÃ¼chtlingshilfe, Razzia gegen internationales Schleuser-Netzwerk in Deutschland, UNICEF zu FlÃ¼chtlingszahlen, Europaweite Verteilung von FlÃ¼chtlingen beginnt, BGH-Urteil zu MieterhÃ¶hungen, GroÃbritannien setzt Sinai-FlÃ¼ge aus, GrÃ¼nen-Politiker Beck mit Leo-Baeck-Preis gegen Antisemitismus geehrt, Vatileaks-Journalist Nuzzi wirft Vatikan Geldverschwendung vor, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1104/TV-20151104-2024-3101.webl.h264.mp4"/>
 			<pubDate>Wed, 04 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 03.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 03.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/44/34/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;03.11.2015 | 29:43 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-03-11-2015/rbb-Fernsehen/Video?documentId=31443414&amp;bcastId=3822076&quot;&gt;Abendschau vom 03.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>03.11.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1103/TV-100s-2115.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 03.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1103/TV-100s-2115.webl.h264.mp4"/>
-			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>03.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1103/TV-20151103-2022-1601.webl.h264.mp4</link>
-			<description>Themen der Sendung: Kompromissbereitschaft im Transitzonen-Streit, BDI-Chef Grillo mahnt zur Einigkeit in der FlÃ¼chtlingspolitik, Kroatien errichtet neues Winter-Aufnahmelager, Lage in Syrien, VW rÃ¤umt weitere UnregelmÃ¤Ãigkeiten bei Abgaswerten ein, Steuer-Razzia beim DFB, Neuregelung der Sterbehilfe vor Abstimmung, Tagesschau im Miniatur Wunderland, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1103/TV-20151103-2022-1601.webl.h264.mp4"/>
-			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 03.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_neu_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 03.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/44/34/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;03.11.2015 | 29:44 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-03-11-2015/rbb-Fernsehen/Video?documentId=31443414&amp;bcastId=3822076&quot;&gt;Abendschau vom 03.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mietenexplosion in Sozialwohnungen +++ Abschied von EliasÂ  und Mohamed +++ Diskussion um mehr VideoÃ¼berwachung +++ AuslÃ¤nderbehÃ¶rden zu WillkommensbehÃ¶rden? +++ Die Generation 60+ im Netz +++ Serie Buchhandlungen: Anakoluth in der SchÃ¶nhauser Allee +++ Auf den Spuren der Tribute von Panem +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151103_sdg_neu_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 03 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
