@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 11 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 11 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 11 Nov 2015 21:30:06 GMT</pubDate>
+		<lastBuildDate>Wed, 11 Nov 2015 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 11.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151111_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 11.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/59/75/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Leichter Aufschwung fÃ¼r Air Berlin +++ Die akzeptierte Katastrophe +++ Muslimische VerbÃ¤nde sollen sich an Integration beteiligen +++ Gericht lehnt einstweilige VerfÃ¼gung gegen Babylon-Mitarbeiter ab +++ Microsoft setzt auf die Cloud +++ Ausstellung Ã¼ber Plattenbauten in der DDR +++ BehindertenwerkstÃ¤tten in Berlin +++ Laureus Sport-Preisverleihung +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;11.11.2015 | 29:19 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-11-11-2015-19-30/rbb-Fernsehen/Video?documentId=31597514&amp;bcastId=3822076&quot;&gt;Abendschau 11.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Leichter Aufschwung fÃ¼r Air Berlin +++ Die akzeptierte Katastrophe +++ Muslimische VerbÃ¤nde sollen sich an Integration beteiligen +++ Gericht lehnt einstweilige VerfÃ¼gung gegen Babylon-Mitarbeiter ab +++ Microsoft setzt auf die Cloud +++ Ausstellung Ã¼ber Plattenbauten in der DDR +++ BehindertenwerkstÃ¤tten in Berlin +++ Laureus Sport-Preisverleihung +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151111_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>11.11.2015 21:07 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1111/TV-100s-2107.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 11.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1111/TV-100s-2107.webl.h264.mp4"/>
+			<pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>11.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1111/TV-20151111-2022-0001.webl.h264.mp4</link>
+			<description>Themen der Sendung: Opposition kritisiert Kehrtwende in FlÃ¼chtlingspolitik, EU-Afrika-Gipfel will Flucht Ã¼ber das Mittelmeer beschrÃ¤nken, Slowenien baut Grenzzaun zu Kroatien, &quot;Wirtschaftsweise&quot; halten FlÃ¼chtlings-Kosten fÃ¼r verkraftbar, BND hÃ¶rte deutschen Diplomaten ab, Bedford-Strohm bleibt an der Spitze der Evangelischen Kirche, Bundeswehr feiert 60-jÃ¤hriges JubilÃ¤um, Flugbegleiter der Lufthansa streiken weiter, Deutschland nimmt Abschied von Helmut Schmidt, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1111/TV-20151111-2022-0001.webl.h264.mp4"/>
+			<pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 10.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151110_sdg_m_16_9_512x288.mp4</link>
@@ -127,34 +148,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:21 Uhr vom 06.11.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1106/TV-100s-2221.webl.h264.mp4"/>
 			<pubDate>Fri, 06 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.11.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1105/TV-100s-2115.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 05.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1105/TV-100s-2115.webl.h264.mp4"/>
-			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1105/TV-20151105-2021-4401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Koalition einigt sich auf Asyl-Schnellverfahren, SchÃ¤uble stellt Ergebnisse der SteuerschÃ¤tzung vor, Flugbegleiter der Lufthansa kÃ¼ndigen Streik an, Spekulationen Ã¼ber Absturzursache in Ãgypten, BND-Sonderermittler Graulich vor NSA-Ausschuss, Bundestag beschlieÃt Palliativ- und Hospizgesetz, Bundestag verabschiedet Krankenhausreform, Prozessauftakt gegen &quot;Mafia Capitale&quot; in Rom, Historiker Hans Mommsen gestorben, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1105/TV-20151105-2021-4401.webl.h264.mp4"/>
-			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 05.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151105_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 05.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/48/22/42/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;&lt;p&gt;05.11.2015 | 29:16 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-11-2015-19-30/rbb-Fernsehen/Video?documentId=31482230&amp;bcastId=3822076&quot;&gt;Abendschau 05.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151105_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 05.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151105_sdg_neu_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 05.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/48/22/42/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;&lt;p&gt;05.11.2015 | 29:03 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-11-2015-19-30/rbb-Fernsehen/Video?documentId=31482230&amp;bcastId=3822076&quot;&gt;Abendschau 05.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsjunge Mohamed beigesetzt +++ FlÃ¼chtlingsunterbringung auf dem Tempelhofer Feld? +++ Christliche FlÃ¼chtlinge offenbar drangsaliert +++ Bald Obergrenzen fÃ¼r ZuschÃ¼sse zu Klassenfahrten? +++ Berliner CDU diskutiert Familienpolitik +++ Prozess: FuÃfessel nicht getragen +++ Serie Buchhandlungen +++ Wetter +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151105_sdg_neu_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 05 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
