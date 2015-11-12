@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 12 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 12 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 12 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 12 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 12.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151112_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 12.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/62/10/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller erklÃ¤rt Berliner FlÃ¼chtlingspolitik +++ Prozess um Sexualmord in Wuhletal +++ Nachrichten I +++ Zwei U-Bahntunnel abgesackt +++ Neue Konkurrenz fÃ¼r den Handel +++ GroÃe Stars und goldene Rehe +++ Nachrichten II +++ Serie BehindertenwerkstÃ¤tten in Berlin: Porsche Diesel Manufaktur +++ Das Wetter&lt;/p&gt;&lt;p&gt;12.11.2015 | 29:00 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-12-11-2015-19-30/rbb-Fernsehen/Video?documentId=31621026&amp;bcastId=3822076&quot;&gt;Abendschau 12.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller erklÃ¤rt Berliner FlÃ¼chtlingspolitik +++ Prozess um Sexualmord in Wuhletal +++ Nachrichten I +++ Zwei U-Bahntunnel abgesackt +++ Neue Konkurrenz fÃ¼r den Handel +++ GroÃe Stars und goldene Rehe +++ Nachrichten II +++ Serie BehindertenwerkstÃ¤tten in Berlin: Porsche Diesel Manufaktur +++ Das Wetter&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151112_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Thu, 12 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>12.11.2015 21:19 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1112/TV-100s-2119.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 12.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1112/TV-100s-2119.webl.h264.mp4"/>
+			<pubDate>Thu, 12 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>12.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1112/TV-20151112-2053-2101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Schweden kontrolliert Grenze, Auswirkungen der schwedischen Kontrollen in Norddeutschland, EU-Afrika-Gipfel vereinbart Aktionsplan zur FlÃ¼chtlingskrise, BAMF-Personalrat warnt vor rechtswidrigen Asylverfahren, Zahlreiche Tote nach SelbstmordanschlÃ¤gen in Beirut, Bundestag beschlieÃt Finanzdaten-Austausch, EU-BehÃ¶rde zu Krebsrisiko von Pestizid Glyphosat, Staatsakt fÃ¼r verstorbenen Altbundeskanzler Schmidt, Neuer 20-Euro-Schein, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1112/TV-20151112-2053-2101.webl.h264.mp4"/>
+			<pubDate>Thu, 12 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 11.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151111_sdg_m_16_9_512x288.mp4</link>
@@ -120,34 +141,6 @@
 			<description>Themen der Sendung: Debatte Ã¼ber De MaiziÃ¨re-ÃuÃerung , AfD-Demos und Gegendemos, Streik bei Lufthansa, Ermittlungen Sinai-Absturz, Treffen zwischen China und Taiwan , Sierra Leone frei von Ebola, FuÃball-Bundesliga, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1107/TV-20151107-2021-4601.webl.h264.mp4"/>
 			<pubDate>Sat, 07 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 06.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151106_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 06.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/50/44/56/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mohameds Familie darf bleiben +++ GeschÃ¤ftsmÃ¤Ãige Sterbehilfe verboten +++ CDU berÃ¤t Wahlprogramm +++ Wohnungsmodernisierung vor Gericht +++ PortrÃ¤t: Yigit Muk +++ &quot;BuchSegler&quot; in Pankow +++ Ausflugstipp: DomÃ¤ne Dahlem +++&lt;/p&gt;&lt;p&gt;06.11.2015 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-06-11-2015-19-30/rbb-Fernsehen/Video?documentId=31504444&amp;bcastId=3822076&quot;&gt;Abendschau 06.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mohameds Familie darf bleiben +++ GeschÃ¤ftsmÃ¤Ãige Sterbehilfe verboten +++ CDU berÃ¤t Wahlprogramm +++ Wohnungsmodernisierung vor Gericht +++ PortrÃ¤t: Yigit Muk +++ &quot;BuchSegler&quot; in Pankow +++ Ausflugstipp: DomÃ¤ne Dahlem +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151106_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Fri, 06 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.11.2015 21:22 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1106/TV-100s-2122.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:22 Uhr vom 06.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1106/TV-100s-2122.webl.h264.mp4"/>
-			<pubDate>Fri, 06 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1106/TV-20151106-2023-3201.webl.h264.mp4</link>
-			<description>Themen der Sendung: Innenministerium will Familiennachzug fÃ¼r syrische FlÃ¼chtlinge verbieten, GeschÃ¤ftsmÃ¤Ãige Sterbehilfe wird verboten, Vorratsdatenspeicherung wird wieder eingefÃ¼hrt, Streik bei Lufthansa wird fortgesetzt, Nach dem Flugzeugabsturz in Ãgypten, Obama zu Keystone-Pipeline, Athen billigt Reformpaket, AuÃenminister-Treffen zu Ukraine, Merkel im Biblis-Ausschuss, VW Ã¼bernimmt mÃ¶gliche Kfz-Steuernachzahlungen, ZugunglÃ¼ck in Bayern, Schlammlawine in Brasilien, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1106/TV-20151106-2023-3201.webl.h264.mp4"/>
-			<pubDate>Fri, 06 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.11.2015 22:21 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1106/TV-100s-2221.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:21 Uhr vom 06.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1106/TV-100s-2221.webl.h264.mp4"/>
-			<pubDate>Fri, 06 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
