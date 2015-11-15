@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 15 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 15 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 15 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 15 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,34 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 15.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151115_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 15.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/68/63/08/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Berlin zeigt SolidaritÃ¤t mit Paris +++ Die Jugend und der Volkstrauertag +++ BrÃ¼ckenbau in der BlissestraÃe +++ Mangelware VHS-Sprachkurs +++ 10.000 Jahre Stadtgeschichte +++ Wo ist die Statue Kaiser Wilhelms? +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;15.11.2015 | 28:26 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-15-11-2015-19-30/rbb-Fernsehen/Video?documentId=31686296&amp;bcastId=3822076&quot;&gt;Abendschau 15.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Berlin zeigt SolidaritÃ¤t mit Paris +++ Die Jugend und der Volkstrauertag +++ BrÃ¼ckenbau in der BlissestraÃe +++ Mangelware VHS-Sprachkurs +++ 10.000 Jahre Stadtgeschichte +++ Wo ist die Statue Kaiser Wilhelms? +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151115_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 10.000</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151115_geschichte_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - 10.000 Jahre Stadtgeschichte&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/68/57/88/1547339463/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Erstmals urkundlich erwÃ¤hnt wurde Berlin vor 778 Jahren. Doch die Stadt-ArchÃ¤ologen blicken noch weiter zurÃ¼ck. Nun ist eine Zusammenfassung ihrer Arbeit als Buch erschienen: Die ArchÃ¤ologie Berlins - Ã¼ber 10 000 Jahre Stadtgeschichte, erzÃ¤hlt an 50 ausgewÃ¤hlten Funden.&lt;/p&gt;&lt;p&gt;15.11.2015 | 03:26 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/10-000-Jahre-Stadtgeschichte/rbb-Fernsehen/Video?documentId=31685776&amp;bcastId=3822076&quot;&gt;10.000 Jahre Stadtgeschichte in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Erstmals urkundlich erwÃ¤hnt wurde Berlin vor 778 Jahren. Doch die Stadt-ArchÃ¤ologen blicken noch weiter zurÃ¼ck. Nun ist eine Zusammenfassung ihrer Arbeit als Buch erschienen: Die ArchÃ¤ologie Berlins - Ã¼ber 10 000 Jahre Stadtgeschichte, erzÃ¤hlt an 50 ausgewÃ¤hlten Funden.&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151115_geschichte_m_16_9_512x288.mp4"/>
+			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>15.11.2015 19:20 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1115/TV-100s-1920.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:20 Uhr vom 15.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1115/TV-100s-1920.webl.h264.mp4"/>
+			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>15.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1115/TV-20151115-2049-5501.webl.h264.mp4</link>
+			<description>Themen der Sendung: Trauer und Ermittlungen nach den AnschlÃ¤gen in Paris, Reaktionen in Deutschland, Gefahr des Generalverdachtes gegen FlÃ¼chtlinge, G20-Gipfel in der TÃ¼rkei, FuÃball-LÃ¤nderspiel in Hannover findet statt, Nico Rosberg gewinnt GroÃen Preis von Brasilien, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1115/TV-20151115-2049-5501.webl.h264.mp4"/>
+			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 14.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151114_sdg_m_16_9_512x288.mp4</link>
@@ -120,27 +148,6 @@
 			<description>Themen der Sendung: Helmut Schmidt gestorben, Reaktionen auf Schmidt, Syrische Asylbeweber: Deutschland will Dublin-Verfahren wieder anwenden, Cameron fordert Reformen in der EU, Lufthansa-Streik hÃ¤lt weiter an, NSU-Prozess: Unterbrechung fÃ¼r eine Woche, DFB nach Niersbach-RÃ¼cktritt: Beckenbauer stark unter Druck, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1110/TV-20151110-2024-5001.webl.h264.mp4"/>
 			<pubDate>Tue, 10 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.11.2015 21:19 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1109/TV-100s-2119.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 09.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1109/TV-100s-2119.webl.h264.mp4"/>
-			<pubDate>Mon, 09 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 09.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151109_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 09.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/54/50/36/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ U-Bahnbau sorgt fÃ¼r Verkehrsstress Â Â +++ Mehr Personal fÃ¼r mehr Sicherheit +++ Ergebnisse der SPD-Mitgliederbefragung +++ Quo vadis, Berliner Stadtwerke? +++ Die &quot;Waschbar&quot; in OberschÃ¶neweide +++ Berliner Tatort-Team ermittelt wieder +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;09.11.2015 | 28:09 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-09-11-2015-19-30/rbb-Fernsehen/Video?documentId=31545024&amp;bcastId=3822076&quot;&gt;Abendschau 09.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ U-Bahnbau sorgt fÃ¼r Verkehrsstress Â Â +++ Mehr Personal fÃ¼r mehr Sicherheit +++ Ergebnisse der SPD-Mitgliederbefragung +++ Quo vadis, Berliner Stadtwerke? +++ Die &quot;Waschbar&quot; in OberschÃ¶neweide +++ Berliner Tatort-Team ermittelt wieder +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151109_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 09 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1109/TV-20151109-2138-4801.webl.h264.mp4</link>
-			<description>Themen der Sendung: DFB-PrÃ¤sident Niersbach tritt zurÃ¼ck, Russlands Leichtathleten droht Olympia-Ausschluss, Streit in der Koalition Ã¼ber syrische FlÃ¼chtlinge, EU-Innenminister beraten Ã¼ber Verteilung von FlÃ¼chtlingen, Parlamentswahl in Kroatien, Pegida-Demonstration, Jahrestag der Reichspogromnacht, Gedenken Mauerfall, Flugbegleiter der Lufthansa weiten Streik auf MÃ¼nchen aus, ZschÃ¤pe will aussagen, Katalonien verabschiedet Resolution fÃ¼r UnabhÃ¤ngigkeit, Myanmar: Deutlicher Sieg fÃ¼r FriedensnobelpreistrÃ¤gerin zeichnet sich ab, Maler Ernst Fuchs gestorben, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1109/TV-20151109-2138-4801.webl.h264.mp4"/>
-			<pubDate>Mon, 09 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
