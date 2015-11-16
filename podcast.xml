@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 16 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 16 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 16 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 16 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 16.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151116_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 16.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/71/27/78/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Terror in Paris: Schweigeminute fÃ¼r die Opfer der AnschlÃ¤ge +++ Mahnwache muslimischer VerbÃ¤nde +++ Nachrichten I +++ Jugendgewalt vor allem in Hochhaussiedlungen +++ FlÃ¼chtlingsunterkÃ¼nfte: Bebauung auf dem Tempelhofer Feld +++ Serie: FlÃ¼chtlinge und der Kiez +++ Nachrichten II +++ Edeka und Kaiserâs Tengelmann kÃ¤mpfen um Fusion +++ Edeka und Kaiserâs Tengelmann kÃ¤mpfen um Fusion +++ Verfallenes VarietÃ©haus wiederentdeckt +++ &quot;Homeland&quot;âDreharbeiten in U55 Â &lt;/p&gt;&lt;p&gt;16.11.2015 | 29:21 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-16-11-2015-19-30/rbb-Fernsehen/Video?documentId=31712766&amp;bcastId=3822076&quot;&gt;Abendschau 16.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Terror in Paris: Schweigeminute fÃ¼r die Opfer der AnschlÃ¤ge +++ Mahnwache muslimischer VerbÃ¤nde +++ Nachrichten I +++ Jugendgewalt vor allem in Hochhaussiedlungen +++ FlÃ¼chtlingsunterkÃ¼nfte: Bebauung auf dem Tempelhofer Feld +++ Serie: FlÃ¼chtlinge und der Kiez +++ Nachrichten II +++ Edeka und Kaiserâs Tengelmann kÃ¤mpfen um Fusion +++ Edeka und Kaiserâs Tengelmann kÃ¤mpfen um Fusion +++ Verfallenes VarietÃ©haus wiederentdeckt +++ &quot;Homeland&quot;âDreharbeiten in U55 Â &lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151116_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.11.2015 21:17 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1116/TV-100s-2117.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 16.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1116/TV-100s-2117.webl.h264.mp4"/>
+			<pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1116/TV-20151116-2022-2801.webl.h264.mp4</link>
+			<description>Themen der Sendung: Europaweite Schweigeminute fÃ¼r die Anschlagsopfer von Paris, Hollande will Ausnahmezustand verlÃ¤ngern, Ermittlungen in Frankreich und Belgien, G20-Gipfel vereinbart engere Zusammenarbeit in TerrorismusbekÃ¤mpfung, Neue Diskussion in der FlÃ¼chtlingspolitik nach den AnschlÃ¤gen, SchÃ¤rfere SicherheitsmaÃnahmen in Deutschland, FuÃball-LÃ¤nderspiel soll Zeichen gegen Terrorismus setzen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1116/TV-20151116-2022-2801.webl.h264.mp4"/>
+			<pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 15.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151115_sdg_m_16_9_512x288.mp4</link>
@@ -134,27 +155,6 @@
 			<description>Themen der Sendung: Opposition kritisiert Kehrtwende in FlÃ¼chtlingspolitik, EU-Afrika-Gipfel will Flucht Ã¼ber das Mittelmeer beschrÃ¤nken, Slowenien baut Grenzzaun zu Kroatien, &quot;Wirtschaftsweise&quot; halten FlÃ¼chtlings-Kosten fÃ¼r verkraftbar, BND hÃ¶rte deutschen Diplomaten ab, Bedford-Strohm bleibt an der Spitze der Evangelischen Kirche, Bundeswehr feiert 60-jÃ¤hriges JubilÃ¤um, Flugbegleiter der Lufthansa streiken weiter, Deutschland nimmt Abschied von Helmut Schmidt, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1111/TV-20151111-2022-0001.webl.h264.mp4"/>
 			<pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 10.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151110_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 10.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/56/68/42/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Altbundeskanzler Helmut Schmidt ist tot +++ Berlin will bei Strom- und Gasnetz einsteigen +++ Nachts am Lageso +++ GeschÃ¤fte mit der Terminvergabe Â in BÃ¼rgerÃ¤mtern +++ WerkstÃ¤tten fÃ¼r Menschen mit Behinderung +++ Madonna live in Berlin +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;10.11.2015 | 29:20 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-10-11-2015-19-30/rbb-Fernsehen/Video?documentId=31566826&amp;bcastId=3822076&quot;&gt;Abendschau 10.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Altbundeskanzler Helmut Schmidt ist tot +++ Berlin will bei Strom- und Gasnetz einsteigen +++ Nachts am Lageso +++ GeschÃ¤fte mit der Terminvergabe Â in BÃ¼rgerÃ¤mtern +++ WerkstÃ¤tten fÃ¼r Menschen mit Behinderung +++ Madonna live in Berlin +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151110_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 10 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.11.2015 20:51 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1110/TV-100s-2051.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 20:51 Uhr vom 10.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1110/TV-100s-2051.webl.h264.mp4"/>
-			<pubDate>Tue, 10 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1110/TV-20151110-2024-5001.webl.h264.mp4</link>
-			<description>Themen der Sendung: Helmut Schmidt gestorben, Reaktionen auf Schmidt, Syrische Asylbeweber: Deutschland will Dublin-Verfahren wieder anwenden, Cameron fordert Reformen in der EU, Lufthansa-Streik hÃ¤lt weiter an, NSU-Prozess: Unterbrechung fÃ¼r eine Woche, DFB nach Niersbach-RÃ¼cktritt: Beckenbauer stark unter Druck, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1110/TV-20151110-2024-5001.webl.h264.mp4"/>
-			<pubDate>Tue, 10 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
