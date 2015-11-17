@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 17 Nov 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 17 Nov 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 17 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Tue, 17 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 17.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151117_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 17.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/73/32/30/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsunterkÃ¼nfte in Tempelhof +++ FriedrichstraÃe: Regionalbahn fÃ¤hrt wieder +++ Prozess gegen Pfleger +++ Pflegereporte von Barmer und AOK +++ Serie: FlÃ¼chtlinge im Kiez +++ Zu Besuch in der FrÃ¼hchenstation der CharitÃ© +++ Filmpremiere 'Stonewall' +++ Moderation: Cathrin BÃ¶hme +++&lt;/p&gt;&lt;p&gt;17.11.2015 | 28:59 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-17-11-2015/rbb-Fernsehen/Video?documentId=31733218&amp;bcastId=3822076&quot;&gt;Abendschau vom 17.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsunterkÃ¼nfte in Tempelhof +++ FriedrichstraÃe: Regionalbahn fÃ¤hrt wieder +++ Prozess gegen Pfleger +++ Pflegereporte von Barmer und AOK +++ Serie: FlÃ¼chtlinge im Kiez +++ Zu Besuch in der FrÃ¼hchenstation der CharitÃ© +++ Filmpremiere 'Stonewall' +++ Moderation: Cathrin BÃ¶hme +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151117_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>17.11.2015 21:19 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1117/TV-100s-2119.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 17.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1117/TV-100s-2119.webl.h264.mp4"/>
+			<pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>17.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1117/TV-20151117-2029-2601.webl.h264.mp4</link>
+			<description>Themen der Sendung: FuÃball-LÃ¤nderspiel in Hannover abgesagt, Festgenommene Personen bei Aachen nach TerroranschlÃ¤gen in Paris wieder freigelassen, Hannovers PolizeiprÃ¤sident Kluwe zur Absage des LÃ¤nderspiels, Frankreich bittet EU um militÃ¤rischen Beistand, Hollande fordert Allianz mit Russland und USA gegen IS, Russlands Zusammenarbeit mit Frankreich zur IS-BekÃ¤mpfung, Griechenland einigt sich mit Geldgebern auf ReformbÃ¼ndel, Dacian Colos ist neuer Regierungschef RumÃ¤niens, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1117/TV-20151117-2029-2601.webl.h264.mp4"/>
+			<pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 16.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151116_sdg_m_16_9_512x288.mp4</link>
@@ -134,27 +155,6 @@
 			<description>Themen der Sendung: Schweden kontrolliert Grenze, Auswirkungen der schwedischen Kontrollen in Norddeutschland, EU-Afrika-Gipfel vereinbart Aktionsplan zur FlÃ¼chtlingskrise, BAMF-Personalrat warnt vor rechtswidrigen Asylverfahren, Zahlreiche Tote nach SelbstmordanschlÃ¤gen in Beirut, Bundestag beschlieÃt Finanzdaten-Austausch, EU-BehÃ¶rde zu Krebsrisiko von Pestizid Glyphosat, Staatsakt fÃ¼r verstorbenen Altbundeskanzler Schmidt, Neuer 20-Euro-Schein, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1112/TV-20151112-2053-2101.webl.h264.mp4"/>
 			<pubDate>Thu, 12 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 11.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151111_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 11.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/59/75/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Leichter Aufschwung fÃ¼r Air Berlin +++ Die akzeptierte Katastrophe +++ Muslimische VerbÃ¤nde sollen sich an Integration beteiligen +++ Gericht lehnt einstweilige VerfÃ¼gung gegen Babylon-Mitarbeiter ab +++ Microsoft setzt auf die Cloud +++ Ausstellung Ã¼ber Plattenbauten in der DDR +++ BehindertenwerkstÃ¤tten in Berlin +++ Laureus Sport-Preisverleihung +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;11.11.2015 | 29:19 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-11-11-2015-19-30/rbb-Fernsehen/Video?documentId=31597514&amp;bcastId=3822076&quot;&gt;Abendschau 11.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Leichter Aufschwung fÃ¼r Air Berlin +++ Die akzeptierte Katastrophe +++ Muslimische VerbÃ¤nde sollen sich an Integration beteiligen +++ Gericht lehnt einstweilige VerfÃ¼gung gegen Babylon-Mitarbeiter ab +++ Microsoft setzt auf die Cloud +++ Ausstellung Ã¼ber Plattenbauten in der DDR +++ BehindertenwerkstÃ¤tten in Berlin +++ Laureus Sport-Preisverleihung +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151111_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>11.11.2015 21:07 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1111/TV-100s-2107.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 11.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1111/TV-100s-2107.webl.h264.mp4"/>
-			<pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>11.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1111/TV-20151111-2022-0001.webl.h264.mp4</link>
-			<description>Themen der Sendung: Opposition kritisiert Kehrtwende in FlÃ¼chtlingspolitik, EU-Afrika-Gipfel will Flucht Ã¼ber das Mittelmeer beschrÃ¤nken, Slowenien baut Grenzzaun zu Kroatien, &quot;Wirtschaftsweise&quot; halten FlÃ¼chtlings-Kosten fÃ¼r verkraftbar, BND hÃ¶rte deutschen Diplomaten ab, Bedford-Strohm bleibt an der Spitze der Evangelischen Kirche, Bundeswehr feiert 60-jÃ¤hriges JubilÃ¤um, Flugbegleiter der Lufthansa streiken weiter, Deutschland nimmt Abschied von Helmut Schmidt, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1111/TV-20151111-2022-0001.webl.h264.mp4"/>
-			<pubDate>Wed, 11 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
