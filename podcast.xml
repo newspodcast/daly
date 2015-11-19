@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 19 Nov 2015 00:30:08 GMT</pubDate>
-		<lastBuildDate>Thu, 19 Nov 2015 00:30:08 GMT</lastBuildDate>
+		<pubDate>Thu, 19 Nov 2015 21:30:07 GMT</pubDate>
+		<lastBuildDate>Thu, 19 Nov 2015 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,34 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 19.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151119_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 19.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/77/45/04/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Vereint im Gedenken an Terroropfer +++ 15.000 FlÃ¼chtlinge noch nicht registriert +++ Streit vor dem LaGeSo: Wachleute weisen VorwÃ¼rfe zurÃ¼ck +++ Nachrichten I +++ Knochenpuzzle: Tyrannosaurus Rex im Aufbau +++ Verkehrs-Chaos in Mitte +++ Nachrichten I +++ FlÃ¼chtlinge im Kiez: Wilmersdorf +++ Abendschau auf Arabisch +++ Das Wetter&lt;/p&gt;&lt;p&gt;19.11.2015 | 28:58 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-19-11-2015-19-30/rbb-Fernsehen/Video?documentId=31774492&amp;bcastId=3822076&quot;&gt;Abendschau 19.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Vereint im Gedenken an Terroropfer +++ 15.000 FlÃ¼chtlinge noch nicht registriert +++ Streit vor dem LaGeSo: Wachleute weisen VorwÃ¼rfe zurÃ¼ck +++ Nachrichten I +++ Knochenpuzzle: Tyrannosaurus Rex im Aufbau +++ Verkehrs-Chaos in Mitte +++ Nachrichten I +++ FlÃ¼chtlinge im Kiez: Wilmersdorf +++ Abendschau auf Arabisch +++ Das Wetter&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151119_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Thu, 19 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 15.000</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151119_registrierung_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - 15.000 FlÃ¼chtlinge noch nicht registriert&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/77/31/68/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Seit einem Monat ist die neue Registrierungsstelle in der Bundesallee in Betrieb. Sie sollte die die Situation am LaGeSo entspannen. Doch noch immer sind rund 15 000 FlÃ¼chtlinge in Berlin nicht registriert. Die Abendschau hat sich in der Registrierstelle Bundesallee umgesehen und zeigt, wie der Betrieb angelaufen ist.&lt;/p&gt;&lt;p&gt;19.11.2015 | 02:35 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/15-000-Fl%C3%BCchtlinge-noch-nicht-registrier/rbb-Fernsehen/Video?documentId=31773156&amp;bcastId=3822076&quot;&gt;15.000 FlÃ¼chtlinge noch nicht registriert in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Seit einem Monat ist die neue Registrierungsstelle in der Bundesallee in Betrieb. Sie sollte die die Situation am LaGeSo entspannen. Doch noch immer sind rund 15 000 FlÃ¼chtlinge in Berlin nicht registriert. Die Abendschau hat sich in der Registrierstelle Bundesallee umgesehen und zeigt, wie der Betrieb angelaufen ist.&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151119_registrierung_m_16_9_512x288.mp4"/>
+			<pubDate>Thu, 19 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.11.2015 21:13 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1119/TV-100s-2113.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 19.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1119/TV-100s-2113.webl.h264.mp4"/>
+			<pubDate>Thu, 19 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1119/TV-20151119-2022-3401.webl.h264.mp4</link>
+			<description>Themen der Sendung: FranzÃ¶sisches Parlament verlÃ¤ngert Ausnahmezustands, Belgische Regierung will Sicherheitsgesetze verschÃ¤rfen, Sicherheitsdiskussion in Deutschland, Streit Ã¼ber mÃ¶gliche Bundeswehr-InlandseinsÃ¤tze, Merkel trifft Ã¶sterreichischen Kanzler Faymann, Russische UN-Resolution zum Kampf gegen den IS, Gipfeltreffen der APEC-Staaten in Manila, FÃ¼nf Tote bei PalÃ¤stinenser-Angriffen, Griechisches Parlament billigt weitere Reformen, WADA sperrt russische Anti-Doping-Agentur, Neue InterCity-Generation getauft, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1119/TV-20151119-2022-3401.webl.h264.mp4"/>
+			<pubDate>Thu, 19 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 18.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151118_sdg_m_16_9_512x288.mp4</link>
@@ -134,27 +162,6 @@
 			<description>Themen der Sendung: Viele Tote und Verletzte bei AnschlÃ¤gen in Paris, Reaktionen auf die AnschlÃ¤ge aus dem politischen Berlin, Waffenfund in Bayern, Weltweite Anteilnahme und SolidaritÃ¤tsbekundungen, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1114/TV-20151114-2021-2701.webl.h264.mp4"/>
 			<pubDate>Sat, 14 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 13.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151113_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 13.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/64/69/62/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Streit in der Regierungskoalition +++ Mehr FlÃ¼chtlinge sollen nach Tempelhof +++ Neptunbrunnen soll umziehen +++ Protestkonzert fÃ¼r Musikschule +++ Die Via Werkstatt fÃ¼r Theaterplastiken +++ Die Glienicker BrÃ¼cke wird Kinostar +++ Ausflugstipp: Slubice +++ Moderation:Â  Cathrin BÃ¶hme Â &lt;/p&gt;&lt;p&gt;13.11.2015 | 29:47 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-13-11-2015-19-30/rbb-Fernsehen/Video?documentId=31646950&amp;bcastId=3822076&quot;&gt;Abendschau 13.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Streit in der Regierungskoalition +++ Mehr FlÃ¼chtlinge sollen nach Tempelhof +++ Neptunbrunnen soll umziehen +++ Protestkonzert fÃ¼r Musikschule +++ Die Via Werkstatt fÃ¼r Theaterplastiken +++ Die Glienicker BrÃ¼cke wird Kinostar +++ Ausflugstipp: Slubice +++ Moderation:Â  Cathrin BÃ¶hme Â &lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151113_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Fri, 13 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>13.11.2015 21:13 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1113/TV-100s-2113.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 13.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1113/TV-100s-2113.webl.h264.mp4"/>
-			<pubDate>Fri, 13 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>13.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1113/TV-20151113-2024-4401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Spitzentreffen von CDU und CSU, Ãsterreich baut Grenzzaun zu Slowenien, Haushaltsentwurf 2016: Bund plant weiter ohne Neuverschuldung, Bundestag beschlieÃt Pflegereform, Konsequenzen aus den AusspÃ¤h-AffÃ¤ren des BND, Kurden erobern Sindschar zurÃ¼ck, Bei Parlamentswahl in Myanmar holt Partei von Suu Kyi absolute Mehrheit, Weitere Streiks bei der Lufthansa mÃ¶glich, Acht Babyleichen in Wohnhaus gefunden, Anti-Doping-Gesetz verabschiedet, DFB-Auswahl trifft auf Frankreich im Test-LÃ¤nderspiel, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1113/TV-20151113-2024-4401.webl.h264.mp4"/>
-			<pubDate>Fri, 13 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
