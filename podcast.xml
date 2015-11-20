@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 20 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 20 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 20 Nov 2015 21:30:07 GMT</pubDate>
+		<lastBuildDate>Fri, 20 Nov 2015 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 20.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151120_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 20.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/79/39/76/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Verdacht auf totes Baby in Friedrichshain +++ BER: Baufirmen sollen abgerechnet haben â ohne Gegenleistung +++ Berliner unzufrieden mit Arbeit des Senats +++ Berliner BÃ¤derbetriebe: Neue Angebote, Auszeichnungen und ein Brandbrief +++ FÃ¶rderung fÃ¼r experimentellen Wohnungsbau +++ Serie FlÃ¼chtlinge im Kiez: Lichtenberg +++ Lange Nacht der Mathematik +++ Ausflugstipp: Gestern pfui, heute hui â die Rieselfelder +++&lt;/p&gt;&lt;p&gt;20.11.2015 | 29:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-20-11-2015/rbb-Fernsehen/Video?documentId=31793964&amp;bcastId=3822076&quot;&gt;Abendschau vom 20.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Verdacht auf totes Baby in Friedrichshain +++ BER: Baufirmen sollen abgerechnet haben â ohne Gegenleistung +++ Berliner unzufrieden mit Arbeit des Senats +++ Berliner BÃ¤derbetriebe: Neue Angebote, Auszeichnungen und ein Brandbrief +++ FÃ¶rderung fÃ¼r experimentellen Wohnungsbau +++ Serie FlÃ¼chtlinge im Kiez: Lichtenberg +++ Lange Nacht der Mathematik +++ Ausflugstipp: Gestern pfui, heute hui â die Rieselfelder +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151120_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>20.11.2015 21:10 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1120/TV-100s-2110.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 20.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1120/TV-100s-2110.webl.h264.mp4"/>
+			<pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>20.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1120/TV-20151120-2038-0701.webl.h264.mp4</link>
+			<description>Themen der Sendung: Mindestens 27 Menschen sterben bei Terrorangriff in Mali, Ermittler entdecken weitere Leiche in St. Denis, EU will Einreise von EU-BÃ¼rgern stÃ¤rker kontrollieren, Mazedonien verweigert vielen FlÃ¼chtlingen die Einreise, Verabschiedung des Asylgesetzpakets verzÃ¶gert sich, CSU-Parteitag fordert Obergrenze fÃ¼r FlÃ¼chtlingsaufnahme, GrÃ¼nen-Parteitag debattiert Ã¼ber FlÃ¼chtlingspolitik und Terrorabwehr, VW kÃ¼rzt Investitionen, PrÃ¤sident der katholischen Laien Deutschlands gewÃ¤hlt, KÃ¶lner OberbÃ¼rgermeisterin Reker tritt Amt an, Bundesliga-Spieltag startet mit verstÃ¤rkten Sicherheitsvorkehrungen, Das Wetter.</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1120/TV-20151120-2038-0701.webl.h264.mp4"/>
+			<pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 19.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151119_sdg_m_16_9_512x288.mp4</link>
@@ -141,27 +162,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:17 Uhr vom 15.11.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1115/TV-100s-2217.webl.h264.mp4"/>
 			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 14.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151114_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 14.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/66/68/32/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Trauer und erhÃ¶hte Sicherheitsvorkehrungen in Berlin nach den AnschlÃ¤gen in Frankreich +++ MÃ¼ller teilt gegen Henkel und Czaja aus +++ 25 Jahre nach der RÃ¤umung der Mainzer StraÃe +++ Die Flucht der Familie Suleiman +++ Gleich nebenan: Tee aus Kreuzberg +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;14.11.2015 | 29:36 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-14-11-2015-19-30/rbb-Fernsehen/Video?documentId=31666820&amp;bcastId=3822076&quot;&gt;Abendschau 14.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Trauer und erhÃ¶hte Sicherheitsvorkehrungen in Berlin nach den AnschlÃ¤gen in Frankreich +++ MÃ¼ller teilt gegen Henkel und Czaja aus +++ 25 Jahre nach der RÃ¤umung der Mainzer StraÃe +++ Die Flucht der Familie Suleiman +++ Gleich nebenan: Tee aus Kreuzberg +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151114_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sat, 14 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.11.2015 20:30 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1114/TV-100s-2030.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 20:30 Uhr vom 14.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1114/TV-100s-2030.webl.h264.mp4"/>
-			<pubDate>Sat, 14 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1114/TV-20151114-2021-2701.webl.h264.mp4</link>
-			<description>Themen der Sendung: Viele Tote und Verletzte bei AnschlÃ¤gen in Paris, Reaktionen auf die AnschlÃ¤ge aus dem politischen Berlin, Waffenfund in Bayern, Weltweite Anteilnahme und SolidaritÃ¤tsbekundungen, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1114/TV-20151114-2021-2701.webl.h264.mp4"/>
-			<pubDate>Sat, 14 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
