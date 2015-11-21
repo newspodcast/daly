@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 21 Nov 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Sat, 21 Nov 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Sat, 21 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sat, 21 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,31 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 21.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 21.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/80/66/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Demonstration zum Gedenken an Silvio Meie +++Â Klaus Lederer wird Spitzenkandidat +++ Wie positioniert sich die CDU? +++ Nachrichten I +++ FlÃ¼chtlingsunterkunft im Stasi-GebÃ¤ude +++ FlÃ¼chtlinge im Kiez: Kreuzberg +++ Nachrichten II +++ Bremer Fernsehpreis fÃ¼r Sascha Hingst +++ Gleich nebenan: Japan Bonsai Berlin +++ 30 Jahre LindenstraÃeÂ  Â 
+
+Â &lt;/p&gt;&lt;p&gt;21.11.2015 | 29:10 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-11-2015-19-30/rbb-Fernsehen/Video?documentId=31806674&amp;bcastId=3822076&quot;&gt;Abendschau 21.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Demonstration zum Gedenken an Silvio Meie +++Â Klaus Lederer wird Spitzenkandidat +++ Wie positioniert sich die CDU? +++ Nachrichten I +++ FlÃ¼chtlingsunterkunft im Stasi-GebÃ¤ude +++ FlÃ¼chtlinge im Kiez: Kreuzberg +++ Nachrichten II +++ Bremer Fernsehpreis fÃ¼r Sascha Hingst +++ Gleich nebenan: Japan Bonsai Berlin +++ 30 Jahre LindenstraÃeÂ  Â 
+
+Â &lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>21.11.2015 21:09 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1121/TV-100s-2109.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:09 Uhr vom 21.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1121/TV-100s-2109.webl.h264.mp4"/>
+			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>21.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1121/TV-20151121-2027-1201.webl.h264.mp4</link>
+			<description>Themen der Sendung: HÃ¶chste Terrorwarnstufe fÃ¼r Belgien, Gabriel zu Besuch bei Hollande, Ausnahmezustand in Mali, Abschluss des CSU-Parteitags, Parteitag der GrÃ¼nen, VW-Skandal in den USA, Reporter ohne Grenzen ausgezeichnet, ESC-Absage fÃ¼r Xavier Naidoo, ErhÃ¶hte Sicherheitsvorkehrungen bei Bundesligaspielen, 13. Spieltag der Bundesliga, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1121/TV-20151121-2027-1201.webl.h264.mp4"/>
+			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 20.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151120_sdg_m_16_9_512x288.mp4</link>
@@ -127,41 +152,6 @@
 			<description>Themen der Sendung: Europaweite Schweigeminute fÃ¼r die Anschlagsopfer von Paris, Hollande will Ausnahmezustand verlÃ¤ngern, Ermittlungen in Frankreich und Belgien, G20-Gipfel vereinbart engere Zusammenarbeit in TerrorismusbekÃ¤mpfung, Neue Diskussion in der FlÃ¼chtlingspolitik nach den AnschlÃ¤gen, SchÃ¤rfere SicherheitsmaÃnahmen in Deutschland, FuÃball-LÃ¤nderspiel soll Zeichen gegen Terrorismus setzen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1116/TV-20151116-2022-2801.webl.h264.mp4"/>
 			<pubDate>Mon, 16 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 15.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151115_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 15.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/68/63/08/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Berlin zeigt SolidaritÃ¤t mit Paris +++ Die Jugend und der Volkstrauertag +++ BrÃ¼ckenbau in der BlissestraÃe +++ Mangelware VHS-Sprachkurs +++ 10.000 Jahre Stadtgeschichte +++ Wo ist die Statue Kaiser Wilhelms? +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;15.11.2015 | 28:26 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-15-11-2015-19-30/rbb-Fernsehen/Video?documentId=31686296&amp;bcastId=3822076&quot;&gt;Abendschau 15.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Berlin zeigt SolidaritÃ¤t mit Paris +++ Die Jugend und der Volkstrauertag +++ BrÃ¼ckenbau in der BlissestraÃe +++ Mangelware VHS-Sprachkurs +++ 10.000 Jahre Stadtgeschichte +++ Wo ist die Statue Kaiser Wilhelms? +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151115_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 10.000</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151115_geschichte_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - 10.000 Jahre Stadtgeschichte&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/68/57/88/1547339463/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Erstmals urkundlich erwÃ¤hnt wurde Berlin vor 778 Jahren. Doch die Stadt-ArchÃ¤ologen blicken noch weiter zurÃ¼ck. Nun ist eine Zusammenfassung ihrer Arbeit als Buch erschienen: Die ArchÃ¤ologie Berlins - Ã¼ber 10 000 Jahre Stadtgeschichte, erzÃ¤hlt an 50 ausgewÃ¤hlten Funden.&lt;/p&gt;&lt;p&gt;15.11.2015 | 03:26 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/10-000-Jahre-Stadtgeschichte/rbb-Fernsehen/Video?documentId=31685776&amp;bcastId=3822076&quot;&gt;10.000 Jahre Stadtgeschichte in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Erstmals urkundlich erwÃ¤hnt wurde Berlin vor 778 Jahren. Doch die Stadt-ArchÃ¤ologen blicken noch weiter zurÃ¼ck. Nun ist eine Zusammenfassung ihrer Arbeit als Buch erschienen: Die ArchÃ¤ologie Berlins - Ã¼ber 10 000 Jahre Stadtgeschichte, erzÃ¤hlt an 50 ausgewÃ¤hlten Funden.&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151115_geschichte_m_16_9_512x288.mp4"/>
-			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.11.2015 19:20 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1115/TV-100s-1920.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:20 Uhr vom 15.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1115/TV-100s-1920.webl.h264.mp4"/>
-			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1115/TV-20151115-2049-5501.webl.h264.mp4</link>
-			<description>Themen der Sendung: Trauer und Ermittlungen nach den AnschlÃ¤gen in Paris, Reaktionen in Deutschland, Gefahr des Generalverdachtes gegen FlÃ¼chtlinge, G20-Gipfel in der TÃ¼rkei, FuÃball-LÃ¤nderspiel in Hannover findet statt, Nico Rosberg gewinnt GroÃen Preis von Brasilien, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1115/TV-20151115-2049-5501.webl.h264.mp4"/>
-			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.11.2015 22:17 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1115/TV-100s-2217.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:17 Uhr vom 15.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1115/TV-100s-2217.webl.h264.mp4"/>
-			<pubDate>Sun, 15 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
