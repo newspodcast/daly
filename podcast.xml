@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 23 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 23 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 23 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 23 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 23.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151123_sdg_m_16_9_512x288.mp4</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 23.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/83/32/96/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Wie gut ist die Hauptstadt-Polizei aufgestellt? +++ Kita-Besuch ab 2018 kostenlos +++Â  WeihnachtsmÃ¤rkte Ã¶ffnen in Berlin +++Â Wochenserie: Die FrÃ¼hchenstation +++ &quot;Der glÃ¤serne Mensch&quot; kommt +++ Film fÃ¼r Toleranz +++ Photoautomaten bleiben im Trend +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;23.11.2015 | 29:07 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-23-11-2015-19-30/rbb-Fernsehen/Video?documentId=31833284&amp;bcastId=3822076&quot;&gt;Abendschau 23.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Wie gut ist die Hauptstadt-Polizei aufgestellt? +++ Kita-Besuch ab 2018 kostenlos +++Â  WeihnachtsmÃ¤rkte Ã¶ffnen in Berlin +++Â Wochenserie: Die FrÃ¼hchenstation +++ &quot;Der glÃ¤serne Mensch&quot; kommt +++ Film fÃ¼r Toleranz +++ Photoautomaten bleiben im Trend +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151123_sdg_m_16_9_512x288.mp4"/>
+			<pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>23.11.2015 21:09 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1123/TV-100s-2109.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:09 Uhr vom 23.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1123/TV-100s-2109.webl.h264.mp4"/>
+			<pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>23.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1123/TV-20151123-2022-2701.webl.h264.mp4</link>
+			<description>Themen der Sendung: Staatsakt fÃ¼r Altkanzler Schmidt in Hamburg, HÃ¶chste Terrorwarnstufe fÃ¼r BrÃ¼ssel verlÃ¤ngert, Hollande und Cameron beraten Ã¼ber Anti-Terror-BÃ¼ndnis, Putin in Teheran, Bundeswehreinsatz in Afghanistan, Abgeordnete erhalten Einsicht in BND-Selektorenliste, Neue Streiks bei Lufthansa, Machtwechsel in Argentinien, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1123/TV-20151123-2022-2701.webl.h264.mp4"/>
+			<pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 22.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151122_sdg_m_16_9_512x288.mp4</link>
@@ -138,27 +159,6 @@
 			<description>Themen der Sendung: Zwei Tote und Festnahmen nach gestÃ¼rmter Wohnung im Pariser Vorort Saint-Denis, Fahndung nach Drahtzieher Abdelhamid Abaaoud, Meldungen zum mÃ¶glichen Tod Abaaouds, Molenbeek gedenkt der Terroropfer von Paris, Die Sicherheitslage in Deutschland, Offensive franzÃ¶sischer und russischer Luftangriffe gegen IS in Syrien, Gericht verurteilt Polizeieinsatz bei Bahnprojekt &quot;Stuttgart 21&quot; als verfassungswidrig, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1118/TV-20151118-2043-5801.webl.h264.mp4"/>
 			<pubDate>Wed, 18 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 17.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151117_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 17.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/73/32/30/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsunterkÃ¼nfte in Tempelhof +++ FriedrichstraÃe: Regionalbahn fÃ¤hrt wieder +++ Prozess gegen Pfleger +++ Pflegereporte von Barmer und AOK +++ Serie: FlÃ¼chtlinge im Kiez +++ Zu Besuch in der FrÃ¼hchenstation der CharitÃ© +++ Filmpremiere 'Stonewall' +++ Moderation: Cathrin BÃ¶hme +++&lt;/p&gt;&lt;p&gt;17.11.2015 | 28:59 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-17-11-2015/rbb-Fernsehen/Video?documentId=31733218&amp;bcastId=3822076&quot;&gt;Abendschau vom 17.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ FlÃ¼chtlingsunterkÃ¼nfte in Tempelhof +++ FriedrichstraÃe: Regionalbahn fÃ¤hrt wieder +++ Prozess gegen Pfleger +++ Pflegereporte von Barmer und AOK +++ Serie: FlÃ¼chtlinge im Kiez +++ Zu Besuch in der FrÃ¼hchenstation der CharitÃ© +++ Filmpremiere 'Stonewall' +++ Moderation: Cathrin BÃ¶hme +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151117_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>17.11.2015 21:19 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1117/TV-100s-2119.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 17.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1117/TV-100s-2119.webl.h264.mp4"/>
-			<pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>17.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1117/TV-20151117-2029-2601.webl.h264.mp4</link>
-			<description>Themen der Sendung: FuÃball-LÃ¤nderspiel in Hannover abgesagt, Festgenommene Personen bei Aachen nach TerroranschlÃ¤gen in Paris wieder freigelassen, Hannovers PolizeiprÃ¤sident Kluwe zur Absage des LÃ¤nderspiels, Frankreich bittet EU um militÃ¤rischen Beistand, Hollande fordert Allianz mit Russland und USA gegen IS, Russlands Zusammenarbeit mit Frankreich zur IS-BekÃ¤mpfung, Griechenland einigt sich mit Geldgebern auf ReformbÃ¼ndel, Dacian Colos ist neuer Regierungschef RumÃ¤niens, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1117/TV-20151117-2029-2601.webl.h264.mp4"/>
-			<pubDate>Tue, 17 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
