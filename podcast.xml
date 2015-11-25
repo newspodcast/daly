@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 25 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 25 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Nov 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 25 Nov 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 25.11.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/078f7dc5-7cb9-46df-90fb-c26fab50985f_f21aa70b-4762-406b-8092-7629984e4180.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 25.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/87/02/50/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Senat droht mit Beschlagnahmungen +++ Modulbauten als FlÃ¼chtlingswohnungen +++ Arbeitsmarktintegration von GeflÃ¼chteten +++ Neue PlÃ¤ne fÃ¼r das Kindl-GelÃ¤nde +++ Wochenserie: Die FrÃ¼hchenstation der CharitÃ© +++ 20 Jahre nach der Reichstag-VerhÃ¼llung +++ UrauffÃ¼hrung von 'Der klÃ¼gste Mensch im Facebook' +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;25.11.2015 | 28:53 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-25-11-2015-19-30/rbb-Fernsehen/Video?documentId=31870238&amp;bcastId=3822076&quot;&gt;Abendschau 25.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Senat droht mit Beschlagnahmungen +++ Modulbauten als FlÃ¼chtlingswohnungen +++ Arbeitsmarktintegration von GeflÃ¼chteten +++ Neue PlÃ¤ne fÃ¼r das Kindl-GelÃ¤nde +++ Wochenserie: Die FrÃ¼hchenstation der CharitÃ© +++ 20 Jahre nach der Reichstag-VerhÃ¼llung +++ UrauffÃ¼hrung von 'Der klÃ¼gste Mensch im Facebook' +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/078f7dc5-7cb9-46df-90fb-c26fab50985f_f21aa70b-4762-406b-8092-7629984e4180.mp4?url=1"/>
+			<pubDate>Wed, 25 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.11.2015 21:06 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1125/TV-100s-2106.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:06 Uhr vom 25.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1125/TV-100s-2106.webl.h264.mp4"/>
+			<pubDate>Wed, 25 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1125/TV-20151125-2028-3301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Terrorgefahren und FlÃ¼chtlingspolitik im Zentrum der Generaldebatte, Bundeswehreinsatz in Mali geplant, Merkel zu GesprÃ¤chen mit Hollande in Paris, Kreml wirft der TÃ¼rkei Provokation vor, IS-Terrormiliz bekennt sich offenbar zu Anschlag in Tunis, BrÃ¼ssel kehrt zur NormalitÃ¤t zurÃ¼ck, Klimaforscher warnen vor ErderwÃ¤rmung, Gewerkschaft UFO sagt Flugbegleiter-Streik ab, VW legt LÃ¶sungsvorschlÃ¤ge im Abgas-Skandal vor, VfL Wolfsburg schlÃ¤gt ZSKA Moskau in der Champions League, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1125/TV-20151125-2028-3301.webl.h264.mp4"/>
+			<pubDate>Wed, 25 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 24.11.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/e2f03b8d-776d-4a22-aee7-88c833a0e837_a4e6b977-94ef-49b0-bba2-97859dbd4d53.mp4?url=1</link>
@@ -119,6 +140,17 @@
 			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
+			<title>Abendschau vom 21.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 21.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/80/66/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Demonstration zum Gedenken an Silvio Meie +++Â Klaus Lederer wird Spitzenkandidat +++ Wie positioniert sich die CDU? +++ Nachrichten I +++ FlÃ¼chtlingsunterkunft im Stasi-GebÃ¤ude +++ FlÃ¼chtlinge im Kiez: Kreuzberg +++ Nachrichten II +++ Bremer Fernsehpreis fÃ¼r Sascha Hingst +++ Gleich nebenan: Japan Bonsai Berlin +++ 30 Jahre LindenstraÃeÂ  Â 
+
+Â &lt;/p&gt;&lt;p&gt;21.11.2015 | 29:10 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-11-2015-19-30/rbb-Fernsehen/Video?documentId=31806674&amp;bcastId=3822076&quot;&gt;Abendschau 21.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Demonstration zum Gedenken an Silvio Meie +++Â Klaus Lederer wird Spitzenkandidat +++ Wie positioniert sich die CDU? +++ Nachrichten I +++ FlÃ¼chtlingsunterkunft im Stasi-GebÃ¤ude +++ FlÃ¼chtlinge im Kiez: Kreuzberg +++ Nachrichten II +++ Bremer Fernsehpreis fÃ¼r Sascha Hingst +++ Gleich nebenan: Japan Bonsai Berlin +++ 30 Jahre LindenstraÃeÂ  Â 
+
+Â &lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4?url=3"/>
+			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
 			<title>Abendschau vom 20.11.2015</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151120_sdg_m_16_9_512x288.mp4</link>
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 20.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/79/39/76/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Verdacht auf totes Baby in Friedrichshain +++ BER: Baufirmen sollen abgerechnet haben â ohne Gegenleistung +++ Berliner unzufrieden mit Arbeit des Senats +++ Berliner BÃ¤derbetriebe: Neue Angebote, Auszeichnungen und ein Brandbrief +++ FÃ¶rderung fÃ¼r experimentellen Wohnungsbau +++ Serie FlÃ¼chtlinge im Kiez: Lichtenberg +++ Lange Nacht der Mathematik +++ Ausflugstipp: Gestern pfui, heute hui â die Rieselfelder +++&lt;/p&gt;&lt;p&gt;20.11.2015 | 29:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-20-11-2015/rbb-Fernsehen/Video?documentId=31793964&amp;bcastId=3822076&quot;&gt;Abendschau vom 20.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Verdacht auf totes Baby in Friedrichshain +++ BER: Baufirmen sollen abgerechnet haben â ohne Gegenleistung +++ Berliner unzufrieden mit Arbeit des Senats +++ Berliner BÃ¤derbetriebe: Neue Angebote, Auszeichnungen und ein Brandbrief +++ FÃ¶rderung fÃ¼r experimentellen Wohnungsbau +++ Serie FlÃ¼chtlinge im Kiez: Lichtenberg +++ Lange Nacht der Mathematik +++ Ausflugstipp: Gestern pfui, heute hui â die Rieselfelder +++&lt;/p&gt;</description>
@@ -138,34 +170,6 @@
 			<description>Themen der Sendung: Mindestens 27 Menschen sterben bei Terrorangriff in Mali, Ermittler entdecken weitere Leiche in St. Denis, EU will Einreise von EU-BÃ¼rgern stÃ¤rker kontrollieren, Mazedonien verweigert vielen FlÃ¼chtlingen die Einreise, Verabschiedung des Asylgesetzpakets verzÃ¶gert sich, CSU-Parteitag fordert Obergrenze fÃ¼r FlÃ¼chtlingsaufnahme, GrÃ¼nen-Parteitag debattiert Ã¼ber FlÃ¼chtlingspolitik und Terrorabwehr, VW kÃ¼rzt Investitionen, PrÃ¤sident der katholischen Laien Deutschlands gewÃ¤hlt, KÃ¶lner OberbÃ¼rgermeisterin Reker tritt Amt an, Bundesliga-Spieltag startet mit verstÃ¤rkten Sicherheitsvorkehrungen, Das Wetter.</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1120/TV-20151120-2038-0701.webl.h264.mp4"/>
 			<pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 19.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151119_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 19.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/77/45/04/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Vereint im Gedenken an Terroropfer +++ 15.000 FlÃ¼chtlinge noch nicht registriert +++ Streit vor dem LaGeSo: Wachleute weisen VorwÃ¼rfe zurÃ¼ck +++ Nachrichten I +++ Knochenpuzzle: Tyrannosaurus Rex im Aufbau +++ Verkehrs-Chaos in Mitte +++ Nachrichten I +++ FlÃ¼chtlinge im Kiez: Wilmersdorf +++ Abendschau auf Arabisch +++ Das Wetter&lt;/p&gt;&lt;p&gt;19.11.2015 | 28:58 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-19-11-2015-19-30/rbb-Fernsehen/Video?documentId=31774492&amp;bcastId=3822076&quot;&gt;Abendschau 19.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Vereint im Gedenken an Terroropfer +++ 15.000 FlÃ¼chtlinge noch nicht registriert +++ Streit vor dem LaGeSo: Wachleute weisen VorwÃ¼rfe zurÃ¼ck +++ Nachrichten I +++ Knochenpuzzle: Tyrannosaurus Rex im Aufbau +++ Verkehrs-Chaos in Mitte +++ Nachrichten I +++ FlÃ¼chtlinge im Kiez: Wilmersdorf +++ Abendschau auf Arabisch +++ Das Wetter&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151119_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 19 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 15.000</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151119_registrierung_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - 15.000 FlÃ¼chtlinge noch nicht registriert&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/77/31/68/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Seit einem Monat ist die neue Registrierungsstelle in der Bundesallee in Betrieb. Sie sollte die die Situation am LaGeSo entspannen. Doch noch immer sind rund 15 000 FlÃ¼chtlinge in Berlin nicht registriert. Die Abendschau hat sich in der Registrierstelle Bundesallee umgesehen und zeigt, wie der Betrieb angelaufen ist.&lt;/p&gt;&lt;p&gt;19.11.2015 | 02:35 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/15-000-Fl%C3%BCchtlinge-noch-nicht-registrier/rbb-Fernsehen/Video?documentId=31773156&amp;bcastId=3822076&quot;&gt;15.000 FlÃ¼chtlinge noch nicht registriert in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Seit einem Monat ist die neue Registrierungsstelle in der Bundesallee in Betrieb. Sie sollte die die Situation am LaGeSo entspannen. Doch noch immer sind rund 15 000 FlÃ¼chtlinge in Berlin nicht registriert. Die Abendschau hat sich in der Registrierstelle Bundesallee umgesehen und zeigt, wie der Betrieb angelaufen ist.&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151119_registrierung_m_16_9_512x288.mp4"/>
-			<pubDate>Thu, 19 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.11.2015 21:13 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1119/TV-100s-2113.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 19.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1119/TV-100s-2113.webl.h264.mp4"/>
-			<pubDate>Thu, 19 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1119/TV-20151119-2022-3401.webl.h264.mp4</link>
-			<description>Themen der Sendung: FranzÃ¶sisches Parlament verlÃ¤ngert Ausnahmezustands, Belgische Regierung will Sicherheitsgesetze verschÃ¤rfen, Sicherheitsdiskussion in Deutschland, Streit Ã¼ber mÃ¶gliche Bundeswehr-InlandseinsÃ¤tze, Merkel trifft Ã¶sterreichischen Kanzler Faymann, Russische UN-Resolution zum Kampf gegen den IS, Gipfeltreffen der APEC-Staaten in Manila, FÃ¼nf Tote bei PalÃ¤stinenser-Angriffen, Griechisches Parlament billigt weitere Reformen, WADA sperrt russische Anti-Doping-Agentur, Neue InterCity-Generation getauft, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1119/TV-20151119-2022-3401.webl.h264.mp4"/>
-			<pubDate>Thu, 19 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
