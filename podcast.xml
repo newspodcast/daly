@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 26 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 26 Nov 2015 21:30:06 GMT</pubDate>
+		<lastBuildDate>Thu, 26 Nov 2015 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 26.11.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/e25cc745-0f36-49da-b6eb-1bb306c1f1f8_d2ab9dc8-7b9f-4209-b8eb-8bd711197ec1.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 26.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/88/85/92/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Arabischer Kulturverein durchsucht +++ Traglufthallen auf Tempelhofer Feld fÃ¼r FlÃ¼chtlinge +++ Berlin bekommt freies W-Lan +++ Serie: Die FrÃ¼hchenstation der CharitÃ© +++ Dagmar Reim verlÃ¤sst rbb vorzeitig +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;26.11.2015 | 28:51 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-26-11-2015-19-30/rbb-Fernsehen/Video?documentId=31888580&amp;bcastId=3822076&quot;&gt;Abendschau 26.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Arabischer Kulturverein durchsucht +++ Traglufthallen auf Tempelhofer Feld fÃ¼r FlÃ¼chtlinge +++ Berlin bekommt freies W-Lan +++ Serie: Die FrÃ¼hchenstation der CharitÃ© +++ Dagmar Reim verlÃ¤sst rbb vorzeitig +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/e25cc745-0f36-49da-b6eb-1bb306c1f1f8_d2ab9dc8-7b9f-4209-b8eb-8bd711197ec1.mp4?url=1"/>
+			<pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.11.2015 21:11 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1126/TV-100s-2111.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:11 Uhr vom 26.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1126/TV-100s-2111.webl.h264.mp4"/>
+			<pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1126/TV-20151126-2023-1501.webl.h264.mp4</link>
+			<description>Themen der Sendung: Deutsche Luftwaffe und Marine sollen sich am Kampf gegen IS beteiligen, Putin stellt Hollande russische Beteiligung bei IS-BekÃ¤mpfung in Aussicht, Belgien setzt Terrorwarnstufe herab, VerschÃ¤rfung der FlÃ¼chtlingslage an griechisch-mazedonischer Grenze, Festnahmen mutmaÃlicher IS-AnhÃ¤nger in Berlin, Debatte Ã¼ber Bundeshaushalt 2016, Neue polnische MinisterprÃ¤sidentin Szydlo in der Kritik, UN-Bericht beklagt steigende Opferzahlen durch Landminen, Papst Franziskus in Nairobi, BGH-Urteil zu illegalen Musik- und Filmportalen, ErÃ¶ffnung des Dresdner Striezelmarktes, FuÃball-Europa League: BVB Dortmund - FK Krasnodar  0:1, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1126/TV-20151126-2023-1501.webl.h264.mp4"/>
+			<pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 25.11.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/078f7dc5-7cb9-46df-90fb-c26fab50985f_f21aa70b-4762-406b-8092-7629984e4180.mp4?url=1</link>
@@ -149,27 +170,6 @@
 Â &lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4?url=3"/>
 			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 20.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151120_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 20.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/79/39/76/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Verdacht auf totes Baby in Friedrichshain +++ BER: Baufirmen sollen abgerechnet haben â ohne Gegenleistung +++ Berliner unzufrieden mit Arbeit des Senats +++ Berliner BÃ¤derbetriebe: Neue Angebote, Auszeichnungen und ein Brandbrief +++ FÃ¶rderung fÃ¼r experimentellen Wohnungsbau +++ Serie FlÃ¼chtlinge im Kiez: Lichtenberg +++ Lange Nacht der Mathematik +++ Ausflugstipp: Gestern pfui, heute hui â die Rieselfelder +++&lt;/p&gt;&lt;p&gt;20.11.2015 | 29:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-20-11-2015/rbb-Fernsehen/Video?documentId=31793964&amp;bcastId=3822076&quot;&gt;Abendschau vom 20.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Verdacht auf totes Baby in Friedrichshain +++ BER: Baufirmen sollen abgerechnet haben â ohne Gegenleistung +++ Berliner unzufrieden mit Arbeit des Senats +++ Berliner BÃ¤derbetriebe: Neue Angebote, Auszeichnungen und ein Brandbrief +++ FÃ¶rderung fÃ¼r experimentellen Wohnungsbau +++ Serie FlÃ¼chtlinge im Kiez: Lichtenberg +++ Lange Nacht der Mathematik +++ Ausflugstipp: Gestern pfui, heute hui â die Rieselfelder +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151120_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>20.11.2015 21:10 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1120/TV-100s-2110.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 20.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1120/TV-100s-2110.webl.h264.mp4"/>
-			<pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>20.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1120/TV-20151120-2038-0701.webl.h264.mp4</link>
-			<description>Themen der Sendung: Mindestens 27 Menschen sterben bei Terrorangriff in Mali, Ermittler entdecken weitere Leiche in St. Denis, EU will Einreise von EU-BÃ¼rgern stÃ¤rker kontrollieren, Mazedonien verweigert vielen FlÃ¼chtlingen die Einreise, Verabschiedung des Asylgesetzpakets verzÃ¶gert sich, CSU-Parteitag fordert Obergrenze fÃ¼r FlÃ¼chtlingsaufnahme, GrÃ¼nen-Parteitag debattiert Ã¼ber FlÃ¼chtlingspolitik und Terrorabwehr, VW kÃ¼rzt Investitionen, PrÃ¤sident der katholischen Laien Deutschlands gewÃ¤hlt, KÃ¶lner OberbÃ¼rgermeisterin Reker tritt Amt an, Bundesliga-Spieltag startet mit verstÃ¤rkten Sicherheitsvorkehrungen, Das Wetter.</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1120/TV-20151120-2038-0701.webl.h264.mp4"/>
-			<pubDate>Fri, 20 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
