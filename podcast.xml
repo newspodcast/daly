@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 26 Nov 2015 21:30:06 GMT</pubDate>
-		<lastBuildDate>Thu, 26 Nov 2015 21:30:06 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Nov 2015 00:30:05 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Nov 2015 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/1126/TV-20151126-2023-1501.webl.h264.mp4</link>
 			<description>Themen der Sendung: Deutsche Luftwaffe und Marine sollen sich am Kampf gegen IS beteiligen, Putin stellt Hollande russische Beteiligung bei IS-BekÃ¤mpfung in Aussicht, Belgien setzt Terrorwarnstufe herab, VerschÃ¤rfung der FlÃ¼chtlingslage an griechisch-mazedonischer Grenze, Festnahmen mutmaÃlicher IS-AnhÃ¤nger in Berlin, Debatte Ã¼ber Bundeshaushalt 2016, Neue polnische MinisterprÃ¤sidentin Szydlo in der Kritik, UN-Bericht beklagt steigende Opferzahlen durch Landminen, Papst Franziskus in Nairobi, BGH-Urteil zu illegalen Musik- und Filmportalen, ErÃ¶ffnung des Dresdner Striezelmarktes, FuÃball-Europa League: BVB Dortmund - FK Krasnodar  0:1, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1126/TV-20151126-2023-1501.webl.h264.mp4"/>
+			<pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.11.2015 23:02 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1126/TV-100s-2302.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:02 Uhr vom 26.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1126/TV-100s-2302.webl.h264.mp4"/>
 			<pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
