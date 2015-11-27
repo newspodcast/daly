@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 27 Nov 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 27 Nov 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Fri, 27 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Fri, 27 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 27.11.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/66c32bd9-4d97-4f61-bd16-d0e6917eadb2_4dbabda4-7a67-4f76-99f3-066bb6c10db6.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 27.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/90/74/52/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ TerrorverdÃ¤chtige wieder auf freiem FuÃ +++ Turnhallen-Knappheit in Berlin +++ Nachrichten +++ Randbebauung fÃ¼r Ernst-ThÃ¤lmann-Park geplant +++ Serie: FrÃ¼hchenstation der CharitÃ© +++ SchÃ¤tze im Hamburger Bahnhof +++ Bundespresseball im Adlon +++ Ausflugstipp: Ribbeck im Havelland +++ FÃ¼chse in der Stadt +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;27.11.2015 | 29:28 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-27-11-2015/rbb-Fernsehen/Video?documentId=31907440&amp;bcastId=3822076&quot;&gt;Abendschau vom 27.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ TerrorverdÃ¤chtige wieder auf freiem FuÃ +++ Turnhallen-Knappheit in Berlin +++ Nachrichten +++ Randbebauung fÃ¼r Ernst-ThÃ¤lmann-Park geplant +++ Serie: FrÃ¼hchenstation der CharitÃ© +++ SchÃ¤tze im Hamburger Bahnhof +++ Bundespresseball im Adlon +++ Ausflugstipp: Ribbeck im Havelland +++ FÃ¼chse in der Stadt +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/66c32bd9-4d97-4f61-bd16-d0e6917eadb2_4dbabda4-7a67-4f76-99f3-066bb6c10db6.mp4?url=1"/>
+			<pubDate>Fri, 27 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>27.11.2015 21:08 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1127/TV-100s-2108.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:08 Uhr vom 27.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1127/TV-100s-2108.webl.h264.mp4"/>
+			<pubDate>Fri, 27 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>27.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1127/TV-20151127-2028-3901.webl.h264.mp4</link>
+			<description>Themen der Sendung: Trauerfeier im Ehrenhof des Pariser Invalidendoms, Sechster TerrorverdÃ¤chtiger in BrÃ¼ssel festgenommen, Debatte Ã¼ber rechtliche Grundlagen eines mÃ¶glichen deutschen Syrien-Einsatzes, Kampf gegen IS in nordirakischer Stadt Sindschar, Unions-Innenexperten fordern strengere Regeln in der FlÃ¼chtlingspolitik, Gauck im Bundesrat zur FlÃ¼chtlingskrise, Bundestag beschlieÃt Haushalt 2016, Neuregelung zur Sterbehilfe gebilligt, Papst besucht Uganda und Nairobi, Weltcup Skeleton Frauen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1127/TV-20151127-2028-3901.webl.h264.mp4"/>
+			<pubDate>Fri, 27 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 26.11.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/e25cc745-0f36-49da-b6eb-1bb306c1f1f8_d2ab9dc8-7b9f-4209-b8eb-8bd711197ec1.mp4?url=1</link>
@@ -134,49 +155,6 @@
 			<description>Themen der Sendung: BrÃ¼ssel verlÃ¤ngert hÃ¶chste Terrorwarnung, GroÃe Koalition diskutiert Ã¼ber FlÃ¼chtlingskontingente, GrÃ¼ne beenden Parteitag in Halle, Strom-Notstand auf der Krim, ASEAN-LÃ¤nder grÃ¼nden Wirtschaftsgemeinschaft AEC, Argentinien wÃ¤hlt in Stichwahl neuen PrÃ¤sidenten, 2. Runde der Parlamentswahl in Ãgypten, Tote nach Erdrutsch in Myanmar, 50. Jahrestag deutsch-polnische VersÃ¶hnung, 13. Spieltag der Fussball-Bundesliga, Skispringen in Klingenthal, Erste SchneefÃ¤lle in Deutschland, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1122/TV-20151122-2022-3201.webl.h264.mp4"/>
 			<pubDate>Sun, 22 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 21.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 21.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/80/66/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Demonstration zum Gedenken an Silvio Meie +++Â Klaus Lederer wird Spitzenkandidat +++ Wie positioniert sich die CDU? +++ Nachrichten I +++ FlÃ¼chtlingsunterkunft im Stasi-GebÃ¤ude +++ FlÃ¼chtlinge im Kiez: Kreuzberg +++ Nachrichten II +++ Bremer Fernsehpreis fÃ¼r Sascha Hingst +++ Gleich nebenan: Japan Bonsai Berlin +++ 30 Jahre LindenstraÃeÂ  Â 
-
-Â &lt;/p&gt;&lt;p&gt;21.11.2015 | 29:10 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-11-2015-19-30/rbb-Fernsehen/Video?documentId=31806674&amp;bcastId=3822076&quot;&gt;Abendschau 21.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Demonstration zum Gedenken an Silvio Meie +++Â Klaus Lederer wird Spitzenkandidat +++ Wie positioniert sich die CDU? +++ Nachrichten I +++ FlÃ¼chtlingsunterkunft im Stasi-GebÃ¤ude +++ FlÃ¼chtlinge im Kiez: Kreuzberg +++ Nachrichten II +++ Bremer Fernsehpreis fÃ¼r Sascha Hingst +++ Gleich nebenan: Japan Bonsai Berlin +++ 30 Jahre LindenstraÃeÂ  Â 
-
-Â &lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>21.11.2015 21:09 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1121/TV-100s-2109.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:09 Uhr vom 21.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1121/TV-100s-2109.webl.h264.mp4"/>
-			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>21.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1121/TV-20151121-2027-1201.webl.h264.mp4</link>
-			<description>Themen der Sendung: HÃ¶chste Terrorwarnstufe fÃ¼r Belgien, Gabriel zu Besuch bei Hollande, Ausnahmezustand in Mali, Abschluss des CSU-Parteitags, Parteitag der GrÃ¼nen, VW-Skandal in den USA, Reporter ohne Grenzen ausgezeichnet, ESC-Absage fÃ¼r Xavier Naidoo, ErhÃ¶hte Sicherheitsvorkehrungen bei Bundesligaspielen, 13. Spieltag der Bundesliga, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1121/TV-20151121-2027-1201.webl.h264.mp4"/>
-			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>21.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1121/TV-20151121-2120-2501.webl.h264.mp4</link>
-			<description>Themen der Sendung: HÃ¶chste Terrorwarnstufe fÃ¼r Belgien, Gabriel zu Besuch bei Hollande, Ausnahmezustand in Mali, Abschluss des CSU-Parteitags, Parteitag der GrÃ¼nen, VW-Skandal in den USA, Reporter ohne Grenzen ausgezeichnet, ESC-Absage fÃ¼r Xavier Naidoo, ErhÃ¶hte Sicherheitsvorkehrungen bei Bundesligaspielen, 13. Spieltag der Bundesliga, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1121/TV-20151121-2120-2501.webl.h264.mp4"/>
-			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 21.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4?url=3</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 21.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/80/66/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Demonstration zum Gedenken an Silvio Meie +++Â Klaus Lederer wird Spitzenkandidat +++ Wie positioniert sich die CDU? +++ Nachrichten I +++ FlÃ¼chtlingsunterkunft im Stasi-GebÃ¤ude +++ FlÃ¼chtlinge im Kiez: Kreuzberg +++ Nachrichten II +++ Bremer Fernsehpreis fÃ¼r Sascha Hingst +++ Gleich nebenan: Japan Bonsai Berlin +++ 30 Jahre LindenstraÃeÂ  Â 
-
-Â &lt;/p&gt;&lt;p&gt;21.11.2015 | 29:10 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-11-2015-19-30/rbb-Fernsehen/Video?documentId=31806674&amp;bcastId=3822076&quot;&gt;Abendschau 21.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Demonstration zum Gedenken an Silvio Meie +++Â Klaus Lederer wird Spitzenkandidat +++ Wie positioniert sich die CDU? +++ Nachrichten I +++ FlÃ¼chtlingsunterkunft im Stasi-GebÃ¤ude +++ FlÃ¼chtlinge im Kiez: Kreuzberg +++ Nachrichten II +++ Bremer Fernsehpreis fÃ¼r Sascha Hingst +++ Gleich nebenan: Japan Bonsai Berlin +++ 30 Jahre LindenstraÃeÂ  Â 
-
-Â &lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151121_sdg_m_16_9_512x288.mp4?url=3"/>
-			<pubDate>Sat, 21 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
