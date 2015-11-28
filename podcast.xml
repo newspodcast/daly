@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 28 Nov 2015 21:30:07 GMT</pubDate>
-		<lastBuildDate>Sat, 28 Nov 2015 21:30:07 GMT</lastBuildDate>
+		<pubDate>Sun, 29 Nov 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 29 Nov 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2015/1128/TV-20151128-2026-2501.webl.h264.mp4</link>
 			<description>Themen der Sendung: AfD-Parteitag in Hannover, Diskussion um Sicherheitsgesetze, Russland ordnet nach Jet-Abschuss Sanktionen gegen die TÃ¼rkei an, IS handelt mit jesidischen Frauen und Kindern, Tote bei Angriff auf UN-StÃ¼tzpunkt in Mali, Tarifeinigung bei der Lufthansa, FuÃball-Bundesliga, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1128/TV-20151128-2026-2501.webl.h264.mp4"/>
+			<pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 28.11.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151128_sdg1_m_16_9_512x288.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 28.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/92/10/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Stadtdebatte historische Mitte +++ Die Berliner AfD +++ Nachrichten +++ GrÃ¼ne Berlin-Konferenz +++ Hertha verliert gegen Bayern MÃ¼nchen +++ Wildfleisch aus Berliner WÃ¤ldern +++ Krankenschwester auf der Neo +++ Gleich nebenan: Kunstschule BUNT +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;28.11.2015 | 28:34 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-28-11-2015/rbb-Fernsehen/Video?documentId=31921074&amp;bcastId=3822076&quot;&gt;Abendschau vom 28.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Stadtdebatte historische Mitte +++ Die Berliner AfD +++ Nachrichten +++ GrÃ¼ne Berlin-Konferenz +++ Hertha verliert gegen Bayern MÃ¼nchen +++ Wildfleisch aus Berliner WÃ¤ldern +++ Krankenschwester auf der Neo +++ Gleich nebenan: Kunstschule BUNT +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151128_sdg1_m_16_9_512x288.mp4?url=3"/>
 			<pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
