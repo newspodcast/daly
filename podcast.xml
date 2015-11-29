@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 29 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 29 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 29 Nov 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 29 Nov 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>29.11.2015 18:21 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1129/TV-100s-1821.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 18:21 Uhr vom 29.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1129/TV-100s-1821.webl.h264.mp4"/>
+			<pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>29.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1129/TV-20151129-2024-5501.webl.h264.mp4</link>
+			<description>Themen der Sendung: EU-TÃ¼rkei-Sondergipfel zur FlÃ¼chtlingsfrage, Laufender Bundeswehreinsatz in Syrien geplant, Frankreich appelliert an Klimagipfel-Teilnehmer, Tausende demonstrieren fÃ¼r besseren Klimaschutz, Olympia-Referendum in Hamburg und Kiel, Kirchen starten vorweihnachtliche Spendenaktionen, Ergebnisse des 14. Spieltags der FuÃball-Bundesliga, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1129/TV-20151129-2024-5501.webl.h264.mp4"/>
+			<pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>28.11.2015 21:05 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1128/TV-100s-2105.webl.h264.mp4</link>
@@ -35,6 +49,13 @@
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151128_sdg1_m_16_9_512x288.mp4?url=3</link>
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 28.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/92/10/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Stadtdebatte historische Mitte +++ Die Berliner AfD +++ Nachrichten +++ GrÃ¼ne Berlin-Konferenz +++ Hertha verliert gegen Bayern MÃ¼nchen +++ Wildfleisch aus Berliner WÃ¤ldern +++ Krankenschwester auf der Neo +++ Gleich nebenan: Kunstschule BUNT +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;28.11.2015 | 28:34 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-28-11-2015/rbb-Fernsehen/Video?documentId=31921074&amp;bcastId=3822076&quot;&gt;Abendschau vom 28.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Stadtdebatte historische Mitte +++ Die Berliner AfD +++ Nachrichten +++ GrÃ¼ne Berlin-Konferenz +++ Hertha verliert gegen Bayern MÃ¼nchen +++ Wildfleisch aus Berliner WÃ¤ldern +++ Krankenschwester auf der Neo +++ Gleich nebenan: Kunstschule BUNT +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151128_sdg1_m_16_9_512x288.mp4?url=3"/>
+			<pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 28.11.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/d2204c17-4932-4e2a-94dd-7800f3bfab65_4c69ad8d-5dd1-4ed9-b8cb-419b986d3a8a.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 28.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/92/10/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Stadtdebatte historische Mitte +++ Die Berliner AfD +++ Nachrichten +++ GrÃ¼ne Berlin-Konferenz +++ Hertha verliert gegen Bayern MÃ¼nchen +++ Wildfleisch aus Berliner WÃ¤ldern +++ Krankenschwester auf der Neo +++ Gleich nebenan: Kunstschule BUNT +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;28.11.2015 | 28:34 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-28-11-2015/rbb-Fernsehen/Video?documentId=31921074&amp;bcastId=3822076&quot;&gt;Abendschau vom 28.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Stadtdebatte historische Mitte +++ Die Berliner AfD +++ Nachrichten +++ GrÃ¼ne Berlin-Konferenz +++ Hertha verliert gegen Bayern MÃ¼nchen +++ Wildfleisch aus Berliner WÃ¤ldern +++ Krankenschwester auf der Neo +++ Gleich nebenan: Kunstschule BUNT +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/d2204c17-4932-4e2a-94dd-7800f3bfab65_4c69ad8d-5dd1-4ed9-b8cb-419b986d3a8a.mp4?url=3"/>
 			<pubDate>Sat, 28 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -134,27 +155,6 @@
 			<description>Themen der Sendung: Russischer Jet abgeschossen, Reaktionen aus Moskau, Frankreichs PrÃ¤sident Hollande bei Obama, Anschlag in Tunis, FlÃ¼chtlingsdiskussion, EU-PlÃ¤ne fÃ¼r Einlagensicherung, VW-Skandal, Moskau droht Ukraine mit Gasstopp, US-AuÃenminister Kerry in Nahost, VfB Stuttgart entlÃ¤sst Trainer Zorniger, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1124/TV-20151124-2115-2201.webl.h264.mp4"/>
 			<pubDate>Tue, 24 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 23.11.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151123_sdg_m_16_9_512x288.mp4</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 23.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/83/32/96/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Wie gut ist die Hauptstadt-Polizei aufgestellt? +++ Kita-Besuch ab 2018 kostenlos +++Â  WeihnachtsmÃ¤rkte Ã¶ffnen in Berlin +++Â Wochenserie: Die FrÃ¼hchenstation +++ &quot;Der glÃ¤serne Mensch&quot; kommt +++ Film fÃ¼r Toleranz +++ Photoautomaten bleiben im Trend +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;23.11.2015 | 29:07 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-23-11-2015-19-30/rbb-Fernsehen/Video?documentId=31833284&amp;bcastId=3822076&quot;&gt;Abendschau 23.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Wie gut ist die Hauptstadt-Polizei aufgestellt? +++ Kita-Besuch ab 2018 kostenlos +++Â  WeihnachtsmÃ¤rkte Ã¶ffnen in Berlin +++Â Wochenserie: Die FrÃ¼hchenstation +++ &quot;Der glÃ¤serne Mensch&quot; kommt +++ Film fÃ¼r Toleranz +++ Photoautomaten bleiben im Trend +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20151123_sdg_m_16_9_512x288.mp4"/>
-			<pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>23.11.2015 21:09 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1123/TV-100s-2109.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:09 Uhr vom 23.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1123/TV-100s-2109.webl.h264.mp4"/>
-			<pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>23.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1123/TV-20151123-2022-2701.webl.h264.mp4</link>
-			<description>Themen der Sendung: Staatsakt fÃ¼r Altkanzler Schmidt in Hamburg, HÃ¶chste Terrorwarnstufe fÃ¼r BrÃ¼ssel verlÃ¤ngert, Hollande und Cameron beraten Ã¼ber Anti-Terror-BÃ¼ndnis, Putin in Teheran, Bundeswehreinsatz in Afghanistan, Abgeordnete erhalten Einsicht in BND-Selektorenliste, Neue Streiks bei Lufthansa, Machtwechsel in Argentinien, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1123/TV-20151123-2022-2701.webl.h264.mp4"/>
-			<pubDate>Mon, 23 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
