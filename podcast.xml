@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 30 Nov 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 30 Nov 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 30 Nov 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 30 Nov 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 30.11.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/0b91ed54-7529-4daa-9b84-b76443a985a7_ebd43926-ddeb-43ad-935a-1bf33d0be797.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 30.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/96/09/62/1663778729/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;12-Punkte Plan gegen das Chaos in BÃ¼rgerÃ¤mtern +++ Was tun gegen Eskalationen in FlÃ¼chtlingsheimen? +++ BeschÃ¤ftigungsprogramm fÃ¼r FlÃ¼chtlinge +++ DAK stellt Studie zur Internetsucht vor +++ Aids-PrÃ¤vention fÃ¼r Jugendliche Â +++ Deutscher Lehrerpreis fÃ¼r Berliner PÃ¤dagogen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;30.11.2015 | 29:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-30-11-2015-19-30/rbb-Fernsehen/Video?documentId=31960954&amp;bcastId=3822076&quot;&gt;Abendschau 30.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;12-Punkte Plan gegen das Chaos in BÃ¼rgerÃ¤mtern +++ Was tun gegen Eskalationen in FlÃ¼chtlingsheimen? +++ BeschÃ¤ftigungsprogramm fÃ¼r FlÃ¼chtlinge +++ DAK stellt Studie zur Internetsucht vor +++ Aids-PrÃ¤vention fÃ¼r Jugendliche Â +++ Deutscher Lehrerpreis fÃ¼r Berliner PÃ¤dagogen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/0b91ed54-7529-4daa-9b84-b76443a985a7_ebd43926-ddeb-43ad-935a-1bf33d0be797.mp4?url=1"/>
+			<pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>30.11.2015 21:10 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1130/TV-100s-2110.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 30.11.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1130/TV-100s-2110.webl.h264.mp4"/>
+			<pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>30.11.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1130/TV-20151130-2024-0301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Weltklimagipfel in Paris erÃ¶ffnet, Merkel und Putin beraten Ã¼ber die Lage in Syrien, Diskussion Ã¼ber Einsatz der Bundeswehr im Kampf gegen den IS, EU und TÃ¼rkei wollen engere Zusammenarbeit in FlÃ¼chtlingskrise, Papst beendet Afrika-Reise, Alternativer Nobelpreis &quot;Right Livelihood Award&quot; in Stockholm verliehen, Yuan wird fÃ¼nfte WeltreservewÃ¤hrung, Hamburger lehnen Olympia-Bewerbung ab, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1130/TV-20151130-2024-0301.webl.h264.mp4"/>
+			<pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>29.11.2015 18:21 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1129/TV-100s-1821.webl.h264.mp4</link>
@@ -134,34 +155,6 @@
 			<description>Themen der Sendung: Terrorgefahren und FlÃ¼chtlingspolitik im Zentrum der Generaldebatte, Bundeswehreinsatz in Mali geplant, Merkel zu GesprÃ¤chen mit Hollande in Paris, Kreml wirft der TÃ¼rkei Provokation vor, IS-Terrormiliz bekennt sich offenbar zu Anschlag in Tunis, BrÃ¼ssel kehrt zur NormalitÃ¤t zurÃ¼ck, Klimaforscher warnen vor ErderwÃ¤rmung, Gewerkschaft UFO sagt Flugbegleiter-Streik ab, VW legt LÃ¶sungsvorschlÃ¤ge im Abgas-Skandal vor, VfL Wolfsburg schlÃ¤gt ZSKA Moskau in der Champions League, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1125/TV-20151125-2028-3301.webl.h264.mp4"/>
 			<pubDate>Wed, 25 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 24.11.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/e2f03b8d-776d-4a22-aee7-88c833a0e837_a4e6b977-94ef-49b0-bba2-97859dbd4d53.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 24.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/85/27/64/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Tempelhof-Gesetz vor Ãnderung +++ Lageso-Mitarbeiter wegen Hetze freigestellt +++ Toter in Spielcasino gefunden +++ Workshop zur Alexanderplatz-Zukunft +++ Wochenserie: Die FrÃ¼hchenstation der CharitÃ© +++ Berlin mit der U-Bahn erfahren +++ Pollock in Berlin +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;24.11.2015 | 28:59 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-24-11-2015-19-30/rbb-Fernsehen/Video?documentId=31852752&amp;bcastId=3822076&quot;&gt;Abendschau 24.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Tempelhof-Gesetz vor Ãnderung +++ Lageso-Mitarbeiter wegen Hetze freigestellt +++ Toter in Spielcasino gefunden +++ Workshop zur Alexanderplatz-Zukunft +++ Wochenserie: Die FrÃ¼hchenstation der CharitÃ© +++ Berlin mit der U-Bahn erfahren +++ Pollock in Berlin +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/e2f03b8d-776d-4a22-aee7-88c833a0e837_a4e6b977-94ef-49b0-bba2-97859dbd4d53.mp4?url=1"/>
-			<pubDate>Tue, 24 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>24.11.2015 19:21 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1124/TV-100s-1921.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:21 Uhr vom 24.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1124/TV-100s-1921.webl.h264.mp4"/>
-			<pubDate>Tue, 24 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>24.11.2015 21:33 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1124/TV-100s-2133.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:33 Uhr vom 24.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1124/TV-100s-2133.webl.h264.mp4"/>
-			<pubDate>Tue, 24 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>24.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1124/TV-20151124-2115-2201.webl.h264.mp4</link>
-			<description>Themen der Sendung: Russischer Jet abgeschossen, Reaktionen aus Moskau, Frankreichs PrÃ¤sident Hollande bei Obama, Anschlag in Tunis, FlÃ¼chtlingsdiskussion, EU-PlÃ¤ne fÃ¼r Einlagensicherung, VW-Skandal, Moskau droht Ukraine mit Gasstopp, US-AuÃenminister Kerry in Nahost, VfB Stuttgart entlÃ¤sst Trainer Zorniger, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1124/TV-20151124-2115-2201.webl.h264.mp4"/>
-			<pubDate>Tue, 24 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
