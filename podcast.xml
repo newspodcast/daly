@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 01 Dec 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Dec 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Wed, 02 Dec 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 02 Dec 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2015/1201/TV-20151201-2022-2101.webl.h264.mp4</link>
 			<description>Themen der Sendung: Bundeswehr-Einsatz in Syrien, NATO-AuÃenminister beraten zu IS, Explosion in Istanbul, Diskussion zu Asylpaket, Arbeitsmarkt, RWE plant Aufspaltung, Weltklimagipfel in Paris, Peking leidet unter extremem Smog, Welt-Aidstag, Absturzursache der AirAsia-Maschine 2014 geklÃ¤rt, Japan nimmt Walfang in der Antarktis wieder auf, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1201/TV-20151201-2022-2101.webl.h264.mp4"/>
+			<pubDate>Tue, 01 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 01.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/9cc621b7-53ce-4d20-8394-5ee577f0486e_1709c2c1-79f4-4c73-bb2b-7536708633ad.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 01.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/98/31/68/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Berliner Senat will neues FlÃ¼chtlingsamt schaffen +++ GrundstÃ¼cke fÃ¼r FlÃ¼chtlingsunterkÃ¼nfte vorgestellt +++ Kabinett beschlieÃt Bundeswehreinsatz in Syrien +++ SEZ wird abgerissen +++ Berliner KunstschÃ¤tze vor dem Weg ins Humboldt-Forum +++ Philharmoniker starten Partnerschaft mit Google +++ Der Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;01.12.2015 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-01-12-2015-19-30/rbb-Fernsehen/Video?documentId=31983156&amp;bcastId=3822076&quot;&gt;Abendschau 01.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Berliner Senat will neues FlÃ¼chtlingsamt schaffen +++ GrundstÃ¼cke fÃ¼r FlÃ¼chtlingsunterkÃ¼nfte vorgestellt +++ Kabinett beschlieÃt Bundeswehreinsatz in Syrien +++ SEZ wird abgerissen +++ Berliner KunstschÃ¤tze vor dem Weg ins Humboldt-Forum +++ Philharmoniker starten Partnerschaft mit Google +++ Der Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/9cc621b7-53ce-4d20-8394-5ee577f0486e_1709c2c1-79f4-4c73-bb2b-7536708633ad.mp4?url=1"/>
 			<pubDate>Tue, 01 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
