@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 01 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 01 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 01 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Tue, 01 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>01.12.2015 21:16 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1201/TV-100s-2116.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:16 Uhr vom 01.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1201/TV-100s-2116.webl.h264.mp4"/>
+			<pubDate>Tue, 01 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>01.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1201/TV-20151201-2022-2101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Bundeswehr-Einsatz in Syrien, NATO-AuÃenminister beraten zu IS, Explosion in Istanbul, Diskussion zu Asylpaket, Arbeitsmarkt, RWE plant Aufspaltung, Weltklimagipfel in Paris, Peking leidet unter extremem Smog, Welt-Aidstag, Absturzursache der AirAsia-Maschine 2014 geklÃ¤rt, Japan nimmt Walfang in der Antarktis wieder auf, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1201/TV-20151201-2022-2101.webl.h264.mp4"/>
+			<pubDate>Tue, 01 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 30.11.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/0b91ed54-7529-4daa-9b84-b76443a985a7_ebd43926-ddeb-43ad-935a-1bf33d0be797.mp4?url=1</link>
@@ -134,27 +148,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:02 Uhr vom 26.11.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1126/TV-100s-2302.webl.h264.mp4"/>
 			<pubDate>Thu, 26 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 25.11.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/078f7dc5-7cb9-46df-90fb-c26fab50985f_f21aa70b-4762-406b-8092-7629984e4180.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 25.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/87/02/50/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Senat droht mit Beschlagnahmungen +++ Modulbauten als FlÃ¼chtlingswohnungen +++ Arbeitsmarktintegration von GeflÃ¼chteten +++ Neue PlÃ¤ne fÃ¼r das Kindl-GelÃ¤nde +++ Wochenserie: Die FrÃ¼hchenstation der CharitÃ© +++ 20 Jahre nach der Reichstag-VerhÃ¼llung +++ UrauffÃ¼hrung von 'Der klÃ¼gste Mensch im Facebook' +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;25.11.2015 | 28:53 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-25-11-2015-19-30/rbb-Fernsehen/Video?documentId=31870238&amp;bcastId=3822076&quot;&gt;Abendschau 25.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Senat droht mit Beschlagnahmungen +++ Modulbauten als FlÃ¼chtlingswohnungen +++ Arbeitsmarktintegration von GeflÃ¼chteten +++ Neue PlÃ¤ne fÃ¼r das Kindl-GelÃ¤nde +++ Wochenserie: Die FrÃ¼hchenstation der CharitÃ© +++ 20 Jahre nach der Reichstag-VerhÃ¼llung +++ UrauffÃ¼hrung von 'Der klÃ¼gste Mensch im Facebook' +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/078f7dc5-7cb9-46df-90fb-c26fab50985f_f21aa70b-4762-406b-8092-7629984e4180.mp4?url=1"/>
-			<pubDate>Wed, 25 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.11.2015 21:06 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1125/TV-100s-2106.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:06 Uhr vom 25.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1125/TV-100s-2106.webl.h264.mp4"/>
-			<pubDate>Wed, 25 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1125/TV-20151125-2028-3301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Terrorgefahren und FlÃ¼chtlingspolitik im Zentrum der Generaldebatte, Bundeswehreinsatz in Mali geplant, Merkel zu GesprÃ¤chen mit Hollande in Paris, Kreml wirft der TÃ¼rkei Provokation vor, IS-Terrormiliz bekennt sich offenbar zu Anschlag in Tunis, BrÃ¼ssel kehrt zur NormalitÃ¤t zurÃ¼ck, Klimaforscher warnen vor ErderwÃ¤rmung, Gewerkschaft UFO sagt Flugbegleiter-Streik ab, VW legt LÃ¶sungsvorschlÃ¤ge im Abgas-Skandal vor, VfL Wolfsburg schlÃ¤gt ZSKA Moskau in der Champions League, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1125/TV-20151125-2028-3301.webl.h264.mp4"/>
-			<pubDate>Wed, 25 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
