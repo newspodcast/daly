@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 02 Dec 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Wed, 02 Dec 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Thu, 03 Dec 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Thu, 03 Dec 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/1202/TV-20151202-2023-2501.webl.h264.mp4</link>
 			<description>Themen der Sendung: Bundestag debattiert geplanten Syrien-Einsatz der Bundeswehr, Deutschland und Frankreich wollen Finanzierung des IS erschweren, NATO bietet Montenegro Beitritt an, Afghanischer PrÃ¤sident Ghani bitte in Berlin um UnterstÃ¼tzung, Slowakei klagt gegen FlÃ¼chtlingsverteilung, Zuckerberg will Milliarden spenden, DFL vertagt Entscheidung Ã¼ber Verteilung der Fernsehgelder, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1202/TV-20151202-2023-2501.webl.h264.mp4"/>
+			<pubDate>Wed, 02 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>02.12.2015 23:23 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1202/TV-100s-2323.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:23 Uhr vom 02.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1202/TV-100s-2323.webl.h264.mp4"/>
 			<pubDate>Wed, 02 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
