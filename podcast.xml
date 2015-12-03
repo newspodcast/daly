@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 03 Dec 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 03 Dec 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 04 Dec 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 04 Dec 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,20 @@
 			<link>http://media.tagesschau.de/video/2015/1203/TV-20151203-2021-4703.webl.h264.mp4</link>
 			<description>Themen der Sendung: Tusk fordert Wende in EU-FlÃ¼chtlingspolitik, Syrische FlÃ¼chtlinge mÃ¼ssen Herkunft und AsylgrÃ¼nde kÃ¼nftig darlegen, Putin bekrÃ¤ftigt seine Kritik an der TÃ¼rkei, GroÃbritannien startet Luftangriffe in Syrien, EZB: Kauf neuer Anleihen und Strafzinsen, MinisterprÃ¤sidenten einigen sich beim Finanzausgleich, SchieÃerei in Kalifornien, Korruptionsskandal der FIFA, SchÃ¤rferes Urteil gegen Pistorius, Schwimmen: Kurzbahn-EM, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1203/TV-20151203-2021-4703.webl.h264.mp4"/>
+			<pubDate>Thu, 03 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 03.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/e7653377-d376-4f85-8e21-5b50cbc7b2d3_9288265c-7ef0-43e0-bb20-33665e26fb2c.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 03.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/03/35/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Â +++ Bahn streicht Service-Mitarbeiter +++ Hygienecenter fÃ¼r Obdachlose erÃ¶ffnet +++ Finanzausgleich: Gutes Ergebnis fÃ¼r Berlin+++ Kaum Ãrzte fÃ¼r FlÃ¼chtlinge +++ Degewo verbannt Wiesenburger +++ Adventskalender: 24 Stunden Berlin +++ Wetter +++&lt;/p&gt;&lt;p&gt;03.12.2015 | 29:33 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-03-12-2015-19-30/rbb-Fernsehen/Video?documentId=32033582&amp;bcastId=3822076&quot;&gt;Abendschau 03.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Â +++ Bahn streicht Service-Mitarbeiter +++ Hygienecenter fÃ¼r Obdachlose erÃ¶ffnet +++ Finanzausgleich: Gutes Ergebnis fÃ¼r Berlin+++ Kaum Ãrzte fÃ¼r FlÃ¼chtlinge +++ Degewo verbannt Wiesenburger +++ Adventskalender: 24 Stunden Berlin +++ Wetter +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/e7653377-d376-4f85-8e21-5b50cbc7b2d3_9288265c-7ef0-43e0-bb20-33665e26fb2c.mp4?url=1"/>
+			<pubDate>Thu, 03 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>03.12.2015 21:43 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1203/TV-100s-2143.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:43 Uhr vom 03.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1203/TV-100s-2143.webl.h264.mp4"/>
 			<pubDate>Thu, 03 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
