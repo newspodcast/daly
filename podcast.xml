@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 05 Dec 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 05 Dec 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 06 Dec 2015 00:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 06 Dec 2015 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/1205/TV-20151205-2025-4301.webl.h264.mp4</link>
 			<description>Themen der Sendung: UN-Klimakonferenz einigt sich auf Klimavertrag, Zentralrat der Muslime kritisiert Bundeswehreinsatz in Syrien, Russische und britische Kampfjets fliegen Luftangriffe gegen IS-Ziele, US-Bundespolizei stuft Anschlag in Kalifornien als Terrorakt ein, Ãlplattform im Kaspischen Meer in Brand geraten, Kraftwerk in Hagenwerder gesprengt, Ergebnisse des 15. Spieltags, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1205/TV-20151205-2025-4301.webl.h264.mp4"/>
+			<pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>05.12.2015 21:48 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1205/TV-100s-2148.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:48 Uhr vom 05.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1205/TV-100s-2148.webl.h264.mp4"/>
 			<pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
