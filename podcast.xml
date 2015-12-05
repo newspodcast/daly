@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 05 Dec 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 05 Dec 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 05 Dec 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 05 Dec 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 05.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/14d35ab3-e279-4298-8569-bd847b593b27_069f4a20-21e4-4344-a3b0-f42f98aee840.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 05.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/06/59/86/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Preisverleihung &quot;Sportler des Jahres&quot; +++ Mercedes modernisiert Werk in Marienfelde +++ Adventskalender: 24 Stunden Berlin +++ Spenden fÃ¼r die TrÃ¤ume schwerkranker Kinder +++ Skateboardcontest fÃ¼r den Nachwuchs +++ Gleich nebenan: Bio-Ãle und GemÃ¼se in der Alten Feuerwache Gatow +++&lt;/p&gt;&lt;p&gt;05.12.2015 | 29:12 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-05-12-2015/rbb-Fernsehen/Video?documentId=32065974&amp;bcastId=3822076&quot;&gt;Abendschau vom 05.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Preisverleihung &quot;Sportler des Jahres&quot; +++ Mercedes modernisiert Werk in Marienfelde +++ Adventskalender: 24 Stunden Berlin +++ Spenden fÃ¼r die TrÃ¤ume schwerkranker Kinder +++ Skateboardcontest fÃ¼r den Nachwuchs +++ Gleich nebenan: Bio-Ãle und GemÃ¼se in der Alten Feuerwache Gatow +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/14d35ab3-e279-4298-8569-bd847b593b27_069f4a20-21e4-4344-a3b0-f42f98aee840.mp4?url=3"/>
+			<pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>05.12.2015 19:22 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1205/TV-100s-1922.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:22 Uhr vom 05.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1205/TV-100s-1922.webl.h264.mp4"/>
+			<pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>05.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1205/TV-20151205-2025-4301.webl.h264.mp4</link>
+			<description>Themen der Sendung: UN-Klimakonferenz einigt sich auf Klimavertrag, Zentralrat der Muslime kritisiert Bundeswehreinsatz in Syrien, Russische und britische Kampfjets fliegen Luftangriffe gegen IS-Ziele, US-Bundespolizei stuft Anschlag in Kalifornien als Terrorakt ein, Ãlplattform im Kaspischen Meer in Brand geraten, Kraftwerk in Hagenwerder gesprengt, Ergebnisse des 15. Spieltags, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1205/TV-20151205-2025-4301.webl.h264.mp4"/>
+			<pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 04.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/ae57cf4d-85b5-4325-9578-839a4bf291e4_e3c84644-356c-410c-b86d-54eb22568cc9.mp4?url=1</link>
@@ -134,27 +155,6 @@
 			<description>Themen der Sendung: Weltklimagipfel in Paris erÃ¶ffnet, Merkel und Putin beraten Ã¼ber die Lage in Syrien, Diskussion Ã¼ber Einsatz der Bundeswehr im Kampf gegen den IS, EU und TÃ¼rkei wollen engere Zusammenarbeit in FlÃ¼chtlingskrise, Papst beendet Afrika-Reise, Alternativer Nobelpreis &quot;Right Livelihood Award&quot; in Stockholm verliehen, Yuan wird fÃ¼nfte WeltreservewÃ¤hrung, Hamburger lehnen Olympia-Bewerbung ab, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1130/TV-20151130-2024-0301.webl.h264.mp4"/>
 			<pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.11.2015 18:21 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1129/TV-100s-1821.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 18:21 Uhr vom 29.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1129/TV-100s-1821.webl.h264.mp4"/>
-			<pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1129/TV-20151129-2024-5501.webl.h264.mp4</link>
-			<description>Themen der Sendung: EU-TÃ¼rkei-Sondergipfel zur FlÃ¼chtlingsfrage, Laufender Bundeswehreinsatz in Syrien geplant, Frankreich appelliert an Klimagipfel-Teilnehmer, Tausende demonstrieren fÃ¼r besseren Klimaschutz, Olympia-Referendum in Hamburg und Kiel, Kirchen starten vorweihnachtliche Spendenaktionen, Ergebnisse des 14. Spieltags der FuÃball-Bundesliga, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1129/TV-20151129-2024-5501.webl.h264.mp4"/>
-			<pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 29.11.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/27466312-e3a3-4955-90a5-3c0b51f6ffed_6cec5c97-409b-4e62-9036-7c5e910f902e.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau von 29.11.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/93/44/72/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ SchlÃ¤gereien in Berliner FlÃ¼chtlingsunterkÃ¼nften +++ Essen in FlÃ¼chtlingsunterkÃ¼nften +++ Nachrichten +++ Global Climate March +++ Die ersten Berliner +++ Krematorium Wedding +++ Weihnachtsmarkt Schloss Charlottenburg +++ Sonntagsfrage +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;29.11.2015 | 29:11 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-von-29-11-2015/rbb-Fernsehen/Video?documentId=31934460&amp;bcastId=3822076&quot;&gt;Abendschau von 29.11.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ SchlÃ¤gereien in Berliner FlÃ¼chtlingsunterkÃ¼nften +++ Essen in FlÃ¼chtlingsunterkÃ¼nften +++ Nachrichten +++ Global Climate March +++ Die ersten Berliner +++ Krematorium Wedding +++ Weihnachtsmarkt Schloss Charlottenburg +++ Sonntagsfrage +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/27466312-e3a3-4955-90a5-3c0b51f6ffed_6cec5c97-409b-4e62-9036-7c5e910f902e.mp4?url=1"/>
-			<pubDate>Sun, 29 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
