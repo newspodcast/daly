@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 06 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Sun, 06 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Sun, 06 Dec 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 06 Dec 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 06.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/cde66446-9790-465e-8294-82acd953a678_380340af-826b-4a26-9c8c-a7537f5bbe9f.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 06.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/07/71/98/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Shoppen am zweiten Advent +++ Unterbringung von FlÃ¼chtlingen: LAGeSo zahlt nicht +++ Sparen trotz hÃ¶herer Energiekosten +++ Livebericht vom Weihnachtsmarkt &quot;Lucia&quot; +++ &quot;Der kleine Prinz&quot; im Kino +++ Spendenaktion fÃ¼r Formel-1-Fan Finn erfolgreich +++ Adventskalender: 24 Stunden Berlin: Morgengebet in der Moschee +++ Sonntagsfrage: Glienicker BrÃ¼cke +++&lt;/p&gt;&lt;p&gt;06.12.2015 | 29:22 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-06-12-2015/rbb-Fernsehen/Video?documentId=32077186&amp;bcastId=3822076&quot;&gt;Abendschau vom 06.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Shoppen am zweiten Advent +++ Unterbringung von FlÃ¼chtlingen: LAGeSo zahlt nicht +++ Sparen trotz hÃ¶herer Energiekosten +++ Livebericht vom Weihnachtsmarkt &quot;Lucia&quot; +++ &quot;Der kleine Prinz&quot; im Kino +++ Spendenaktion fÃ¼r Formel-1-Fan Finn erfolgreich +++ Adventskalender: 24 Stunden Berlin: Morgengebet in der Moschee +++ Sonntagsfrage: Glienicker BrÃ¼cke +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/cde66446-9790-465e-8294-82acd953a678_380340af-826b-4a26-9c8c-a7537f5bbe9f.mp4?url=1"/>
+			<pubDate>Sun, 06 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.12.2015 21:07 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1206/TV-100s-2107.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 06.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1206/TV-100s-2107.webl.h264.mp4"/>
+			<pubDate>Sun, 06 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1206/TV-20151206-2045-3401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Regionalwahlen in Frankreich unter strengen Sicherheitsvorkehrungen, SPD-Fraktion fordert schÃ¤rfere MaÃnahmen im Anti-Terror-Kampf, Von der Leyen besucht Soldaten in Afghanistan, Gouverneur von Aden bei einem  Anschlag in Jemen getÃ¶tet, Drei Menschen durch Messerattacke in London verletzt, Gauck trifft Netanjahu, Griechisches Parlament verabschiedet Haushalt 2016, Parlamentswahlen in Venezuela, Schiffswrack mit Schatz an Bord vor Kolumbien gefunden, Ergebnisse der FuÃball-Bundesliga, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1206/TV-20151206-2045-3401.webl.h264.mp4"/>
+			<pubDate>Sun, 06 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 05.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/14d35ab3-e279-4298-8569-bd847b593b27_069f4a20-21e4-4344-a3b0-f42f98aee840.mp4?url=3</link>
@@ -141,27 +162,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 01.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/98/31/68/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Berliner Senat will neues FlÃ¼chtlingsamt schaffen +++ GrundstÃ¼cke fÃ¼r FlÃ¼chtlingsunterkÃ¼nfte vorgestellt +++ Kabinett beschlieÃt Bundeswehreinsatz in Syrien +++ SEZ wird abgerissen +++ Berliner KunstschÃ¤tze vor dem Weg ins Humboldt-Forum +++ Philharmoniker starten Partnerschaft mit Google +++ Der Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;01.12.2015 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-01-12-2015-19-30/rbb-Fernsehen/Video?documentId=31983156&amp;bcastId=3822076&quot;&gt;Abendschau 01.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Berliner Senat will neues FlÃ¼chtlingsamt schaffen +++ GrundstÃ¼cke fÃ¼r FlÃ¼chtlingsunterkÃ¼nfte vorgestellt +++ Kabinett beschlieÃt Bundeswehreinsatz in Syrien +++ SEZ wird abgerissen +++ Berliner KunstschÃ¤tze vor dem Weg ins Humboldt-Forum +++ Philharmoniker starten Partnerschaft mit Google +++ Der Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/9cc621b7-53ce-4d20-8394-5ee577f0486e_1709c2c1-79f4-4c73-bb2b-7536708633ad.mp4?url=1"/>
 			<pubDate>Tue, 01 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 30.11.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/0b91ed54-7529-4daa-9b84-b76443a985a7_ebd43926-ddeb-43ad-935a-1bf33d0be797.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 30.11.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/31/96/09/62/1663778729/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;12-Punkte Plan gegen das Chaos in BÃ¼rgerÃ¤mtern +++ Was tun gegen Eskalationen in FlÃ¼chtlingsheimen? +++ BeschÃ¤ftigungsprogramm fÃ¼r FlÃ¼chtlinge +++ DAK stellt Studie zur Internetsucht vor +++ Aids-PrÃ¤vention fÃ¼r Jugendliche Â +++ Deutscher Lehrerpreis fÃ¼r Berliner PÃ¤dagogen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;30.11.2015 | 29:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-30-11-2015-19-30/rbb-Fernsehen/Video?documentId=31960954&amp;bcastId=3822076&quot;&gt;Abendschau 30.11.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;12-Punkte Plan gegen das Chaos in BÃ¼rgerÃ¤mtern +++ Was tun gegen Eskalationen in FlÃ¼chtlingsheimen? +++ BeschÃ¤ftigungsprogramm fÃ¼r FlÃ¼chtlinge +++ DAK stellt Studie zur Internetsucht vor +++ Aids-PrÃ¤vention fÃ¼r Jugendliche Â +++ Deutscher Lehrerpreis fÃ¼r Berliner PÃ¤dagogen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/0b91ed54-7529-4daa-9b84-b76443a985a7_ebd43926-ddeb-43ad-935a-1bf33d0be797.mp4?url=1"/>
-			<pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>30.11.2015 21:10 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1130/TV-100s-2110.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 30.11.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1130/TV-100s-2110.webl.h264.mp4"/>
-			<pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>30.11.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1130/TV-20151130-2024-0301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Weltklimagipfel in Paris erÃ¶ffnet, Merkel und Putin beraten Ã¼ber die Lage in Syrien, Diskussion Ã¼ber Einsatz der Bundeswehr im Kampf gegen den IS, EU und TÃ¼rkei wollen engere Zusammenarbeit in FlÃ¼chtlingskrise, Papst beendet Afrika-Reise, Alternativer Nobelpreis &quot;Right Livelihood Award&quot; in Stockholm verliehen, Yuan wird fÃ¼nfte WeltreservewÃ¤hrung, Hamburger lehnen Olympia-Bewerbung ab, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1130/TV-20151130-2024-0301.webl.h264.mp4"/>
-			<pubDate>Mon, 30 Nov 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
