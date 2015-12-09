@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 09 Dec 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Wed, 09 Dec 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Dec 2015 00:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Dec 2015 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -42,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2015/1209/TV-20151209-2025-0001.webl.h264.mp4</link>
 			<description>Themen der Sendung: ZschÃ¤pe bestreitet jede MittÃ¤terschaft an den Morden der Terrorgruppe NSU, Chronologie des NSU-Prozesses, ARD-Rechtsexperte BrÃ¤utigam Ã¼ber die Aussage von ZschÃ¤pe, Kabinett beschlieÃt Ausweis fÃ¼r FlÃ¼chtlinge, FlÃ¼chtlinge in Griechenland: Polizei rÃ¤umt Grenze zu Mazedonien, Syrien-Konferenz in Riad, Weiterer Paris-AttentÃ¤ter identifiziert, Laut VW deutlich weniger Autos von falschen CO2-Angaben betroffen, Entwurf fÃ¼r Abkommen auf UN-Klimagipfel prÃ¤sentiert, ErÃ¶ffnung der ICE-Strecke zwischen Leipzig, Halle und Erfurt, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1209/TV-20151209-2025-0001.webl.h264.mp4"/>
+			<pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 09.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/02225f54-2b19-42e5-8892-fad4b57c0db1_c537776b-0def-454c-8b4f-f6111ce9991d.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 09.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/14/10/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Lageso-Chaos +++ Begehung Tempelhofer Hangars +++ Nachrichten +++ Haushaltsdebatte +++ Studie: Paralleljustiz +++ Bullshit-Slam +++ Abendschau-Adventkalender +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;09.12.2015 | 30:23 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-09-12-2015/rbb-Fernsehen/Video?documentId=32141034&amp;bcastId=3822076&quot;&gt;Abendschau vom 09.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Lageso-Chaos +++ Begehung Tempelhofer Hangars +++ Nachrichten +++ Haushaltsdebatte +++ Studie: Paralleljustiz +++ Bullshit-Slam +++ Abendschau-Adventkalender +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/02225f54-2b19-42e5-8892-fad4b57c0db1_c537776b-0def-454c-8b4f-f6111ce9991d.mp4?url=1"/>
 			<pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
