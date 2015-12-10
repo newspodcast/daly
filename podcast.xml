@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 10 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Thu, 10 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Thu, 10 Dec 2015 21:30:06 GMT</pubDate>
+		<lastBuildDate>Thu, 10 Dec 2015 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 10.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/65c06a7e-c01c-416d-aaa4-6d1b3554aa5e_c9b45f67-8eb1-4dec-80e9-08cec6f5cee7.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 10.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/17/59/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Wie weiter am Lageso? +++ 73. Sitzung des Abgeordnetenhauses +++ MassenschlÃ¤gerei an Britzer Schule +++ Lebenslang fÃ¼r Hannas MÃ¶rder +++ Die Macht der Bilder +++ Berlin zwischen Chic und SpieÃigkeit +++ Adventskalender: Laufbewegung im Volkspark +++ Das Wochenendwetter +++&lt;/p&gt;&lt;p&gt;10.12.2015 | 28:53 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-10-12-2015/rbb-Fernsehen/Video?documentId=32175926&amp;bcastId=3822076&quot;&gt;Abendschau vom 10.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Wie weiter am Lageso? +++ 73. Sitzung des Abgeordnetenhauses +++ MassenschlÃ¤gerei an Britzer Schule +++ Lebenslang fÃ¼r Hannas MÃ¶rder +++ Die Macht der Bilder +++ Berlin zwischen Chic und SpieÃigkeit +++ Adventskalender: Laufbewegung im Volkspark +++ Das Wochenendwetter +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/65c06a7e-c01c-416d-aaa4-6d1b3554aa5e_c9b45f67-8eb1-4dec-80e9-08cec6f5cee7.mp4?url=1"/>
+			<pubDate>Thu, 10 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>10.12.2015 21:11 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1210/TV-100s-2111.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:11 Uhr vom 10.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1210/TV-100s-2111.webl.h264.mp4"/>
+			<pubDate>Thu, 10 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>10.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1210/TV-20151210-2023-4001.webl.h264.mp4</link>
+			<description>Themen der Sendung: Erste Bundeswehr-Flugzeuge starten in IS-Einsatz, SPD-Bundesparteitag: FlÃ¼chtlingspolitik und IS-TerrorbekÃ¤mpfung im Fokus, CDU-Spitze lehnt nationale Obergrenze bei FlÃ¼chtlingen weiterhin ab, Merkel berÃ¤t mit VerbÃ¤nden Ã¼ber FlÃ¼chtlingskrise, Nach RÃ¼cktritt von &quot;Lageso&quot;-PrÃ¤sident Allert, Tunesisches Dialogquartett mit Friedensnobelpreis ausgezeichnet, Weitere Nobelpreise in Stockholm verliehen, Konzern-Chef MÃ¼ller kÃ¼ndigt neue Unternehmenskultur bei VW an, Smog in Peking geht zurÃ¼ck, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1210/TV-20151210-2023-4001.webl.h264.mp4"/>
+			<pubDate>Thu, 10 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 09.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/7343a8eb-b61b-435a-b3e6-9d1d3b07129f_b6b2b807-1305-406c-8b70-cd7df981fb57.mp4?url=1</link>
@@ -141,27 +162,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:48 Uhr vom 05.12.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1205/TV-100s-2148.webl.h264.mp4"/>
 			<pubDate>Sat, 05 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 04.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/ae57cf4d-85b5-4325-9578-839a4bf291e4_e3c84644-356c-410c-b86d-54eb22568cc9.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 04.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/05/26/76/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Weniger Tempelhof-FlÃ¤chen fÃ¼r FlÃ¼chtlinge +++ Einmal pro Woche zum Duschen +++ Bundestag billigt Syrien-Einsatz +++ Polizei warnt vor Giftkeksen +++ Trauer um Harald Karas +++ Weltkulturerbe in der Staatsbibliothek +++ Adventskalender: 24 Stunden in Berlin +++ Ausflugstipp +++&lt;/p&gt;&lt;p&gt;04.12.2015 | 29:21 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-04-12-2015-19-30/rbb-Fernsehen/Video?documentId=32052664&amp;bcastId=3822076&quot;&gt;Abendschau 04.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Weniger Tempelhof-FlÃ¤chen fÃ¼r FlÃ¼chtlinge +++ Einmal pro Woche zum Duschen +++ Bundestag billigt Syrien-Einsatz +++ Polizei warnt vor Giftkeksen +++ Trauer um Harald Karas +++ Weltkulturerbe in der Staatsbibliothek +++ Adventskalender: 24 Stunden in Berlin +++ Ausflugstipp +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/ae57cf4d-85b5-4325-9578-839a4bf291e4_e3c84644-356c-410c-b86d-54eb22568cc9.mp4?url=1"/>
-			<pubDate>Fri, 04 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>04.12.2015 21:19 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1204/TV-100s-2119.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:19 Uhr vom 04.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1204/TV-100s-2119.webl.h264.mp4"/>
-			<pubDate>Fri, 04 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>04.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1204/TV-20151204-2021-2501.webl.h264.mp4</link>
-			<description>Themen der Sendung: Bundestag billigt Syrien-Einsatz, EinsÃ¤tze der Bundeswehr weltweit, EU-Innenminister verstÃ¤ndigen sich auf Speicherung von Fluggastdaten, EU-Innenminister beraten Ã¼ber Sicherung der AuÃengrenzen, Landesinnenminister fordern schnellere Asylverfahren, DÃ¤nen stimmen bei Referendum gegen engere Zusammenarbeit mit der EU, Ermittlungen nach SchieÃerei in Kalifornien, Bundestag will Untersuchungsausschuss zu Cum-Ex-GeschÃ¤ften einsetzen, Post erhÃ¶ht Porto, Frachter rammt EisenbahnbrÃ¼cke in Ostfriesland, US-Justiz erhebt Anklage gegen weitere FIFA-FunktionÃ¤re, Schwimm-EM, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1204/TV-20151204-2021-2501.webl.h264.mp4"/>
-			<pubDate>Fri, 04 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
