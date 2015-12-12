@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 12 Dec 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 12 Dec 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 12 Dec 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 12 Dec 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>12.12.2015 21:16 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1212/TV-100s-2116.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:16 Uhr vom 12.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1212/TV-100s-2116.webl.h264.mp4"/>
+			<pubDate>Sat, 12 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>12.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1212/TV-20151212-2021-5301.webl.h264.mp4</link>
+			<description>Themen der Sendung: UN-Klimaschutzkonferenz beschlieÃt verbindliches Abkommen, Abschluss des SPD-Parteitags, Zehntausende Polen demonstrieren gegen neue Regierung, Krawalle nach Demonstrationen in Leipzig, Konfliktparteien in Jemen verstÃ¤ndigen sich auf eine Waffenruhe, Frauen wÃ¤hlen in Saudi-Arabien, EM-Auslosung in Frankreich, Ergebnisse des 16. Spieltags, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1212/TV-20151212-2021-5301.webl.h264.mp4"/>
+			<pubDate>Sat, 12 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 11.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/334890a8-be7e-4d11-8db8-2d34ee3270f9_5d4bc035-6c3a-4998-b316-2958d17aa9f8.mp4?url=3</link>
@@ -134,27 +148,6 @@
 			<description>Themen der Sendung: Bundesverfassungsgericht erÃ¶ffnet Verbotsverfahren gegen NPD, Rechtsextremer Front National gewinnt erste Runde bei Regionalwahlen in Frankreich, Kritik am Bundesamt fÃ¼r Migration und FlÃ¼chtlinge, Von der Leyen besucht Afghanistan, MehrjÃ¤hrige Haftstrafen fÃ¼r zwei IS-RÃ¼ckkehrer, Obama-Rede zum Kampf gegen IS, Konservative Opposition gewinnt Parlamentswahl in Venezuela, ARD-Interview mit Joseph Blatter, HÃ¶chste Smog-Alarmstufe in Peking, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1207/TV-20151207-2022-2201.webl.h264.mp4"/>
 			<pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 06.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/cde66446-9790-465e-8294-82acd953a678_380340af-826b-4a26-9c8c-a7537f5bbe9f.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 06.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/07/71/98/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Shoppen am zweiten Advent +++ Unterbringung von FlÃ¼chtlingen: LAGeSo zahlt nicht +++ Sparen trotz hÃ¶herer Energiekosten +++ Livebericht vom Weihnachtsmarkt &quot;Lucia&quot; +++ &quot;Der kleine Prinz&quot; im Kino +++ Spendenaktion fÃ¼r Formel-1-Fan Finn erfolgreich +++ Adventskalender: 24 Stunden Berlin: Morgengebet in der Moschee +++ Sonntagsfrage: Glienicker BrÃ¼cke +++&lt;/p&gt;&lt;p&gt;06.12.2015 | 29:22 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-06-12-2015/rbb-Fernsehen/Video?documentId=32077186&amp;bcastId=3822076&quot;&gt;Abendschau vom 06.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Shoppen am zweiten Advent +++ Unterbringung von FlÃ¼chtlingen: LAGeSo zahlt nicht +++ Sparen trotz hÃ¶herer Energiekosten +++ Livebericht vom Weihnachtsmarkt &quot;Lucia&quot; +++ &quot;Der kleine Prinz&quot; im Kino +++ Spendenaktion fÃ¼r Formel-1-Fan Finn erfolgreich +++ Adventskalender: 24 Stunden Berlin: Morgengebet in der Moschee +++ Sonntagsfrage: Glienicker BrÃ¼cke +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/cde66446-9790-465e-8294-82acd953a678_380340af-826b-4a26-9c8c-a7537f5bbe9f.mp4?url=1"/>
-			<pubDate>Sun, 06 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.12.2015 21:07 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1206/TV-100s-2107.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 06.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1206/TV-100s-2107.webl.h264.mp4"/>
-			<pubDate>Sun, 06 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1206/TV-20151206-2045-3401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Regionalwahlen in Frankreich unter strengen Sicherheitsvorkehrungen, SPD-Fraktion fordert schÃ¤rfere MaÃnahmen im Anti-Terror-Kampf, Von der Leyen besucht Soldaten in Afghanistan, Gouverneur von Aden bei einem  Anschlag in Jemen getÃ¶tet, Drei Menschen durch Messerattacke in London verletzt, Gauck trifft Netanjahu, Griechisches Parlament verabschiedet Haushalt 2016, Parlamentswahlen in Venezuela, Schiffswrack mit Schatz an Bord vor Kolumbien gefunden, Ergebnisse der FuÃball-Bundesliga, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1206/TV-20151206-2045-3401.webl.h264.mp4"/>
-			<pubDate>Sun, 06 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
