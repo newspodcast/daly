@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 12 Dec 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 12 Dec 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 13 Dec 2015 00:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 13 Dec 2015 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2015/1212/TV-20151212-2021-5301.webl.h264.mp4</link>
 			<description>Themen der Sendung: UN-Klimaschutzkonferenz beschlieÃt verbindliches Abkommen, Abschluss des SPD-Parteitags, Zehntausende Polen demonstrieren gegen neue Regierung, Krawalle nach Demonstrationen in Leipzig, Konfliktparteien in Jemen verstÃ¤ndigen sich auf eine Waffenruhe, Frauen wÃ¤hlen in Saudi-Arabien, EM-Auslosung in Frankreich, Ergebnisse des 16. Spieltags, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1212/TV-20151212-2021-5301.webl.h264.mp4"/>
+			<pubDate>Sat, 12 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 12.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/e318d577-4af7-4b16-89ba-fbb828bf489e_7fd8eb84-941e-47c9-8783-e4cf02ed191d.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 12.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/22/61/28/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ GroÃer Bahnhof fÃ¼r den Bahnhof +++ Bilanz: ein Jahr Matthias Kollatz-Ahnen +++ Freiwilligendienst fÃ¼r FlÃ¼chtlinge +++ Holy Shit Shopping im Kraftwerk +++ Gleich nebenan: Kreative Ideen im Florakiez +++ Live: EuropÃ¤ischer Filmpreis wird vergeben +++ Adventskalender: Heiraten am 12.12. +++&lt;/p&gt;&lt;p&gt;12.12.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-12-12-2015/rbb-Fernsehen/Video?documentId=32226116&amp;bcastId=3822076&quot;&gt;Abendschau vom 12.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ GroÃer Bahnhof fÃ¼r den Bahnhof +++ Bilanz: ein Jahr Matthias Kollatz-Ahnen +++ Freiwilligendienst fÃ¼r FlÃ¼chtlinge +++ Holy Shit Shopping im Kraftwerk +++ Gleich nebenan: Kreative Ideen im Florakiez +++ Live: EuropÃ¤ischer Filmpreis wird vergeben +++ Adventskalender: Heiraten am 12.12. +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/e318d577-4af7-4b16-89ba-fbb828bf489e_7fd8eb84-941e-47c9-8783-e4cf02ed191d.mp4?url=1"/>
 			<pubDate>Sat, 12 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
