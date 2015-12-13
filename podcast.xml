@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 13 Dec 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Sun, 13 Dec 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Dec 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Dec 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2015/1213/TV-20151213-2030-4001.webl.h264.mp4</link>
 			<description>Themen der Sendung: Zweite Runde der Regionalwahlen in Frankreich, Vorbereitungen fÃ¼r den CDU-Bundesparteitag in Karlsruhe, Internationale Libyen-Konferenz in Rom, Internationale Reaktionen auf das Klimaabkommen, EuropÃ¤ischer Filmpreis fÃ¼r TragikkomÃ¶die &quot;Ewige Jugend&quot;, Kardinal Marx Ã¶ffnet Heilige Pforte in MÃ¼nchen, Die Ergebnisse der Bundesliga, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1213/TV-20151213-2030-4001.webl.h264.mp4"/>
+			<pubDate>Sun, 13 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 13.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/d23b1aeb-2e1d-447c-b77c-9f8abef29cf4_b3e6f3b0-d6a1-4bbc-87f7-fdee9b0a93fb.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 13.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/23/69/66/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Explosion auf Weihnachtsmarkt +++ Bilanz: Ein Jahr Andreas Geisel +++ Serie: Tristan - Berlin zeigt ZÃ¤hne +++ Live vom Weihnachtsmarkt Spandau +++ Die Sonntagsfrage +++ Adventskalender: Salsa am Sonntag +++&lt;/p&gt;&lt;p&gt;13.12.2015 | 29:07 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-13-12-2015/rbb-Fernsehen/Video?documentId=32236954&amp;bcastId=3822076&quot;&gt;Abendschau vom 13.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Explosion auf Weihnachtsmarkt +++ Bilanz: Ein Jahr Andreas Geisel +++ Serie: Tristan - Berlin zeigt ZÃ¤hne +++ Live vom Weihnachtsmarkt Spandau +++ Die Sonntagsfrage +++ Adventskalender: Salsa am Sonntag +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/d23b1aeb-2e1d-447c-b77c-9f8abef29cf4_b3e6f3b0-d6a1-4bbc-87f7-fdee9b0a93fb.mp4?url=3"/>
 			<pubDate>Sun, 13 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
