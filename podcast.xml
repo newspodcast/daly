@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 13 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Sun, 13 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Sun, 13 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 13 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>13.12.2015 21:23 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1213/TV-100s-2123.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:23 Uhr vom 13.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1213/TV-100s-2123.webl.h264.mp4"/>
+			<pubDate>Sun, 13 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>13.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1213/TV-20151213-2030-4001.webl.h264.mp4</link>
+			<description>Themen der Sendung: Zweite Runde der Regionalwahlen in Frankreich, Vorbereitungen fÃ¼r den CDU-Bundesparteitag in Karlsruhe, Internationale Libyen-Konferenz in Rom, Internationale Reaktionen auf das Klimaabkommen, EuropÃ¤ischer Filmpreis fÃ¼r TragikkomÃ¶die &quot;Ewige Jugend&quot;, Kardinal Marx Ã¶ffnet Heilige Pforte in MÃ¼nchen, Die Ergebnisse der Bundesliga, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1213/TV-20151213-2030-4001.webl.h264.mp4"/>
+			<pubDate>Sun, 13 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>12.12.2015 21:16 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1212/TV-100s-2116.webl.h264.mp4</link>
@@ -134,27 +148,6 @@
 			<description>Themen der Sendung: Von der Leyen sichert Afghanistan UnterstÃ¼tzung im Kampf gegen Taliban zu, Taliban greifen Flughafen in Kandahar an, BundesprÃ¤sident Gauck besucht FlÃ¼chtlingslager in Jordanien, Steinmeier trifft kurdischen PrÃ¤sidenten im Irak, FlÃ¼chtlingszahlen in Deutschland, Trump fordert US-Einreiseverbot fÃ¼r Muslime, EU-Finanzminister beraten Ã¼ber europaweite Einlagensicherung, Neue Daten zur Altersstruktur in Deutschland, Papst erÃ¶ffnet das &quot;Heilige Jahr der Barmherzigkeit&quot;, Bayern will AtommÃ¼ll aus dem Ausland zwischenlagern, Pistorius bleibt zunÃ¤chst unter Hausarrest, HÃ¶chste Smog-Alarmstufe in Peking, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1208/TV-20151208-2022-0801.webl.h264.mp4"/>
 			<pubDate>Tue, 08 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 07.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/dee6ef94-f6ce-408e-b606-e55cf10fb31a_3888d540-cd1f-49a3-ad5c-24a3ebb733db.mp4?url=3</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 07.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/09/73/78/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ AnwÃ¤lte zeigen Czaja an +++ Probleme bei Security-Firmen +++ FlÃ¼chtlinge und Tempelhofer Feld +++ Kostenexplosion bei der S-Bahn +++ Kartendienst 'Here' aufgekauft +++ Zoo arbeitet NS-Vergangenheit auf +++Â Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;07.12.2015 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-07-12-2015-19-30/rbb-Fernsehen/Video?documentId=32097366&amp;bcastId=3822076&quot;&gt;Abendschau 07.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ AnwÃ¤lte zeigen Czaja an +++ Probleme bei Security-Firmen +++ FlÃ¼chtlinge und Tempelhofer Feld +++ Kostenexplosion bei der S-Bahn +++ Kartendienst 'Here' aufgekauft +++ Zoo arbeitet NS-Vergangenheit auf +++Â Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/dee6ef94-f6ce-408e-b606-e55cf10fb31a_3888d540-cd1f-49a3-ad5c-24a3ebb733db.mp4?url=3"/>
-			<pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>07.12.2015 21:06 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1207/TV-100s-2106.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:06 Uhr vom 07.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1207/TV-100s-2106.webl.h264.mp4"/>
-			<pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>07.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1207/TV-20151207-2022-2201.webl.h264.mp4</link>
-			<description>Themen der Sendung: Bundesverfassungsgericht erÃ¶ffnet Verbotsverfahren gegen NPD, Rechtsextremer Front National gewinnt erste Runde bei Regionalwahlen in Frankreich, Kritik am Bundesamt fÃ¼r Migration und FlÃ¼chtlinge, Von der Leyen besucht Afghanistan, MehrjÃ¤hrige Haftstrafen fÃ¼r zwei IS-RÃ¼ckkehrer, Obama-Rede zum Kampf gegen IS, Konservative Opposition gewinnt Parlamentswahl in Venezuela, ARD-Interview mit Joseph Blatter, HÃ¶chste Smog-Alarmstufe in Peking, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1207/TV-20151207-2022-2201.webl.h264.mp4"/>
-			<pubDate>Mon, 07 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
