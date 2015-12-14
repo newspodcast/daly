@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 14 Dec 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Dec 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Dec 2015 00:30:06 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Dec 2015 00:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2015/1214/TV-20151214-2020-5301.webl.h264.mp4</link>
 			<description>Themen der Sendung: CDU-Parteitag stimmt mit groÃer Mehrheit fÃ¼r gemeinsame Linie in FlÃ¼chtlingsfrage, EU-AuÃenminister beraten Ã¼ber Kampf gegen Terror, Lage der FlÃ¼chtlinge in Griechenland, FlÃ¼chtlinge: Kinder und Frauen sollen besser geschÃ¼tzt werden, Nach den Wahlen in Frankreich, Reform der Parteienfinanzierung, Prozess gegen Menschenrechtsanwalt Pu Zhiqiang begonnen, FuÃball: Auslosungen in der Champions und Europa League, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1214/TV-20151214-2020-5301.webl.h264.mp4"/>
+			<pubDate>Mon, 14 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 14.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/d82eb070-4490-48ea-99a0-0b131566d196_80fb845b-11c0-4468-8515-571b886915d2.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 14.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/25/84/00/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Diskussion um Beschlagnahme von Turnhallen +++ Bundesparteitag der CDU +++ Tierheim Berlin gegen Tier-&quot;Geschenk&quot; +++ Rahmenlehrplan weiter umstritten +++ Nachbarbauten beschÃ¤digen Friedrichwerdersche Kirche +++Â Tyrannosaurus rex 'Tristan' in Berlin +++ Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;14.12.2015 | 28:53 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-14-12-2015-19-30/rbb-Fernsehen/Video?documentId=32258388&amp;bcastId=3822076&quot;&gt;Abendschau 14.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Diskussion um Beschlagnahme von Turnhallen +++ Bundesparteitag der CDU +++ Tierheim Berlin gegen Tier-&quot;Geschenk&quot; +++ Rahmenlehrplan weiter umstritten +++ Nachbarbauten beschÃ¤digen Friedrichwerdersche Kirche +++Â Tyrannosaurus rex 'Tristan' in Berlin +++ Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/d82eb070-4490-48ea-99a0-0b131566d196_80fb845b-11c0-4468-8515-571b886915d2.mp4?url=1"/>
 			<pubDate>Mon, 14 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
