@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 14 Dec 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 14 Dec 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 14 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 14 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>14.12.2015 21:05 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1214/TV-100s-2105.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 14.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1214/TV-100s-2105.webl.h264.mp4"/>
+			<pubDate>Mon, 14 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>14.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1214/TV-20151214-2020-5301.webl.h264.mp4</link>
+			<description>Themen der Sendung: CDU-Parteitag stimmt mit groÃer Mehrheit fÃ¼r gemeinsame Linie in FlÃ¼chtlingsfrage, EU-AuÃenminister beraten Ã¼ber Kampf gegen Terror, Lage der FlÃ¼chtlinge in Griechenland, FlÃ¼chtlinge: Kinder und Frauen sollen besser geschÃ¼tzt werden, Nach den Wahlen in Frankreich, Reform der Parteienfinanzierung, Prozess gegen Menschenrechtsanwalt Pu Zhiqiang begonnen, FuÃball: Auslosungen in der Champions und Europa League, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1214/TV-20151214-2020-5301.webl.h264.mp4"/>
+			<pubDate>Mon, 14 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>13.12.2015 21:23 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1213/TV-100s-2123.webl.h264.mp4</link>
@@ -134,27 +148,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 09.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/14/10/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Lageso-Chaos +++ Begehung Tempelhofer Hangars +++ Nachrichten +++ Haushaltsdebatte +++ Studie: Paralleljustiz +++ Bullshit-Slam +++ Abendschau-Adventkalender +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;09.12.2015 | 30:23 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-09-12-2015/rbb-Fernsehen/Video?documentId=32141034&amp;bcastId=3822076&quot;&gt;Abendschau vom 09.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Lageso-Chaos +++ Begehung Tempelhofer Hangars +++ Nachrichten +++ Haushaltsdebatte +++ Studie: Paralleljustiz +++ Bullshit-Slam +++ Abendschau-Adventkalender +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/02225f54-2b19-42e5-8892-fad4b57c0db1_c537776b-0def-454c-8b4f-f6111ce9991d.mp4?url=1"/>
 			<pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 08.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/c4a3d405-0d29-47dd-814c-c0569abf3a09_d0f54f1f-0f45-43b4-8597-73d7bd59c5a4.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 08.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/11/73/12/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Neues Hard Rock Haus am Checkpoint Charlie +++ Millionen fÃ¼r die S-Bahn +++ Nachrichten +++ Phishing +++ Beteiligungsverfahren Dragoner-Areal +++ Feinstaub-Klage +++ Abendschau-Adventskalender +++ KinderwÃ¼nsche am Breslauer Platz +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;08.12.2015 | 27:32 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-08-12-2015/rbb-Fernsehen/Video?documentId=32117300&amp;bcastId=3822076&quot;&gt;Abendschau vom 08.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Neues Hard Rock Haus am Checkpoint Charlie +++ Millionen fÃ¼r die S-Bahn +++ Nachrichten +++ Phishing +++ Beteiligungsverfahren Dragoner-Areal +++ Feinstaub-Klage +++ Abendschau-Adventskalender +++ KinderwÃ¼nsche am Breslauer Platz +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/c4a3d405-0d29-47dd-814c-c0569abf3a09_d0f54f1f-0f45-43b4-8597-73d7bd59c5a4.mp4?url=1"/>
-			<pubDate>Tue, 08 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.12.2015 21:16 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1208/TV-100s-2116.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:16 Uhr vom 08.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1208/TV-100s-2116.webl.h264.mp4"/>
-			<pubDate>Tue, 08 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1208/TV-20151208-2022-0801.webl.h264.mp4</link>
-			<description>Themen der Sendung: Von der Leyen sichert Afghanistan UnterstÃ¼tzung im Kampf gegen Taliban zu, Taliban greifen Flughafen in Kandahar an, BundesprÃ¤sident Gauck besucht FlÃ¼chtlingslager in Jordanien, Steinmeier trifft kurdischen PrÃ¤sidenten im Irak, FlÃ¼chtlingszahlen in Deutschland, Trump fordert US-Einreiseverbot fÃ¼r Muslime, EU-Finanzminister beraten Ã¼ber europaweite Einlagensicherung, Neue Daten zur Altersstruktur in Deutschland, Papst erÃ¶ffnet das &quot;Heilige Jahr der Barmherzigkeit&quot;, Bayern will AtommÃ¼ll aus dem Ausland zwischenlagern, Pistorius bleibt zunÃ¤chst unter Hausarrest, HÃ¶chste Smog-Alarmstufe in Peking, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1208/TV-20151208-2022-0801.webl.h264.mp4"/>
-			<pubDate>Tue, 08 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
