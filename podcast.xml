@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 15 Dec 2015 00:30:06 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Dec 2015 00:30:06 GMT</lastBuildDate>
+		<pubDate>Tue, 15 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Tue, 15 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>15.12.2015 21:24 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1215/TV-100s-2124.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:24 Uhr vom 15.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1215/TV-100s-2124.webl.h264.mp4"/>
+			<pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>15.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1215/TV-20151215-2023-2901.webl.h264.mp4</link>
+			<description>Themen der Sendung: Seehofer-Rede auf CDU-Bundesparteitag, EU-Kommission plant EU-AuÃengrenzen besser zu schÃ¼tzen, Internetfirmen wollen hÃ¤rter gegen Hassbotschaften im Internet vorgehen, Salafistenprediger Lau festgenommen, Richter hinterfragt ZschÃ¤pes Aussage im NSU-Prozess, Waffenruhe im Jemen in Kraft getreten, Saudi-Arabien grÃ¼ndet MilitÃ¤rallianz, Minister MÃ¼ller zu GesprÃ¤chen in Eritrea, SchulschlieÃung nach Drohung in Los Angeles, &quot;Star Wars: Das Erwachen der Macht&quot; feiert Premiere, Raumfahrer auf dem Weg zur ISS, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1215/TV-20151215-2023-2901.webl.h264.mp4"/>
+			<pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>14.12.2015 21:05 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1214/TV-100s-2105.webl.h264.mp4</link>
@@ -120,41 +134,6 @@
 			<description>Themen der Sendung: Erste Bundeswehr-Flugzeuge starten in IS-Einsatz, SPD-Bundesparteitag: FlÃ¼chtlingspolitik und IS-TerrorbekÃ¤mpfung im Fokus, CDU-Spitze lehnt nationale Obergrenze bei FlÃ¼chtlingen weiterhin ab, Merkel berÃ¤t mit VerbÃ¤nden Ã¼ber FlÃ¼chtlingskrise, Nach RÃ¼cktritt von &quot;Lageso&quot;-PrÃ¤sident Allert, Tunesisches Dialogquartett mit Friedensnobelpreis ausgezeichnet, Weitere Nobelpreise in Stockholm verliehen, Konzern-Chef MÃ¼ller kÃ¼ndigt neue Unternehmenskultur bei VW an, Smog in Peking geht zurÃ¼ck, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1210/TV-20151210-2023-4001.webl.h264.mp4"/>
 			<pubDate>Thu, 10 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 09.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/7343a8eb-b61b-435a-b3e6-9d1d3b07129f_b6b2b807-1305-406c-8b70-cd7df981fb57.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 09.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/14/10/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Lageso-Chaos +++ Begehung Tempelhofer Hangars +++ Nachrichten +++ Haushaltsdebatte +++ Studie: Paralleljustiz +++ Bullshit-Slam +++ Abendschau-Adventkalender +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;09.12.2015 | 29:09 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-09-12-2015/rbb-Fernsehen/Video?documentId=32141034&amp;bcastId=3822076&quot;&gt;Abendschau vom 09.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Lageso-Chaos +++ Begehung Tempelhofer Hangars +++ Nachrichten +++ Haushaltsdebatte +++ Studie: Paralleljustiz +++ Bullshit-Slam +++ Abendschau-Adventkalender +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/7343a8eb-b61b-435a-b3e6-9d1d3b07129f_b6b2b807-1305-406c-8b70-cd7df981fb57.mp4?url=1"/>
-			<pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 2016/17</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/c639d697-f95f-4925-b600-4824d653baab_cf140544-2887-4654-ac35-3abec868a805.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Parlament beschlieÃt Doppelhaushalt 2016/17&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/13/99/60/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Auf der letzten Parlamentssitzung in diesem Jahr will das Abgeordnetenhaus den Doppelhaushalt 2016/2017 verabschieden. DafÃ¼r sind zehn Stunden eingeplant. Nach dem Entwurf des rot-schwarzen Senats umfasst der Haushalt fÃ¼r beide Jahre ein Volumen von mehr als 51 Milliarden Euro.&lt;/p&gt;&lt;p&gt;09.12.2015 | 02:45 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Parlament-beschlie%C3%9Ft-Doppelhaushalt-2016/rbb-Fernsehen/Video?documentId=32139946&amp;bcastId=3822076&quot;&gt;Parlament beschlieÃt Doppelhaushalt 2016/17 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Auf der letzten Parlamentssitzung in diesem Jahr will das Abgeordnetenhaus den Doppelhaushalt 2016/2017 verabschieden. DafÃ¼r sind zehn Stunden eingeplant. Nach dem Entwurf des rot-schwarzen Senats umfasst der Haushalt fÃ¼r beide Jahre ein Volumen von mehr als 51 Milliarden Euro.&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/c639d697-f95f-4925-b600-4824d653baab_cf140544-2887-4654-ac35-3abec868a805.mp4?url=1"/>
-			<pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.12.2015 21:06 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1209/TV-100s-2106.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:06 Uhr vom 09.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1209/TV-100s-2106.webl.h264.mp4"/>
-			<pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1209/TV-20151209-2025-0001.webl.h264.mp4</link>
-			<description>Themen der Sendung: ZschÃ¤pe bestreitet jede MittÃ¤terschaft an den Morden der Terrorgruppe NSU, Chronologie des NSU-Prozesses, ARD-Rechtsexperte BrÃ¤utigam Ã¼ber die Aussage von ZschÃ¤pe, Kabinett beschlieÃt Ausweis fÃ¼r FlÃ¼chtlinge, FlÃ¼chtlinge in Griechenland: Polizei rÃ¤umt Grenze zu Mazedonien, Syrien-Konferenz in Riad, Weiterer Paris-AttentÃ¤ter identifiziert, Laut VW deutlich weniger Autos von falschen CO2-Angaben betroffen, Entwurf fÃ¼r Abkommen auf UN-Klimagipfel prÃ¤sentiert, ErÃ¶ffnung der ICE-Strecke zwischen Leipzig, Halle und Erfurt, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1209/TV-20151209-2025-0001.webl.h264.mp4"/>
-			<pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 09.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/02225f54-2b19-42e5-8892-fad4b57c0db1_c537776b-0def-454c-8b4f-f6111ce9991d.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 09.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/14/10/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Lageso-Chaos +++ Begehung Tempelhofer Hangars +++ Nachrichten +++ Haushaltsdebatte +++ Studie: Paralleljustiz +++ Bullshit-Slam +++ Abendschau-Adventkalender +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;09.12.2015 | 30:23 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-09-12-2015/rbb-Fernsehen/Video?documentId=32141034&amp;bcastId=3822076&quot;&gt;Abendschau vom 09.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Lageso-Chaos +++ Begehung Tempelhofer Hangars +++ Nachrichten +++ Haushaltsdebatte +++ Studie: Paralleljustiz +++ Bullshit-Slam +++ Abendschau-Adventkalender +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/02225f54-2b19-42e5-8892-fad4b57c0db1_c537776b-0def-454c-8b4f-f6111ce9991d.mp4?url=1"/>
-			<pubDate>Wed, 09 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
