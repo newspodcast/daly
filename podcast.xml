@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 15 Dec 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 15 Dec 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Dec 2015 00:30:05 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Dec 2015 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2015/1215/TV-20151215-2023-2901.webl.h264.mp4</link>
 			<description>Themen der Sendung: Seehofer-Rede auf CDU-Bundesparteitag, EU-Kommission plant EU-AuÃengrenzen besser zu schÃ¼tzen, Internetfirmen wollen hÃ¤rter gegen Hassbotschaften im Internet vorgehen, Salafistenprediger Lau festgenommen, Richter hinterfragt ZschÃ¤pes Aussage im NSU-Prozess, Waffenruhe im Jemen in Kraft getreten, Saudi-Arabien grÃ¼ndet MilitÃ¤rallianz, Minister MÃ¼ller zu GesprÃ¤chen in Eritrea, SchulschlieÃung nach Drohung in Los Angeles, &quot;Star Wars: Das Erwachen der Macht&quot; feiert Premiere, Raumfahrer auf dem Weg zur ISS, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1215/TV-20151215-2023-2901.webl.h264.mp4"/>
+			<pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 15.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/c993f346-1189-47d2-95fc-4366d2a935f5_d0402992-bff6-45ad-bc4a-c3c0666c7671.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 15.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/28/75/78/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Gericht kippt Hundeverbot +++ Nachts am Lageso +++ Senatstour in Kreuzberg +++ T-Rex im Naturkundemuseum +++ Gala der BallettschÃ¼ler +++ Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;15.12.2015 | 29:16 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-15-12-2015-19-30/rbb-Fernsehen/Video?documentId=32287566&amp;bcastId=3822076&quot;&gt;Abendschau 15.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Gericht kippt Hundeverbot +++ Nachts am Lageso +++ Senatstour in Kreuzberg +++ T-Rex im Naturkundemuseum +++ Gala der BallettschÃ¼ler +++ Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/c993f346-1189-47d2-95fc-4366d2a935f5_d0402992-bff6-45ad-bc4a-c3c0666c7671.mp4?url=1"/>
 			<pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
