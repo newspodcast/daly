@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 16 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Wed, 16 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Wed, 16 Dec 2015 21:30:15 GMT</pubDate>
+		<lastBuildDate>Wed, 16 Dec 2015 21:30:15 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 16.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/92fa9bd7-2bb7-4ec6-a3ef-3c4769cd3eed_177c64b1-c37c-464f-8eea-25d95861a5c1.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 16.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/31/16/40/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Dino-Skelett erobert Naturkundemuseum +++ Situation der FlÃ¼chtlinge in Berlin +++ Mehr Sicherheit fÃ¼r Silvesterparty am Brandenburger Tor +++ Star Wars VII feiert Premiere +++ Adventskalender: In einer Berliner Tierarztpraxis +++&lt;/p&gt;&lt;p&gt;16.12.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-16-12-2015/rbb-Fernsehen/Video?documentId=32311628&amp;bcastId=3822076&quot;&gt;Abendschau vom 16.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Dino-Skelett erobert Naturkundemuseum +++ Situation der FlÃ¼chtlinge in Berlin +++ Mehr Sicherheit fÃ¼r Silvesterparty am Brandenburger Tor +++ Star Wars VII feiert Premiere +++ Adventskalender: In einer Berliner Tierarztpraxis +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/92fa9bd7-2bb7-4ec6-a3ef-3c4769cd3eed_177c64b1-c37c-464f-8eea-25d95861a5c1.mp4?url=1"/>
+			<pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.12.2015 20:52 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1216/TV-100s-2052.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 20:52 Uhr vom 16.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1216/TV-100s-2052.webl.h264.mp4"/>
+			<pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1216/TV-20151216-2022-2301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Wohlleben sagt im NSU-Prozess aus, Merkel gibt RegierungserklÃ¤rung zum EU-Gipfel ab, Amnesty International wirft TÃ¼rkei Inhaftierung von FlÃ¼chtlingen vor, Amerikanische Notenbank erhÃ¶ht den Leitzins, Saudischer Blogger Raif Badawi erhÃ¤lt Sacharow-Preis, Neue Anti-Terror-Einheit BFE+ vorgestellt, Geheimdienst-Kontrollgremien des Bundestags konkretisiert Kritik am BND, EU-Kommission stellt neue EU-Datenschutzrichtlinien vor, Kabinett beschlieÃt Schockbilder auf Zigarettenschachteln, Skelett vom Tyrannosaurus Rex ist neue Attraktion im Berliner Naturkundemuseum, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1216/TV-20151216-2022-2301.webl.h264.mp4"/>
+			<pubDate>Wed, 16 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>15.12.2015 21:24 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1215/TV-100s-2124.webl.h264.mp4</link>
@@ -120,27 +141,6 @@
 			<description>Themen der Sendung: Parteichef Gabriel wird bei SPD-Parteitag wiedergewÃ¤hlt, UN-Klimakonferenz wird verlÃ¤ngert, Syrische Opposition zu GesprÃ¤chen mit Assad bereit, Techniker Krankenkasse erhÃ¶ht Beitragssatz fÃ¼r 2016, Aufsichtsrat stimmt RWE-Umbau zu, &quot;FlÃ¼chtlinge&quot; ist Wort des Jahres, UEFA-PrÃ¤sident Platini bleibt gesperrt, Deutsche Biathletinnen feiern Dreifach-Erfolg, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1211/TV-20151211-2100-3801.webl.h264.mp4"/>
 			<pubDate>Fri, 11 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 10.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/65c06a7e-c01c-416d-aaa4-6d1b3554aa5e_c9b45f67-8eb1-4dec-80e9-08cec6f5cee7.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 10.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/17/59/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Wie weiter am Lageso? +++ 73. Sitzung des Abgeordnetenhauses +++ MassenschlÃ¤gerei an Britzer Schule +++ Lebenslang fÃ¼r Hannas MÃ¶rder +++ Die Macht der Bilder +++ Berlin zwischen Chic und SpieÃigkeit +++ Adventskalender: Laufbewegung im Volkspark +++ Das Wochenendwetter +++&lt;/p&gt;&lt;p&gt;10.12.2015 | 28:53 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-10-12-2015/rbb-Fernsehen/Video?documentId=32175926&amp;bcastId=3822076&quot;&gt;Abendschau vom 10.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Wie weiter am Lageso? +++ 73. Sitzung des Abgeordnetenhauses +++ MassenschlÃ¤gerei an Britzer Schule +++ Lebenslang fÃ¼r Hannas MÃ¶rder +++ Die Macht der Bilder +++ Berlin zwischen Chic und SpieÃigkeit +++ Adventskalender: Laufbewegung im Volkspark +++ Das Wochenendwetter +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/65c06a7e-c01c-416d-aaa4-6d1b3554aa5e_c9b45f67-8eb1-4dec-80e9-08cec6f5cee7.mp4?url=1"/>
-			<pubDate>Thu, 10 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.12.2015 21:11 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1210/TV-100s-2111.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:11 Uhr vom 10.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1210/TV-100s-2111.webl.h264.mp4"/>
-			<pubDate>Thu, 10 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1210/TV-20151210-2023-4001.webl.h264.mp4</link>
-			<description>Themen der Sendung: Erste Bundeswehr-Flugzeuge starten in IS-Einsatz, SPD-Bundesparteitag: FlÃ¼chtlingspolitik und IS-TerrorbekÃ¤mpfung im Fokus, CDU-Spitze lehnt nationale Obergrenze bei FlÃ¼chtlingen weiterhin ab, Merkel berÃ¤t mit VerbÃ¤nden Ã¼ber FlÃ¼chtlingskrise, Nach RÃ¼cktritt von &quot;Lageso&quot;-PrÃ¤sident Allert, Tunesisches Dialogquartett mit Friedensnobelpreis ausgezeichnet, Weitere Nobelpreise in Stockholm verliehen, Konzern-Chef MÃ¼ller kÃ¼ndigt neue Unternehmenskultur bei VW an, Smog in Peking geht zurÃ¼ck, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1210/TV-20151210-2023-4001.webl.h264.mp4"/>
-			<pubDate>Thu, 10 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
