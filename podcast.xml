@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 17 Dec 2015 00:30:22 GMT</pubDate>
-		<lastBuildDate>Thu, 17 Dec 2015 00:30:22 GMT</lastBuildDate>
+		<pubDate>Thu, 17 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 17 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 17.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/f1ba403f-72d2-4e08-931f-569656ffc2f5_88c572db-bb67-445d-9e5c-7404694d3077.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 17.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/33/70/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;PlÃ¤ne fÃ¼r neues FlÃ¼chtlingsamt +++ Landesunternehmen sollen mehr investieren +++ Nachrichten I +++ Hertha im Pokal-Viertelfinale +++ Premiere: 'Ich bin dann mal weg' +++ Ansturm auf Tristan +++ Nachrichten II +++ Adventskalender: Dong Xian Center in Lichtenberg +++ Das Wetter: WeiÃe oder grÃ¼ne Weihnacht? +++ Armin Mueller-Stahl wird 85&lt;/p&gt;&lt;p&gt;17.12.2015 | 29:30 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-17-12-2015-19-30/rbb-Fernsehen/Video?documentId=32337014&amp;bcastId=3822076&quot;&gt;Abendschau 17.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;PlÃ¤ne fÃ¼r neues FlÃ¼chtlingsamt +++ Landesunternehmen sollen mehr investieren +++ Nachrichten I +++ Hertha im Pokal-Viertelfinale +++ Premiere: 'Ich bin dann mal weg' +++ Ansturm auf Tristan +++ Nachrichten II +++ Adventskalender: Dong Xian Center in Lichtenberg +++ Das Wetter: WeiÃe oder grÃ¼ne Weihnacht? +++ Armin Mueller-Stahl wird 85&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/f1ba403f-72d2-4e08-931f-569656ffc2f5_88c572db-bb67-445d-9e5c-7404694d3077.mp4?url=1"/>
+			<pubDate>Thu, 17 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>17.12.2015 21:11 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1217/TV-100s-2111.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:11 Uhr vom 17.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1217/TV-100s-2111.webl.h264.mp4"/>
+			<pubDate>Thu, 17 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>17.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1217/TV-20151217-2022-4401.webl.h264.mp4</link>
+			<description>Themen der Sendung: EU-Gipfel zu FlÃ¼chtlingspolitik in BrÃ¼ssel, Unicef zeichnet Foto des Jahres 2015 aus, De MaiziÃ¨re im BÃ¼rgerdialog zur FlÃ¼chtlingsfrage, TÃ¼rkische Armee tÃ¶tet kurdische Rebellen, Vertrag Ã¼ber Einheitsregierung fÃ¼r Libyen unterzeichnet, Bundestag verlÃ¤ngert Afghanistan-Einsatz, Jahres-Pressekonferenz von PrÃ¤sident Putin, Prozess gegen Bayer wegen Anti-Baby-Pille, Bahn plant milliardenschweres Investitionsprogramm, Umweltbundesamt zu Diesel-Fahrzeugen, Tele-Handshake zwischen ISS und Erde, Biathlon-Weltcup: Simon Schempp siegt in Pokljuka, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1217/TV-20151217-2022-4401.webl.h264.mp4"/>
+			<pubDate>Thu, 17 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 16.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/92fa9bd7-2bb7-4ec6-a3ef-3c4769cd3eed_177c64b1-c37c-464f-8eea-25d95861a5c1.mp4?url=1</link>
@@ -127,27 +148,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 12.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/22/61/28/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ GroÃer Bahnhof fÃ¼r den Bahnhof +++ Bilanz: ein Jahr Matthias Kollatz-Ahnen +++ Freiwilligendienst fÃ¼r FlÃ¼chtlinge +++ Holy Shit Shopping im Kraftwerk +++ Gleich nebenan: Kreative Ideen im Florakiez +++ Live: EuropÃ¤ischer Filmpreis wird vergeben +++ Adventskalender: Heiraten am 12.12. +++&lt;/p&gt;&lt;p&gt;12.12.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-12-12-2015/rbb-Fernsehen/Video?documentId=32226116&amp;bcastId=3822076&quot;&gt;Abendschau vom 12.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ GroÃer Bahnhof fÃ¼r den Bahnhof +++ Bilanz: ein Jahr Matthias Kollatz-Ahnen +++ Freiwilligendienst fÃ¼r FlÃ¼chtlinge +++ Holy Shit Shopping im Kraftwerk +++ Gleich nebenan: Kreative Ideen im Florakiez +++ Live: EuropÃ¤ischer Filmpreis wird vergeben +++ Adventskalender: Heiraten am 12.12. +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/e318d577-4af7-4b16-89ba-fbb828bf489e_7fd8eb84-941e-47c9-8783-e4cf02ed191d.mp4?url=1"/>
 			<pubDate>Sat, 12 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 11.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/334890a8-be7e-4d11-8db8-2d34ee3270f9_5d4bc035-6c3a-4998-b316-2958d17aa9f8.mp4?url=3</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 11.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/20/74/72/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ ICC wird fÃ¼r FlÃ¼chtlinge vorbereitet +++ Bilanz: Ein Jahr Michael MÃ¼ller +++ Neues Konzept fÃ¼r &quot;Haus der Statistik&quot; +++ Adventskalender: Hinter den Kulissen der Mensa +++ Ausflugstipp nach Luckau +++&lt;/p&gt;&lt;p&gt;11.12.2015 | 29:10 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-11-12-2015/rbb-Fernsehen/Video?documentId=32207460&amp;bcastId=3822076&quot;&gt;Abendschau vom 11.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ ICC wird fÃ¼r FlÃ¼chtlinge vorbereitet +++ Bilanz: Ein Jahr Michael MÃ¼ller +++ Neues Konzept fÃ¼r &quot;Haus der Statistik&quot; +++ Adventskalender: Hinter den Kulissen der Mensa +++ Ausflugstipp nach Luckau +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/334890a8-be7e-4d11-8db8-2d34ee3270f9_5d4bc035-6c3a-4998-b316-2958d17aa9f8.mp4?url=3"/>
-			<pubDate>Fri, 11 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>11.12.2015 21:12 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1211/TV-100s-2112.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:12 Uhr vom 11.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1211/TV-100s-2112.webl.h264.mp4"/>
-			<pubDate>Fri, 11 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>11.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1211/TV-20151211-2100-3801.webl.h264.mp4</link>
-			<description>Themen der Sendung: Parteichef Gabriel wird bei SPD-Parteitag wiedergewÃ¤hlt, UN-Klimakonferenz wird verlÃ¤ngert, Syrische Opposition zu GesprÃ¤chen mit Assad bereit, Techniker Krankenkasse erhÃ¶ht Beitragssatz fÃ¼r 2016, Aufsichtsrat stimmt RWE-Umbau zu, &quot;FlÃ¼chtlinge&quot; ist Wort des Jahres, UEFA-PrÃ¤sident Platini bleibt gesperrt, Deutsche Biathletinnen feiern Dreifach-Erfolg, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1211/TV-20151211-2100-3801.webl.h264.mp4"/>
-			<pubDate>Fri, 11 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
