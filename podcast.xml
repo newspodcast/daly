@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 18 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Fri, 18 Dec 2015 21:30:06 GMT</pubDate>
+		<lastBuildDate>Fri, 18 Dec 2015 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 18.12.2015</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151218_sdg_m_16_9_512x288.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 18.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/36/12/18/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Krankenkassen erhÃ¶hen die BeitrÃ¤ge +++ Wie lÃ¤uftâs am BER? +++ Nachrichten I +++Â Heckeshorn wird FlÃ¼chtlingsunterkunft +++ Sollten SilvesterbÃ¶ller verboten werden? +++ Adventskalender: Mit der Polizei am Hauptbahnhof +++ Ausflugstipp: Winterdorf an der Spree&lt;/p&gt;&lt;p&gt;18.12.2015 | 28:40 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-18-12-2015-19-30/rbb-Fernsehen/Video?documentId=32361206&amp;bcastId=3822076&quot;&gt;Abendschau 18.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Krankenkassen erhÃ¶hen die BeitrÃ¤ge +++ Wie lÃ¤uftâs am BER? +++ Nachrichten I +++Â Heckeshorn wird FlÃ¼chtlingsunterkunft +++ Sollten SilvesterbÃ¶ller verboten werden? +++ Adventskalender: Mit der Polizei am Hauptbahnhof +++ Ausflugstipp: Winterdorf an der Spree&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151218_sdg_m_16_9_512x288.mp4?url=3"/>
+			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.12.2015 21:05 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2105.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 18.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2105.webl.h264.mp4"/>
+			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1218/TV-20151218-2021-2501.webl.h264.mp4</link>
+			<description>Themen der Sendung: Abschluss des EU-Gipfels in BrÃ¼ssel, FlÃ¼chtlingszahlen der UNHCR, Pilotprojekt fÃ¼r schnellere Asylverfahren, UN-Resolution soll IS-Geldquellen austrocknen, UN berÃ¤t in New York Ã¼ber Syrien-Konflikt, EU verlÃ¤ngert Wirtschaftssanktionen gegen Russland, Diskussion zu KassenbeitrÃ¤gen, AfD rÃ¼gt HÃ¶cke, Zeche Auguste Victoria geschlossen, Mutter Teresa soll heiliggesprochen werden, Warmer Winter: Pollenflug statt Schneefall, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1218/TV-20151218-2021-2501.webl.h264.mp4"/>
+			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 17.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/f1ba403f-72d2-4e08-931f-569656ffc2f5_88c572db-bb67-445d-9e5c-7404694d3077.mp4?url=1</link>
@@ -127,27 +148,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 13.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/23/69/66/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Explosion auf Weihnachtsmarkt +++ Bilanz: Ein Jahr Andreas Geisel +++ Serie: Tristan - Berlin zeigt ZÃ¤hne +++ Live vom Weihnachtsmarkt Spandau +++ Die Sonntagsfrage +++ Adventskalender: Salsa am Sonntag +++&lt;/p&gt;&lt;p&gt;13.12.2015 | 29:07 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-13-12-2015/rbb-Fernsehen/Video?documentId=32236954&amp;bcastId=3822076&quot;&gt;Abendschau vom 13.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Explosion auf Weihnachtsmarkt +++ Bilanz: Ein Jahr Andreas Geisel +++ Serie: Tristan - Berlin zeigt ZÃ¤hne +++ Live vom Weihnachtsmarkt Spandau +++ Die Sonntagsfrage +++ Adventskalender: Salsa am Sonntag +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/d23b1aeb-2e1d-447c-b77c-9f8abef29cf4_b3e6f3b0-d6a1-4bbc-87f7-fdee9b0a93fb.mp4?url=3"/>
 			<pubDate>Sun, 13 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.12.2015 21:16 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1212/TV-100s-2116.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:16 Uhr vom 12.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1212/TV-100s-2116.webl.h264.mp4"/>
-			<pubDate>Sat, 12 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1212/TV-20151212-2021-5301.webl.h264.mp4</link>
-			<description>Themen der Sendung: UN-Klimaschutzkonferenz beschlieÃt verbindliches Abkommen, Abschluss des SPD-Parteitags, Zehntausende Polen demonstrieren gegen neue Regierung, Krawalle nach Demonstrationen in Leipzig, Konfliktparteien in Jemen verstÃ¤ndigen sich auf eine Waffenruhe, Frauen wÃ¤hlen in Saudi-Arabien, EM-Auslosung in Frankreich, Ergebnisse des 16. Spieltags, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1212/TV-20151212-2021-5301.webl.h264.mp4"/>
-			<pubDate>Sat, 12 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 12.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/e318d577-4af7-4b16-89ba-fbb828bf489e_7fd8eb84-941e-47c9-8783-e4cf02ed191d.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 12.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/22/61/28/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ GroÃer Bahnhof fÃ¼r den Bahnhof +++ Bilanz: ein Jahr Matthias Kollatz-Ahnen +++ Freiwilligendienst fÃ¼r FlÃ¼chtlinge +++ Holy Shit Shopping im Kraftwerk +++ Gleich nebenan: Kreative Ideen im Florakiez +++ Live: EuropÃ¤ischer Filmpreis wird vergeben +++ Adventskalender: Heiraten am 12.12. +++&lt;/p&gt;&lt;p&gt;12.12.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-12-12-2015/rbb-Fernsehen/Video?documentId=32226116&amp;bcastId=3822076&quot;&gt;Abendschau vom 12.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ GroÃer Bahnhof fÃ¼r den Bahnhof +++ Bilanz: ein Jahr Matthias Kollatz-Ahnen +++ Freiwilligendienst fÃ¼r FlÃ¼chtlinge +++ Holy Shit Shopping im Kraftwerk +++ Gleich nebenan: Kreative Ideen im Florakiez +++ Live: EuropÃ¤ischer Filmpreis wird vergeben +++ Adventskalender: Heiraten am 12.12. +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/e318d577-4af7-4b16-89ba-fbb828bf489e_7fd8eb84-941e-47c9-8783-e4cf02ed191d.mp4?url=1"/>
-			<pubDate>Sat, 12 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
