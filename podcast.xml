@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 18 Dec 2015 21:30:06 GMT</pubDate>
-		<lastBuildDate>Fri, 18 Dec 2015 21:30:06 GMT</lastBuildDate>
+		<pubDate>Sat, 19 Dec 2015 00:30:06 GMT</pubDate>
+		<lastBuildDate>Sat, 19 Dec 2015 00:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/1218/TV-20151218-2021-2501.webl.h264.mp4</link>
 			<description>Themen der Sendung: Abschluss des EU-Gipfels in BrÃ¼ssel, FlÃ¼chtlingszahlen der UNHCR, Pilotprojekt fÃ¼r schnellere Asylverfahren, UN-Resolution soll IS-Geldquellen austrocknen, UN berÃ¤t in New York Ã¼ber Syrien-Konflikt, EU verlÃ¤ngert Wirtschaftssanktionen gegen Russland, Diskussion zu KassenbeitrÃ¤gen, AfD rÃ¼gt HÃ¶cke, Zeche Auguste Victoria geschlossen, Mutter Teresa soll heiliggesprochen werden, Warmer Winter: Pollenflug statt Schneefall, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1218/TV-20151218-2021-2501.webl.h264.mp4"/>
+			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.12.2015 22:57 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2257.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:57 Uhr vom 18.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2257.webl.h264.mp4"/>
 			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
