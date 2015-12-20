@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 20 Dec 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 20 Dec 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 20 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 20 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 20.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/231ad849-be01-46ea-8166-95728d20618b_5999ff95-7a59-49ec-9daf-cadfe16c1cc2.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 20.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/38/51/48/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Weihnachtsshopping am 4. Advent +++Â Darth Vader in der Zionskirche  +++ Nachrichten I +++ Letzter Tag auf dem Rummel am Alex +++ Was verÃ¤ndert sich 2016? +++ Nachrichten II +++ Was verÃ¤ndert sich 2016? +++ Sonntagsfrage: DurchzÃ¤hlen im Zoo&lt;/p&gt;&lt;p&gt;20.12.2015 | 29:20 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-20-12-2015-19-30/rbb-Fernsehen/Video?documentId=32385132&amp;bcastId=3822076&quot;&gt;Abendschau 20.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Weihnachtsshopping am 4. Advent +++Â Darth Vader in der Zionskirche  +++ Nachrichten I +++ Letzter Tag auf dem Rummel am Alex +++ Was verÃ¤ndert sich 2016? +++ Nachrichten II +++ Was verÃ¤ndert sich 2016? +++ Sonntagsfrage: DurchzÃ¤hlen im Zoo&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/231ad849-be01-46ea-8166-95728d20618b_5999ff95-7a59-49ec-9daf-cadfe16c1cc2.mp4?url=1"/>
+			<pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>20.12.2015 21:10 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1220/TV-100s-2110.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 20.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1220/TV-100s-2110.webl.h264.mp4"/>
+			<pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>20.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1220/TV-20151220-2031-1301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Ausschreitungen in der TÃ¼rkei, TÃ¼rkei zieht Truppen aus dem Nordirak ab, Parlamentswahlen in Spanien, Friedensverhandlungen fÃ¼r den Jemen gescheitert, IS handelt mit erbeuteten PÃ¤ssen, Gutachten zur Obergrenze fÃ¼r FlÃ¼chtlinge, 25 Jahre gesamtdeutsches Parlament, Zahl der Ã¤lteren Hartz-IV-EmpfÃ¤nger steigt, Erdrutsch in China, Guardiola verlÃ¤sst den FC Bayern, Ergebnisse und Tabelle der FuÃball-Bundesliga, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1220/TV-20151220-2031-1301.webl.h264.mp4"/>
+			<pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 19.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/02b7f527-e46b-4367-896b-db18101b0818_a8856437-5905-4c51-9a87-6ce934b94720.mp4?url=1</link>
@@ -134,27 +155,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 15.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/28/75/78/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Gericht kippt Hundeverbot +++ Nachts am Lageso +++ Senatstour in Kreuzberg +++ T-Rex im Naturkundemuseum +++ Gala der BallettschÃ¼ler +++ Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;15.12.2015 | 29:16 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-15-12-2015-19-30/rbb-Fernsehen/Video?documentId=32287566&amp;bcastId=3822076&quot;&gt;Abendschau 15.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Gericht kippt Hundeverbot +++ Nachts am Lageso +++ Senatstour in Kreuzberg +++ T-Rex im Naturkundemuseum +++ Gala der BallettschÃ¼ler +++ Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/c993f346-1189-47d2-95fc-4366d2a935f5_d0402992-bff6-45ad-bc4a-c3c0666c7671.mp4?url=1"/>
 			<pubDate>Tue, 15 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.12.2015 21:05 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1214/TV-100s-2105.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 14.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1214/TV-100s-2105.webl.h264.mp4"/>
-			<pubDate>Mon, 14 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1214/TV-20151214-2020-5301.webl.h264.mp4</link>
-			<description>Themen der Sendung: CDU-Parteitag stimmt mit groÃer Mehrheit fÃ¼r gemeinsame Linie in FlÃ¼chtlingsfrage, EU-AuÃenminister beraten Ã¼ber Kampf gegen Terror, Lage der FlÃ¼chtlinge in Griechenland, FlÃ¼chtlinge: Kinder und Frauen sollen besser geschÃ¼tzt werden, Nach den Wahlen in Frankreich, Reform der Parteienfinanzierung, Prozess gegen Menschenrechtsanwalt Pu Zhiqiang begonnen, FuÃball: Auslosungen in der Champions und Europa League, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1214/TV-20151214-2020-5301.webl.h264.mp4"/>
-			<pubDate>Mon, 14 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 14.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/d82eb070-4490-48ea-99a0-0b131566d196_80fb845b-11c0-4468-8515-571b886915d2.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 14.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/25/84/00/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Diskussion um Beschlagnahme von Turnhallen +++ Bundesparteitag der CDU +++ Tierheim Berlin gegen Tier-&quot;Geschenk&quot; +++ Rahmenlehrplan weiter umstritten +++ Nachbarbauten beschÃ¤digen Friedrichwerdersche Kirche +++Â Tyrannosaurus rex 'Tristan' in Berlin +++ Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;14.12.2015 | 28:53 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-14-12-2015-19-30/rbb-Fernsehen/Video?documentId=32258388&amp;bcastId=3822076&quot;&gt;Abendschau 14.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Diskussion um Beschlagnahme von Turnhallen +++ Bundesparteitag der CDU +++ Tierheim Berlin gegen Tier-&quot;Geschenk&quot; +++ Rahmenlehrplan weiter umstritten +++ Nachbarbauten beschÃ¤digen Friedrichwerdersche Kirche +++Â Tyrannosaurus rex 'Tristan' in Berlin +++ Abendschau-Adventskalender +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/d82eb070-4490-48ea-99a0-0b131566d196_80fb845b-11c0-4468-8515-571b886915d2.mp4?url=1"/>
-			<pubDate>Mon, 14 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
