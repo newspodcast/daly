@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 23 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Wed, 23 Dec 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 23 Dec 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 23.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/462a76dd-e6b3-42c3-b252-167482d418b9_d355ef24-cd55-4fab-8d13-9f58c059e36f.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 23.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/44/71/80/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Soda Club-Prozess: TatverdÃ¤chtige Rocker wieder auf freiem FuÃ +++ Einkaufen auf den letzten DrÃ¼cker +++ Reparaturanleitungen fÃ¼r Jedermann +++ Das Engagement der Marina Naprushkina +++ radioBERLIN erfÃ¼llt KindertrÃ¤ume +++ Weihnachtssingen in der Alten FÃ¶rsterei +++ Adventskalender +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;23.12.2015 | 23:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-23-12-2015-19-30/rbb-Fernsehen/Video?documentId=32447168&amp;bcastId=3822076&quot;&gt;Abendschau 23.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Soda Club-Prozess: TatverdÃ¤chtige Rocker wieder auf freiem FuÃ +++ Einkaufen auf den letzten DrÃ¼cker +++ Reparaturanleitungen fÃ¼r Jedermann +++ Das Engagement der Marina Naprushkina +++ radioBERLIN erfÃ¼llt KindertrÃ¤ume +++ Weihnachtssingen in der Alten FÃ¶rsterei +++ Adventskalender +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/462a76dd-e6b3-42c3-b252-167482d418b9_d355ef24-cd55-4fab-8d13-9f58c059e36f.mp4?url=1"/>
+			<pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>23.12.2015 21:10 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1223/TV-100s-2110.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 23.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1223/TV-100s-2110.webl.h264.mp4"/>
+			<pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>23.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1223/TV-20151223-2021-2401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Polen beschlieÃt trotz Protesten Reform des Verfassungsgerichts, FranzÃ¶sische Regierung will Ausnahmezustand in Verfassung verankern, Wiederholte VerstÃ¶Ãe wÃ¤hrend Waffenruhe in der Ostukraine, EU fordert Waffenruhe fÃ¼r SÃ¼dosten der TÃ¼rkei, Irakische StreitkrÃ¤fte rÃ¼cken bis ins Zentrum von Ramadi vor, Amnesty wirft Russland Kriegsverbrechen in Syrien vor, Russische Justiz erlÃ¤sst Haftbefehl gegen Chodorkowski,  Stilllegung des Tagebaus Cottbus-Nord, Kartellamt untersagt Bestpreis-Klausel fÃ¼r Internetportale, Karlspreis 2016 geht an Papst Franziskus, Weihnachtliche Vesper vor der Frauenkirche in Dresden, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1223/TV-20151223-2021-2401.webl.h264.mp4"/>
+			<pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 22.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/f599529a-d4e2-494a-aa8a-4a1b8ca6b1b5_8091ecac-f4a7-4374-8f5a-c6119ac9d1e7.mp4?url=1</link>
@@ -141,27 +162,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:57 Uhr vom 18.12.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2257.webl.h264.mp4"/>
 			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 17.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/f1ba403f-72d2-4e08-931f-569656ffc2f5_88c572db-bb67-445d-9e5c-7404694d3077.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 17.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/33/70/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;PlÃ¤ne fÃ¼r neues FlÃ¼chtlingsamt +++ Landesunternehmen sollen mehr investieren +++ Nachrichten I +++ Hertha im Pokal-Viertelfinale +++ Premiere: 'Ich bin dann mal weg' +++ Ansturm auf Tristan +++ Nachrichten II +++ Adventskalender: Dong Xian Center in Lichtenberg +++ Das Wetter: WeiÃe oder grÃ¼ne Weihnacht? +++ Armin Mueller-Stahl wird 85&lt;/p&gt;&lt;p&gt;17.12.2015 | 29:30 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-17-12-2015-19-30/rbb-Fernsehen/Video?documentId=32337014&amp;bcastId=3822076&quot;&gt;Abendschau 17.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;PlÃ¤ne fÃ¼r neues FlÃ¼chtlingsamt +++ Landesunternehmen sollen mehr investieren +++ Nachrichten I +++ Hertha im Pokal-Viertelfinale +++ Premiere: 'Ich bin dann mal weg' +++ Ansturm auf Tristan +++ Nachrichten II +++ Adventskalender: Dong Xian Center in Lichtenberg +++ Das Wetter: WeiÃe oder grÃ¼ne Weihnacht? +++ Armin Mueller-Stahl wird 85&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/f1ba403f-72d2-4e08-931f-569656ffc2f5_88c572db-bb67-445d-9e5c-7404694d3077.mp4?url=1"/>
-			<pubDate>Thu, 17 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>17.12.2015 21:11 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1217/TV-100s-2111.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:11 Uhr vom 17.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1217/TV-100s-2111.webl.h264.mp4"/>
-			<pubDate>Thu, 17 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>17.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1217/TV-20151217-2022-4401.webl.h264.mp4</link>
-			<description>Themen der Sendung: EU-Gipfel zu FlÃ¼chtlingspolitik in BrÃ¼ssel, Unicef zeichnet Foto des Jahres 2015 aus, De MaiziÃ¨re im BÃ¼rgerdialog zur FlÃ¼chtlingsfrage, TÃ¼rkische Armee tÃ¶tet kurdische Rebellen, Vertrag Ã¼ber Einheitsregierung fÃ¼r Libyen unterzeichnet, Bundestag verlÃ¤ngert Afghanistan-Einsatz, Jahres-Pressekonferenz von PrÃ¤sident Putin, Prozess gegen Bayer wegen Anti-Baby-Pille, Bahn plant milliardenschweres Investitionsprogramm, Umweltbundesamt zu Diesel-Fahrzeugen, Tele-Handshake zwischen ISS und Erde, Biathlon-Weltcup: Simon Schempp siegt in Pokljuka, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1217/TV-20151217-2022-4401.webl.h264.mp4"/>
-			<pubDate>Thu, 17 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
