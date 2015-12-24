@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 24 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Thu, 24 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Thu, 24 Dec 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Thu, 24 Dec 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 24.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/970acea4-9edf-4391-88b7-76615141a949_612791e8-de12-4426-96ec-83575d662f5d.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 24.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/45/56/10/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Heiligabend in den Kirchen +++ Das LAGeSo wÃ¤hrend der Feiertage +++ Christmas-Baby in NeukÃ¶lln +++ Adventskalender: TÃ¼rchen 24 +++ Ehepaar erzÃ¤hlt vom Weihnachten 1945 +++ Wetter +++ Weihnachtssingen in SchÃ¶neberg +++&lt;/p&gt;&lt;p&gt;24.12.2015 | 28:15 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-24-12-2015/rbb-Fernsehen/Video?documentId=32455598&amp;bcastId=3822076&quot;&gt;Abendschau vom 24.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Heiligabend in den Kirchen +++ Das LAGeSo wÃ¤hrend der Feiertage +++ Christmas-Baby in NeukÃ¶lln +++ Adventskalender: TÃ¼rchen 24 +++ Ehepaar erzÃ¤hlt vom Weihnachten 1945 +++ Wetter +++ Weihnachtssingen in SchÃ¶neberg +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/970acea4-9edf-4391-88b7-76615141a949_612791e8-de12-4426-96ec-83575d662f5d.mp4?url=1"/>
+			<pubDate>Thu, 24 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>24.12.2015 19:53 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1224/TV-100s-1953.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:53 Uhr vom 24.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1224/TV-100s-1953.webl.h264.mp4"/>
+			<pubDate>Thu, 24 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>24.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1224/TV-20151224-2030-4001.webl.h264.mp4</link>
+			<description>Themen der Sendung: Weihnachten Bethlehem und Jerusalem, Weihnachten in Afghanistan, RÃ¼ckkehr toter US-Soldaten, FlÃ¼chtlingsboot vor tÃ¼rkischer KÃ¼ste gekentert, Syrische Regierung fÃ¼r FriedensgesprÃ¤che, Jahresbilanz des Ukraine-Konflikts, Weihnachtsansprache des BundesprÃ¤sidenten, Weihnachtsbotschaften der Kirchen, Andrang vor dem Berliner Dom, ErhÃ¶hung von Hartz IV, Armenspeisung HofbrÃ¤uhaus, Weihnachten in der Erstaufnahme, Brandstiftung in Bayern, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1224/TV-20151224-2030-4001.webl.h264.mp4"/>
+			<pubDate>Thu, 24 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 23.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/462a76dd-e6b3-42c3-b252-167482d418b9_d355ef24-cd55-4fab-8d13-9f58c059e36f.mp4?url=1</link>
@@ -141,34 +162,6 @@
 			<description>Themen der Sendung: Dirigent Kurt Masur gestorben, UN-Sicherheitsrat billigt Syrien-Resolution, Deutschland unterstÃ¼tzt Griechenland bei der Kontrolle der EU-AuÃengrenze, Obama gibt Jahrespressekonferenz, Erneute Proteste gegen die Regierung in Polen, Vor der Parlamentswahl in Spanien, Ergebnisse der FuÃball-Bundesliga, Biathlon-Weltcup in Slovenien, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1219/TV-20151219-2022-2001.webl.h264.mp4"/>
 			<pubDate>Sat, 19 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 18.12.2015</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151218_sdg_m_16_9_512x288.mp4?url=3</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 18.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/36/12/18/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Krankenkassen erhÃ¶hen die BeitrÃ¤ge +++ Wie lÃ¤uftâs am BER? +++ Nachrichten I +++Â Heckeshorn wird FlÃ¼chtlingsunterkunft +++ Sollten SilvesterbÃ¶ller verboten werden? +++ Adventskalender: Mit der Polizei am Hauptbahnhof +++ Ausflugstipp: Winterdorf an der Spree&lt;/p&gt;&lt;p&gt;18.12.2015 | 28:40 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-18-12-2015-19-30/rbb-Fernsehen/Video?documentId=32361206&amp;bcastId=3822076&quot;&gt;Abendschau 18.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Krankenkassen erhÃ¶hen die BeitrÃ¤ge +++ Wie lÃ¤uftâs am BER? +++ Nachrichten I +++Â Heckeshorn wird FlÃ¼chtlingsunterkunft +++ Sollten SilvesterbÃ¶ller verboten werden? +++ Adventskalender: Mit der Polizei am Hauptbahnhof +++ Ausflugstipp: Winterdorf an der Spree&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/abendschau_20151218_sdg_m_16_9_512x288.mp4?url=3"/>
-			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>18.12.2015 21:05 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2105.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 18.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2105.webl.h264.mp4"/>
-			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>18.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1218/TV-20151218-2021-2501.webl.h264.mp4</link>
-			<description>Themen der Sendung: Abschluss des EU-Gipfels in BrÃ¼ssel, FlÃ¼chtlingszahlen der UNHCR, Pilotprojekt fÃ¼r schnellere Asylverfahren, UN-Resolution soll IS-Geldquellen austrocknen, UN berÃ¤t in New York Ã¼ber Syrien-Konflikt, EU verlÃ¤ngert Wirtschaftssanktionen gegen Russland, Diskussion zu KassenbeitrÃ¤gen, AfD rÃ¼gt HÃ¶cke, Zeche Auguste Victoria geschlossen, Mutter Teresa soll heiliggesprochen werden, Warmer Winter: Pollenflug statt Schneefall, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1218/TV-20151218-2021-2501.webl.h264.mp4"/>
-			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>18.12.2015 22:57 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2257.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:57 Uhr vom 18.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1218/TV-100s-2257.webl.h264.mp4"/>
-			<pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
