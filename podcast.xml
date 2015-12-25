@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 25 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Dec 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Dec 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 25.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/b0bd38c4-534d-4e6d-afb7-90e2ef63d15e_05e4db17-1098-4e2b-b371-e494884ac886.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 25.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/46/14/00/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Besuch in der Feuerwehr-Leitstelle +++ Weihnachten im ICC +++ Mieterproteste in NeukÃ¶lln +++ Virtueller Besuch im Bode-Museum +++ Erinnerungen an die erste Friedensweihnacht 1945 +++ Ausflugstipp: Snowtropolis +++&lt;/p&gt;&lt;p&gt;25.12.2015 | 28:24 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-25-12-2015/rbb-Fernsehen/Video?documentId=32461388&amp;bcastId=3822076&quot;&gt;Abendschau vom 25.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Besuch in der Feuerwehr-Leitstelle +++ Weihnachten im ICC +++ Mieterproteste in NeukÃ¶lln +++ Virtueller Besuch im Bode-Museum +++ Erinnerungen an die erste Friedensweihnacht 1945 +++ Ausflugstipp: Snowtropolis +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/b0bd38c4-534d-4e6d-afb7-90e2ef63d15e_05e4db17-1098-4e2b-b371-e494884ac886.mp4?url=1"/>
+			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.12.2015 19:58 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1225/TV-100s-1958.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:58 Uhr vom 25.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1225/TV-100s-1958.webl.h264.mp4"/>
+			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 24.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/970acea4-9edf-4391-88b7-76615141a949_612791e8-de12-4426-96ec-83575d662f5d.mp4?url=1</link>
@@ -141,27 +155,6 @@
 			<description>Themen der Sendung: Ausschreitungen in der TÃ¼rkei, TÃ¼rkei zieht Truppen aus dem Nordirak ab, Parlamentswahlen in Spanien, Friedensverhandlungen fÃ¼r den Jemen gescheitert, IS handelt mit erbeuteten PÃ¤ssen, Gutachten zur Obergrenze fÃ¼r FlÃ¼chtlinge, 25 Jahre gesamtdeutsches Parlament, Zahl der Ã¤lteren Hartz-IV-EmpfÃ¤nger steigt, Erdrutsch in China, Guardiola verlÃ¤sst den FC Bayern, Ergebnisse und Tabelle der FuÃball-Bundesliga, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1220/TV-20151220-2031-1301.webl.h264.mp4"/>
 			<pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 19.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/02b7f527-e46b-4367-896b-db18101b0818_a8856437-5905-4c51-9a87-6ce934b94720.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 19.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/37/45/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Umzug mit Chaos +++ Weihnachtseinladung fÃ¼r FlÃ¼chtlinge +++ Nachrichten I +++ JÃ¼dische Gemeinde wÃ¤hlt Gemeindevertreter +++ Union in Weihnachtsstimmung +++ Nachrichten II +++ Gleich nebenan: Koshary Lux +++ Adventskalender: Hinter den Kulissen der SchaubÃ¼hne&lt;/p&gt;&lt;p&gt;19.12.2015 | 65:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-19-12-2015-19-30/rbb-Fernsehen/Video?documentId=32374514&amp;bcastId=3822076&quot;&gt;Abendschau 19.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Umzug mit Chaos +++ Weihnachtseinladung fÃ¼r FlÃ¼chtlinge +++ Nachrichten I +++ JÃ¼dische Gemeinde wÃ¤hlt Gemeindevertreter +++ Union in Weihnachtsstimmung +++ Nachrichten II +++ Gleich nebenan: Koshary Lux +++ Adventskalender: Hinter den Kulissen der SchaubÃ¼hne&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/02b7f527-e46b-4367-896b-db18101b0818_a8856437-5905-4c51-9a87-6ce934b94720.mp4?url=1"/>
-			<pubDate>Sat, 19 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.12.2015 21:09 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1219/TV-100s-2109.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:09 Uhr vom 19.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1219/TV-100s-2109.webl.h264.mp4"/>
-			<pubDate>Sat, 19 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1219/TV-20151219-2022-2001.webl.h264.mp4</link>
-			<description>Themen der Sendung: Dirigent Kurt Masur gestorben, UN-Sicherheitsrat billigt Syrien-Resolution, Deutschland unterstÃ¼tzt Griechenland bei der Kontrolle der EU-AuÃengrenze, Obama gibt Jahrespressekonferenz, Erneute Proteste gegen die Regierung in Polen, Vor der Parlamentswahl in Spanien, Ergebnisse der FuÃball-Bundesliga, Biathlon-Weltcup in Slovenien, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1219/TV-20151219-2022-2001.webl.h264.mp4"/>
-			<pubDate>Sat, 19 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
