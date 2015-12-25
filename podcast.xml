@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 25 Dec 2015 21:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 25 Dec 2015 21:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 26 Dec 2015 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 26 Dec 2015 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,20 @@
 			<link>http://media.tagesschau.de/video/100s/2015/1225/TV-100s-1958.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:58 Uhr vom 25.12.2015</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1225/TV-100s-1958.webl.h264.mp4"/>
+			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.12.2015 23:56 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1225/TV-100s-2356.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:56 Uhr vom 25.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1225/TV-100s-2356.webl.h264.mp4"/>
+			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1225/TV-20151225-2039-2101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Papst spendet traditionellen Segen &quot;Urbi et Orbi&quot;, Weihnachtsgottesdienste in Deutschland, Gauck wÃ¼rdigt in seiner Weihnachtsansprache Einsatz fÃ¼r FlÃ¼chtlinge, Zwei Tote bei der Flucht nach Ceuta, WirbelstÃ¼rme in US-Bundesstaaten, Vollmond am 1. Weihnachtsfeiertag, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1225/TV-20151225-2039-2101.webl.h264.mp4"/>
 			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
