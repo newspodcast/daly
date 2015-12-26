@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 26 Dec 2015 21:30:05 GMT</pubDate>
-		<lastBuildDate>Sat, 26 Dec 2015 21:30:05 GMT</lastBuildDate>
+		<pubDate>Sun, 27 Dec 2015 00:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 27 Dec 2015 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2015/1226/TV-20151226-2026-2201.webl.h264.mp4</link>
 			<description>Themen der Sendung: Kurden Demo in DÃ¼sseldorf, Abzug von IS-KÃ¤mpfern aus Damaskus abgesetzt, AKW Tihange wird wieder wieder hochgefahren, Erdbeben in Afghanistan , Lage in Nepal nach dem Erdbeben, Erinnerung an Tsunami-Opfer, Steinmeier und SchÃ¤uble zu rechter Gewalt, Neue Aufgaben fÃ¼r StÃ¤dte und Gemeinden, Die Lotto, BuschbrÃ¤nde in Australien, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1226/TV-20151226-2026-2201.webl.h264.mp4"/>
+			<pubDate>Sat, 26 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.12.2015 23:20 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1226/TV-100s-2320.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:20 Uhr vom 26.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1226/TV-100s-2320.webl.h264.mp4"/>
 			<pubDate>Sat, 26 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 		<item>
