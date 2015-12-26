@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 26 Dec 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 26 Dec 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 26 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sat, 26 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 26.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/54f3ca9e-0fc6-4ed6-a03b-ce3e8b641a05_230a7b1c-2a33-4d4c-ae49-bfa86bc19c10.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 26.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/46/82/10/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mann bei SchieÃerei getÃ¶tet +++ Feiertagsbesuch bei T-Rex Tristan +++ Weihnachten in der Bahnhofsmission +++ Gerechte Kunst: Art but Fair +++ Berlin-Box +++ Erste Friedensweihnacht 1945 +++ Gleich nebenan: Potterinchen in Wilmersdorf +++&lt;/p&gt;&lt;p&gt;26.12.2015 | 24:45 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-26-12-2015-19-30/rbb-Fernsehen/Video?documentId=32468198&amp;bcastId=3822076&quot;&gt;Abendschau 26.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mann bei SchieÃerei getÃ¶tet +++ Feiertagsbesuch bei T-Rex Tristan +++ Weihnachten in der Bahnhofsmission +++ Gerechte Kunst: Art but Fair +++ Berlin-Box +++ Erste Friedensweihnacht 1945 +++ Gleich nebenan: Potterinchen in Wilmersdorf +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/54f3ca9e-0fc6-4ed6-a03b-ce3e8b641a05_230a7b1c-2a33-4d4c-ae49-bfa86bc19c10.mp4?url=1"/>
+			<pubDate>Sat, 26 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.12.2015 21:09 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1226/TV-100s-2109.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:09 Uhr vom 26.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1226/TV-100s-2109.webl.h264.mp4"/>
+			<pubDate>Sat, 26 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1226/TV-20151226-2026-2201.webl.h264.mp4</link>
+			<description>Themen der Sendung: Kurden Demo in DÃ¼sseldorf, Abzug von IS-KÃ¤mpfern aus Damaskus abgesetzt, AKW Tihange wird wieder wieder hochgefahren, Erdbeben in Afghanistan , Lage in Nepal nach dem Erdbeben, Erinnerung an Tsunami-Opfer, Steinmeier und SchÃ¤uble zu rechter Gewalt, Neue Aufgaben fÃ¼r StÃ¤dte und Gemeinden, Die Lotto, BuschbrÃ¤nde in Australien, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1226/TV-20151226-2026-2201.webl.h264.mp4"/>
+			<pubDate>Sat, 26 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 25.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/b0bd38c4-534d-4e6d-afb7-90e2ef63d15e_05e4db17-1098-4e2b-b371-e494884ac886.mp4?url=1</link>
@@ -148,27 +169,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 21.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/40/76/82/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Leiharbeiter fÃ¼r das Lageso â aber kein Konzept +++ Druck auf Sozialsenator wÃ¤chst +++ Landessportbund fordert Kurswechsel +++ GÃ¤nseessen mit Frank Zander +++ Harald Karas beigesetzt +++ Harald Karas beigesetzt +++ Abendschau Adventskalender +++ Wo ist der Winter zum Winteranfang? +++ Ihre Silvesterparty mit Anni Dunkelmann&lt;/p&gt;&lt;p&gt;21.12.2015 | 28:39 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-12-2015-19-30/rbb-Fernsehen/Video?documentId=32407670&amp;bcastId=3822076&quot;&gt;Abendschau 21.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Leiharbeiter fÃ¼r das Lageso â aber kein Konzept +++ Druck auf Sozialsenator wÃ¤chst +++ Landessportbund fordert Kurswechsel +++ GÃ¤nseessen mit Frank Zander +++ Harald Karas beigesetzt +++ Harald Karas beigesetzt +++ Abendschau Adventskalender +++ Wo ist der Winter zum Winteranfang? +++ Ihre Silvesterparty mit Anni Dunkelmann&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/810697c8-bb39-4b1d-b4d9-09809720eb60_1e339df6-645a-4627-9afb-4bfb2ca21a11.mp4?url=1"/>
 			<pubDate>Mon, 21 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 20.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/231ad849-be01-46ea-8166-95728d20618b_5999ff95-7a59-49ec-9daf-cadfe16c1cc2.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 20.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/38/51/48/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Weihnachtsshopping am 4. Advent +++Â Darth Vader in der Zionskirche  +++ Nachrichten I +++ Letzter Tag auf dem Rummel am Alex +++ Was verÃ¤ndert sich 2016? +++ Nachrichten II +++ Was verÃ¤ndert sich 2016? +++ Sonntagsfrage: DurchzÃ¤hlen im Zoo&lt;/p&gt;&lt;p&gt;20.12.2015 | 29:20 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-20-12-2015-19-30/rbb-Fernsehen/Video?documentId=32385132&amp;bcastId=3822076&quot;&gt;Abendschau 20.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Weihnachtsshopping am 4. Advent +++Â Darth Vader in der Zionskirche  +++ Nachrichten I +++ Letzter Tag auf dem Rummel am Alex +++ Was verÃ¤ndert sich 2016? +++ Nachrichten II +++ Was verÃ¤ndert sich 2016? +++ Sonntagsfrage: DurchzÃ¤hlen im Zoo&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/231ad849-be01-46ea-8166-95728d20618b_5999ff95-7a59-49ec-9daf-cadfe16c1cc2.mp4?url=1"/>
-			<pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>20.12.2015 21:10 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1220/TV-100s-2110.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 20.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1220/TV-100s-2110.webl.h264.mp4"/>
-			<pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>20.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1220/TV-20151220-2031-1301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Ausschreitungen in der TÃ¼rkei, TÃ¼rkei zieht Truppen aus dem Nordirak ab, Parlamentswahlen in Spanien, Friedensverhandlungen fÃ¼r den Jemen gescheitert, IS handelt mit erbeuteten PÃ¤ssen, Gutachten zur Obergrenze fÃ¼r FlÃ¼chtlinge, 25 Jahre gesamtdeutsches Parlament, Zahl der Ã¤lteren Hartz-IV-EmpfÃ¤nger steigt, Erdrutsch in China, Guardiola verlÃ¤sst den FC Bayern, Ergebnisse und Tabelle der FuÃball-Bundesliga, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1220/TV-20151220-2031-1301.webl.h264.mp4"/>
-			<pubDate>Sun, 20 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
