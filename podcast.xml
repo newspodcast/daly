@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 27 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Sun, 27 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Sun, 27 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 27 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 27.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/d5e730ff-b076-49b6-8de5-03e869cf0c26_213db564-f66e-41f2-8fae-678004cfa403.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 27.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/47/63/68/1663778729/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Nach der tÃ¶dlichen SchieÃerei in Wedding +++ Sonntags im Supermarkt +++ Auf dem Weihnachtsmarkt am Gendarmenmarkt +++ Erste Friedensweihnacht â 1945 +++ Die Sonntagsfrage +++ JahresrÃ¼ckblick 2015 +++ Moderation: Â Andrea Vannahme&lt;/p&gt;&lt;p&gt;27.12.2015 | 28:37 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-27-12-2015-19-30/rbb-Fernsehen/Video?documentId=32476360&amp;bcastId=3822076&quot;&gt;Abendschau 27.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Nach der tÃ¶dlichen SchieÃerei in Wedding +++ Sonntags im Supermarkt +++ Auf dem Weihnachtsmarkt am Gendarmenmarkt +++ Erste Friedensweihnacht â 1945 +++ Die Sonntagsfrage +++ JahresrÃ¼ckblick 2015 +++ Moderation: Â Andrea Vannahme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/d5e730ff-b076-49b6-8de5-03e869cf0c26_213db564-f66e-41f2-8fae-678004cfa403.mp4?url=1"/>
+			<pubDate>Sun, 27 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>27.12.2015 21:14 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1227/TV-100s-2114.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 27.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1227/TV-100s-2114.webl.h264.mp4"/>
+			<pubDate>Sun, 27 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>27.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1227/TV-20151227-2022-4901.webl.h264.mp4</link>
+			<description>Themen der Sendung: Bundeswehr vor neuem Auslandseinsatz, Kampf um irakische Stadt Ramadi, Bayern will Grenzen wieder selbst kontrollieren, Hacker-Kongress des Chaos Computer Clubs, Wirtschaftsprognose fÃ¼r 2016, Neues Anti-Terror-Gesetz in China verabschiedet, Zwei Schwarze in Chicago von Polizisten erschossen, Ãberschwemmungen in Nordengland, Tote bei Tornados in Texas, Nach den BuschbrÃ¤nden in Australien, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1227/TV-20151227-2022-4901.webl.h264.mp4"/>
+			<pubDate>Sun, 27 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 26.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/54f3ca9e-0fc6-4ed6-a03b-ce3e8b641a05_230a7b1c-2a33-4d4c-ae49-bfa86bc19c10.mp4?url=1</link>
@@ -141,41 +162,6 @@
 			<description>Themen der Sendung: Offenbar Menschen mit gefÃ¤lschten PÃ¤ssen aus Syrien eingereist, Schweden verschÃ¤rft erneut Grenzkontrollen, Irakisches MilitÃ¤r meldet Fortschritte beim Kampf gegen IS, Kampf gegen Taliban in Afghanistan, Weitere Tote nach KÃ¤mpfen im Jemen, Abstimmung Ã¼ber neue Regeln fÃ¼r das Verfassungsgericht in Polen, Chinesischer Menschenrechtsanwalt Pu wieder frei, Weihnachtslotterie El Gordo, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1222/TV-20151222-2020-4401.webl.h264.mp4"/>
 			<pubDate>Tue, 22 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 21.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/7802f50c-f515-4ced-811f-47bbcb846045_621788e0-69d3-4a6a-b33b-f3b8d83ad25c.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 21.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/40/76/82/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Leiharbeiter fÃ¼r das Lageso â aber kein Konzept +++ Druck auf Sozialsenator wÃ¤chst +++ Landessportbund fordert Kurswechsel +++ GÃ¤nseessen mit Frank Zander +++ Harald Karas beigesetzt +++ Harald Karas beigesetzt +++ Abendschau Adventskalender +++ Wo ist der Winter zum Winteranfang? +++ Ihre Silvesterparty mit Anni Dunkelmann&lt;/p&gt;&lt;p&gt;21.12.2015 | 02:41 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-12-2015-19-30/rbb-Fernsehen/Video?documentId=32407670&amp;bcastId=3822076&quot;&gt;Abendschau 21.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Leiharbeiter fÃ¼r das Lageso â aber kein Konzept +++ Druck auf Sozialsenator wÃ¤chst +++ Landessportbund fordert Kurswechsel +++ GÃ¤nseessen mit Frank Zander +++ Harald Karas beigesetzt +++ Harald Karas beigesetzt +++ Abendschau Adventskalender +++ Wo ist der Winter zum Winteranfang? +++ Ihre Silvesterparty mit Anni Dunkelmann&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/7802f50c-f515-4ced-811f-47bbcb846045_621788e0-69d3-4a6a-b33b-f3b8d83ad25c.mp4?url=1"/>
-			<pubDate>Mon, 21 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>21.12.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1221/TV-100s-2115.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 21.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1221/TV-100s-2115.webl.h264.mp4"/>
-			<pubDate>Mon, 21 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>21.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1221/TV-20151221-2021-2101.webl.h264.mp4</link>
-			<description>Themen der Sendung: Spanien nach der Parlamentswahl, FIFA-Ethikkommission sperrt Blatter und Platini fÃ¼r acht Jahre, Diskussion Ã¼ber ZulÃ¤ssigkeit einer Obergrenze bei FlÃ¼chtlingsaufnahme, Deutlich mehr Abschiebungen 2015, Wiederholte Kritik am &quot;Lageso&quot; in Berlin, MutmaÃlicher Kader der PKK angeklagt, Papst will Reform der Kurie vorantreiben, Erdrutsch im sÃ¼dchinesischen Shenzhen, &quot;Sportler des Jahres&quot;-Gala in Baden-Baden, Trainer Frontzeck verlÃ¤sst Hannover 96, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1221/TV-20151221-2021-2101.webl.h264.mp4"/>
-			<pubDate>Mon, 21 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1221/TV-20151221-1816-0401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Dirigent Kurt Masur gestorben, UN-Sicherheitsrat billigt Syrien-Resolution, Deutschland unterstÃ¼tzt Griechenland bei der Kontrolle der EU-AuÃengrenze, Obama gibt Jahrespressekonferenz, Erneute Proteste gegen die Regierung in Polen, Vor der Parlamentswahl in Spanien, Ergebnisse der FuÃball-Bundesliga, Biathlon-Weltcup in Slovenien, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1221/TV-20151221-1816-0401.webl.h264.mp4"/>
-			<pubDate>Mon, 21 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 21.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/810697c8-bb39-4b1d-b4d9-09809720eb60_1e339df6-645a-4627-9afb-4bfb2ca21a11.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 21.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/40/76/82/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Leiharbeiter fÃ¼r das Lageso â aber kein Konzept +++ Druck auf Sozialsenator wÃ¤chst +++ Landessportbund fordert Kurswechsel +++ GÃ¤nseessen mit Frank Zander +++ Harald Karas beigesetzt +++ Harald Karas beigesetzt +++ Abendschau Adventskalender +++ Wo ist der Winter zum Winteranfang? +++ Ihre Silvesterparty mit Anni Dunkelmann&lt;/p&gt;&lt;p&gt;21.12.2015 | 28:39 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-12-2015-19-30/rbb-Fernsehen/Video?documentId=32407670&amp;bcastId=3822076&quot;&gt;Abendschau 21.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Leiharbeiter fÃ¼r das Lageso â aber kein Konzept +++ Druck auf Sozialsenator wÃ¤chst +++ Landessportbund fordert Kurswechsel +++ GÃ¤nseessen mit Frank Zander +++ Harald Karas beigesetzt +++ Harald Karas beigesetzt +++ Abendschau Adventskalender +++ Wo ist der Winter zum Winteranfang? +++ Ihre Silvesterparty mit Anni Dunkelmann&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/810697c8-bb39-4b1d-b4d9-09809720eb60_1e339df6-645a-4627-9afb-4bfb2ca21a11.mp4?url=1"/>
-			<pubDate>Mon, 21 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
