@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 29 Dec 2015 00:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 29 Dec 2015 00:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 29 Dec 2015 21:30:04 GMT</pubDate>
+		<lastBuildDate>Tue, 29 Dec 2015 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>29.12.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1229/TV-100s-2115.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 29.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1229/TV-100s-2115.webl.h264.mp4"/>
+			<pubDate>Tue, 29 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>29.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1229/TV-20151229-2024-5601.webl.h264.mp4</link>
+			<description>Themen der Sendung: ZusÃ¤tzliche Ausgaben fÃ¼r FlÃ¼chtlinge, Ãsterreich Ã¶ffnet GrenzÃ¼bergang Spielfeld, TerrorverdÃ¤chtige in Belgien festgenommen, Lebenslange Haft fÃ¼r VÃ¶lkermord in Ruanda, Iran erfÃ¼llt Auflagen des Atomabkommens, FlÃ¼chtlinge aus Kuba kÃ¶nnen in die USA weiterreisen, Israels Ex-Premier Olmert muss 18 Monate in Haft, Start der bundesweiten Sternsinger-Aktion, Severin Freund siegt bei Auftaktspringen der Schanzentournee, MotÃ¶rhead-SÃ¤nger &quot;Lemmy&quot; gestorben, Ãberschwemmungen in England, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1229/TV-20151229-2024-5601.webl.h264.mp4"/>
+			<pubDate>Tue, 29 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 28.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/27406376-8bc9-431b-a8ca-1e842aec5802_ba839eb3-be35-4c6f-911d-a9ed5aadd5ec.mp4?url=1</link>
@@ -141,34 +155,6 @@
 			<description>Themen der Sendung: Weihnachten Bethlehem und Jerusalem, Weihnachten in Afghanistan, RÃ¼ckkehr toter US-Soldaten, FlÃ¼chtlingsboot vor tÃ¼rkischer KÃ¼ste gekentert, Syrische Regierung fÃ¼r FriedensgesprÃ¤che, Jahresbilanz des Ukraine-Konflikts, Weihnachtsansprache des BundesprÃ¤sidenten, Weihnachtsbotschaften der Kirchen, Andrang vor dem Berliner Dom, ErhÃ¶hung von Hartz IV, Armenspeisung HofbrÃ¤uhaus, Weihnachten in der Erstaufnahme, Brandstiftung in Bayern, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1224/TV-20151224-2030-4001.webl.h264.mp4"/>
 			<pubDate>Thu, 24 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 23.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/462a76dd-e6b3-42c3-b252-167482d418b9_d355ef24-cd55-4fab-8d13-9f58c059e36f.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 23.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/44/71/80/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Soda Club-Prozess: TatverdÃ¤chtige Rocker wieder auf freiem FuÃ +++ Einkaufen auf den letzten DrÃ¼cker +++ Reparaturanleitungen fÃ¼r Jedermann +++ Das Engagement der Marina Naprushkina +++ radioBERLIN erfÃ¼llt KindertrÃ¤ume +++ Weihnachtssingen in der Alten FÃ¶rsterei +++ Adventskalender +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;23.12.2015 | 23:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-23-12-2015-19-30/rbb-Fernsehen/Video?documentId=32447168&amp;bcastId=3822076&quot;&gt;Abendschau 23.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Soda Club-Prozess: TatverdÃ¤chtige Rocker wieder auf freiem FuÃ +++ Einkaufen auf den letzten DrÃ¼cker +++ Reparaturanleitungen fÃ¼r Jedermann +++ Das Engagement der Marina Naprushkina +++ radioBERLIN erfÃ¼llt KindertrÃ¤ume +++ Weihnachtssingen in der Alten FÃ¶rsterei +++ Adventskalender +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/462a76dd-e6b3-42c3-b252-167482d418b9_d355ef24-cd55-4fab-8d13-9f58c059e36f.mp4?url=1"/>
-			<pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>23.12.2015 21:10 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1223/TV-100s-2110.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 23.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1223/TV-100s-2110.webl.h264.mp4"/>
-			<pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>23.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1223/TV-20151223-2021-2401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Polen beschlieÃt trotz Protesten Reform des Verfassungsgerichts, FranzÃ¶sische Regierung will Ausnahmezustand in Verfassung verankern, Wiederholte VerstÃ¶Ãe wÃ¤hrend Waffenruhe in der Ostukraine, EU fordert Waffenruhe fÃ¼r SÃ¼dosten der TÃ¼rkei, Irakische StreitkrÃ¤fte rÃ¼cken bis ins Zentrum von Ramadi vor, Amnesty wirft Russland Kriegsverbrechen in Syrien vor, Russische Justiz erlÃ¤sst Haftbefehl gegen Chodorkowski,  Stilllegung des Tagebaus Cottbus-Nord, Kartellamt untersagt Bestpreis-Klausel fÃ¼r Internetportale, Karlspreis 2016 geht an Papst Franziskus, Weihnachtliche Vesper vor der Frauenkirche in Dresden, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1223/TV-20151223-2021-2401.webl.h264.mp4"/>
-			<pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 23.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/60dae64d-a89f-4b08-b851-1efb85ebb3fd_a22b2a7c-3a95-442d-9a26-4ec4ee0c9534.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 23.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/44/71/80/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Soda Club-Prozess: TatverdÃ¤chtige Rocker wieder auf freiem FuÃ +++ Einkaufen auf den letzten DrÃ¼cker +++ Reparaturanleitungen fÃ¼r Jedermann +++ Das Engagement der Marina Naprushkina +++ radioBERLIN erfÃ¼llt KindertrÃ¤ume +++ Weihnachtssingen in der Alten FÃ¶rsterei +++ Adventskalender +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;23.12.2015 | 27:52 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-23-12-2015-19-30/rbb-Fernsehen/Video?documentId=32447168&amp;bcastId=3822076&quot;&gt;Abendschau 23.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Soda Club-Prozess: TatverdÃ¤chtige Rocker wieder auf freiem FuÃ +++ Einkaufen auf den letzten DrÃ¼cker +++ Reparaturanleitungen fÃ¼r Jedermann +++ Das Engagement der Marina Naprushkina +++ radioBERLIN erfÃ¼llt KindertrÃ¤ume +++ Weihnachtssingen in der Alten FÃ¶rsterei +++ Adventskalender +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/60dae64d-a89f-4b08-b851-1efb85ebb3fd_a22b2a7c-3a95-442d-9a26-4ec4ee0c9534.mp4?url=1"/>
-			<pubDate>Wed, 23 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
