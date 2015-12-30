@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 30 Dec 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Wed, 30 Dec 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Wed, 30 Dec 2015 21:30:06 GMT</pubDate>
+		<lastBuildDate>Wed, 30 Dec 2015 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 30.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/cb5d8054-971e-4d67-8000-160eff36a16c_6ab10598-e1de-4469-95ac-9415ac3189ea.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 30.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/52/73/18/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Mehr Sicherheit fÃ¼r die Partymeile +++ Der Winter kommt +++ Nachrichten I +++ Air Berlin: Gericht verbietet GemeinschaftsflÃ¼ge +++ Quartiersmanagement fÃ¼r Boulevard Kastanienallee +++ Nachrichten II +++ JahresrÃ¼ckblick: Oktober bis Dezember +++ Partymeile am Brandenburger Tor geÃ¶ffnet&lt;/p&gt;&lt;p&gt;30.12.2015 | 29:24 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-30-12-2015-19-30/rbb-Fernsehen/Video?documentId=32527306&amp;bcastId=3822076&quot;&gt;Abendschau 30.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Mehr Sicherheit fÃ¼r die Partymeile +++ Der Winter kommt +++ Nachrichten I +++ Air Berlin: Gericht verbietet GemeinschaftsflÃ¼ge +++ Quartiersmanagement fÃ¼r Boulevard Kastanienallee +++ Nachrichten II +++ JahresrÃ¼ckblick: Oktober bis Dezember +++ Partymeile am Brandenburger Tor geÃ¶ffnet&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/cb5d8054-971e-4d67-8000-160eff36a16c_6ab10598-e1de-4469-95ac-9415ac3189ea.mp4?url=1"/>
+			<pubDate>Wed, 30 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>30.12.2015 21:23 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1230/TV-100s-2123.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:23 Uhr vom 30.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1230/TV-100s-2123.webl.h264.mp4"/>
+			<pubDate>Wed, 30 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>30.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1230/TV-20151230-2021-5901.webl.h264.mp4</link>
+			<description>Themen der Sendung: Polnisches Parlament verabschiedet Medienreform, BrÃ¼sseler BehÃ¶rden prÃ¼fen Absage von Feuerwerk, Sicherheitsvorkehrungen fÃ¼r Sylvester-Feier in Berlin werden verschÃ¤rft, CSU fordert FlÃ¼chtlinge ohne Pass an den Grenzen abzuweisen, USA werfen Russland TÃ¶tung von Zivilisten in Syrien vor, Nachtrag: BrÃ¼sseler Stadtverwaltung sagt Feuerwerk ab, BÃ¶rsenbilanz 2015, UngewÃ¶hnlich hohe Temperaturen am Nordpol, &quot;El Nino&quot; fÃ¼hrt zu Ãberschwemmungen in SÃ¼damerika, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1230/TV-20151230-2021-5901.webl.h264.mp4"/>
+			<pubDate>Wed, 30 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>29.12.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2015/1229/TV-100s-2115.webl.h264.mp4</link>
@@ -141,27 +162,6 @@
 			<description>Themen der Sendung: Papst spendet traditionellen Segen &quot;Urbi et Orbi&quot;, Weihnachtsgottesdienste in Deutschland, Gauck wÃ¼rdigt in seiner Weihnachtsansprache Einsatz fÃ¼r FlÃ¼chtlinge, Zwei Tote bei der Flucht nach Ceuta, WirbelstÃ¼rme in US-Bundesstaaten, Vollmond am 1. Weihnachtsfeiertag, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1225/TV-20151225-2039-2101.webl.h264.mp4"/>
 			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 24.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/970acea4-9edf-4391-88b7-76615141a949_612791e8-de12-4426-96ec-83575d662f5d.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 24.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/45/56/10/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Heiligabend in den Kirchen +++ Das LAGeSo wÃ¤hrend der Feiertage +++ Christmas-Baby in NeukÃ¶lln +++ Adventskalender: TÃ¼rchen 24 +++ Ehepaar erzÃ¤hlt vom Weihnachten 1945 +++ Wetter +++ Weihnachtssingen in SchÃ¶neberg +++&lt;/p&gt;&lt;p&gt;24.12.2015 | 28:15 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-24-12-2015/rbb-Fernsehen/Video?documentId=32455598&amp;bcastId=3822076&quot;&gt;Abendschau vom 24.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Heiligabend in den Kirchen +++ Das LAGeSo wÃ¤hrend der Feiertage +++ Christmas-Baby in NeukÃ¶lln +++ Adventskalender: TÃ¼rchen 24 +++ Ehepaar erzÃ¤hlt vom Weihnachten 1945 +++ Wetter +++ Weihnachtssingen in SchÃ¶neberg +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/970acea4-9edf-4391-88b7-76615141a949_612791e8-de12-4426-96ec-83575d662f5d.mp4?url=1"/>
-			<pubDate>Thu, 24 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>24.12.2015 19:53 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1224/TV-100s-1953.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:53 Uhr vom 24.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1224/TV-100s-1953.webl.h264.mp4"/>
-			<pubDate>Thu, 24 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>24.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1224/TV-20151224-2030-4001.webl.h264.mp4</link>
-			<description>Themen der Sendung: Weihnachten Bethlehem und Jerusalem, Weihnachten in Afghanistan, RÃ¼ckkehr toter US-Soldaten, FlÃ¼chtlingsboot vor tÃ¼rkischer KÃ¼ste gekentert, Syrische Regierung fÃ¼r FriedensgesprÃ¤che, Jahresbilanz des Ukraine-Konflikts, Weihnachtsansprache des BundesprÃ¤sidenten, Weihnachtsbotschaften der Kirchen, Andrang vor dem Berliner Dom, ErhÃ¶hung von Hartz IV, Armenspeisung HofbrÃ¤uhaus, Weihnachten in der Erstaufnahme, Brandstiftung in Bayern, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1224/TV-20151224-2030-4001.webl.h264.mp4"/>
-			<pubDate>Thu, 24 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
