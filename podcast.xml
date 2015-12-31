@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 31 Dec 2015 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 31 Dec 2015 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 31 Dec 2015 21:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 31 Dec 2015 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 31.12.2015</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/936b229f-c977-4514-8d9d-b488728dc3dc_1d420ce4-c860-4d73-8944-ce933700d1c8.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 31.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/53/57/80/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Toter SÃ¤ugling in Babyklappe entdeckt +++ Live von der Silvesterparty am Brandenburger Tor +++ Silvester und FlÃ¼chtlinge +++ Kropp Feinkost aus NeukÃ¶lln +++ Die schÃ¶nsten Abendschau-Pannen des Jahres +++ Die Berlin-Box +++ Wetteraussichten&lt;/p&gt;&lt;p&gt;31.12.2015 | 27:56 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-31-12-2015-19-30/rbb-Fernsehen/Video?documentId=32535768&amp;bcastId=3822076&quot;&gt;Abendschau 31.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Toter SÃ¤ugling in Babyklappe entdeckt +++ Live von der Silvesterparty am Brandenburger Tor +++ Silvester und FlÃ¼chtlinge +++ Kropp Feinkost aus NeukÃ¶lln +++ Die schÃ¶nsten Abendschau-Pannen des Jahres +++ Die Berlin-Box +++ Wetteraussichten&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/936b229f-c977-4514-8d9d-b488728dc3dc_1d420ce4-c860-4d73-8944-ce933700d1c8.mp4?url=1"/>
+			<pubDate>Thu, 31 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>31.12.2015 21:05 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2015/1231/TV-100s-2105.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 31.12.2015</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1231/TV-100s-2105.webl.h264.mp4"/>
+			<pubDate>Thu, 31 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>31.12.2015 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2015/1231/TV-20151231-2014-4301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Neujahrsansprache von Angela Merkel, BAMF kehrt zur EinzelfallprÃ¼fung zurÃ¼ck, Sechs weitere TerrorverdÃ¤chtige in Belgien festgenommen, Polen verabschiedet neues Mediengesetz, Bohrinseln vor Norwegen wegen Sturm evakuiert, GroÃbrand in einem Hochhaus in Dubai, Silvesterparty am Brandenburger Tor, Neujahr weltweit, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1231/TV-20151231-2014-4301.webl.h264.mp4"/>
+			<pubDate>Thu, 31 Dec 2015 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 30.12.2015</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/cb5d8054-971e-4d67-8000-160eff36a16c_6ab10598-e1de-4469-95ac-9415ac3189ea.mp4?url=1</link>
@@ -134,34 +155,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 26.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/46/82/10/859153101/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mann bei SchieÃerei getÃ¶tet +++ Feiertagsbesuch bei T-Rex Tristan +++ Weihnachten in der Bahnhofsmission +++ Gerechte Kunst: Art but Fair +++ Berlin-Box +++ Erste Friedensweihnacht 1945 +++ Gleich nebenan: Potterinchen in Wilmersdorf +++&lt;/p&gt;&lt;p&gt;26.12.2015 | 28:05 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-26-12-2015-19-30/rbb-Fernsehen/Video?documentId=32468198&amp;bcastId=3822076&quot;&gt;Abendschau 26.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mann bei SchieÃerei getÃ¶tet +++ Feiertagsbesuch bei T-Rex Tristan +++ Weihnachten in der Bahnhofsmission +++ Gerechte Kunst: Art but Fair +++ Berlin-Box +++ Erste Friedensweihnacht 1945 +++ Gleich nebenan: Potterinchen in Wilmersdorf +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/88490d6b-82f9-48bf-9204-538f87479b69_72e23497-715e-442d-9974-8489dd0a4b01.mp4?url=1"/>
 			<pubDate>Sat, 26 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 25.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/b0bd38c4-534d-4e6d-afb7-90e2ef63d15e_05e4db17-1098-4e2b-b371-e494884ac886.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 25.12.2015&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/46/14/00/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Besuch in der Feuerwehr-Leitstelle +++ Weihnachten im ICC +++ Mieterproteste in NeukÃ¶lln +++ Virtueller Besuch im Bode-Museum +++ Erinnerungen an die erste Friedensweihnacht 1945 +++ Ausflugstipp: Snowtropolis +++&lt;/p&gt;&lt;p&gt;25.12.2015 | 28:24 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-25-12-2015/rbb-Fernsehen/Video?documentId=32461388&amp;bcastId=3822076&quot;&gt;Abendschau vom 25.12.2015 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Besuch in der Feuerwehr-Leitstelle +++ Weihnachten im ICC +++ Mieterproteste in NeukÃ¶lln +++ Virtueller Besuch im Bode-Museum +++ Erinnerungen an die erste Friedensweihnacht 1945 +++ Ausflugstipp: Snowtropolis +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/b0bd38c4-534d-4e6d-afb7-90e2ef63d15e_05e4db17-1098-4e2b-b371-e494884ac886.mp4?url=1"/>
-			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.12.2015 19:58 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1225/TV-100s-1958.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:58 Uhr vom 25.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1225/TV-100s-1958.webl.h264.mp4"/>
-			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.12.2015 23:56 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1225/TV-100s-2356.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:56 Uhr vom 25.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1225/TV-100s-2356.webl.h264.mp4"/>
-			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>25.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1225/TV-20151225-2039-2101.webl.h264.mp4</link>
-			<description>Themen der Sendung: Papst spendet traditionellen Segen &quot;Urbi et Orbi&quot;, Weihnachtsgottesdienste in Deutschland, Gauck wÃ¼rdigt in seiner Weihnachtsansprache Einsatz fÃ¼r FlÃ¼chtlinge, Zwei Tote bei der Flucht nach Ceuta, WirbelstÃ¼rme in US-Bundesstaaten, Vollmond am 1. Weihnachtsfeiertag, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1225/TV-20151225-2039-2101.webl.h264.mp4"/>
-			<pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
