@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 02 Jan 2016 00:30:32 GMT</pubDate>
-		<lastBuildDate>Sat, 02 Jan 2016 00:30:32 GMT</lastBuildDate>
+		<pubDate>Sat, 02 Jan 2016 21:30:32 GMT</pubDate>
+		<lastBuildDate>Sat, 02 Jan 2016 21:30:32 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -99,27 +99,6 @@
 			<description>Themen der Sendung: Iraks Armee erobert Ramadi zurÃ¼ck, Anschlag in Homs, Streit um Zwangsprostitution beigelegt, Polens PrÃ¤sident billigt Verfassungsreform, CSU dringt auf Integrationspflicht, Lage am &quot;LaGeSo&quot; bleibt angespannt, Diskussion Ã¼ber Gaspreise, Feinstaubbelastung in Italien, Hochwasser in Nordengland, Schaaf wird neuer Trainer bei Hannover 96, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1228/TV-20151228-2023-2201.webl.h264.mp4"/>
 			<pubDate>Mon, 28 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 27.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/d5e730ff-b076-49b6-8de5-03e869cf0c26_213db564-f66e-41f2-8fae-678004cfa403.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 27.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/47/63/68/1663778729/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Nach der tÃ¶dlichen SchieÃerei in Wedding +++ Sonntags im Supermarkt +++ Auf dem Weihnachtsmarkt am Gendarmenmarkt +++ Erste Friedensweihnacht â 1945 +++ Die Sonntagsfrage +++ JahresrÃ¼ckblick 2015 +++ Moderation: Â Andrea Vannahme&lt;/p&gt;&lt;p&gt;27.12.2015 | 28:37 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-27-12-2015-19-30/rbb-Fernsehen/Video?documentId=32476360&amp;bcastId=3822076&quot;&gt;Abendschau 27.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Nach der tÃ¶dlichen SchieÃerei in Wedding +++ Sonntags im Supermarkt +++ Auf dem Weihnachtsmarkt am Gendarmenmarkt +++ Erste Friedensweihnacht â 1945 +++ Die Sonntagsfrage +++ JahresrÃ¼ckblick 2015 +++ Moderation: Â Andrea Vannahme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/d5e730ff-b076-49b6-8de5-03e869cf0c26_213db564-f66e-41f2-8fae-678004cfa403.mp4?url=1"/>
-			<pubDate>Sun, 27 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.12.2015 21:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1227/TV-100s-2114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 27.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1227/TV-100s-2114.webl.h264.mp4"/>
-			<pubDate>Sun, 27 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1227/TV-20151227-2022-4901.webl.h264.mp4</link>
-			<description>Themen der Sendung: Bundeswehr vor neuem Auslandseinsatz, Kampf um irakische Stadt Ramadi, Bayern will Grenzen wieder selbst kontrollieren, Hacker-Kongress des Chaos Computer Clubs, Wirtschaftsprognose fÃ¼r 2016, Neues Anti-Terror-Gesetz in China verabschiedet, Zwei Schwarze in Chicago von Polizisten erschossen, Ãberschwemmungen in Nordengland, Tote bei Tornados in Texas, Nach den BuschbrÃ¤nden in Australien, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1227/TV-20151227-2022-4901.webl.h264.mp4"/>
-			<pubDate>Sun, 27 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
