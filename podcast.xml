@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 03 Jan 2016 21:30:06 GMT</pubDate>
-		<lastBuildDate>Sun, 03 Jan 2016 21:30:06 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Jan 2016 00:30:05 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Jan 2016 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -42,6 +42,13 @@
 			<link>http://media.tagesschau.de/video/2016/0103/TV-20160103-2023-5801.webl.h264.mp4</link>
 			<description>Themen der Sendung: Internationale Kritik an Hinrichtungen in Saudi-Arabien, EU-Kommission droht Polen wegen Mediengesetz mit Aufsicht, Seehofer fordert Obergrenze von 200.000 FlÃ¼chtlingen im Jahr, HintergrÃ¼nde zum Polizeieinsatz in MÃ¼nchen, Studie zu Quecksilber-Belastung durch Kohlekraftwerke, Bankenabwicklungsfonds soll Steuerzahler in Europa schÃ¼tzen, Severin Freund landet bei Vierschanzen-Tournee auf zweitem Platz, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0103/TV-20160103-2023-5801.webl.h264.mp4"/>
+			<pubDate>Sun, 03 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>03.01.2016 22:33 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0103/TV-100s-2233.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:33 Uhr vom 03.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0103/TV-100s-2233.webl.h264.mp4"/>
 			<pubDate>Sun, 03 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
