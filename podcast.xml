@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 03 Jan 2016 14:32:39 GMT</pubDate>
-		<lastBuildDate>Sun, 03 Jan 2016 14:32:39 GMT</lastBuildDate>
+		<pubDate>Sun, 03 Jan 2016 21:30:06 GMT</pubDate>
+		<lastBuildDate>Sun, 03 Jan 2016 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -21,6 +21,27 @@
 			<link>http://media.tagesschau.de/video/100s/2016/0103/TV-100s-1305.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 13:05 Uhr vom 03.01.2016</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0103/TV-100s-1305.webl.h264.mp4"/>
+			<pubDate>Sun, 03 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 03.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/960a6183-d1c0-4cfa-9ce5-14985ab1491e_ee2b705e-f663-4d17-8f8a-8f85ee5dac14.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 03.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/56/60/40/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Toter in MÃ¼lltonne wurde erdrosselt +++ Berlin im Trend: Neuer Tourismusrekord +++ Nachrichten I +++Â Kampf gegen Falschmeldungen im Netz +++ Bauzombies: Kulturhaus Peter Edel in WeiÃenseeÂ  +++ Viele Steine hat die Kaiser-Wilhelm-GedÃ¤chtniskirche? +++ Nachrichten II +++ Fantastisches Trickfilm-Theater +++ Winterliche Impressionen +++&lt;/p&gt;&lt;p&gt;03.01.2016 | 29:25 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-03-01-2016-19-30/rbb-Fernsehen/Video?documentId=32566028&amp;bcastId=3822076&quot;&gt;Abendschau 03.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Toter in MÃ¼lltonne wurde erdrosselt +++ Berlin im Trend: Neuer Tourismusrekord +++ Nachrichten I +++Â Kampf gegen Falschmeldungen im Netz +++ Bauzombies: Kulturhaus Peter Edel in WeiÃenseeÂ  +++ Viele Steine hat die Kaiser-Wilhelm-GedÃ¤chtniskirche? +++ Nachrichten II +++ Fantastisches Trickfilm-Theater +++ Winterliche Impressionen +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/960a6183-d1c0-4cfa-9ce5-14985ab1491e_ee2b705e-f663-4d17-8f8a-8f85ee5dac14.mp4?url=1"/>
+			<pubDate>Sun, 03 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>03.01.2016 21:06 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0103/TV-100s-2106.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:06 Uhr vom 03.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0103/TV-100s-2106.webl.h264.mp4"/>
+			<pubDate>Sun, 03 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>03.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0103/TV-20160103-2023-5801.webl.h264.mp4</link>
+			<description>Themen der Sendung: Internationale Kritik an Hinrichtungen in Saudi-Arabien, EU-Kommission droht Polen wegen Mediengesetz mit Aufsicht, Seehofer fordert Obergrenze von 200.000 FlÃ¼chtlingen im Jahr, HintergrÃ¼nde zum Polizeieinsatz in MÃ¼nchen, Studie zu Quecksilber-Belastung durch Kohlekraftwerke, Bankenabwicklungsfonds soll Steuerzahler in Europa schÃ¼tzen, Severin Freund landet bei Vierschanzen-Tournee auf zweitem Platz, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0103/TV-20160103-2023-5801.webl.h264.mp4"/>
 			<pubDate>Sun, 03 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
