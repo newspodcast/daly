@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 04 Jan 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Mon, 04 Jan 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Mon, 04 Jan 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Mon, 04 Jan 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 04.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/9789cb5c-8270-4925-9d33-9134aa2c9a4b_fb04aff7-8207-484f-95a9-eccea265db85.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 04.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/58/19/72/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin zeigt seine kalte Schulter +++ Tempo 30 in der Berliner Allee +++ Piraten erheben VorwÃ¼rfe gegen Czaja +++ FlÃ¼chtlingsrat kritisiert Traglufthallen auf Tempelhofer Feld +++ Kriseninterventions-Team nimmt Arbeit auf +++ Serie Bauzombies: Wernerbad Kaulsdorf +++&lt;/p&gt;&lt;p&gt;04.01.2016 | 29:23 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-04-01-2016/rbb-Fernsehen/Video?documentId=32581960&amp;bcastId=3822076&quot;&gt;Abendschau vom 04.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin zeigt seine kalte Schulter +++ Tempo 30 in der Berliner Allee +++ Piraten erheben VorwÃ¼rfe gegen Czaja +++ FlÃ¼chtlingsrat kritisiert Traglufthallen auf Tempelhofer Feld +++ Kriseninterventions-Team nimmt Arbeit auf +++ Serie Bauzombies: Wernerbad Kaulsdorf +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/9789cb5c-8270-4925-9d33-9134aa2c9a4b_fb04aff7-8207-484f-95a9-eccea265db85.mp4?url=1"/>
+			<pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>04.01.2016 21:15 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0104/TV-100s-2115.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 04.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0104/TV-100s-2115.webl.h264.mp4"/>
+			<pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>04.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0104/TV-20160104-2056-5901.webl.h264.mp4</link>
+			<description>Themen der Sendung: Spannungen in der Golfregion, Grenzkontrollen zwischen DÃ¤nemark und Deutschland, Ausblick auf Woche der Partei-Klausuren, Angriff auf Syrer in Hessen, Ãbergriffe in KÃ¶ln an Silvester, BÃ¶rsencrash in China, Erdbeben in Indien, Winterwetter in Deutschland, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0104/TV-20160104-2056-5901.webl.h264.mp4"/>
+			<pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>03.01.2016 13:05 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0103/TV-100s-1305.webl.h264.mp4</link>
@@ -120,27 +141,6 @@
 			<description>Themen der Sendung: Polnisches Parlament verabschiedet Medienreform, BrÃ¼sseler BehÃ¶rden prÃ¼fen Absage von Feuerwerk, Sicherheitsvorkehrungen fÃ¼r Sylvester-Feier in Berlin werden verschÃ¤rft, CSU fordert FlÃ¼chtlinge ohne Pass an den Grenzen abzuweisen, USA werfen Russland TÃ¶tung von Zivilisten in Syrien vor, Nachtrag: BrÃ¼sseler Stadtverwaltung sagt Feuerwerk ab, BÃ¶rsenbilanz 2015, UngewÃ¶hnlich hohe Temperaturen am Nordpol, &quot;El Nino&quot; fÃ¼hrt zu Ãberschwemmungen in SÃ¼damerika, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1230/TV-20151230-2021-5901.webl.h264.mp4"/>
 			<pubDate>Wed, 30 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.12.2015 21:15 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2015/1229/TV-100s-2115.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 29.12.2015</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2015/1229/TV-100s-2115.webl.h264.mp4"/>
-			<pubDate>Tue, 29 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>29.12.2015 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2015/1229/TV-20151229-2024-5601.webl.h264.mp4</link>
-			<description>Themen der Sendung: ZusÃ¤tzliche Ausgaben fÃ¼r FlÃ¼chtlinge, Ãsterreich Ã¶ffnet GrenzÃ¼bergang Spielfeld, TerrorverdÃ¤chtige in Belgien festgenommen, Lebenslange Haft fÃ¼r VÃ¶lkermord in Ruanda, Iran erfÃ¼llt Auflagen des Atomabkommens, FlÃ¼chtlinge aus Kuba kÃ¶nnen in die USA weiterreisen, Israels Ex-Premier Olmert muss 18 Monate in Haft, Start der bundesweiten Sternsinger-Aktion, Severin Freund siegt bei Auftaktspringen der Schanzentournee, MotÃ¶rhead-SÃ¤nger &quot;Lemmy&quot; gestorben, Ãberschwemmungen in England, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2015/1229/TV-20151229-2024-5601.webl.h264.mp4"/>
-			<pubDate>Tue, 29 Dec 2015 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 29.12.2015</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/19a31562-0d32-4753-b734-e6ff42a556e0_cc798dcc-8759-4fae-b47a-d3d08c60fe47.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 29.12.2015 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/50/93/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Vermisste Berlinerin tot aufgefunden +++ Verkauf von Silvesterfeuerwerk startet +++ Prozess um getÃ¶teten Israeli +++ JahresrÃ¼ckblick 2015 +++ Quartiersmanagement fÃ¼r hilfsbedÃ¼rftige Kieze +++ JubilÃ¤umstour der '17 Hippies' +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;29.12.2015 | 29:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-29-12-2015-19-30/rbb-Fernsehen/Video?documentId=32509314&amp;bcastId=3822076&quot;&gt;Abendschau 29.12.2015 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Vermisste Berlinerin tot aufgefunden +++ Verkauf von Silvesterfeuerwerk startet +++ Prozess um getÃ¶teten Israeli +++ JahresrÃ¼ckblick 2015 +++ Quartiersmanagement fÃ¼r hilfsbedÃ¼rftige Kieze +++ JubilÃ¤umstour der '17 Hippies' +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/19a31562-0d32-4753-b734-e6ff42a556e0_cc798dcc-8759-4fae-b47a-d3d08c60fe47.mp4?url=1"/>
-			<pubDate>Tue, 29 Dec 2015 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
