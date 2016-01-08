@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 08 Jan 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 08 Jan 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 08 Jan 2016 21:30:04 GMT</pubDate>
+		<lastBuildDate>Fri, 08 Jan 2016 21:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>08.01.2016 21:27 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0108/TV-100s-2127.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:27 Uhr vom 08.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0108/TV-100s-2127.webl.h264.mp4"/>
+			<pubDate>Fri, 08 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>08.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0108/TV-20160108-2023-0001.webl.h264.mp4</link>
+			<description>Themen der Sendung: KÃ¶lner PolizeiprÃ¤sident in Ruhestand versetzt, Debatte Ã¼ber Konsequenzen nach Silvesternacht, Klausur der SPD-Bundestagsfraktion abgeschlossen, Bundeswehr fliegt ersten Syrien-Einsatz, Bericht Ã¼ber Anschlag auf Hotel in Ãgypten, Mexikanischer Drogenboss &quot;El Chapo&quot; gefasst, Mehr MissbrauchsfÃ¤lle bei Regensburger &quot;Domspatzen&quot; als angenommen, Kommentierte Version von &quot;Mein Kampf&quot; erhÃ¤ltlich, Franziska Hildebrand gewinnt Biathlon, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0108/TV-20160108-2023-0001.webl.h264.mp4"/>
+			<pubDate>Fri, 08 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 07.01.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/8aabeac0-6459-436f-8709-d3891a7641d7_9833a62c-f8e9-4a9f-a605-c859a9ae7641.mp4?url=6</link>
@@ -142,20 +156,6 @@ Vierschanzen-Tournee: Prevc siegt vor Freund, FranzÃ¶sischer Dirigent und Komp
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:33 Uhr vom 03.01.2016</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0103/TV-100s-2233.webl.h264.mp4"/>
 			<pubDate>Sun, 03 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 02.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/5a32f95a-83c5-4537-835f-f2fee3dc487b_56b46710-d8fa-49d2-90a0-2b50cd1bcf46.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 02.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/55/71/70/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;SpÃ¼rhunde auf der A113 +++ Was bringt der Mindestlohn? +++ Berlin erlebt erfreulichen Bauboom +++ Nachrichten I +++ Erfinder der Weltzeituhr +++ Letzter Ausflug in die SÃ¼dsee +++ Gleich nebenan: Dante Connection +++ Klangvoll ins neue Jahr +++ Puhdys: Letztes Konzert der Abschiedstour&lt;/p&gt;&lt;p&gt;02.01.2016 | 29:37 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-02-01-2016-19-30/rbb-Fernsehen/Video?documentId=32557158&amp;bcastId=3822076&quot;&gt;Abendschau 02.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;SpÃ¼rhunde auf der A113 +++ Was bringt der Mindestlohn? +++ Berlin erlebt erfreulichen Bauboom +++ Nachrichten I +++ Erfinder der Weltzeituhr +++ Letzter Ausflug in die SÃ¼dsee +++ Gleich nebenan: Dante Connection +++ Klangvoll ins neue Jahr +++ Puhdys: Letztes Konzert der Abschiedstour&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/5a32f95a-83c5-4537-835f-f2fee3dc487b_56b46710-d8fa-49d2-90a0-2b50cd1bcf46.mp4?url=1"/>
-			<pubDate>Sat, 02 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0102/TV-20160102-2031-0901.webl.h264.mp4</link>
-			<description>Themen der Sendung: Hinrichtungen in Saudi Arabien, Konflikt zwischen Indien und Pakistan, Waffengesetze in den USA, Nach Terrordrohung in MÃ¼nchen, Ein Jahr Mindestlohn, Ausblick auf neues EU-Krisenjahr, RÃ¼cktrittswelle bei polnischen Sendern, Gedenken Bad Reichenhall, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0102/TV-20160102-2031-0901.webl.h264.mp4"/>
-			<pubDate>Sat, 02 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
