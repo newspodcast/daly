@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 09 Jan 2016 21:30:08 GMT</pubDate>
-		<lastBuildDate>Sat, 09 Jan 2016 21:30:08 GMT</lastBuildDate>
+		<pubDate>Sun, 10 Jan 2016 00:30:05 GMT</pubDate>
+		<lastBuildDate>Sun, 10 Jan 2016 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/100s/2016/0109/TV-100s-2126.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:26 Uhr vom 09.01.2016</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0109/TV-100s-2126.webl.h264.mp4"/>
+			<pubDate>Sat, 09 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>09.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0109/TV-20160109-2108-1701.webl.h264.mp4</link>
+			<description>Themen der Sendung: Proteste gegen Ãbergriffe an Silvester in KÃ¶ln aufgelÃ¶st, CDU will Konsequenzen nach KÃ¶lner Ãbergriffen, SPD-Chef Gabriel trifft kubanischen PrÃ¤sidenten Castro, Regierungsbildung in Katalonien gelungen, Proteste gegen neues Mediengesetz in Polen, Ausschreitungen bei Protesten gegen Regierung in Kosovo, Gedenken an Geiselnahme in Paris, Viele Tote bei russischem Luftangriff in Syrien, Anschlag auf Hotel in Ãgypten, Mexikanischer Drogenboss zurÃ¼ck im GefÃ¤ngnis, Schauspielerin Maja Maranow gestorben, Laura Dahlheimer siegt beim Biathlon in Ruhpolding, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0109/TV-20160109-2108-1701.webl.h264.mp4"/>
 			<pubDate>Sat, 09 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
