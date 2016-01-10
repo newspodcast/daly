@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 10 Jan 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Sun, 10 Jan 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Sun, 10 Jan 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Sun, 10 Jan 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>10.01.2016 21:21 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0110/TV-100s-2121.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:21 Uhr vom 10.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0110/TV-100s-2121.webl.h264.mp4"/>
+			<pubDate>Sun, 10 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>10.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0110/TV-20160110-2022-2001.webl.h264.mp4</link>
+			<description>Themen der Sendung: Pariser Angreifer aus Recklinghausen, Diskussion nach Ãbergriffen in KÃ¶ln, Gedenken der Attentatsopfer in Paris, Polen verschÃ¤rft Ton im Streit mit der EU, Regierungsbildung in Katalonien, Lage in Syrien, Arabische Liga zur Krise zwischen Saudi-Arabien und dem Iran, Viele Tote in der SÃ¼dost-TÃ¼rkei bei Offensive gegen PKK, Linke gedenken Karl Liebknecht und Rosa Luxemburg, Wintersport, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0110/TV-20160110-2022-2001.webl.h264.mp4"/>
+			<pubDate>Sun, 10 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 09.01.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/deafb43c-c80c-49de-85ff-9deaa8d239cf_05c53b65-08e0-4b3f-8b69-2ac876f4524a.mp4?url=6</link>
@@ -139,27 +153,6 @@ Vierschanzen-Tournee: Prevc siegt vor Freund, FranzÃ¶sischer Dirigent und Komp
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:36 Uhr vom 05.01.2016</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0105/TV-100s-2136.webl.h264.mp4"/>
 			<pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 04.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/9789cb5c-8270-4925-9d33-9134aa2c9a4b_fb04aff7-8207-484f-95a9-eccea265db85.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 04.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/58/19/72/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin zeigt seine kalte Schulter +++ Tempo 30 in der Berliner Allee +++ Piraten erheben VorwÃ¼rfe gegen Czaja +++ FlÃ¼chtlingsrat kritisiert Traglufthallen auf Tempelhofer Feld +++ Kriseninterventions-Team nimmt Arbeit auf +++ Serie Bauzombies: Wernerbad Kaulsdorf +++&lt;/p&gt;&lt;p&gt;04.01.2016 | 29:23 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-04-01-2016/rbb-Fernsehen/Video?documentId=32581960&amp;bcastId=3822076&quot;&gt;Abendschau vom 04.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin zeigt seine kalte Schulter +++ Tempo 30 in der Berliner Allee +++ Piraten erheben VorwÃ¼rfe gegen Czaja +++ FlÃ¼chtlingsrat kritisiert Traglufthallen auf Tempelhofer Feld +++ Kriseninterventions-Team nimmt Arbeit auf +++ Serie Bauzombies: Wernerbad Kaulsdorf +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/9789cb5c-8270-4925-9d33-9134aa2c9a4b_fb04aff7-8207-484f-95a9-eccea265db85.mp4?url=1"/>
-			<pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>04.01.2016 21:15 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0104/TV-100s-2115.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 04.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0104/TV-100s-2115.webl.h264.mp4"/>
-			<pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>04.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0104/TV-20160104-2056-5901.webl.h264.mp4</link>
-			<description>Themen der Sendung: Spannungen in der Golfregion, Grenzkontrollen zwischen DÃ¤nemark und Deutschland, Ausblick auf Woche der Partei-Klausuren, Angriff auf Syrer in Hessen, Ãbergriffe in KÃ¶ln an Silvester, BÃ¶rsencrash in China, Erdbeben in Indien, Winterwetter in Deutschland, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0104/TV-20160104-2056-5901.webl.h264.mp4"/>
-			<pubDate>Mon, 04 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
