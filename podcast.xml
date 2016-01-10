@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 10 Jan 2016 21:30:07 GMT</pubDate>
-		<lastBuildDate>Sun, 10 Jan 2016 21:30:07 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Jan 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Jan 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0110/TV-20160110-2022-2001.webl.h264.mp4</link>
 			<description>Themen der Sendung: Pariser Angreifer aus Recklinghausen, Diskussion nach Ãbergriffen in KÃ¶ln, Gedenken der Attentatsopfer in Paris, Polen verschÃ¤rft Ton im Streit mit der EU, Regierungsbildung in Katalonien, Lage in Syrien, Arabische Liga zur Krise zwischen Saudi-Arabien und dem Iran, Viele Tote in der SÃ¼dost-TÃ¼rkei bei Offensive gegen PKK, Linke gedenken Karl Liebknecht und Rosa Luxemburg, Wintersport, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0110/TV-20160110-2022-2001.webl.h264.mp4"/>
+			<pubDate>Sun, 10 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 10.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/79ee6b2e-09aa-4d44-b429-6858888fc422_1d08491d-cd5e-451f-961d-05b837a0fec1.mp4?url=6</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 10.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/68/45/06/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ VideoÃ¼berwachung: Henkel will LÃ¤ngere Speicherfristen +++ Zweifelhafte Vergabepraxis bei Baugrund +++ FÃ¼hrung durch die Hansastudios +++ 25 Jahre Abgeordnetenhaus: Gesetzgebung und VerfassungsÃ¤nderungen +++ Sonntagsfrage: KÃ¤ranlagen in Berlin +++ U-Bahn fahren unten ohne +++&lt;/p&gt;&lt;p&gt;10.01.2016 | 29:00 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-10-01-2016/rbb-Fernsehen/Video?documentId=32684494&amp;bcastId=3822076&quot;&gt;Abendschau vom 10.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ VideoÃ¼berwachung: Henkel will LÃ¤ngere Speicherfristen +++ Zweifelhafte Vergabepraxis bei Baugrund +++ FÃ¼hrung durch die Hansastudios +++ 25 Jahre Abgeordnetenhaus: Gesetzgebung und VerfassungsÃ¤nderungen +++ Sonntagsfrage: KÃ¤ranlagen in Berlin +++ U-Bahn fahren unten ohne +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/79ee6b2e-09aa-4d44-b429-6858888fc422_1d08491d-cd5e-451f-961d-05b837a0fec1.mp4?url=6"/>
 			<pubDate>Sun, 10 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
