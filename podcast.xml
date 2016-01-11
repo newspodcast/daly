@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 11 Jan 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Jan 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 11 Jan 2016 21:30:06 GMT</pubDate>
+		<lastBuildDate>Mon, 11 Jan 2016 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>11.01.2016 20:04 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0111/TV-100s-2004.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 20:04 Uhr vom 11.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0111/TV-100s-2004.webl.h264.mp4"/>
+			<pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>11.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0111/TV-20160111-2050-1101.webl.h264.mp4</link>
+			<description>Themen der Sendung: NRW-Innenminister JÃ¤ger weiterhin unter Druck wegen SilvesterÃ¼bergriffen, Union und SPD beraten Ã¼ber GesetzesverschÃ¤rfungen, Die Linke fordert nach SilvesterÃ¼bergriffen in KÃ¶ln konsequentes Vorgehen gegen straffÃ¤llige Migranten, Zahlreiche Menschen gehen zur Demonstration der Pegida in Leipzig, Hilfe fÃ¼r Hungernde in syrischer Stadt Madaya, Deutschland und Polen bemÃ¼hen sich nach Verstimmungen um Ausgleich, Nach Abgas-Manipulationsskandal wirbt VW-Chef MÃ¼ller in den USA um neues Vertrauen, Pop-Ikone David Bowie gestorben, Vergabe der Auszeichnungen der WeltfuÃballer des Jahres, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0111/TV-20160111-2050-1101.webl.h264.mp4"/>
+			<pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>10.01.2016 21:21 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0110/TV-100s-2121.webl.h264.mp4</link>
@@ -132,34 +146,6 @@ gegen mutmaÃliche Terrorhelfer +++ Neujahrsempfang des BundesprÃ¤sidenten +
 Vierschanzen-Tournee: Prevc siegt vor Freund, FranzÃ¶sischer Dirigent und Komponist Pierre Boulez gestorben, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0106/TV-20160106-2022-5001.webl.h264.mp4"/>
 			<pubDate>Wed, 06 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 05.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/c19b108f-886b-4edf-94fc-d4c8c518830a_fe63ee19-b5d8-4a8b-8f3a-d0789eb0f462.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 05.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/59/97/68/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Wackelt auch der zweite Rockerprozess? +++ FachkrÃ¤fte dringend gesucht +++Â Wenn Frauen auf der StraÃe lebenÂ  +++ Wohnungslose sollen GÃ¤stehaus verlassen +++ Bauzombies: Siemensbahn +++ Zum Tod von Achim Mentzel +++ Moderation: Sascha HingstÂ Â Â Â Â Â Â Â Â &lt;/p&gt;&lt;p&gt;05.01.2016 | 29:34 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-01-2016-19-30/rbb-Fernsehen/Video?documentId=32599756&amp;bcastId=3822076&quot;&gt;Abendschau 05.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Wackelt auch der zweite Rockerprozess? +++ FachkrÃ¤fte dringend gesucht +++Â Wenn Frauen auf der StraÃe lebenÂ  +++ Wohnungslose sollen GÃ¤stehaus verlassen +++ Bauzombies: Siemensbahn +++ Zum Tod von Achim Mentzel +++ Moderation: Sascha HingstÂ Â Â Â Â Â Â Â Â &lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/c19b108f-886b-4edf-94fc-d4c8c518830a_fe63ee19-b5d8-4a8b-8f3a-d0789eb0f462.mp4?url=1"/>
-			<pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.01.2016 19:33 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0105/TV-100s-1933.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:33 Uhr vom 05.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0105/TV-100s-1933.webl.h264.mp4"/>
-			<pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0105/TV-20160105-2022-5301.webl.h264.mp4</link>
-			<description>Themen der Sendung: KÃ¶ln verschÃ¤rft Sicherheitsvorkehrungen nach Ãbergriffen, Bundesregierung fordert rasche AufklÃ¤rung der VorfÃ¤lle in KÃ¶ln, StÃ¤dte- und Gemeindebund warnt vor Ãberforderung der Kommunen durch FlÃ¼chtlingskrise, Weniger Arbeitslose im Jahr 2015, Mehr als 30 FlÃ¼chtlinge vor tÃ¼rkischer KÃ¼ste ertrunken, Bundeswehr schickt Tornados nach Syrien, Obama kÃ¼ndigt schÃ¤rfere Waffenkontrollen an, Cameron setzt vor Referendum auf Mitbestimmung der Minister, Gedenken an Attentat auf &quot;Charlie Hebdo&quot;, Merkel empfÃ¤ngt Sternsinger in Berlin, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0105/TV-20160105-2022-5301.webl.h264.mp4"/>
-			<pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.01.2016 21:36 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0105/TV-100s-2136.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:36 Uhr vom 05.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0105/TV-100s-2136.webl.h264.mp4"/>
-			<pubDate>Tue, 05 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
