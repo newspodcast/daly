@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 11 Jan 2016 21:30:06 GMT</pubDate>
-		<lastBuildDate>Mon, 11 Jan 2016 21:30:06 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Jan 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Jan 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0111/TV-20160111-2050-1101.webl.h264.mp4</link>
 			<description>Themen der Sendung: NRW-Innenminister JÃ¤ger weiterhin unter Druck wegen SilvesterÃ¼bergriffen, Union und SPD beraten Ã¼ber GesetzesverschÃ¤rfungen, Die Linke fordert nach SilvesterÃ¼bergriffen in KÃ¶ln konsequentes Vorgehen gegen straffÃ¤llige Migranten, Zahlreiche Menschen gehen zur Demonstration der Pegida in Leipzig, Hilfe fÃ¼r Hungernde in syrischer Stadt Madaya, Deutschland und Polen bemÃ¼hen sich nach Verstimmungen um Ausgleich, Nach Abgas-Manipulationsskandal wirbt VW-Chef MÃ¼ller in den USA um neues Vertrauen, Pop-Ikone David Bowie gestorben, Vergabe der Auszeichnungen der WeltfuÃballer des Jahres, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0111/TV-20160111-2050-1101.webl.h264.mp4"/>
+			<pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 11.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/6e46e9bc-4a06-4cdb-baf1-40e71fe91d2f_29cbe7cc-108a-4d0b-bb52-11941365fb8b.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 11.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/71/33/26/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ David Bowie ist tot +++ FlÃ¼chtlinge verteilen Blumen an Frauen +++ Diskussion um Abschiebungen krimineller AuslÃ¤nder +++ Feierstunde: 25 Jahre Gesamtberliner Parlament +++ Streit um Kleingartenkolonie in Oeynhausen +++ Forsa-Studie zur Familienplanung junger Leute +++ GlÃ¤ttebilanz: Blaue Flecken und gebrochene Knochen in Berlin +++&lt;/p&gt;&lt;p&gt;11.01.2016 | 29:36 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-11-01-2016/rbb-Fernsehen/Video?documentId=32713314&amp;bcastId=3822076&quot;&gt;Abendschau vom 11.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ David Bowie ist tot +++ FlÃ¼chtlinge verteilen Blumen an Frauen +++ Diskussion um Abschiebungen krimineller AuslÃ¤nder +++ Feierstunde: 25 Jahre Gesamtberliner Parlament +++ Streit um Kleingartenkolonie in Oeynhausen +++ Forsa-Studie zur Familienplanung junger Leute +++ GlÃ¤ttebilanz: Blaue Flecken und gebrochene Knochen in Berlin +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/6e46e9bc-4a06-4cdb-baf1-40e71fe91d2f_29cbe7cc-108a-4d0b-bb52-11941365fb8b.mp4?url=1"/>
 			<pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
