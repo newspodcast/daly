@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 12 Jan 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Jan 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Tue, 12 Jan 2016 21:30:09 GMT</pubDate>
+		<lastBuildDate>Tue, 12 Jan 2016 21:30:09 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>12.01.2016 21:05 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0112/TV-100s-2105.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 12.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0112/TV-100s-2105.webl.h264.mp4"/>
+			<pubDate>Tue, 12 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>12.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0112/TV-20160112-2023-5801.webl.h264.mp4</link>
+			<description>Themen der Sendung: Terroranschlag in Istanbul: Acht Deutsche unter den Todesopfern, Merkel bezeichnet Anschlag als &amp;#8222;mÃ¶rderischen Akt&amp;#8220;, Koalition einigt sich auf schÃ¤rfere Abschiebe-Gesetze fÃ¼r kriminelle AuslÃ¤nder, CSU will Liste der sicheren Herkunftsstaaten deutlich erweitern, &quot;Gutmensch&quot; Unwort des Jahres, Hooligan-Krawalle nach &quot;Pegida&quot;-Demonstration in Leipzig, Gabriel ermÃ¶glicht Edeka-Tengelmann-Fusion, Kinostar der Nachkriegszeit Ruth Leuwerik gestorben, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0112/TV-20160112-2023-5801.webl.h264.mp4"/>
+			<pubDate>Tue, 12 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>11.01.2016 20:04 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0111/TV-100s-2004.webl.h264.mp4</link>
@@ -131,28 +145,6 @@ gegen mutmaÃliche Terrorhelfer +++ Neujahrsempfang des BundesprÃ¤sidenten +
 			<description>Themen der Sendung: Nach Gewalt in KÃ¶ln PolizeifÃ¼hrung zunehmend unter Druck, Diskussion Ã¼ber Ausweisungsregeln straffÃ¤llig gewordener Asylbewerber, Slowakei will keine muslimischen FlÃ¼chtlinge mehr aufnehmen, Klausurtagung der GrÃ¼nen zu FlÃ¼chtlingspolitik, Britischer Premier Cameron zu Gast bei CSU-Klausurtagung, Pariser Polizei erschieÃt bewaffneten Angreifer, Bis zu 70 getÃ¶tete Polizisten nach Anschlag in Libyen, Kursrutsch in China reiÃt AktienmÃ¤rkte weltweit mit, Doping-Skandal: Weltleichtathletikverband IAAF sperrt SportfunktionÃ¤re, Suspendierter UEFA-Chef Platini zieht FIFA-Kandidatur zurÃ¼ck, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0107/TV-20160107-2024-5601.webl.h264.mp4"/>
 			<pubDate>Thu, 07 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 06.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/0a8349b7-af6a-4c5c-9390-c4b8360c4ec9_74109dd5-a34a-4c90-9e8e-7022e0698f0c.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 06.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/61/84/70/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Schneetreiben in Berlin +++ S-Bahner beim Kampf gegen den Frost +++ Nachrichten +++ Lehrer planen Streik +++ 3. lÃ¤nderÃ¼bergreifender Gesundheitsbericht +++ Auf den Spuren der Stammbahn +++ Serie: Bauzombies +++ Schneeimpressionen +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;06.01.2016 | 29:36 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-06-01-2016/rbb-Fernsehen/Video?documentId=32618458&amp;bcastId=3822076&quot;&gt;Abendschau vom 06.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Schneetreiben in Berlin +++ S-Bahner beim Kampf gegen den Frost +++ Nachrichten +++ Lehrer planen Streik +++ 3. lÃ¤nderÃ¼bergreifender Gesundheitsbericht +++ Auf den Spuren der Stammbahn +++ Serie: Bauzombies +++ Schneeimpressionen +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/0a8349b7-af6a-4c5c-9390-c4b8360c4ec9_74109dd5-a34a-4c90-9e8e-7022e0698f0c.mp4?url=1"/>
-			<pubDate>Wed, 06 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.01.2016 21:11 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0106/TV-100s-2111.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:11 Uhr vom 06.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0106/TV-100s-2111.webl.h264.mp4"/>
-			<pubDate>Wed, 06 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0106/TV-20160106-2022-5001.webl.h264.mp4</link>
-			<description>Themen der Sendung: CSU-Klausur in Wildbad Kreuth zu FlÃ¼chtlings-Obergrenzen, Fast 1,1 Millionen FlÃ¼chtlinge im letzten Jahr in Deutschland registriert, Partei-Chef Lindner fordert Einwanderungsgesetz auf FDP-DreikÃ¶nigstreffen, Regierung will Bundeswehr-EinsÃ¤tze in Mali und Irak ausweiten, Ermittlungen wegen organisierter KriminalitÃ¤t nach Ãbergriffen in KÃ¶ln, Nordkorea meldet Wasserstoffbombentest, Sonderausgabe des Pariser Satiremagazins &quot;Charlie Hebdo&quot; ein Jahr nach Terrorangriff erschienen,
-Vierschanzen-Tournee: Prevc siegt vor Freund, FranzÃ¶sischer Dirigent und Komponist Pierre Boulez gestorben, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0106/TV-20160106-2022-5001.webl.h264.mp4"/>
-			<pubDate>Wed, 06 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
