@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 12 Jan 2016 21:30:09 GMT</pubDate>
-		<lastBuildDate>Tue, 12 Jan 2016 21:30:09 GMT</lastBuildDate>
+		<pubDate>Wed, 13 Jan 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 13 Jan 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0112/TV-20160112-2023-5801.webl.h264.mp4</link>
 			<description>Themen der Sendung: Terroranschlag in Istanbul: Acht Deutsche unter den Todesopfern, Merkel bezeichnet Anschlag als &amp;#8222;mÃ¶rderischen Akt&amp;#8220;, Koalition einigt sich auf schÃ¤rfere Abschiebe-Gesetze fÃ¼r kriminelle AuslÃ¤nder, CSU will Liste der sicheren Herkunftsstaaten deutlich erweitern, &quot;Gutmensch&quot; Unwort des Jahres, Hooligan-Krawalle nach &quot;Pegida&quot;-Demonstration in Leipzig, Gabriel ermÃ¶glicht Edeka-Tengelmann-Fusion, Kinostar der Nachkriegszeit Ruth Leuwerik gestorben, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0112/TV-20160112-2023-5801.webl.h264.mp4"/>
+			<pubDate>Tue, 12 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 12.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/05e9415e-310c-421d-96c7-9bebacf1773a_a539c3cb-a0cb-4cb9-ab24-eba686f7b9a2.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 12.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/73/54/66/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Terroranschlag in Istanbul +++ Gabriel stellt Bedingungen fÃ¼r Kaiser's Ãbernahme +++ SexualtÃ¤ter zu Haftstrafe verurteilt +++ Debatte um Residenzpflicht +++ Neue Datenschutzbeauftragte fÃ¼r Berlin +++ BER-Baufirmen im Roten Rathaus +++ Wie funktioniert Stadtpolitik? +++ ARD-Serie: Die Stadt und die Macht +++&lt;/p&gt;&lt;p&gt;12.01.2016 | 29:28 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-12-01-2016-19-30/rbb-Fernsehen/Video?documentId=32735454&amp;bcastId=3822076&quot;&gt;Abendschau 12.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Terroranschlag in Istanbul +++ Gabriel stellt Bedingungen fÃ¼r Kaiser's Ãbernahme +++ SexualtÃ¤ter zu Haftstrafe verurteilt +++ Debatte um Residenzpflicht +++ Neue Datenschutzbeauftragte fÃ¼r Berlin +++ BER-Baufirmen im Roten Rathaus +++ Wie funktioniert Stadtpolitik? +++ ARD-Serie: Die Stadt und die Macht +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/05e9415e-310c-421d-96c7-9bebacf1773a_a539c3cb-a0cb-4cb9-ab24-eba686f7b9a2.mp4?url=1"/>
 			<pubDate>Tue, 12 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
