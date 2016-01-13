@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 13 Jan 2016 21:30:06 GMT</pubDate>
-		<lastBuildDate>Wed, 13 Jan 2016 21:30:06 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Jan 2016 00:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Jan 2016 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0113/TV-20160113-2022-5001.webl.h264.mp4</link>
 			<description>Themen der Sendung: Nach Terroranschlag in Istanbul: Zahl der deutschen Todesopfer steigt auf zehn, Schweigeminute im Bundestag fÃ¼r die Opfer von Istanbul, Bundestag berÃ¤t Ã¼ber Konsequenzen nach KÃ¶lner Silvesternacht, Rechte der Opposition im Bundestag, Haushalt 2015 mit Milliarden-Plus, Smartphone-App &quot;Ankommen&quot; fÃ¼r FlÃ¼chtlinge, Umstrittene Reformen in Polen: EU leitet Verfahren zur PrÃ¼fung der Rechtsstaatlichkeit ein, Obama hÃ¤lt letzte Rede zur Lage der Nation, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0113/TV-20160113-2022-5001.webl.h264.mp4"/>
+			<pubDate>Wed, 13 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 13.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/b3e5b1d6-9820-48ea-a622-4bd43d3621a8_594bfba9-a566-4629-aab5-dd9afd1e07d9.mp4?url=6</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 13.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/75/76/02/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Zehn Deutsche in Istanbul getÃ¶tet +++ Terrorangst: Reisen in die TÃ¼rkei? +++ Der Senat plant das politische Jahr 2016 +++ Die GrÃ¼ne Woche ohne Russland +++ IHK-Analyse: Berliner Industriestandorte +++ Serie 25 Jahre Abgeordnetenhaus: Die Protokollanten +++&lt;/p&gt;&lt;p&gt;13.01.2016 | 29:28 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-13-01-2016/rbb-Fernsehen/Video?documentId=32757590&amp;bcastId=3822076&quot;&gt;Abendschau vom 13.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Zehn Deutsche in Istanbul getÃ¶tet +++ Terrorangst: Reisen in die TÃ¼rkei? +++ Der Senat plant das politische Jahr 2016 +++ Die GrÃ¼ne Woche ohne Russland +++ IHK-Analyse: Berliner Industriestandorte +++ Serie 25 Jahre Abgeordnetenhaus: Die Protokollanten +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/b3e5b1d6-9820-48ea-a622-4bd43d3621a8_594bfba9-a566-4629-aab5-dd9afd1e07d9.mp4?url=6"/>
 			<pubDate>Wed, 13 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
