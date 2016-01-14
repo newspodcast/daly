@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 14 Jan 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Thu, 14 Jan 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Thu, 14 Jan 2016 21:30:19 GMT</pubDate>
+		<lastBuildDate>Thu, 14 Jan 2016 21:30:19 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 14.01.2016</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160114_sdg_m_16_9_512x288.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 14.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/77/84/34/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Nach dem Polizeieinsatz in der Rigaer StraÃe +++ Der Plan fÃ¼r die Zeit vor der Wahl +++ Sitzung im Abgeordnetenhaus +++ RÃ¤umungsklage gegen Kudamm-BÃ¼hnen +++ Soll der Flughafen Tegel bleiben? +++ Serie &quot;25 Jahre Abgeordnetenhaus&quot;: Die PrÃ¤sidenten des Abgeordnetenhauses +++ Wetter +++&lt;/p&gt;&lt;p&gt;14.01.2016 | 29:16 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-14-01-2016/rbb-Fernsehen/Video?documentId=32778422&amp;bcastId=3822076&quot;&gt;Abendschau vom 14.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Nach dem Polizeieinsatz in der Rigaer StraÃe +++ Der Plan fÃ¼r die Zeit vor der Wahl +++ Sitzung im Abgeordnetenhaus +++ RÃ¤umungsklage gegen Kudamm-BÃ¼hnen +++ Soll der Flughafen Tegel bleiben? +++ Serie &quot;25 Jahre Abgeordnetenhaus&quot;: Die PrÃ¤sidenten des Abgeordnetenhauses +++ Wetter +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160114_sdg_m_16_9_512x288.mp4?url=3"/>
+			<pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>14.01.2016 21:14 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0114/TV-100s-2114.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 14.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0114/TV-100s-2114.webl.h264.mp4"/>
+			<pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>14.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0114/TV-20160114-2025-2001.webl.h264.mp4</link>
+			<description>Themen der Sendung: TÃ¼rkei tÃ¶tet angeblich 200 IS-KÃ¤mpfer, Angriff auf Polizeiwache im SÃ¼dosten der TÃ¼rkei, IS bekennt sich zu Terroranschlag in Jakarta, Bundestag berÃ¤t Ã¼ber BundeswehreinsÃ¤tze in Mali und Irak, Bundestag beschlieÃt neuen Ausweis fÃ¼r FlÃ¼chtlinge, NRW-Landtag berÃ¤t auf Sondersitzung Ã¼ber Sylvester-Ãbergriffe, Welt-Anti-Doping-Agentur Ã¼bt Kritik an Leichtathletik-Verband, WHO erklÃ¤rt Ebola-Epidemie in Westafrika fÃ¼r beendet, BGH-Urteil zur Mitgliederwerbung bei Facebook, Expertenkommission legt Abschlussbericht zu Kunstfund Gurlitt vor, Schauspieler Alan Rickman ist gestorben, Deutscher Fernsehpreis fÃ¼r den besten Film geht an&quot;Nackt unter WÃ¶lfen&quot;, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0114/TV-20160114-2025-2001.webl.h264.mp4"/>
+			<pubDate>Thu, 14 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>13.01.2016 21:04 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0113/TV-100s-2104.webl.h264.mp4</link>
@@ -120,38 +141,6 @@
 			<description>Themen der Sendung: Proteste gegen Ãbergriffe an Silvester in KÃ¶ln aufgelÃ¶st, CDU will Konsequenzen nach KÃ¶lner Ãbergriffen, SPD-Chef Gabriel trifft kubanischen PrÃ¤sidenten Castro, Regierungsbildung in Katalonien gelungen, Proteste gegen neues Mediengesetz in Polen, Ausschreitungen bei Protesten gegen Regierung in Kosovo, Gedenken an Geiselnahme in Paris, Viele Tote bei russischem Luftangriff in Syrien, Anschlag auf Hotel in Ãgypten, Mexikanischer Drogenboss zurÃ¼ck im GefÃ¤ngnis, Schauspielerin Maja Maranow gestorben, Laura Dahlheimer siegt beim Biathlon in Ruhpolding, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0109/TV-20160109-2108-1701.webl.h264.mp4"/>
 			<pubDate>Sat, 09 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.01.2016 21:27 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0108/TV-100s-2127.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:27 Uhr vom 08.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0108/TV-100s-2127.webl.h264.mp4"/>
-			<pubDate>Fri, 08 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0108/TV-20160108-2023-0001.webl.h264.mp4</link>
-			<description>Themen der Sendung: KÃ¶lner PolizeiprÃ¤sident in Ruhestand versetzt, Debatte Ã¼ber Konsequenzen nach Silvesternacht, Klausur der SPD-Bundestagsfraktion abgeschlossen, Bundeswehr fliegt ersten Syrien-Einsatz, Bericht Ã¼ber Anschlag auf Hotel in Ãgypten, Mexikanischer Drogenboss &quot;El Chapo&quot; gefasst, Mehr MissbrauchsfÃ¤lle bei Regensburger &quot;Domspatzen&quot; als angenommen, Kommentierte Version von &quot;Mein Kampf&quot; erhÃ¤ltlich, Franziska Hildebrand gewinnt Biathlon, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0108/TV-20160108-2023-0001.webl.h264.mp4"/>
-			<pubDate>Fri, 08 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 08.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/2bb296fa-db7e-4a28-86c0-601d6e7cf9c7_08906af6-3989-4fd4-9551-ee3160a7c8e8.mp4?url=6</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 08.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/66/02/08/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Michael MÃ¼ller will PrivatgrundstÃ¼cke beschlagnahmen +++ Nachrichten I +++ Prozess 
-
-gegen mutmaÃliche Terrorhelfer +++ Neujahrsempfang des BundesprÃ¤sidenten +++ Serie Bauzombies: Altes Reemtsma-Areal +++ Ausflugstipp: Neuzelle +++ Nachrichten II +++ Ein freundlicher Busfahrer +++ Das Wetter&lt;/p&gt;&lt;p&gt;08.01.2016 | 29:05 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-08-01-2016-19-30/rbb-Fernsehen/Video?documentId=32660196&amp;bcastId=3822076&quot;&gt;Abendschau 08.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Michael MÃ¼ller will PrivatgrundstÃ¼cke beschlagnahmen +++ Nachrichten I +++ Prozess 
-
-gegen mutmaÃliche Terrorhelfer +++ Neujahrsempfang des BundesprÃ¤sidenten +++ Serie Bauzombies: Altes Reemtsma-Areal +++ Ausflugstipp: Neuzelle +++ Nachrichten II +++ Ein freundlicher Busfahrer +++ Das Wetter&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/2bb296fa-db7e-4a28-86c0-601d6e7cf9c7_08906af6-3989-4fd4-9551-ee3160a7c8e8.mp4?url=6"/>
-			<pubDate>Fri, 08 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.01.2016 22:35 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0108/TV-100s-2235.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:35 Uhr vom 08.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0108/TV-100s-2235.webl.h264.mp4"/>
-			<pubDate>Fri, 08 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
