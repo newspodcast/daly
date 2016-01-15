@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 15 Jan 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Jan 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Fri, 15 Jan 2016 21:30:05 GMT</pubDate>
+		<lastBuildDate>Fri, 15 Jan 2016 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>15.01.2016 21:08 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0115/TV-100s-2108.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:08 Uhr vom 15.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0115/TV-100s-2108.webl.h264.mp4"/>
+			<pubDate>Fri, 15 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>15.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0115/TV-20160115-2027-5001.webl.h264.mp4</link>
+			<description>Themen der Sendung: MinisterprÃ¤sident Weil fordert Kurswechsel in der FlÃ¼chtlingspolitik, EU streitet Ã¼ber Finanzierung der FlÃ¼chtlingskrise, Bundestag diskutiert &quot;Girokonto fÃ¼r Alle&quot;, Opposition in NRW fordert Untersuchungsausschuss zu Silvester-Ãbergriffen, Bornheim verweigert FlÃ¼chtlingen Zutritt zu Schwimmbad, Medikamententest in Frankreich endet tragisch, Indonesische Polizei identifiziert zwei AttentÃ¤ter, Agrarmesse &quot;GrÃ¼ne Woche&quot; beginnt in Berlin, Tote Pottwale werden geborgen, Berliner gedenken David Bowie, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0115/TV-20160115-2027-5001.webl.h264.mp4"/>
+			<pubDate>Fri, 15 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 14.01.2016</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160114_sdg_m_16_9_512x288.mp4?url=3</link>
@@ -127,27 +141,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 10.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/68/45/06/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ VideoÃ¼berwachung: Henkel will LÃ¤ngere Speicherfristen +++ Zweifelhafte Vergabepraxis bei Baugrund +++ FÃ¼hrung durch die Hansastudios +++ 25 Jahre Abgeordnetenhaus: Gesetzgebung und VerfassungsÃ¤nderungen +++ Sonntagsfrage: KÃ¤ranlagen in Berlin +++ U-Bahn fahren unten ohne +++&lt;/p&gt;&lt;p&gt;10.01.2016 | 29:00 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-10-01-2016/rbb-Fernsehen/Video?documentId=32684494&amp;bcastId=3822076&quot;&gt;Abendschau vom 10.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ VideoÃ¼berwachung: Henkel will LÃ¤ngere Speicherfristen +++ Zweifelhafte Vergabepraxis bei Baugrund +++ FÃ¼hrung durch die Hansastudios +++ 25 Jahre Abgeordnetenhaus: Gesetzgebung und VerfassungsÃ¤nderungen +++ Sonntagsfrage: KÃ¤ranlagen in Berlin +++ U-Bahn fahren unten ohne +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/79ee6b2e-09aa-4d44-b429-6858888fc422_1d08491d-cd5e-451f-961d-05b837a0fec1.mp4?url=6"/>
 			<pubDate>Sun, 10 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 09.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/deafb43c-c80c-49de-85ff-9deaa8d239cf_05c53b65-08e0-4b3f-8b69-2ac876f4524a.mp4?url=6</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 09.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/67/37/74/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Polen demonstrieren fÃ¼r Pressefreiheit +++ Yzer bei der IHK +++ Masern: Eltern impfen verboten! +++ Museums-FÃ¼hrungen fÃ¼r FlÃ¼chtlinge +++ Serie &quot;25 Jahre Abgeordnetenhaus: Das Parlament und der PreuÃische Landtag +++ Gleich nebenan: &quot;Kumpel und Keule&quot; +++&lt;/p&gt;&lt;p&gt;09.01.2016 | 29:03 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-09-01-2016/rbb-Fernsehen/Video?documentId=32673762&amp;bcastId=3822076&quot;&gt;Abendschau vom 09.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Polen demonstrieren fÃ¼r Pressefreiheit +++ Yzer bei der IHK +++ Masern: Eltern impfen verboten! +++ Museums-FÃ¼hrungen fÃ¼r FlÃ¼chtlinge +++ Serie &quot;25 Jahre Abgeordnetenhaus: Das Parlament und der PreuÃische Landtag +++ Gleich nebenan: &quot;Kumpel und Keule&quot; +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/deafb43c-c80c-49de-85ff-9deaa8d239cf_05c53b65-08e0-4b3f-8b69-2ac876f4524a.mp4?url=6"/>
-			<pubDate>Sat, 09 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.01.2016 21:26 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0109/TV-100s-2126.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:26 Uhr vom 09.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0109/TV-100s-2126.webl.h264.mp4"/>
-			<pubDate>Sat, 09 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0109/TV-20160109-2108-1701.webl.h264.mp4</link>
-			<description>Themen der Sendung: Proteste gegen Ãbergriffe an Silvester in KÃ¶ln aufgelÃ¶st, CDU will Konsequenzen nach KÃ¶lner Ãbergriffen, SPD-Chef Gabriel trifft kubanischen PrÃ¤sidenten Castro, Regierungsbildung in Katalonien gelungen, Proteste gegen neues Mediengesetz in Polen, Ausschreitungen bei Protesten gegen Regierung in Kosovo, Gedenken an Geiselnahme in Paris, Viele Tote bei russischem Luftangriff in Syrien, Anschlag auf Hotel in Ãgypten, Mexikanischer Drogenboss zurÃ¼ck im GefÃ¤ngnis, Schauspielerin Maja Maranow gestorben, Laura Dahlheimer siegt beim Biathlon in Ruhpolding, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0109/TV-20160109-2108-1701.webl.h264.mp4"/>
-			<pubDate>Sat, 09 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
