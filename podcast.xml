@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 15 Jan 2016 21:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 15 Jan 2016 21:30:05 GMT</lastBuildDate>
+		<pubDate>Sat, 16 Jan 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 16 Jan 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0115/TV-20160115-2027-5001.webl.h264.mp4</link>
 			<description>Themen der Sendung: MinisterprÃ¤sident Weil fordert Kurswechsel in der FlÃ¼chtlingspolitik, EU streitet Ã¼ber Finanzierung der FlÃ¼chtlingskrise, Bundestag diskutiert &quot;Girokonto fÃ¼r Alle&quot;, Opposition in NRW fordert Untersuchungsausschuss zu Silvester-Ãbergriffen, Bornheim verweigert FlÃ¼chtlingen Zutritt zu Schwimmbad, Medikamententest in Frankreich endet tragisch, Indonesische Polizei identifiziert zwei AttentÃ¤ter, Agrarmesse &quot;GrÃ¼ne Woche&quot; beginnt in Berlin, Tote Pottwale werden geborgen, Berliner gedenken David Bowie, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0115/TV-20160115-2027-5001.webl.h264.mp4"/>
+			<pubDate>Fri, 15 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 15.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/df508068-78bf-4531-b1a0-4a4578e7968b_3cd48b66-1aa2-4f62-af77-a99faf507f2b.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 15.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/80/14/28/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Quo vadis Schloss +++ Rigaer StraÃe +++ Nachrichten +++ Air Berlin +++ Jahresbilanz Sozialgericht +++ Winterklausur Berliner GrÃ¼nen +++ Kleiner Waffenschein +++ 25 Jahre Abgeordnetenhaus +++ Trauer um Bowie +++ Ausflugstipp: Zitadelle Spandau +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;15.01.2016 | 29:18 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-15-01-2016/rbb-Fernsehen/Video?documentId=32801416&amp;bcastId=3822076&quot;&gt;Abendschau vom 15.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Quo vadis Schloss +++ Rigaer StraÃe +++ Nachrichten +++ Air Berlin +++ Jahresbilanz Sozialgericht +++ Winterklausur Berliner GrÃ¼nen +++ Kleiner Waffenschein +++ 25 Jahre Abgeordnetenhaus +++ Trauer um Bowie +++ Ausflugstipp: Zitadelle Spandau +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/df508068-78bf-4531-b1a0-4a4578e7968b_3cd48b66-1aa2-4f62-af77-a99faf507f2b.mp4?url=1"/>
 			<pubDate>Fri, 15 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
