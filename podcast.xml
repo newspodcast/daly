@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 16 Jan 2016 21:30:06 GMT</pubDate>
-		<lastBuildDate>Sat, 16 Jan 2016 21:30:06 GMT</lastBuildDate>
+		<pubDate>Sun, 17 Jan 2016 00:30:06 GMT</pubDate>
+		<lastBuildDate>Sun, 17 Jan 2016 00:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2016/0116/TV-20160116-2039-2301.webl.h264.mp4</link>
 			<description>Themen der Sendung: Tote bei Terrorangriff auf Hotel in Burkina Faso, Widerstand gegen SchÃ¤ubles FinanzierungsplÃ¤ne in der FlÃ¼chtlingskrise, Merkel sieht EU-Beitritt der TÃ¼rkei in weiter Ferne, Deutsche Todesopfer des Anschlags in Istanbul treffen in Berlin ein, Bericht zum  Atomabkommen mit Iran, Oppositionspolitikerin Tsai Ing-wen gewinnt PrÃ¤sidentenwahl in Taiwan, GrÃ¼ne Woche in Berlin erÃ¶ffnet fÃ¼r Besucher, Ergebnisse der Handball-EM, Biathlet Erik Lesser gewinnt zweiten Weltcupsieg, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0116/TV-20160116-2039-2301.webl.h264.mp4"/>
+			<pubDate>Sat, 16 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.01.2016 23:23 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0116/TV-100s-2323.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:23 Uhr vom 16.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0116/TV-100s-2323.webl.h264.mp4"/>
 			<pubDate>Sat, 16 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
