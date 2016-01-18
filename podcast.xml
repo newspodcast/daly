@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 18 Jan 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 18 Jan 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 18 Jan 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Mon, 18 Jan 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 18.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/9c2dced5-8883-44ed-af75-ccd0b028ace7_1cd89e64-3b02-4f83-bcc8-be42c6a158c5.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 18.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/84/22/82/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Geisel wÃ¼nscht sich neuen Bau-Boom +++ LÃ¶sungen in der FlÃ¼chtlingskrise +++ Dialog mit Anwohnern Ã¼ber Turnhallennutzung +++ Wieder Leben im ehemaligen Hotel Bogota +++ Fluchtpunkt Balkan +++ Fashion Week startet in Berlin +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;18.01.2016 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-18-01-2016-19-30/rbb-Fernsehen/Video?documentId=32842270&amp;bcastId=3822076&quot;&gt;Abendschau 18.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Geisel wÃ¼nscht sich neuen Bau-Boom +++ LÃ¶sungen in der FlÃ¼chtlingskrise +++ Dialog mit Anwohnern Ã¼ber Turnhallennutzung +++ Wieder Leben im ehemaligen Hotel Bogota +++ Fluchtpunkt Balkan +++ Fashion Week startet in Berlin +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/9c2dced5-8883-44ed-af75-ccd0b028ace7_1cd89e64-3b02-4f83-bcc8-be42c6a158c5.mp4?url=1"/>
+			<pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.01.2016 20:55 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0118/TV-100s-2055.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 20:55 Uhr vom 18.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0118/TV-100s-2055.webl.h264.mp4"/>
+			<pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.01.2016 - tagesschau 15:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0118/TV-20160118-2021-2501.webl.h264.mp4</link>
+			<description>Themen der Sendung: SPD und Union diskutieren Ã¼ber die derzeitige FlÃ¼chtlingspolitik, Nach Ãbergriffen in KÃ¶ln: Erster TatverdÃ¤chtiger in Untersuchungshaft , FlÃ¼chtlinge auf Balkanroute frieren im Schnee, Griechischer PrÃ¤sident auf Staatsbesuch in Berlin, EU-AuÃenminister beraten Ã¼ber Grenzsicherung, Antrittsbesuch des polnischen PrÃ¤sidenten Duda in BrÃ¼ssel, VW will frÃ¼heren FBI-Chef als Sonderbeauftragten einsetzen, Letzte TV-Debatte der US-Demokraten, Facebook verstÃ¤rkt seine Anstrengungen gegen Hasskommentare, Oxfam-Bericht prangert soziale Ungleichheit an, Erster Feinstaub-Alarm in Stuttgart, HoeneÃ vorzeitig aus Haft entlassen, Vorbericht zur Handball-EM in Polen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0118/TV-20160118-2021-2501.webl.h264.mp4"/>
+			<pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>17.01.2016 21:06 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0117/TV-100s-2106.webl.h264.mp4</link>
@@ -28,6 +49,13 @@
 			<link>http://media.tagesschau.de/video/2016/0117/TV-20160117-2059-3701.webl.h264.mp4</link>
 			<description>Themen der Sendung: Umsetzung des Iran-Abkommens, Reaktionen auf Iran-Einigung, Offenbar IS-Offensive in syrischer Stadt Deir al-Sor, Angelus-Gebet fÃ¼r FlÃ¼chtlinge im Vatikan, Union will Asylbewerber aus Nordafrika offenbar schneller abschieben, Klausurtagung des SPD-Vorstands, Maas lÃ¤dt zum Gipfel gegen rechte Gewalt, Feierlichkeiten in Kulturhauptstadt Breslau beginnen, Wintersport, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0117/TV-20160117-2059-3701.webl.h264.mp4"/>
+			<pubDate>Sun, 17 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 17.01.2016</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160117_sdg_m_16_9_512x288.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 17.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/82/71/62/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Erneuter Einsatz in der Rigaer StraÃe +++ AfD - Parteitag +++ BÃ¼rorÃ¤ume als Mangelware +++ Nachrichten +++ TaschendiebstÃ¤hle am Bahnhof Messe/Nord +++ Gaumen-Exoten auf der GrÃ¼nen Woche +++ Sonntagsfrage +++ Schnee in Berlin +++ Moderation: Cathrin BÃ¶hme Â &lt;/p&gt;&lt;p&gt;17.01.2016 | 29:21 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-17-01-2016/rbb-Fernsehen/Video?documentId=32827150&amp;bcastId=3822076&quot;&gt;Abendschau vom 17.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Erneuter Einsatz in der Rigaer StraÃe +++ AfD - Parteitag +++ BÃ¼rorÃ¤ume als Mangelware +++ Nachrichten +++ TaschendiebstÃ¤hle am Bahnhof Messe/Nord +++ Gaumen-Exoten auf der GrÃ¼nen Woche +++ Sonntagsfrage +++ Schnee in Berlin +++ Moderation: Cathrin BÃ¶hme Â &lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160117_sdg_m_16_9_512x288.mp4?url=3"/>
 			<pubDate>Sun, 17 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -127,27 +155,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 13.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/75/76/02/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Zehn Deutsche in Istanbul getÃ¶tet +++ Terrorangst: Reisen in die TÃ¼rkei? +++ Der Senat plant das politische Jahr 2016 +++ Die GrÃ¼ne Woche ohne Russland +++ IHK-Analyse: Berliner Industriestandorte +++ Serie 25 Jahre Abgeordnetenhaus: Die Protokollanten +++&lt;/p&gt;&lt;p&gt;13.01.2016 | 29:28 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-13-01-2016/rbb-Fernsehen/Video?documentId=32757590&amp;bcastId=3822076&quot;&gt;Abendschau vom 13.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Zehn Deutsche in Istanbul getÃ¶tet +++ Terrorangst: Reisen in die TÃ¼rkei? +++ Der Senat plant das politische Jahr 2016 +++ Die GrÃ¼ne Woche ohne Russland +++ IHK-Analyse: Berliner Industriestandorte +++ Serie 25 Jahre Abgeordnetenhaus: Die Protokollanten +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/b3e5b1d6-9820-48ea-a622-4bd43d3621a8_594bfba9-a566-4629-aab5-dd9afd1e07d9.mp4?url=6"/>
 			<pubDate>Wed, 13 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.01.2016 21:05 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0112/TV-100s-2105.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 12.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0112/TV-100s-2105.webl.h264.mp4"/>
-			<pubDate>Tue, 12 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0112/TV-20160112-2023-5801.webl.h264.mp4</link>
-			<description>Themen der Sendung: Terroranschlag in Istanbul: Acht Deutsche unter den Todesopfern, Merkel bezeichnet Anschlag als &amp;#8222;mÃ¶rderischen Akt&amp;#8220;, Koalition einigt sich auf schÃ¤rfere Abschiebe-Gesetze fÃ¼r kriminelle AuslÃ¤nder, CSU will Liste der sicheren Herkunftsstaaten deutlich erweitern, &quot;Gutmensch&quot; Unwort des Jahres, Hooligan-Krawalle nach &quot;Pegida&quot;-Demonstration in Leipzig, Gabriel ermÃ¶glicht Edeka-Tengelmann-Fusion, Kinostar der Nachkriegszeit Ruth Leuwerik gestorben, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0112/TV-20160112-2023-5801.webl.h264.mp4"/>
-			<pubDate>Tue, 12 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 12.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/05e9415e-310c-421d-96c7-9bebacf1773a_a539c3cb-a0cb-4cb9-ab24-eba686f7b9a2.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 12.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/73/54/66/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Terroranschlag in Istanbul +++ Gabriel stellt Bedingungen fÃ¼r Kaiser's Ãbernahme +++ SexualtÃ¤ter zu Haftstrafe verurteilt +++ Debatte um Residenzpflicht +++ Neue Datenschutzbeauftragte fÃ¼r Berlin +++ BER-Baufirmen im Roten Rathaus +++ Wie funktioniert Stadtpolitik? +++ ARD-Serie: Die Stadt und die Macht +++&lt;/p&gt;&lt;p&gt;12.01.2016 | 29:28 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-12-01-2016-19-30/rbb-Fernsehen/Video?documentId=32735454&amp;bcastId=3822076&quot;&gt;Abendschau 12.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Terroranschlag in Istanbul +++ Gabriel stellt Bedingungen fÃ¼r Kaiser's Ãbernahme +++ SexualtÃ¤ter zu Haftstrafe verurteilt +++ Debatte um Residenzpflicht +++ Neue Datenschutzbeauftragte fÃ¼r Berlin +++ BER-Baufirmen im Roten Rathaus +++ Wie funktioniert Stadtpolitik? +++ ARD-Serie: Die Stadt und die Macht +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/05e9415e-310c-421d-96c7-9bebacf1773a_a539c3cb-a0cb-4cb9-ab24-eba686f7b9a2.mp4?url=1"/>
-			<pubDate>Tue, 12 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
