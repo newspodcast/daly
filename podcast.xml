@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 19 Jan 2016 21:30:07 GMT</pubDate>
-		<lastBuildDate>Tue, 19 Jan 2016 21:30:07 GMT</lastBuildDate>
+		<pubDate>Wed, 20 Jan 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 20 Jan 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0119/TV-20160119-2032-0701.webl.h264.mp4</link>
 			<description>Themen der Sendung: Unionspolitiker fordern Kurswechsel in FlÃ¼chtlingspolitik, Aktuelle FlÃ¼chtlingszahlen, Bundesregierung will Patenschaften fÃ¼r FlÃ¼chtlinge fÃ¶rdern, Debatte Ã¼ber Reformen in Polen, Diskussion Ã¼ber Sicherheit fÃ¼r Juden in Deutschland, Neuer KÃ¶lner PolizeiprÃ¤sident benannt, Neue RAF-Spuren aufgetaucht, Urteil des BGH zu vorzeitiger KÃ¼ndigung von Immobilienkrediten, Eagles-MitbegrÃ¼nder Glenn Frey gestorben, Schriftsteller Michel Tournier gestorben, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0119/TV-20160119-2032-0701.webl.h264.mp4"/>
+			<pubDate>Tue, 19 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 19.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/bf0984e1-5b2d-46c6-929e-353457f4ade0_e0203d01-039e-4c2b-b76f-0343462765bb.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 19.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/86/42/12/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Delius flirtet mit Linkspartei +++ Aktion zur Beschlagnahmung von Ferienwohnungen +++ Sabine Kunst ist neue PrÃ¤sidentin der Humboldt-Uni +++ Â Blick vom neuen Upper West-Hochhaus +++ Mobile StraÃenschilder werden hÃ¶her +++ Fluchtpunkt Berlin: Die Hugenotten +++ Auftakt zur Fashionweek +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;19.01.2016 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-19-01-2016-19-30/rbb-Fernsehen/Video?documentId=32864200&amp;bcastId=3822076&quot;&gt;Abendschau 19.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Delius flirtet mit Linkspartei +++ Aktion zur Beschlagnahmung von Ferienwohnungen +++ Sabine Kunst ist neue PrÃ¤sidentin der Humboldt-Uni +++ Â Blick vom neuen Upper West-Hochhaus +++ Mobile StraÃenschilder werden hÃ¶her +++ Fluchtpunkt Berlin: Die Hugenotten +++ Auftakt zur Fashionweek +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/bf0984e1-5b2d-46c6-929e-353457f4ade0_e0203d01-039e-4c2b-b76f-0343462765bb.mp4?url=1"/>
 			<pubDate>Tue, 19 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
