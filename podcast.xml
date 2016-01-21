@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 21 Jan 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 21 Jan 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 21 Jan 2016 21:30:08 GMT</pubDate>
+		<lastBuildDate>Thu, 21 Jan 2016 21:30:08 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 21.01.2016</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160121_sdg_m_16_9_512x288.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 21.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/90/86/06/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Trauer am U-Bahnhof +++ Berliner BÃ¼rgerÃ¤mter vorÃ¼bergehend geschlossen +++ Berliner BÃ¼rgerÃ¤mter vorÃ¼bergehend geschlossen +++ Delius unterstÃ¼tzt LinksparteiÂ  +++ Nachrichten I +++ Datenleck: Banken tauschen tausende Kreditkarten aus +++ Fluchtpunkt Berlin: Vor dem Mauerbau +++ Grimme Preis: rbb sechs Mal nominiert +++ Nachrichten II +++ Meisterwerke in neuem Glanz +++ Das WetterÂ &lt;/p&gt;&lt;p&gt;21.01.2016 | 29:07 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-01-2016-19-30/rbb-Fernsehen/Video?documentId=32908594&amp;bcastId=3822076&quot;&gt;Abendschau 21.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Trauer am U-Bahnhof +++ Berliner BÃ¼rgerÃ¤mter vorÃ¼bergehend geschlossen +++ Berliner BÃ¼rgerÃ¤mter vorÃ¼bergehend geschlossen +++ Delius unterstÃ¼tzt LinksparteiÂ  +++ Nachrichten I +++ Datenleck: Banken tauschen tausende Kreditkarten aus +++ Fluchtpunkt Berlin: Vor dem Mauerbau +++ Grimme Preis: rbb sechs Mal nominiert +++ Nachrichten II +++ Meisterwerke in neuem Glanz +++ Das WetterÂ &lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160121_sdg_m_16_9_512x288.mp4?url=3"/>
+			<pubDate>Thu, 21 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>21.01.2016 21:15 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0121/TV-100s-2115.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:15 Uhr vom 21.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0121/TV-100s-2115.webl.h264.mp4"/>
+			<pubDate>Thu, 21 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>21.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0121/TV-20160121-2023-1101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Koalitionsstreit Ã¼ber Kurs in der FlÃ¼chtlingspolitik, FlÃ¼chtlingskrise bestimmt Weltwirtschaftsforum in Davos, Von der Leyen unterstreicht Bedeutung deutsch-tÃ¼rkischer Zusammenarbeit bei TÃ¼rkei-Besuch, Prozessbeginn gegen mutmaÃlichen Islamisten, Britischer Untersuchungsbericht: Putin vermutlich in Litwinenko-Mord verwickelt, NSU-Prozess: ZschÃ¤pe beschreibt sich als machtlos gegen BÃ¶hnhardt und Mundlos, Streit Ã¼ber TV-Debatte vor Landtagswahl in Rheinland-Pfalz, Deutsche Bank rechnet mit Rekordverlust, Erfolg fÃ¼r UmweltschÃ¼tzer: Bau von Hochspannungsleitung durch Uckermark gestoppt, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0121/TV-20160121-2023-1101.webl.h264.mp4"/>
+			<pubDate>Thu, 21 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>20.01.2016 21:13 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0120/TV-100s-2113.webl.h264.mp4</link>
@@ -87,6 +108,13 @@
 			<pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
+			<title>18.01.2016 - tagesschau 15:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0121/TV-20160121-0959-4301.webl.h264.mp4</link>
+			<description>Themen der Sendung: SPD und Union diskutieren Ã¼ber die derzeitige FlÃ¼chtlingspolitik, Nach Ãbergriffen in KÃ¶ln: Erster TatverdÃ¤chtiger in Untersuchungshaft , FlÃ¼chtlinge auf Balkanroute frieren im Schnee, Griechischer PrÃ¤sident auf Staatsbesuch in Berlin, EU-AuÃenminister beraten Ã¼ber Grenzsicherung, Antrittsbesuch des polnischen PrÃ¤sidenten Duda in BrÃ¼ssel, VW will frÃ¼heren FBI-Chef als Sonderbeauftragten einsetzen, Letzte TV-Debatte der US-Demokraten, Facebook verstÃ¤rkt seine Anstrengungen gegen Hasskommentare, Oxfam-Bericht prangert soziale Ungleichheit an, Erster Feinstaub-Alarm in Stuttgart, HoeneÃ vorzeitig aus Haft entlassen, Vorbericht zur Handball-EM in Polen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0121/TV-20160121-0959-4301.webl.h264.mp4"/>
+			<pubDate>Mon, 18 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
 			<title>17.01.2016 21:06 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0117/TV-100s-2106.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:06 Uhr vom 17.01.2016</description>
@@ -134,27 +162,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:23 Uhr vom 16.01.2016</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0116/TV-100s-2323.webl.h264.mp4"/>
 			<pubDate>Sat, 16 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.01.2016 21:08 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0115/TV-100s-2108.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:08 Uhr vom 15.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0115/TV-100s-2108.webl.h264.mp4"/>
-			<pubDate>Fri, 15 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0115/TV-20160115-2027-5001.webl.h264.mp4</link>
-			<description>Themen der Sendung: MinisterprÃ¤sident Weil fordert Kurswechsel in der FlÃ¼chtlingspolitik, EU streitet Ã¼ber Finanzierung der FlÃ¼chtlingskrise, Bundestag diskutiert &quot;Girokonto fÃ¼r Alle&quot;, Opposition in NRW fordert Untersuchungsausschuss zu Silvester-Ãbergriffen, Bornheim verweigert FlÃ¼chtlingen Zutritt zu Schwimmbad, Medikamententest in Frankreich endet tragisch, Indonesische Polizei identifiziert zwei AttentÃ¤ter, Agrarmesse &quot;GrÃ¼ne Woche&quot; beginnt in Berlin, Tote Pottwale werden geborgen, Berliner gedenken David Bowie, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0115/TV-20160115-2027-5001.webl.h264.mp4"/>
-			<pubDate>Fri, 15 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 15.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/df508068-78bf-4531-b1a0-4a4578e7968b_3cd48b66-1aa2-4f62-af77-a99faf507f2b.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 15.01.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/80/14/28/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Quo vadis Schloss +++ Rigaer StraÃe +++ Nachrichten +++ Air Berlin +++ Jahresbilanz Sozialgericht +++ Winterklausur Berliner GrÃ¼nen +++ Kleiner Waffenschein +++ 25 Jahre Abgeordnetenhaus +++ Trauer um Bowie +++ Ausflugstipp: Zitadelle Spandau +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;15.01.2016 | 29:18 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-15-01-2016/rbb-Fernsehen/Video?documentId=32801416&amp;bcastId=3822076&quot;&gt;Abendschau vom 15.01.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Quo vadis Schloss +++ Rigaer StraÃe +++ Nachrichten +++ Air Berlin +++ Jahresbilanz Sozialgericht +++ Winterklausur Berliner GrÃ¼nen +++ Kleiner Waffenschein +++ 25 Jahre Abgeordnetenhaus +++ Trauer um Bowie +++ Ausflugstipp: Zitadelle Spandau +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/df508068-78bf-4531-b1a0-4a4578e7968b_3cd48b66-1aa2-4f62-af77-a99faf507f2b.mp4?url=1"/>
-			<pubDate>Fri, 15 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
