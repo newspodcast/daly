@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 22 Jan 2016 21:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 22 Jan 2016 21:30:05 GMT</lastBuildDate>
+		<pubDate>Sat, 23 Jan 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sat, 23 Jan 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2016/0122/TV-20160122-2036-1801.webl.h264.mp4</link>
 			<description>Themen der Sendung: TÃ¼rkei sichert Merkel UnterstÃ¼tzung bei Kurs in FlÃ¼chtlingspolitik zu, WirtschaftsverbÃ¤nde betonen Wichtigkeit offener Grenzen in Europa, Grenzkontrollen: Bundespolizei warnt vor Ãberlastung, USA bitten NATO um AWACS-AufklÃ¤rungsflugzeuge, Offenbar mindestens 17 Tote bei Terroranschlag in Somalia, Andauernde Unruhen in Tunesien, IWF-Chefin Lagarde kandidiert fÃ¼r zweite Amtszeit, Einigung im Lufthansa-Tarifstreit, Handball-EM: Deutschland gewinnt gegen Ungarn, Biathlon-Weltcup: Schempp gewinnt in Antholz, UEFA will Torlinientechnik einfÃ¼hren, RÃ¼ckrundenstart der FuÃball-Bundesliga, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0122/TV-20160122-2036-1801.webl.h264.mp4"/>
+			<pubDate>Fri, 22 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>22.01.2016 22:48 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0122/TV-100s-2248.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:48 Uhr vom 22.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0122/TV-100s-2248.webl.h264.mp4"/>
 			<pubDate>Fri, 22 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
