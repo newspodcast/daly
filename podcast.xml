@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 25 Jan 2016 21:30:07 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Jan 2016 21:30:07 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Jan 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Jan 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0125/TV-20160125-2021-3001.webl.h264.mp4</link>
 			<description>Themen der Sendung: SPD erteilt KlÃ¶ckner-Konzept Absage, EU-Innenminister beraten Ã¼ber Grenzkontrollen, Europol warnt vor IS-TerroranschlÃ¤gen, UN-FriedensgesprÃ¤che in Genf verschoben, Portugal wÃ¤hlt neuen PrÃ¤sidenten, Iranischer PrÃ¤sident Rouhani besucht Rom, Schnellere Termine fÃ¼r Kassenpatienten, Deutsche Umwelthilfe verklagt Kraftfahrt-Bundesamt, 2015 weltweit wÃ¤rmstes Jahr, KÃ¤ltewelle in SÃ¼dasien, HSV Handball stellt Betrieb ein, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0125/TV-20160125-2021-3001.webl.h264.mp4"/>
+			<pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 25.01.2016</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160125_sdg_m_16_9_512x288.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 25.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/97/65/64/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Hungernde FlÃ¼chtlinge in Berlin +++Â Innenausschuss: Fragen zu GroÃeinsatz +++ &quot;Berlin Partner&quot; mit Wirtschaftsbilanz +++ WÃ¼rth mit &quot;Competence Center&quot; +++ SchÃ¼ler demonstrieren fÃ¼r mehr Schulen +++ Ausstellung zu Holocaust-Kunst erÃ¶ffnet +++ &quot;DankeschÃ¶n&quot;-Tag in Berlin +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;25.01.2016 | 29:26 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-25-01-2016-19-30/rbb-Fernsehen/Video?documentId=32976552&amp;bcastId=3822076&quot;&gt;Abendschau 25.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Hungernde FlÃ¼chtlinge in Berlin +++Â Innenausschuss: Fragen zu GroÃeinsatz +++ &quot;Berlin Partner&quot; mit Wirtschaftsbilanz +++ WÃ¼rth mit &quot;Competence Center&quot; +++ SchÃ¼ler demonstrieren fÃ¼r mehr Schulen +++ Ausstellung zu Holocaust-Kunst erÃ¶ffnet +++ &quot;DankeschÃ¶n&quot;-Tag in Berlin +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160125_sdg_m_16_9_512x288.mp4?url=3"/>
 			<pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
