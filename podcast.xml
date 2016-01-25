@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 25 Jan 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 25 Jan 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Jan 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Mon, 25 Jan 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>25.01.2016 21:08 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0125/TV-100s-2108.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:08 Uhr vom 25.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0125/TV-100s-2108.webl.h264.mp4"/>
+			<pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>25.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0125/TV-20160125-2021-3001.webl.h264.mp4</link>
+			<description>Themen der Sendung: SPD erteilt KlÃ¶ckner-Konzept Absage, EU-Innenminister beraten Ã¼ber Grenzkontrollen, Europol warnt vor IS-TerroranschlÃ¤gen, UN-FriedensgesprÃ¤che in Genf verschoben, Portugal wÃ¤hlt neuen PrÃ¤sidenten, Iranischer PrÃ¤sident Rouhani besucht Rom, Schnellere Termine fÃ¼r Kassenpatienten, Deutsche Umwelthilfe verklagt Kraftfahrt-Bundesamt, 2015 weltweit wÃ¤rmstes Jahr, KÃ¤ltewelle in SÃ¼dasien, HSV Handball stellt Betrieb ein, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0125/TV-20160125-2021-3001.webl.h264.mp4"/>
+			<pubDate>Mon, 25 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 24.01.2016</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160124_sdg_m_16_9_512x288.mp4?url=3</link>
@@ -127,27 +141,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 20.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/89/07/96/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Mann schubst Frau vor U-Bahn +++ Gewalt und Hetze gegen FlÃ¼chtlinge nimmt zu +++ Bald 7000 FlÃ¼chtlinge in Tempelhof +++ Musical-Theater am Potsdamer Platz schlieÃt +++ Skepsis gegen grÃ¶Ãten Immobiliendeal Deutschlands +++ Fitnesskette Hard Candy macht wieder Ãrger +++ Verlierer des Zweiten Weltkriegs +++ 50 Jahre 1. FC Union Berlin +++ Fashion Week Berlin +++&lt;/p&gt;&lt;p&gt;20.01.2016 | 29:20 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-20-01-2016-19-30/rbb-Fernsehen/Video?documentId=32890784&amp;bcastId=3822076&quot;&gt;Abendschau 20.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Mann schubst Frau vor U-Bahn +++ Gewalt und Hetze gegen FlÃ¼chtlinge nimmt zu +++ Bald 7000 FlÃ¼chtlinge in Tempelhof +++ Musical-Theater am Potsdamer Platz schlieÃt +++ Skepsis gegen grÃ¶Ãten Immobiliendeal Deutschlands +++ Fitnesskette Hard Candy macht wieder Ãrger +++ Verlierer des Zweiten Weltkriegs +++ 50 Jahre 1. FC Union Berlin +++ Fashion Week Berlin +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/09bcea36-a0c0-43b2-99d8-6d2b6e2716a3_8d359bf8-9361-43a7-89e7-5e19a17008c9.mp4?url=1"/>
 			<pubDate>Wed, 20 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.01.2016 21:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0119/TV-100s-2114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 19.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0119/TV-100s-2114.webl.h264.mp4"/>
-			<pubDate>Tue, 19 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>19.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0119/TV-20160119-2032-0701.webl.h264.mp4</link>
-			<description>Themen der Sendung: Unionspolitiker fordern Kurswechsel in FlÃ¼chtlingspolitik, Aktuelle FlÃ¼chtlingszahlen, Bundesregierung will Patenschaften fÃ¼r FlÃ¼chtlinge fÃ¶rdern, Debatte Ã¼ber Reformen in Polen, Diskussion Ã¼ber Sicherheit fÃ¼r Juden in Deutschland, Neuer KÃ¶lner PolizeiprÃ¤sident benannt, Neue RAF-Spuren aufgetaucht, Urteil des BGH zu vorzeitiger KÃ¼ndigung von Immobilienkrediten, Eagles-MitbegrÃ¼nder Glenn Frey gestorben, Schriftsteller Michel Tournier gestorben, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0119/TV-20160119-2032-0701.webl.h264.mp4"/>
-			<pubDate>Tue, 19 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 19.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/bf0984e1-5b2d-46c6-929e-353457f4ade0_e0203d01-039e-4c2b-b76f-0343462765bb.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 19.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/86/42/12/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Delius flirtet mit Linkspartei +++ Aktion zur Beschlagnahmung von Ferienwohnungen +++ Sabine Kunst ist neue PrÃ¤sidentin der Humboldt-Uni +++ Â Blick vom neuen Upper West-Hochhaus +++ Mobile StraÃenschilder werden hÃ¶her +++ Fluchtpunkt Berlin: Die Hugenotten +++ Auftakt zur Fashionweek +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;19.01.2016 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-19-01-2016-19-30/rbb-Fernsehen/Video?documentId=32864200&amp;bcastId=3822076&quot;&gt;Abendschau 19.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Delius flirtet mit Linkspartei +++ Aktion zur Beschlagnahmung von Ferienwohnungen +++ Sabine Kunst ist neue PrÃ¤sidentin der Humboldt-Uni +++ Â Blick vom neuen Upper West-Hochhaus +++ Mobile StraÃenschilder werden hÃ¶her +++ Fluchtpunkt Berlin: Die Hugenotten +++ Auftakt zur Fashionweek +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/bf0984e1-5b2d-46c6-929e-353457f4ade0_e0203d01-039e-4c2b-b76f-0343462765bb.mp4?url=1"/>
-			<pubDate>Tue, 19 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
