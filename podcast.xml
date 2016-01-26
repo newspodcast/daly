@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 26 Jan 2016 21:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 26 Jan 2016 21:30:05 GMT</lastBuildDate>
+		<pubDate>Wed, 27 Jan 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Wed, 27 Jan 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2016/0126/TV-20160126-2022-4901.webl.h264.mp4</link>
 			<description>Themen der Sendung: Wehrbeauftragter kritisiert Mangelwirtschaft bei der Truppe, Asylstreit belastet Koalition immer stÃ¤rker, Griechenland ist mit seinen &quot;Hotspots&quot; im RÃ¼ckstand, DÃ¤nemark beschlieÃt umstrittene VerschÃ¤rfung des Asylrechts, Wieder Tausende &quot;Pegida&quot;-Demonstranten in Dresden, Lawrow wirft Berliner Polizei &quot;Vertuschung&quot; vor, Abgeordnete dÃ¼rfen TTIP-Dokumente einsehen, Papst fordert Einsatz Irans fÃ¼r den Frieden, Prozess im Fall Hatun SÃ¼rÃ¼cÃ¼ beginnt in Istanbul, Abwanderung aus dem Osten gestoppt, Merkel verleiht &quot;Sterne des Sports&quot;, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0126/TV-20160126-2022-4901.webl.h264.mp4"/>
+			<pubDate>Tue, 26 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>26.01.2016 21:31 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0126/TV-100s-2131.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:31 Uhr vom 26.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0126/TV-100s-2131.webl.h264.mp4"/>
 			<pubDate>Tue, 26 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
