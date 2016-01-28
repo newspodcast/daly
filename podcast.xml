@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 28 Jan 2016 21:30:06 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Jan 2016 21:30:06 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Jan 2016 00:30:05 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Jan 2016 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0128/TV-20160128-2025-1401.webl.h264.mp4</link>
 			<description>Themen der Sendung: Erste Einigung zur FlÃ¼chtlingspolitik, Schwedens Innenminister kÃ¼ndigt Massenausweisungen an, Iranischer PrÃ¤sident Rouhani fÃ¼r GesprÃ¤che in Paris, Ausweitung von BundeswehreinsÃ¤tzen in Mali und im Irak, Aachen klagt gegen belgisches AKW Tilhange, EU-Gesetzespaket gegen SteuerschlupflÃ¶cher,  Deutsche Bank legt Jahresbilanz vor, WHO zu Zika-Epidemie, Tipps zum Schutz vor Zika-Virus auf tagesschau.de, Kerber im Grand-Slam-Finale, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0128/TV-20160128-2025-1401.webl.h264.mp4"/>
+			<pubDate>Thu, 28 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 28.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/41102428-0609-4c7e-8b86-5f5b10aeeb2a_7a2b7113-3964-4580-a9c4-8181fe6b753d.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 28.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/04/55/02/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Brandgutachten zu ermordeter Schwangerer +++ FlÃ¼chtlingstod von Helfer erfunden +++ Morgens am LaGeSo +++Â Sonderkonferenz der MinisterprÃ¤sidenten +++ Tempelhofgesetz geÃ¤ndert +++ Manche OlivenÃ¶le mit krebserregenden Stoffen +++Serie Innovationsstandort: Das Unternehmen 'King Game' +++ 'Sixdays' wieder in Berlin +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;28.01.2016 | 28:43 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-28-01-2016-19-30/rbb-Fernsehen/Video?documentId=33045490&amp;bcastId=3822076&quot;&gt;Abendschau 28.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Brandgutachten zu ermordeter Schwangerer +++ FlÃ¼chtlingstod von Helfer erfunden +++ Morgens am LaGeSo +++Â Sonderkonferenz der MinisterprÃ¤sidenten +++ Tempelhofgesetz geÃ¤ndert +++ Manche OlivenÃ¶le mit krebserregenden Stoffen +++Serie Innovationsstandort: Das Unternehmen 'King Game' +++ 'Sixdays' wieder in Berlin +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/41102428-0609-4c7e-8b86-5f5b10aeeb2a_7a2b7113-3964-4580-a9c4-8181fe6b753d.mp4?url=1"/>
 			<pubDate>Thu, 28 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
