@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 28 Jan 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 28 Jan 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 28 Jan 2016 21:30:06 GMT</pubDate>
+		<lastBuildDate>Thu, 28 Jan 2016 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>28.01.2016 19:26 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0128/TV-100s-1926.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:26 Uhr vom 28.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0128/TV-100s-1926.webl.h264.mp4"/>
+			<pubDate>Thu, 28 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>28.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0128/TV-20160128-2025-1401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Erste Einigung zur FlÃ¼chtlingspolitik, Schwedens Innenminister kÃ¼ndigt Massenausweisungen an, Iranischer PrÃ¤sident Rouhani fÃ¼r GesprÃ¤che in Paris, Ausweitung von BundeswehreinsÃ¤tzen in Mali und im Irak, Aachen klagt gegen belgisches AKW Tilhange, EU-Gesetzespaket gegen SteuerschlupflÃ¶cher,  Deutsche Bank legt Jahresbilanz vor, WHO zu Zika-Epidemie, Tipps zum Schutz vor Zika-Virus auf tagesschau.de, Kerber im Grand-Slam-Finale, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0128/TV-20160128-2025-1401.webl.h264.mp4"/>
+			<pubDate>Thu, 28 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 27.01.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/8c95fb03-ecf8-44b8-b980-9f3b296c39ce_806df52b-0928-4cfc-a27b-88ec43cab2a6.mp4?url=1</link>
@@ -134,34 +148,6 @@
 			<description>Themen der Sendung: EU-LÃ¤nder wollen Grenzkontrollen verlÃ¤ngern, ZwÃ¶lf BundeslÃ¤nder melden Silvester-Ãbergriffe, Weitere VW-Manager sollen von Manipulationen gewusst haben, Iran und China wollen Zusammenarbeit intensivieren, Tausende Polen demonstrieren gegen die Regierung, Italienische Demonstranten fordern Gleichstellung von Homosexuellen, San Sebastian beginnt Programm als &quot;EuropÃ¤ische Kulturhauptstadt&quot;, Schneesturm trifft US-OstkÃ¼ste, Blitzeis fÃ¼hrt zu UnfÃ¤llen, Die FuÃball-Bundesliga, Fill gewinnt Weltcup-Abfahrt in KitzbÃ¼hl, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0123/TV-20160123-2026-0501.webl.h264.mp4"/>
 			<pubDate>Sat, 23 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 22.01.2016</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160122_sdg_m_16_9_512x288.mp4?url=3</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 22.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/92/91/18/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;SPD will HortgebÃ¼hren abschaffen +++ Investor plant Theaterneubau im Kudamm-Karree +++ Nachrichten I +++ HallenbÃ¤der: Besucher vor verschlossener TÃ¼r +++ Piratenpartei ringt um politische Zukunft +++ Die Tamilen aus Sri Lanka +++ Nachrichten II +++ Ausflugstipp: Winterfreuden auf der HeidehÃ¶he&lt;/p&gt;&lt;p&gt;22.01.2016 | 29:25 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-22-01-2016-19-30/rbb-Fernsehen/Video?documentId=32929106&amp;bcastId=3822076&quot;&gt;Abendschau 22.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;SPD will HortgebÃ¼hren abschaffen +++ Investor plant Theaterneubau im Kudamm-Karree +++ Nachrichten I +++ HallenbÃ¤der: Besucher vor verschlossener TÃ¼r +++ Piratenpartei ringt um politische Zukunft +++ Die Tamilen aus Sri Lanka +++ Nachrichten II +++ Ausflugstipp: Winterfreuden auf der HeidehÃ¶he&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160122_sdg_m_16_9_512x288.mp4?url=3"/>
-			<pubDate>Fri, 22 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>22.01.2016 21:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0122/TV-100s-2114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 22.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0122/TV-100s-2114.webl.h264.mp4"/>
-			<pubDate>Fri, 22 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>22.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0122/TV-20160122-2036-1801.webl.h264.mp4</link>
-			<description>Themen der Sendung: TÃ¼rkei sichert Merkel UnterstÃ¼tzung bei Kurs in FlÃ¼chtlingspolitik zu, WirtschaftsverbÃ¤nde betonen Wichtigkeit offener Grenzen in Europa, Grenzkontrollen: Bundespolizei warnt vor Ãberlastung, USA bitten NATO um AWACS-AufklÃ¤rungsflugzeuge, Offenbar mindestens 17 Tote bei Terroranschlag in Somalia, Andauernde Unruhen in Tunesien, IWF-Chefin Lagarde kandidiert fÃ¼r zweite Amtszeit, Einigung im Lufthansa-Tarifstreit, Handball-EM: Deutschland gewinnt gegen Ungarn, Biathlon-Weltcup: Schempp gewinnt in Antholz, UEFA will Torlinientechnik einfÃ¼hren, RÃ¼ckrundenstart der FuÃball-Bundesliga, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0122/TV-20160122-2036-1801.webl.h264.mp4"/>
-			<pubDate>Fri, 22 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>22.01.2016 22:48 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0122/TV-100s-2248.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:48 Uhr vom 22.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0122/TV-100s-2248.webl.h264.mp4"/>
-			<pubDate>Fri, 22 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
