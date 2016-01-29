@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 29 Jan 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 29 Jan 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Fri, 29 Jan 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Fri, 29 Jan 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 29.01.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/f789aac8-06f9-4203-ac0e-49907701b21a_2b3e449a-a944-4662-b84b-227cdd350ebb.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 29.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/06/83/78/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Angebliche EntfÃ¼hrung von 13-JÃ¤hriger aufgeklÃ¤rt +++ Reaktion auf Asylpaket II +++ MissstÃ¤nde in FlÃ¼chtlingsunterkÃ¼nften +++ Nachrichten I +++ Staatsoper: MÃ¼ller und Junge Reyer vor Untersuchungsausschuss +++ Kampf gegen Einwegbecher +++ Serie Innovationsstandort Berlin: Francotyp Postalia +++ Nachrichten II +++ Berlins Bauzombies +++ Ausflugstipp: Die ehemalige BÃ¶tzow-Brauerei Â &lt;/p&gt;&lt;p&gt;29.01.2016 | 28:57 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-29-01-2016-19-30/rbb-Fernsehen/Video?documentId=33068366&amp;bcastId=3822076&quot;&gt;Abendschau 29.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Angebliche EntfÃ¼hrung von 13-JÃ¤hriger aufgeklÃ¤rt +++ Reaktion auf Asylpaket II +++ MissstÃ¤nde in FlÃ¼chtlingsunterkÃ¼nften +++ Nachrichten I +++ Staatsoper: MÃ¼ller und Junge Reyer vor Untersuchungsausschuss +++ Kampf gegen Einwegbecher +++ Serie Innovationsstandort Berlin: Francotyp Postalia +++ Nachrichten II +++ Berlins Bauzombies +++ Ausflugstipp: Die ehemalige BÃ¶tzow-Brauerei Â &lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/f789aac8-06f9-4203-ac0e-49907701b21a_2b3e449a-a944-4662-b84b-227cdd350ebb.mp4?url=1"/>
+			<pubDate>Fri, 29 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>29.01.2016 21:13 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0129/TV-100s-2113.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 29.01.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0129/TV-100s-2113.webl.h264.mp4"/>
+			<pubDate>Fri, 29 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>29.01.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0129/TV-20160129-2021-2301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Bundesregierung will Asylpaket II umsetzen, Gespaltene Reaktionen auf Asylpaket II , Merkel und Renzi fordern europÃ¤ische LÃ¶sung in Asylpolitik, Fall um deutsch-russisches MÃ¤dchens Lisa aufgeklÃ¤rt, Anschlag auf Erstaufnahmestelle fÃ¼r FlÃ¼chtlinge in Villingen-Schwenningen, GesprÃ¤che Ã¼ber Syrien-Konflikt in Genf begonnen, Niederlande beteiligen sich an Luftangriffen in Syrien, Olympia-Sieger Felix Loch macht Gold in Heim-Rodel-WM, Erfinder des Plastik-DÃ¼bels Artur Fischer gestorben, FranzÃ¶sischer Filmemacher Jacques Rivette gestorben, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0129/TV-20160129-2021-2301.webl.h264.mp4"/>
+			<pubDate>Fri, 29 Jan 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>28.01.2016 19:26 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0128/TV-100s-1926.webl.h264.mp4</link>
@@ -134,27 +155,6 @@
 			<description>Themen der Sendung: Diskussion Ã¼ber KlÃ¶ckners Konzept zur FlÃ¼chtlingspolitik, Lage an der deutschen Grenze, EU-Innenminister beraten Ã¼ber Grenzschutz, PrÃ¤sidentenwahl in Portugal, Ausschreitungen am Rande von Massendemonstrationen in Haiti, Tote bei Schneekatastrophe in den USA, Deutsche Handball-Nationalmannschaft gewinnt gegen Russland, Ergebnisse des 18. Spieltags in der FuÃball-Bundesliga, Karneval in Venedig begonnen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0124/TV-20160124-2022-0101.webl.h264.mp4"/>
 			<pubDate>Sun, 24 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 23.01.2016</title>
-			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160123_sdg_m_16_9_512x288.mp4?url=3</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 23.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/32/94/31/76/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Protest vor dem Kanzleramt +++ StadtteilmÃ¼tter beraten GeflÃ¼chtete +++ LennÃ©-JubilÃ¤umsjahr beginnt +++ Serie Fluchtbewegungen: DDR-FlÃ¼chtlinge 1989 +++ Gleich nebenan: Stitchaholic +++ Kinotipp: &quot;Sebastian und die Feuerretter&quot; +++&lt;/p&gt;&lt;p&gt;23.01.2016 | 28:55 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-23-01-2016-19-30/rbb-Fernsehen/Video?documentId=32943164&amp;bcastId=3822076&quot;&gt;Abendschau 23.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Protest vor dem Kanzleramt +++ StadtteilmÃ¼tter beraten GeflÃ¼chtete +++ LennÃ©-JubilÃ¤umsjahr beginnt +++ Serie Fluchtbewegungen: DDR-FlÃ¼chtlinge 1989 +++ Gleich nebenan: Stitchaholic +++ Kinotipp: &quot;Sebastian und die Feuerretter&quot; +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160123_sdg_m_16_9_512x288.mp4?url=3"/>
-			<pubDate>Sat, 23 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>23.01.2016 21:12 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0123/TV-100s-2112.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:12 Uhr vom 23.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0123/TV-100s-2112.webl.h264.mp4"/>
-			<pubDate>Sat, 23 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>23.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0123/TV-20160123-2026-0501.webl.h264.mp4</link>
-			<description>Themen der Sendung: EU-LÃ¤nder wollen Grenzkontrollen verlÃ¤ngern, ZwÃ¶lf BundeslÃ¤nder melden Silvester-Ãbergriffe, Weitere VW-Manager sollen von Manipulationen gewusst haben, Iran und China wollen Zusammenarbeit intensivieren, Tausende Polen demonstrieren gegen die Regierung, Italienische Demonstranten fordern Gleichstellung von Homosexuellen, San Sebastian beginnt Programm als &quot;EuropÃ¤ische Kulturhauptstadt&quot;, Schneesturm trifft US-OstkÃ¼ste, Blitzeis fÃ¼hrt zu UnfÃ¤llen, Die FuÃball-Bundesliga, Fill gewinnt Weltcup-Abfahrt in KitzbÃ¼hl, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0123/TV-20160123-2026-0501.webl.h264.mp4"/>
-			<pubDate>Sat, 23 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
