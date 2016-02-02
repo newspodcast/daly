@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 02 Feb 2016 21:30:06 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Feb 2016 21:30:06 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Feb 2016 00:30:05 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Feb 2016 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2016/0202/TV-20160202-2020-5301.webl.h264.mp4</link>
 			<description>Themen der Sendung: &quot;Brexit&quot;: EU-VorschlÃ¤ge an London, US-Vorwahlen in Iowa, Steinmeier in Teheran eingetroffen, Fortsetzung der FriedensgesprÃ¤chen in Genf, Einigung auf EU-US-Datenschutzabkommen, Koalition einigt sich auf Prostitutionsgesetz, IG Metall will 4,5 bis 5 Prozent mehr Lohn fordern, Zukunft der Elektro-Autos, , Arbeitslosenzahlen steigen leicht an, In Seenot geratener Frachter nach Bilbao geschleppt, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0202/TV-20160202-2020-5301.webl.h264.mp4"/>
+			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 02.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/987d4c18-59ce-4889-a0f0-cc2871abad43_ae00fa47-a6c1-4eae-b618-89ef3983caf1.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 02.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/15/31/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;&lt;p&gt;02.02.2016 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-02-02-2016-19-30/rbb-Fernsehen/Video?documentId=33153112&amp;bcastId=3822076&quot;&gt;Abendschau 02.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/987d4c18-59ce-4889-a0f0-cc2871abad43_ae00fa47-a6c1-4eae-b618-89ef3983caf1.mp4?url=1"/>
 			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
