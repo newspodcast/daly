@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 02 Feb 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 02 Feb 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 02 Feb 2016 21:30:06 GMT</pubDate>
+		<lastBuildDate>Tue, 02 Feb 2016 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 02.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/a4ff25b6-123d-4704-bb0e-ec3efb088c08_bf6d4c7a-9662-433f-a756-8cbde2ce7627.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 02.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/15/31/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;&lt;p&gt;02.02.2016 | 29:09 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-02-02-2016-19-30/rbb-Fernsehen/Video?documentId=33153112&amp;bcastId=3822076&quot;&gt;Abendschau 02.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/a4ff25b6-123d-4704-bb0e-ec3efb088c08_bf6d4c7a-9662-433f-a756-8cbde2ce7627.mp4?url=1"/>
+			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>02.02.2016 21:10 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0202/TV-100s-2110.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 02.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0202/TV-100s-2110.webl.h264.mp4"/>
+			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>02.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0202/TV-20160202-2020-5301.webl.h264.mp4</link>
+			<description>Themen der Sendung: &quot;Brexit&quot;: EU-VorschlÃ¤ge an London, US-Vorwahlen in Iowa, Steinmeier in Teheran eingetroffen, Fortsetzung der FriedensgesprÃ¤chen in Genf, Einigung auf EU-US-Datenschutzabkommen, Koalition einigt sich auf Prostitutionsgesetz, IG Metall will 4,5 bis 5 Prozent mehr Lohn fordern, Zukunft der Elektro-Autos, , Arbeitslosenzahlen steigen leicht an, In Seenot geratener Frachter nach Bilbao geschleppt, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0202/TV-20160202-2020-5301.webl.h264.mp4"/>
+			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 01.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/a7885e36-ddb4-4d62-96f3-5335ad756f64_438df813-59a1-4cad-b586-5e0c55321464.mp4?url=1</link>
@@ -120,27 +141,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 28.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/04/55/02/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Brandgutachten zu ermordeter Schwangerer +++ FlÃ¼chtlingstod von Helfer erfunden +++ Morgens am LaGeSo +++Â Sonderkonferenz der MinisterprÃ¤sidenten +++ Tempelhofgesetz geÃ¤ndert +++ Manche OlivenÃ¶le mit krebserregenden Stoffen +++Serie Innovationsstandort: Das Unternehmen 'King Game' +++ 'Sixdays' wieder in Berlin +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;28.01.2016 | 28:43 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-28-01-2016-19-30/rbb-Fernsehen/Video?documentId=33045490&amp;bcastId=3822076&quot;&gt;Abendschau 28.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Brandgutachten zu ermordeter Schwangerer +++ FlÃ¼chtlingstod von Helfer erfunden +++ Morgens am LaGeSo +++Â Sonderkonferenz der MinisterprÃ¤sidenten +++ Tempelhofgesetz geÃ¤ndert +++ Manche OlivenÃ¶le mit krebserregenden Stoffen +++Serie Innovationsstandort: Das Unternehmen 'King Game' +++ 'Sixdays' wieder in Berlin +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/41102428-0609-4c7e-8b86-5f5b10aeeb2a_7a2b7113-3964-4580-a9c4-8181fe6b753d.mp4?url=1"/>
 			<pubDate>Thu, 28 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 27.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/8c95fb03-ecf8-44b8-b980-9f3b296c39ce_806df52b-0928-4cfc-a27b-88ec43cab2a6.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 27.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/01/88/42/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Verwirrung um angeblich verstorbenen FlÃ¼chtling +++ S-Bahn-Verkehrsvertrag unterzeichnet +++ Neue Behandlungsstandards fÃ¼r Demenzpatienten +++ Serie Innovationsstandort: Lufthansa Hub +++Â Mit GlÃ¼hlampen Musik machen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;27.01.2016 | 29:36 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-27-01-2016-19-30/rbb-Fernsehen/Video?documentId=33018830&amp;bcastId=3822076&quot;&gt;Abendschau 27.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Verwirrung um angeblich verstorbenen FlÃ¼chtling +++ S-Bahn-Verkehrsvertrag unterzeichnet +++ Neue Behandlungsstandards fÃ¼r Demenzpatienten +++ Serie Innovationsstandort: Lufthansa Hub +++Â Mit GlÃ¼hlampen Musik machen +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/8c95fb03-ecf8-44b8-b980-9f3b296c39ce_806df52b-0928-4cfc-a27b-88ec43cab2a6.mp4?url=1"/>
-			<pubDate>Wed, 27 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.01.2016 21:05 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0127/TV-100s-2105.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 27.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0127/TV-100s-2105.webl.h264.mp4"/>
-			<pubDate>Wed, 27 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>27.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0127/TV-20160127-2021-2201.webl.h264.mp4</link>
-			<description>Themen der Sendung: StraffÃ¤llige AuslÃ¤nder sollen schneller ausgewiesen werden, Gedenken an die Opfer des Holocaust im Bundestag und in ehemaligen Konzentrationslagern, Bundesinnenminister verbietet Neonazi-Portal &quot;Altermedia&quot;, Gabriel senkt Wachstumsprognose fÃ¼r deutsche Wirtschaft, Steinmeier kritisiert russische Einmischung in Berliner Justiz, US-AuÃenminister fordert mehr Druck Chinas auf Nordkorea, Griechen demonstrieren gegen RentenkÃ¼rzungen, SWR-Fernsehdebatte wird doch stattfinden, Zeugen werfen DFB Verschleierung vor, Deutschland steht im Halbfinale der Handball-EM, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0127/TV-20160127-2021-2201.webl.h264.mp4"/>
-			<pubDate>Wed, 27 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
