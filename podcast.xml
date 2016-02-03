@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 03 Feb 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Feb 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Wed, 03 Feb 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Wed, 03 Feb 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>03.02.2016 21:12 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0203/TV-100s-2112.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:12 Uhr vom 03.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0203/TV-100s-2112.webl.h264.mp4"/>
+			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>03.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0203/TV-20160203-2022-5701.webl.h264.mp4</link>
+			<description>Themen der Sendung: Kabinett beschlieÃt Asylpaket II, Reform der Jobcenter beschlossen, Diskussion Ã¼ber &quot;Brexit&quot; im EU-Parlament, Debatte Ã¼ber Obergrenze fÃ¼r Bargeldzahlungen, Seehofer trifft Putin, Syrien-GesprÃ¤che wurden unterbrochen, Steinmeier im Iran und in Saudi-Arabien, Forschungsanlage erzeugt erstmalig Wasserstoff-Plasma, Zika-Virus, Dokumentation Ã¼ber Jerry Lewis-Film &quot;Der Clown&quot;, Innenverkleidung der Elbphilharmonie fertiggestellt, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0203/TV-20160203-2022-5701.webl.h264.mp4"/>
+			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 02.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/a4ff25b6-123d-4704-bb0e-ec3efb088c08_bf6d4c7a-9662-433f-a756-8cbde2ce7627.mp4?url=1</link>
@@ -127,27 +141,6 @@
 			<description>Themen der Sendung: Bundesregierung will Asylpaket II umsetzen, Gespaltene Reaktionen auf Asylpaket II , Merkel und Renzi fordern europÃ¤ische LÃ¶sung in Asylpolitik, Fall um deutsch-russisches MÃ¤dchens Lisa aufgeklÃ¤rt, Anschlag auf Erstaufnahmestelle fÃ¼r FlÃ¼chtlinge in Villingen-Schwenningen, GesprÃ¤che Ã¼ber Syrien-Konflikt in Genf begonnen, Niederlande beteiligen sich an Luftangriffen in Syrien, Olympia-Sieger Felix Loch macht Gold in Heim-Rodel-WM, Erfinder des Plastik-DÃ¼bels Artur Fischer gestorben, FranzÃ¶sischer Filmemacher Jacques Rivette gestorben, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0129/TV-20160129-2021-2301.webl.h264.mp4"/>
 			<pubDate>Fri, 29 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>28.01.2016 19:26 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0128/TV-100s-1926.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 19:26 Uhr vom 28.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0128/TV-100s-1926.webl.h264.mp4"/>
-			<pubDate>Thu, 28 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>28.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0128/TV-20160128-2025-1401.webl.h264.mp4</link>
-			<description>Themen der Sendung: Erste Einigung zur FlÃ¼chtlingspolitik, Schwedens Innenminister kÃ¼ndigt Massenausweisungen an, Iranischer PrÃ¤sident Rouhani fÃ¼r GesprÃ¤che in Paris, Ausweitung von BundeswehreinsÃ¤tzen in Mali und im Irak, Aachen klagt gegen belgisches AKW Tilhange, EU-Gesetzespaket gegen SteuerschlupflÃ¶cher,  Deutsche Bank legt Jahresbilanz vor, WHO zu Zika-Epidemie, Tipps zum Schutz vor Zika-Virus auf tagesschau.de, Kerber im Grand-Slam-Finale, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0128/TV-20160128-2025-1401.webl.h264.mp4"/>
-			<pubDate>Thu, 28 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 28.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/41102428-0609-4c7e-8b86-5f5b10aeeb2a_7a2b7113-3964-4580-a9c4-8181fe6b753d.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 28.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/04/55/02/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Brandgutachten zu ermordeter Schwangerer +++ FlÃ¼chtlingstod von Helfer erfunden +++ Morgens am LaGeSo +++Â Sonderkonferenz der MinisterprÃ¤sidenten +++ Tempelhofgesetz geÃ¤ndert +++ Manche OlivenÃ¶le mit krebserregenden Stoffen +++Serie Innovationsstandort: Das Unternehmen 'King Game' +++ 'Sixdays' wieder in Berlin +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;28.01.2016 | 28:43 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-28-01-2016-19-30/rbb-Fernsehen/Video?documentId=33045490&amp;bcastId=3822076&quot;&gt;Abendschau 28.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Brandgutachten zu ermordeter Schwangerer +++ FlÃ¼chtlingstod von Helfer erfunden +++ Morgens am LaGeSo +++Â Sonderkonferenz der MinisterprÃ¤sidenten +++ Tempelhofgesetz geÃ¤ndert +++ Manche OlivenÃ¶le mit krebserregenden Stoffen +++Serie Innovationsstandort: Das Unternehmen 'King Game' +++ 'Sixdays' wieder in Berlin +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/41102428-0609-4c7e-8b86-5f5b10aeeb2a_7a2b7113-3964-4580-a9c4-8181fe6b753d.mp4?url=1"/>
-			<pubDate>Thu, 28 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
