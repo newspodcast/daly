@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 03 Feb 2016 21:30:07 GMT</pubDate>
-		<lastBuildDate>Wed, 03 Feb 2016 21:30:07 GMT</lastBuildDate>
+		<pubDate>Thu, 04 Feb 2016 00:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 04 Feb 2016 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0203/TV-20160203-2022-5701.webl.h264.mp4</link>
 			<description>Themen der Sendung: Kabinett beschlieÃt Asylpaket II, Reform der Jobcenter beschlossen, Diskussion Ã¼ber &quot;Brexit&quot; im EU-Parlament, Debatte Ã¼ber Obergrenze fÃ¼r Bargeldzahlungen, Seehofer trifft Putin, Syrien-GesprÃ¤che wurden unterbrochen, Steinmeier im Iran und in Saudi-Arabien, Forschungsanlage erzeugt erstmalig Wasserstoff-Plasma, Zika-Virus, Dokumentation Ã¼ber Jerry Lewis-Film &quot;Der Clown&quot;, Innenverkleidung der Elbphilharmonie fertiggestellt, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0203/TV-20160203-2022-5701.webl.h264.mp4"/>
+			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 03.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/60a34036-da8b-4d86-b5fa-5c9874bf550d_390faa5c-f673-49cd-a260-10544bba0971.mp4?url=2</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 03.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/17/49/44/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Umstritten: PrÃ¤mie fÃ¼r Erzieher +++ Studiogast: Sigrid Klebba +++ Vermisste unbegleitete FlÃ¼chtlingskinder +++ Riesenmarkt Iran: Chance fÃ¼r Berlin? +++Â Fruit Logistica erÃ¶ffnet +++Â  Premiere: &quot;Tschiller: Off Duty&quot; +++ Keine Lust auf Ruhestand +++&lt;/p&gt;&lt;p&gt;03.02.2016 | 01:04 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-03-02-2016-19-30/rbb-Fernsehen/Video?documentId=33174932&amp;bcastId=3822076&quot;&gt;Abendschau 03.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Umstritten: PrÃ¤mie fÃ¼r Erzieher +++ Studiogast: Sigrid Klebba +++ Vermisste unbegleitete FlÃ¼chtlingskinder +++ Riesenmarkt Iran: Chance fÃ¼r Berlin? +++Â Fruit Logistica erÃ¶ffnet +++Â  Premiere: &quot;Tschiller: Off Duty&quot; +++ Keine Lust auf Ruhestand +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/60a34036-da8b-4d86-b5fa-5c9874bf550d_390faa5c-f673-49cd-a260-10544bba0971.mp4?url=2"/>
 			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
