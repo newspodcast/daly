@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 05 Feb 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Fri, 05 Feb 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Fri, 05 Feb 2016 21:30:06 GMT</pubDate>
+		<lastBuildDate>Fri, 05 Feb 2016 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 05.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/8f57cc3c-d763-465f-9b25-c807685b12f6_7f8a8420-828c-4b4e-b78c-47586f0d8fba.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 05.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/21/36/88/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Foto zeigt TerrorverdÃ¤chtigen mit Waffen +++ IS-KÃ¤mpfer unter den FlÃ¼chtlingen +++ Polizei lÃ¤sst Autoknacker-Bande auffliegen +++ Nachrichten I +++ SchÃ¶neberg: Wasserrohrbruch sorgt fÃ¼r Stau +++ GeschÃ¤fte mit FlÃ¼chtlingsunterbringung +++ RÃ¼ckblick: Fragerunde mit Michael MÃ¼ller +++ Serie: Keine Lust auf Ruhestand +++ Ausflugstipp: Breslau - Kulturhauptstadt 2016&lt;/p&gt;&lt;p&gt;05.02.2016 | 29:29 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-02-2016-19-30/rbb-Fernsehen/Video?documentId=33213676&amp;bcastId=3822076&quot;&gt;Abendschau 05.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Foto zeigt TerrorverdÃ¤chtigen mit Waffen +++ IS-KÃ¤mpfer unter den FlÃ¼chtlingen +++ Polizei lÃ¤sst Autoknacker-Bande auffliegen +++ Nachrichten I +++ SchÃ¶neberg: Wasserrohrbruch sorgt fÃ¼r Stau +++ GeschÃ¤fte mit FlÃ¼chtlingsunterbringung +++ RÃ¼ckblick: Fragerunde mit Michael MÃ¼ller +++ Serie: Keine Lust auf Ruhestand +++ Ausflugstipp: Breslau - Kulturhauptstadt 2016&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/8f57cc3c-d763-465f-9b25-c807685b12f6_7f8a8420-828c-4b4e-b78c-47586f0d8fba.mp4?url=1"/>
+			<pubDate>Fri, 05 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>05.02.2016 21:07 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0205/TV-100s-2107.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 05.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0205/TV-100s-2107.webl.h264.mp4"/>
+			<pubDate>Fri, 05 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>05.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0205/TV-20160205-2021-5301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Hunderttausende AsylantrÃ¤ge beim BAMF unerledigt, SPD kritisiert Asylpaket II, De MaiziÃ¨re zu Besuch in Griechenland, Flucht vor Offensive der syrischen Armee, Berliner Polizei zu den AnschlagsplÃ¤nen, Geplante VerfassungsÃ¤nderung in Frankreich, Bericht von UN-Gremium zum Fall Assange, Neuer HR-Intendant gewÃ¤hlt, DFB-RÃ¼ckforderung, Containerschiff sitzt weiter in der Elbe fest, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0205/TV-20160205-2021-5301.webl.h264.mp4"/>
+			<pubDate>Fri, 05 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 04.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/94904eec-57d8-4589-9d0b-9a486a52269c_823d4c60-5a8f-4a6e-840a-1594df3644c1.mp4?url=1</link>
@@ -134,27 +155,6 @@
 			<description>Themen der Sendung: Deutsche Handball-Mannschaft gewinnt EM-Titel , Kiel feiert Handball-Sieg bei Public Viewing, Bundesregierung plant Abschiebung straffÃ¤lliger FlÃ¼chtlinge auch in Drittstaaten, Sorge um verschwundene FlÃ¼chtlingskinder, Russlanddeutsche protestieren in mehreren StÃ¤dten gegen FlÃ¼chtlingspolitik, Aktionstag &quot;Berlin sagt Danke&quot;, Syrien-GesprÃ¤che in Genf gestalten sich schwierig, IS bekennt sich zu AnschlÃ¤gen in Damaskus, Vorwahlen im US-Bundesstaat Iowa, 19. Bundesliga-Spieltag, Rodel-WM in KÃ¶nigssee, Novak Djokovic gewinnt Australian Open in Melbourne, Expertenteam will zweiten Bergungsversuch von Frachter vor franzÃ¶sischer KÃ¼ste starten, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0131/TV-20160131-2023-3801.webl.h264.mp4"/>
 			<pubDate>Sun, 31 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>30.01.2016 21:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0130/TV-100s-2114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 30.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0130/TV-100s-2114.webl.h264.mp4"/>
-			<pubDate>Sat, 30 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>30.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0130/TV-20160130-2049-2501.webl.h264.mp4</link>
-			<description>Themen der Sendung: Kerber gewinnt Australian Open, Merkel erwartet freiwillige RÃ¼ckkehr der FlÃ¼chtlinge nach Ende der KÃ¤mpfe, Petry fordert Grenzsicherung mit Waffen, Erneut FlÃ¼chtlingsboot in der ÃgÃ¤is gesunken, Syrische Oppositionsgruppen beraten sich mit UN-Vertretern in Genf, In Rom demonstrieren Zehntausende gegen die Homo-Ehe, Verdacht gegen Ex-PrÃ¤sident Zwanziger, Ergebnisse des 19. Spieltags, Deutschland im Finale der Handball-EM, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0130/TV-20160130-2049-2501.webl.h264.mp4"/>
-			<pubDate>Sat, 30 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 30.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/a40240b2-415f-44a9-b26a-04205bada85d_e0961706-a489-4761-aa4c-13a3e2156612.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 30.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/08/44/28/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Sanierung der YorckbrÃ¼cken hat begonnen +++ Kehraus in der Kolonie Oeynhausen +++ Twitter-Aktion der Polizei endet +++ Berlin nutzt UmverteilungsmÃ¶glichkeiten fÃ¼r junge FlÃ¼chtlinge nicht +++ Porzellandesignerin Stefanie Hering im PortrÃ¤t +++ Gleich nebenan: Das kleinste Blumenkaufhaus Berlins +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;30.01.2016 | 29:00 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-30-01-2016-19-30/rbb-Fernsehen/Video?documentId=33084416&amp;bcastId=3822076&quot;&gt;Abendschau 30.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Sanierung der YorckbrÃ¼cken hat begonnen +++ Kehraus in der Kolonie Oeynhausen +++ Twitter-Aktion der Polizei endet +++ Berlin nutzt UmverteilungsmÃ¶glichkeiten fÃ¼r junge FlÃ¼chtlinge nicht +++ Porzellandesignerin Stefanie Hering im PortrÃ¤t +++ Gleich nebenan: Das kleinste Blumenkaufhaus Berlins +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/a40240b2-415f-44a9-b26a-04205bada85d_e0961706-a489-4761-aa4c-13a3e2156612.mp4?url=1"/>
-			<pubDate>Sat, 30 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
