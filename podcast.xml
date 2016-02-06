@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 06 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sat, 06 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sat, 06 Feb 2016 21:30:06 GMT</pubDate>
+		<lastBuildDate>Sat, 06 Feb 2016 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>06.02.2016 21:10 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0206/TV-100s-2110.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 06.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0206/TV-100s-2110.webl.h264.mp4"/>
+			<pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>06.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0206/TV-20160206-2024-1101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Asylpaket II: Diskussion Ã¼ber Familiennachzug, &quot;Pegida&quot;-Demonstrationen in mehreren europÃ¤ischen StÃ¤dten, EU-AuÃenminister beraten Ã¼ber steigende FlÃ¼chtlingszahlen, Twitter sperrt mehr als 125.000 Benutzerkonten, Tausende Schwangere in Kolumbien mit Zika-Virus infiziert, Schweres Erdbeben erschÃ¼ttert Taiwan, Tote bei Lawinenabgang in Tirol, FuÃball-Bundesliga, Die Lottozahlen, Wintersport, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0206/TV-20160206-2024-1101.webl.h264.mp4"/>
+			<pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 05.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/8f57cc3c-d763-465f-9b25-c807685b12f6_7f8a8420-828c-4b4e-b78c-47586f0d8fba.mp4?url=1</link>
@@ -134,27 +148,6 @@
 			<description>Themen der Sendung: Diskussion nach AfD-ÃuÃerungen zu Schusswaffeneinsatz an der Grenze, VerschÃ¤rfte SicherheitsmaÃnahmen beim KÃ¶lner Karneval, Bundesinnenminister de MaiziÃ¨re in Afghanistan, Beginn der US-Vorwahlen, Weltgesundheitsorganisation ruft globalen Notstand aus, Schwere DÃ¼rrekatastrophe in Ãthiopien, ParlamentserÃ¶ffnung in Myanmar, Kontonummer IBAN wird Pflicht, Deutsche Handball-EM-Sieger feiern in Berlin, Australian-Open-Siegerin Kerber zurÃ¼ck in Deutschland, Fernsehproduzent Wolfgang Rademann gestorben, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0201/TV-20160201-2021-5201.webl.h264.mp4"/>
 			<pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 31.01.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/f77082b6-7576-47d4-a15c-423c84e4ed69_cd09912a-5b3b-4257-8cbd-a6007638dd36.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 31.01.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/10/11/96/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Berlin bedankt sich bei ehrenamtlichen Helfern +++BUND setzt Senat wegen FlÃ¼chtlingszentrum in Tempelhof unter Druck +++ Diebstahl-Serie am Flughafen Tegel +++ Hertha bringt Spannung auf hÃ¶chstem Niveau +++ Premiere von Tschaikowskis Â &quot;Jewgeni Onegin&quot; +++ Welches ist das Ã¤lteste Hotel Berlins?&lt;/p&gt;&lt;p&gt;31.01.2016 | 28:52 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-31-01-2016-19-30/rbb-Fernsehen/Video?documentId=33101182&amp;bcastId=3822076&quot;&gt;Abendschau 31.01.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Berlin bedankt sich bei ehrenamtlichen Helfern +++BUND setzt Senat wegen FlÃ¼chtlingszentrum in Tempelhof unter Druck +++ Diebstahl-Serie am Flughafen Tegel +++ Hertha bringt Spannung auf hÃ¶chstem Niveau +++ Premiere von Tschaikowskis Â &quot;Jewgeni Onegin&quot; +++ Welches ist das Ã¤lteste Hotel Berlins?&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/f77082b6-7576-47d4-a15c-423c84e4ed69_cd09912a-5b3b-4257-8cbd-a6007638dd36.mp4?url=1"/>
-			<pubDate>Sun, 31 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>31.01.2016 21:07 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0131/TV-100s-2107.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 31.01.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0131/TV-100s-2107.webl.h264.mp4"/>
-			<pubDate>Sun, 31 Jan 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>31.01.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0131/TV-20160131-2023-3801.webl.h264.mp4</link>
-			<description>Themen der Sendung: Deutsche Handball-Mannschaft gewinnt EM-Titel , Kiel feiert Handball-Sieg bei Public Viewing, Bundesregierung plant Abschiebung straffÃ¤lliger FlÃ¼chtlinge auch in Drittstaaten, Sorge um verschwundene FlÃ¼chtlingskinder, Russlanddeutsche protestieren in mehreren StÃ¤dten gegen FlÃ¼chtlingspolitik, Aktionstag &quot;Berlin sagt Danke&quot;, Syrien-GesprÃ¤che in Genf gestalten sich schwierig, IS bekennt sich zu AnschlÃ¤gen in Damaskus, Vorwahlen im US-Bundesstaat Iowa, 19. Bundesliga-Spieltag, Rodel-WM in KÃ¶nigssee, Novak Djokovic gewinnt Australian Open in Melbourne, Expertenteam will zweiten Bergungsversuch von Frachter vor franzÃ¶sischer KÃ¼ste starten, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0131/TV-20160131-2023-3801.webl.h264.mp4"/>
-			<pubDate>Sun, 31 Jan 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
