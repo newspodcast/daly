@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 06 Feb 2016 21:30:06 GMT</pubDate>
-		<lastBuildDate>Sat, 06 Feb 2016 21:30:06 GMT</lastBuildDate>
+		<pubDate>Sun, 07 Feb 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Sun, 07 Feb 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,13 @@
 			<link>http://media.tagesschau.de/video/2016/0206/TV-20160206-2024-1101.webl.h264.mp4</link>
 			<description>Themen der Sendung: Asylpaket II: Diskussion Ã¼ber Familiennachzug, &quot;Pegida&quot;-Demonstrationen in mehreren europÃ¤ischen StÃ¤dten, EU-AuÃenminister beraten Ã¼ber steigende FlÃ¼chtlingszahlen, Twitter sperrt mehr als 125.000 Benutzerkonten, Tausende Schwangere in Kolumbien mit Zika-Virus infiziert, Schweres Erdbeben erschÃ¼ttert Taiwan, Tote bei Lawinenabgang in Tirol, FuÃball-Bundesliga, Die Lottozahlen, Wintersport, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0206/TV-20160206-2024-1101.webl.h264.mp4"/>
+			<pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 06.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/dec4c990-08ee-4b79-bef5-d02153ad055b_e4869efe-a0d2-45fd-b55f-b6bbde10a75c.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 06.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/23/18/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Linksautonome randalieren in Tiergarten +++ Linke Szene demonstriert gegen PolizeieinsÃ¤tze +++ Polizeisprecher Redlich zu linker Szene +++ Nachrichten I +++ Opferschutz: 40 Jahre weiÃer Ring +++ CCC-Studios droht das Aus +++ Nachrichten II +++ Gleich nebenan: WÃ¤scherei und PlÃ¤tterei Wiegers +++ Interkulturelles Musikprojekt: 'Zelle 12'&lt;/p&gt;&lt;p&gt;06.02.2016 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-06-02-2016-19-30/rbb-Fernsehen/Video?documentId=33231826&amp;bcastId=3822076&quot;&gt;Abendschau 06.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Linksautonome randalieren in Tiergarten +++ Linke Szene demonstriert gegen PolizeieinsÃ¤tze +++ Polizeisprecher Redlich zu linker Szene +++ Nachrichten I +++ Opferschutz: 40 Jahre weiÃer Ring +++ CCC-Studios droht das Aus +++ Nachrichten II +++ Gleich nebenan: WÃ¤scherei und PlÃ¤tterei Wiegers +++ Interkulturelles Musikprojekt: 'Zelle 12'&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/dec4c990-08ee-4b79-bef5-d02153ad055b_e4869efe-a0d2-45fd-b55f-b6bbde10a75c.mp4?url=1"/>
 			<pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
