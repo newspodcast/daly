@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 07 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 07 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 07 Feb 2016 21:30:06 GMT</pubDate>
+		<lastBuildDate>Sun, 07 Feb 2016 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 07.02.2016</title>
+			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160207_sdg_m_16_9_512x288.mp4?url=3</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 07.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/24/60/34/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Dutzende Autos angezÃ¼ndet und beschÃ¤digt +++ Gedenken an Hatun SÃ¼rÃ¼cÃ¼ +++ Welche Ziele wurden verwirklicht? +++ Warnung vor Angriffen auf ehrenamtliche Helfer +++ Keine Lust auf Ruhestand +++ Sonntagsfrage: Wie kommt eigentlich das Gas ins Haus? +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;07.02.2016 | 29:08 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-07-02-2016-19-30/rbb-Fernsehen/Video?documentId=33246022&amp;bcastId=3822076&quot;&gt;Abendschau 07.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Dutzende Autos angezÃ¼ndet und beschÃ¤digt +++ Gedenken an Hatun SÃ¼rÃ¼cÃ¼ +++ Welche Ziele wurden verwirklicht? +++ Warnung vor Angriffen auf ehrenamtliche Helfer +++ Keine Lust auf Ruhestand +++ Sonntagsfrage: Wie kommt eigentlich das Gas ins Haus? +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160207_sdg_m_16_9_512x288.mp4?url=3"/>
+			<pubDate>Sun, 07 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>07.02.2016 21:07 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0207/TV-100s-2107.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 07.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0207/TV-100s-2107.webl.h264.mp4"/>
+			<pubDate>Sun, 07 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>07.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0207/TV-20160207-2025-1301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Mainz sagt Rosenmontagszug ab, Offensive der syrischen Armee in Aleppo, Lage an tÃ¼rkisch-syrischer Grenze, FlÃ¼chtlingsdiskussion in der groÃen Koalition,  Anti-Terror-Razzia in Mainz, Internationale Kritik an Raketenstart in Nordkorea, US-Fernsehdebatte der Republikaner, Honduras kÃ¤mpft gegen Zika-Virus, DÃ¼rre in SÃ¼dafrika, Der Sport, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0207/TV-20160207-2025-1301.webl.h264.mp4"/>
+			<pubDate>Sun, 07 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>06.02.2016 21:10 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0206/TV-100s-2110.webl.h264.mp4</link>
@@ -134,27 +155,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 02.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/15/31/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;&lt;p&gt;02.02.2016 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-02-02-2016-19-30/rbb-Fernsehen/Video?documentId=33153112&amp;bcastId=3822076&quot;&gt;Abendschau 02.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/987d4c18-59ce-4889-a0f0-cc2871abad43_ae00fa47-a6c1-4eae-b618-89ef3983caf1.mp4?url=1"/>
 			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 01.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/a7885e36-ddb4-4d62-96f3-5335ad756f64_438df813-59a1-4cad-b586-5e0c55321464.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 01.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/13/02/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Handballer feiern EM-Sieg +++ Illegales Autorennen auf dem Tautzien +++ Nachrichten +++ Iban ab heute Pflicht +++ Soko &quot;Schulden&quot; +++ Kampf um Ampelanlage +++ Rademann ist tot +++ Ruhestandsserie: Toilettenmann +++ Moderation: Sascha Hingst&lt;/p&gt;&lt;p&gt;01.02.2016 | 28:28 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-01-02-2016/rbb-Fernsehen/Video?documentId=33130212&amp;bcastId=3822076&quot;&gt;Abendschau vom 01.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Handballer feiern EM-Sieg +++ Illegales Autorennen auf dem Tautzien +++ Nachrichten +++ Iban ab heute Pflicht +++ Soko &quot;Schulden&quot; +++ Kampf um Ampelanlage +++ Rademann ist tot +++ Ruhestandsserie: Toilettenmann +++ Moderation: Sascha Hingst&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/a7885e36-ddb4-4d62-96f3-5335ad756f64_438df813-59a1-4cad-b586-5e0c55321464.mp4?url=1"/>
-			<pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>01.02.2016 21:04 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0201/TV-100s-2104.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:04 Uhr vom 01.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0201/TV-100s-2104.webl.h264.mp4"/>
-			<pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>01.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0201/TV-20160201-2021-5201.webl.h264.mp4</link>
-			<description>Themen der Sendung: Diskussion nach AfD-ÃuÃerungen zu Schusswaffeneinsatz an der Grenze, VerschÃ¤rfte SicherheitsmaÃnahmen beim KÃ¶lner Karneval, Bundesinnenminister de MaiziÃ¨re in Afghanistan, Beginn der US-Vorwahlen, Weltgesundheitsorganisation ruft globalen Notstand aus, Schwere DÃ¼rrekatastrophe in Ãthiopien, ParlamentserÃ¶ffnung in Myanmar, Kontonummer IBAN wird Pflicht, Deutsche Handball-EM-Sieger feiern in Berlin, Australian-Open-Siegerin Kerber zurÃ¼ck in Deutschland, Fernsehproduzent Wolfgang Rademann gestorben, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0201/TV-20160201-2021-5201.webl.h264.mp4"/>
-			<pubDate>Mon, 01 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
