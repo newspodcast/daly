@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 08 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 08 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 08 Feb 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Mon, 08 Feb 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 08.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/30947169-7602-4b29-bd3a-51e12de37be3_dedd8d67-d599-4ce1-abc8-c4c5a3a0905b.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 08.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/26/56/32/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Reaktionen auf die autonomen Attacken am Wochenende Â +++ Big-Brother-Sternchen vor Gericht +++ Wochenlange StraÃensperrungen nach Rohrbruch +++ Sonderausstellung: Spinosaurus im Museum +++ Kartenvorverkauf zur Berlinale gestartet +++ Die Libertines in der Columbiahalle +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;08.02.2016 | 29:00 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-08-02-2016-19-30/rbb-Fernsehen/Video?documentId=33265620&amp;bcastId=3822076&quot;&gt;Abendschau 08.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Reaktionen auf die autonomen Attacken am Wochenende Â +++ Big-Brother-Sternchen vor Gericht +++ Wochenlange StraÃensperrungen nach Rohrbruch +++ Sonderausstellung: Spinosaurus im Museum +++ Kartenvorverkauf zur Berlinale gestartet +++ Die Libertines in der Columbiahalle +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/30947169-7602-4b29-bd3a-51e12de37be3_dedd8d67-d599-4ce1-abc8-c4c5a3a0905b.mp4?url=1"/>
+			<pubDate>Mon, 08 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>08.02.2016 21:14 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0208/TV-100s-2114.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 08.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0208/TV-100s-2114.webl.h264.mp4"/>
+			<pubDate>Mon, 08 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>08.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0208/TV-20160208-2024-4101.webl.h264.mp4</link>
+			<description>Themen der Sendung: Merkel fÃ¼hrt GesprÃ¤che Ã¼ber FlÃ¼chtlingskrise in Ankara, Lage der FlÃ¼chtlinge an der tÃ¼rkisch-syrischen Grenze, UN zu Mord und Folter in syrischen GefÃ¤ngnissen, Familienministerium rÃ¤umt Fehler ein im Streit Ã¼ber Asylpaket II, Vier weitere Ãberlebende nach Erdbeben in Taiwan gefunden, DAX fÃ¤llt unter 9000 Punkte, Mehrere RosenmontagszÃ¼ge in Deutschland wegen Sturmwarnung abgesagt, Traditioneller Narrensprung in Rottweil, Denver Broncos gewinnen Super Bowl, Publizist und Moderator Roger Willemsen gestorben, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0208/TV-20160208-2024-4101.webl.h264.mp4"/>
+			<pubDate>Mon, 08 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 07.02.2016</title>
 			<link>http://http-stream.rbb-online.de/rbb/abendschau/sendung/abendschau_20160207_sdg_m_16_9_512x288.mp4?url=3</link>
@@ -127,34 +148,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 03.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/17/49/44/859153101/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Umstritten: PrÃ¤mie fÃ¼r Erzieher +++ Studiogast: Sigrid Klebba +++ Vermisste unbegleitete FlÃ¼chtlingskinder +++ Riesenmarkt Iran: Chance fÃ¼r Berlin? +++Â Fruit Logistica erÃ¶ffnet +++Â  Premiere: &quot;Tschiller: Off Duty&quot; +++ Keine Lust auf Ruhestand +++&lt;/p&gt;&lt;p&gt;03.02.2016 | 29:01 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-03-02-2016-19-30/rbb-Fernsehen/Video?documentId=33174932&amp;bcastId=3822076&quot;&gt;Abendschau 03.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Umstritten: PrÃ¤mie fÃ¼r Erzieher +++ Studiogast: Sigrid Klebba +++ Vermisste unbegleitete FlÃ¼chtlingskinder +++ Riesenmarkt Iran: Chance fÃ¼r Berlin? +++Â Fruit Logistica erÃ¶ffnet +++Â  Premiere: &quot;Tschiller: Off Duty&quot; +++ Keine Lust auf Ruhestand +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/f8f41201-a60b-4b09-9083-9d67efb3978d_27e95179-d4b4-422e-9e98-070bb97684e7.mp4?url=1"/>
 			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 02.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/a4ff25b6-123d-4704-bb0e-ec3efb088c08_bf6d4c7a-9662-433f-a756-8cbde2ce7627.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 02.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/15/31/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;&lt;p&gt;02.02.2016 | 29:09 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-02-02-2016-19-30/rbb-Fernsehen/Video?documentId=33153112&amp;bcastId=3822076&quot;&gt;Abendschau 02.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/a4ff25b6-123d-4704-bb0e-ec3efb088c08_bf6d4c7a-9662-433f-a756-8cbde2ce7627.mp4?url=1"/>
-			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.02.2016 21:10 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0202/TV-100s-2110.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 02.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0202/TV-100s-2110.webl.h264.mp4"/>
-			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>02.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0202/TV-20160202-2020-5301.webl.h264.mp4</link>
-			<description>Themen der Sendung: &quot;Brexit&quot;: EU-VorschlÃ¤ge an London, US-Vorwahlen in Iowa, Steinmeier in Teheran eingetroffen, Fortsetzung der FriedensgesprÃ¤chen in Genf, Einigung auf EU-US-Datenschutzabkommen, Koalition einigt sich auf Prostitutionsgesetz, IG Metall will 4,5 bis 5 Prozent mehr Lohn fordern, Zukunft der Elektro-Autos, , Arbeitslosenzahlen steigen leicht an, In Seenot geratener Frachter nach Bilbao geschleppt, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0202/TV-20160202-2020-5301.webl.h264.mp4"/>
-			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 02.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/987d4c18-59ce-4889-a0f0-cc2871abad43_ae00fa47-a6c1-4eae-b618-89ef3983caf1.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 02.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/15/31/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;&lt;p&gt;02.02.2016 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-02-02-2016-19-30/rbb-Fernsehen/Video?documentId=33153112&amp;bcastId=3822076&quot;&gt;Abendschau 02.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Gedenken am Tauentzien +++ Angriffe auf Frauen +++ Neue Stellen fÃ¼r BÃ¼rgerÃ¤mter +++ Hotelzimmer fÃ¼r FlÃ¼chtlinge +++ Berlinale lockt mit politschen Filmen +++ Syrerin schwimmt fÃ¼r Olympia +++ Keine Lust auf Ruhestand +++ Premiere &quot;Zoolander No.2&quot; +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/987d4c18-59ce-4889-a0f0-cc2871abad43_ae00fa47-a6c1-4eae-b618-89ef3983caf1.mp4?url=1"/>
-			<pubDate>Tue, 02 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
