@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 09 Feb 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Tue, 09 Feb 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Tue, 09 Feb 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Tue, 09 Feb 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 09.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/f50c9a61-5b86-4123-a39e-4c66a9c77a44_c2754223-6be8-488c-bb0f-686d3b134fa4.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 09.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/29/09/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;&lt;p&gt;09.02.2016 | 29:42 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-09-02-2016-19-30/rbb-Fernsehen/Video?documentId=33290982&amp;bcastId=3822076&quot;&gt;Abendschau 09.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/f50c9a61-5b86-4123-a39e-4c66a9c77a44_c2754223-6be8-488c-bb0f-686d3b134fa4.mp4?url=1"/>
+			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>09.02.2016 21:00 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0209/TV-100s-2100.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:00 Uhr vom 09.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0209/TV-100s-2100.webl.h264.mp4"/>
+			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>09.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0209/TV-20160209-2022-1301.webl.h264.mp4</link>
+			<description>Themen der Sendung: Mindestens zehn Tote bei ZugunglÃ¼ck in Bayern, Ermittlungen zur Unfallursache, Gabriel fÃ¼r Einzelfall-LÃ¶sungen bei Familiennachzug,  Lage an syrisch-tÃ¼rkischer Grenze, Zweite Runde der US-Vorwahlen, Safer-Internet-Day: Maas warnt vor zu lockerem Umgang mit persÃ¶nlichen Daten, Safer Internet Day 2016, Festnahmen nach versuchtem Handgranaten-Anschlag auf FlÃ¼chtlingsunterkunft, Containerschiff &quot;Indian Ocean&quot; wieder frei, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0209/TV-20160209-2022-1301.webl.h264.mp4"/>
+			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 08.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/30947169-7602-4b29-bd3a-51e12de37be3_dedd8d67-d599-4ce1-abc8-c4c5a3a0905b.mp4?url=1</link>
@@ -120,34 +141,6 @@
 			<description>Themen der Sendung: Vierte Geberkonferenz fÃ¼r syrischen BÃ¼rgerkriegsopfer, Syrische Regierung setzt Offensive gegen Rebellen fort, Bundesweite Razzia gegen mutmaÃliche Islamisten, ErhÃ¶hte Sicherheitsvorkehrungen beim Karneval in KÃ¶ln, TPP-Abkommen in Neuseeland unterzeichnet,  Generalstreik in Griechenland, Bewegung im Fall des Wikileaks-GrÃ¼nder Assange, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0204/TV-20160204-2020-5801.webl.h264.mp4"/>
 			<pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>03.02.2016 21:12 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0203/TV-100s-2112.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:12 Uhr vom 03.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0203/TV-100s-2112.webl.h264.mp4"/>
-			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>03.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0203/TV-20160203-2022-5701.webl.h264.mp4</link>
-			<description>Themen der Sendung: Kabinett beschlieÃt Asylpaket II, Reform der Jobcenter beschlossen, Diskussion Ã¼ber &quot;Brexit&quot; im EU-Parlament, Debatte Ã¼ber Obergrenze fÃ¼r Bargeldzahlungen, Seehofer trifft Putin, Syrien-GesprÃ¤che wurden unterbrochen, Steinmeier im Iran und in Saudi-Arabien, Forschungsanlage erzeugt erstmalig Wasserstoff-Plasma, Zika-Virus, Dokumentation Ã¼ber Jerry Lewis-Film &quot;Der Clown&quot;, Innenverkleidung der Elbphilharmonie fertiggestellt, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0203/TV-20160203-2022-5701.webl.h264.mp4"/>
-			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 03.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/60a34036-da8b-4d86-b5fa-5c9874bf550d_390faa5c-f673-49cd-a260-10544bba0971.mp4?url=2</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 03.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/17/49/44/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Umstritten: PrÃ¤mie fÃ¼r Erzieher +++ Studiogast: Sigrid Klebba +++ Vermisste unbegleitete FlÃ¼chtlingskinder +++ Riesenmarkt Iran: Chance fÃ¼r Berlin? +++Â Fruit Logistica erÃ¶ffnet +++Â  Premiere: &quot;Tschiller: Off Duty&quot; +++ Keine Lust auf Ruhestand +++&lt;/p&gt;&lt;p&gt;03.02.2016 | 01:04 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-03-02-2016-19-30/rbb-Fernsehen/Video?documentId=33174932&amp;bcastId=3822076&quot;&gt;Abendschau 03.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Umstritten: PrÃ¤mie fÃ¼r Erzieher +++ Studiogast: Sigrid Klebba +++ Vermisste unbegleitete FlÃ¼chtlingskinder +++ Riesenmarkt Iran: Chance fÃ¼r Berlin? +++Â Fruit Logistica erÃ¶ffnet +++Â  Premiere: &quot;Tschiller: Off Duty&quot; +++ Keine Lust auf Ruhestand +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/60a34036-da8b-4d86-b5fa-5c9874bf550d_390faa5c-f673-49cd-a260-10544bba0971.mp4?url=2"/>
-			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 03.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/f8f41201-a60b-4b09-9083-9d67efb3978d_27e95179-d4b4-422e-9e98-070bb97684e7.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 03.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/17/49/44/859153101/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Umstritten: PrÃ¤mie fÃ¼r Erzieher +++ Studiogast: Sigrid Klebba +++ Vermisste unbegleitete FlÃ¼chtlingskinder +++ Riesenmarkt Iran: Chance fÃ¼r Berlin? +++Â Fruit Logistica erÃ¶ffnet +++Â  Premiere: &quot;Tschiller: Off Duty&quot; +++ Keine Lust auf Ruhestand +++&lt;/p&gt;&lt;p&gt;03.02.2016 | 29:01 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-03-02-2016-19-30/rbb-Fernsehen/Video?documentId=33174932&amp;bcastId=3822076&quot;&gt;Abendschau 03.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Umstritten: PrÃ¤mie fÃ¼r Erzieher +++ Studiogast: Sigrid Klebba +++ Vermisste unbegleitete FlÃ¼chtlingskinder +++ Riesenmarkt Iran: Chance fÃ¼r Berlin? +++Â Fruit Logistica erÃ¶ffnet +++Â  Premiere: &quot;Tschiller: Off Duty&quot; +++ Keine Lust auf Ruhestand +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/f8f41201-a60b-4b09-9083-9d67efb3978d_27e95179-d4b4-422e-9e98-070bb97684e7.mp4?url=1"/>
-			<pubDate>Wed, 03 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
