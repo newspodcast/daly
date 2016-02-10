@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 10 Feb 2016 21:30:05 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Feb 2016 21:30:05 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Feb 2016 00:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Feb 2016 00:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -35,6 +35,13 @@
 			<link>http://media.tagesschau.de/video/2016/0210/TV-20160210-2024-2501.webl.h264.mp4</link>
 			<description>Themen der Sendung: Ursache des ZugunglÃ¼cks bei Bad Aibling weiterhin unklar, Kritik an Seehofers ÃuÃerungen zur FlÃ¼chtlingspolitik, GestÃ¤ndnisse bei Auftakt des Salzhemmendorf-Prozesses, Lage der FlÃ¼chtlinge im syrisch-tÃ¼rkischen Grenzgebiet verschÃ¤rft sich, NATO-Verteidigungsminister beraten Ã¼ber Anti-Schleuser-Einsatz und Stationierung einer multinationalen Truppe im Osten, FranzÃ¶sischer AuÃenminister Fabius tritt zurÃ¼ck, Trump und Sanders gewinnen US-PrÃ¤sidentschafts-Vorwahlen in New Hampshire, Hoffenheims Trainer Stevens tritt zurÃ¼ck, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0210/TV-20160210-2024-2501.webl.h264.mp4"/>
+			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>10.02.2016 23:02 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2302.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:02 Uhr vom 10.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2302.webl.h264.mp4"/>
 			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
