@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Wed, 10 Feb 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Wed, 10 Feb 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Wed, 10 Feb 2016 21:30:05 GMT</pubDate>
+		<lastBuildDate>Wed, 10 Feb 2016 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 10.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/43a4172b-00e7-420e-b1c8-66d7fc62103c_299f943e-6d0b-452b-89d8-5fc2566d24bf.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 10.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/31/32/30/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Wirtschaft in Berlin und Brandenburg boomt +++ Ryanair will ganz nach oben +++ Berlin verschÃ¤rft Spielhallengesetz Â +++ Berliner Islamisten im Visier +++ Spandau wehrt sich gegen SenatsplÃ¤ne +++ Ohne Termin beim Mobilen BÃ¼rgeramt +++Stolperstein fÃ¼r Ãberlebende des Holocausts +++ Film ab! Meryl Streep auf der Berlinale +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;10.02.2016 | 28:20 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-10-02-2016-19-30/rbb-Fernsehen/Video?documentId=33313218&amp;bcastId=3822076&quot;&gt;Abendschau 10.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Wirtschaft in Berlin und Brandenburg boomt +++ Ryanair will ganz nach oben +++ Berlin verschÃ¤rft Spielhallengesetz Â +++ Berliner Islamisten im Visier +++ Spandau wehrt sich gegen SenatsplÃ¤ne +++ Ohne Termin beim Mobilen BÃ¼rgeramt +++Stolperstein fÃ¼r Ãberlebende des Holocausts +++ Film ab! Meryl Streep auf der Berlinale +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/43a4172b-00e7-420e-b1c8-66d7fc62103c_299f943e-6d0b-452b-89d8-5fc2566d24bf.mp4?url=1"/>
+			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>10.02.2016 21:17 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2117.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 10.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2117.webl.h264.mp4"/>
+			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>10.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0210/TV-20160210-2024-2501.webl.h264.mp4</link>
+			<description>Themen der Sendung: Ursache des ZugunglÃ¼cks bei Bad Aibling weiterhin unklar, Kritik an Seehofers ÃuÃerungen zur FlÃ¼chtlingspolitik, GestÃ¤ndnisse bei Auftakt des Salzhemmendorf-Prozesses, Lage der FlÃ¼chtlinge im syrisch-tÃ¼rkischen Grenzgebiet verschÃ¤rft sich, NATO-Verteidigungsminister beraten Ã¼ber Anti-Schleuser-Einsatz und Stationierung einer multinationalen Truppe im Osten, FranzÃ¶sischer AuÃenminister Fabius tritt zurÃ¼ck, Trump und Sanders gewinnen US-PrÃ¤sidentschafts-Vorwahlen in New Hampshire, Hoffenheims Trainer Stevens tritt zurÃ¼ck, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0210/TV-20160210-2024-2501.webl.h264.mp4"/>
+			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 09.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/f50c9a61-5b86-4123-a39e-4c66a9c77a44_c2754223-6be8-488c-bb0f-686d3b134fa4.mp4?url=1</link>
@@ -42,6 +63,13 @@
 			<link>http://media.tagesschau.de/video/100s/2016/0209/TV-100s-2247.webl.h264.mp4</link>
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:47 Uhr vom 09.02.2016</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0209/TV-100s-2247.webl.h264.mp4"/>
+			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 09.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/798ed059-4e18-42c1-98f1-715bd20bc27a_12944b6d-3c4d-4d1e-a9ae-82bec2e9f01b.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 09.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/29/09/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;&lt;p&gt;09.02.2016 | 29:08 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-09-02-2016-19-30/rbb-Fernsehen/Video?documentId=33290982&amp;bcastId=3822076&quot;&gt;Abendschau 09.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/798ed059-4e18-42c1-98f1-715bd20bc27a_12944b6d-3c4d-4d1e-a9ae-82bec2e9f01b.mp4?url=1"/>
 			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -127,27 +155,6 @@
 			<description>Themen der Sendung: Hunderttausende AsylantrÃ¤ge beim BAMF unerledigt, SPD kritisiert Asylpaket II, De MaiziÃ¨re zu Besuch in Griechenland, Flucht vor Offensive der syrischen Armee, Berliner Polizei zu den AnschlagsplÃ¤nen, Geplante VerfassungsÃ¤nderung in Frankreich, Bericht von UN-Gremium zum Fall Assange, Neuer HR-Intendant gewÃ¤hlt, DFB-RÃ¼ckforderung, Containerschiff sitzt weiter in der Elbe fest, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0205/TV-20160205-2021-5301.webl.h264.mp4"/>
 			<pubDate>Fri, 05 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 04.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/94904eec-57d8-4589-9d0b-9a486a52269c_823d4c60-5a8f-4a6e-840a-1594df3644c1.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 04.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/19/45/18/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Islamisten sollen Anschlag in Berlin geplant haben +++ Nachrichten I +++ IMehr Krankenhausbetten fÃ¼r wachsendes Berlin +++ Stadtschloss-Kurator plant GroÃstadt-Ausstellung +++ Syrischer YouTuber erklÃ¤rt Deutschland +++ Nachrichten II +++ Fragerunde mit Michael MÃ¼ller +++ Serie: Keine Lust auf Ruhestand +++ Das Wetter&lt;/p&gt;&lt;p&gt;04.02.2016 | 29:11 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-04-02-2016-19-30/rbb-Fernsehen/Video?documentId=33194506&amp;bcastId=3822076&quot;&gt;Abendschau 04.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Islamisten sollen Anschlag in Berlin geplant haben +++ Nachrichten I +++ IMehr Krankenhausbetten fÃ¼r wachsendes Berlin +++ Stadtschloss-Kurator plant GroÃstadt-Ausstellung +++ Syrischer YouTuber erklÃ¤rt Deutschland +++ Nachrichten II +++ Fragerunde mit Michael MÃ¼ller +++ Serie: Keine Lust auf Ruhestand +++ Das Wetter&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/94904eec-57d8-4589-9d0b-9a486a52269c_823d4c60-5a8f-4a6e-840a-1594df3644c1.mp4?url=1"/>
-			<pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>04.02.2016 21:17 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0204/TV-100s-2117.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 04.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0204/TV-100s-2117.webl.h264.mp4"/>
-			<pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>04.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0204/TV-20160204-2020-5801.webl.h264.mp4</link>
-			<description>Themen der Sendung: Vierte Geberkonferenz fÃ¼r syrischen BÃ¼rgerkriegsopfer, Syrische Regierung setzt Offensive gegen Rebellen fort, Bundesweite Razzia gegen mutmaÃliche Islamisten, ErhÃ¶hte Sicherheitsvorkehrungen beim Karneval in KÃ¶ln, TPP-Abkommen in Neuseeland unterzeichnet,  Generalstreik in Griechenland, Bewegung im Fall des Wikileaks-GrÃ¼nder Assange, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0204/TV-20160204-2020-5801.webl.h264.mp4"/>
-			<pubDate>Thu, 04 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
