@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 11 Feb 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Thu, 11 Feb 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Thu, 11 Feb 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Thu, 11 Feb 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 11.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/172708f3-a315-42f2-9478-2cc3b1ccb371_f53ae1c9-4d8e-4292-bf0a-dce8e7a4b0a2.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 11.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/34/00/82/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Berlinale erÃ¶ffnet +++ Feuerwehr schlÃ¤gt Alarm +++ Vattenfall erhÃ¶ht Strompreise +++ Hertha im Halbfinale des DFB-Pokals +++ Rechtsfreie RÃ¤ume am Kottbusser Tor +++ Terminschwierigkeiten beim Standesamt +++ Bauarbeiten in Tempelhof +++ Trauerfeier fÃ¼r Wolfgang Rademann +++&lt;/p&gt;&lt;p&gt;11.02.2016 | 29:44 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-11-02-2016-19-30/rbb-Fernsehen/Video?documentId=33340070&amp;bcastId=3822076&quot;&gt;Abendschau 11.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Berlinale erÃ¶ffnet +++ Feuerwehr schlÃ¤gt Alarm +++ Vattenfall erhÃ¶ht Strompreise +++ Hertha im Halbfinale des DFB-Pokals +++ Rechtsfreie RÃ¤ume am Kottbusser Tor +++ Terminschwierigkeiten beim Standesamt +++ Bauarbeiten in Tempelhof +++ Trauerfeier fÃ¼r Wolfgang Rademann +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/172708f3-a315-42f2-9478-2cc3b1ccb371_f53ae1c9-4d8e-4292-bf0a-dce8e7a4b0a2.mp4?url=1"/>
+			<pubDate>Thu, 11 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>11.02.2016 21:16 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0211/TV-100s-2116.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:16 Uhr vom 11.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0211/TV-100s-2116.webl.h264.mp4"/>
+			<pubDate>Thu, 11 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>11.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0211/TV-20160211-2021-3201.webl.h264.mp4</link>
+			<description>Themen der Sendung: Erstmal Gravitationswellen nachgewiesen, SPD und Union finden Kompromiss beim Familiennachzug, Zehntausende fliehen vor KÃ¤mpfen um Aleppo, Syrien-Konferenz in MÃ¼nchen, NATO-Mission in ÃgÃ¤is, Frankreichs frÃ¼herer Premierminister Ayrault wird neuer AuÃenminister, Mehrere Tote HÃ¤ftlinge bei Gewaltausbruch im mexikanischen GefÃ¤ngnis, Prozessauftakt gegen frÃ¼heren Wachmann von Auschwitz, Razzia gegen Rechtsextremisten in Niedersachsen und Dortmund, Zahl der Toten auf elf gestiegen nach ZugunglÃ¼ck, ErÃ¶ffnung der Internationalen Filmfestspiele in Berlin, Nagelmann neuer Trainer bei 1899 Hoffenheim, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0211/TV-20160211-2021-3201.webl.h264.mp4"/>
+			<pubDate>Thu, 11 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 10.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/43a4172b-00e7-420e-b1c8-66d7fc62103c_299f943e-6d0b-452b-89d8-5fc2566d24bf.mp4?url=1</link>
@@ -141,27 +162,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 06.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/23/18/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Linksautonome randalieren in Tiergarten +++ Linke Szene demonstriert gegen PolizeieinsÃ¤tze +++ Polizeisprecher Redlich zu linker Szene +++ Nachrichten I +++ Opferschutz: 40 Jahre weiÃer Ring +++ CCC-Studios droht das Aus +++ Nachrichten II +++ Gleich nebenan: WÃ¤scherei und PlÃ¤tterei Wiegers +++ Interkulturelles Musikprojekt: 'Zelle 12'&lt;/p&gt;&lt;p&gt;06.02.2016 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-06-02-2016-19-30/rbb-Fernsehen/Video?documentId=33231826&amp;bcastId=3822076&quot;&gt;Abendschau 06.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Linksautonome randalieren in Tiergarten +++ Linke Szene demonstriert gegen PolizeieinsÃ¤tze +++ Polizeisprecher Redlich zu linker Szene +++ Nachrichten I +++ Opferschutz: 40 Jahre weiÃer Ring +++ CCC-Studios droht das Aus +++ Nachrichten II +++ Gleich nebenan: WÃ¤scherei und PlÃ¤tterei Wiegers +++ Interkulturelles Musikprojekt: 'Zelle 12'&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/dec4c990-08ee-4b79-bef5-d02153ad055b_e4869efe-a0d2-45fd-b55f-b6bbde10a75c.mp4?url=1"/>
 			<pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 05.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/8f57cc3c-d763-465f-9b25-c807685b12f6_7f8a8420-828c-4b4e-b78c-47586f0d8fba.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 05.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/21/36/88/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Foto zeigt TerrorverdÃ¤chtigen mit Waffen +++ IS-KÃ¤mpfer unter den FlÃ¼chtlingen +++ Polizei lÃ¤sst Autoknacker-Bande auffliegen +++ Nachrichten I +++ SchÃ¶neberg: Wasserrohrbruch sorgt fÃ¼r Stau +++ GeschÃ¤fte mit FlÃ¼chtlingsunterbringung +++ RÃ¼ckblick: Fragerunde mit Michael MÃ¼ller +++ Serie: Keine Lust auf Ruhestand +++ Ausflugstipp: Breslau - Kulturhauptstadt 2016&lt;/p&gt;&lt;p&gt;05.02.2016 | 29:29 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-05-02-2016-19-30/rbb-Fernsehen/Video?documentId=33213676&amp;bcastId=3822076&quot;&gt;Abendschau 05.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Foto zeigt TerrorverdÃ¤chtigen mit Waffen +++ IS-KÃ¤mpfer unter den FlÃ¼chtlingen +++ Polizei lÃ¤sst Autoknacker-Bande auffliegen +++ Nachrichten I +++ SchÃ¶neberg: Wasserrohrbruch sorgt fÃ¼r Stau +++ GeschÃ¤fte mit FlÃ¼chtlingsunterbringung +++ RÃ¼ckblick: Fragerunde mit Michael MÃ¼ller +++ Serie: Keine Lust auf Ruhestand +++ Ausflugstipp: Breslau - Kulturhauptstadt 2016&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/8f57cc3c-d763-465f-9b25-c807685b12f6_7f8a8420-828c-4b4e-b78c-47586f0d8fba.mp4?url=1"/>
-			<pubDate>Fri, 05 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.02.2016 21:07 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0205/TV-100s-2107.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 05.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0205/TV-100s-2107.webl.h264.mp4"/>
-			<pubDate>Fri, 05 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>05.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0205/TV-20160205-2021-5301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Hunderttausende AsylantrÃ¤ge beim BAMF unerledigt, SPD kritisiert Asylpaket II, De MaiziÃ¨re zu Besuch in Griechenland, Flucht vor Offensive der syrischen Armee, Berliner Polizei zu den AnschlagsplÃ¤nen, Geplante VerfassungsÃ¤nderung in Frankreich, Bericht von UN-Gremium zum Fall Assange, Neuer HR-Intendant gewÃ¤hlt, DFB-RÃ¼ckforderung, Containerschiff sitzt weiter in der Elbe fest, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0205/TV-20160205-2021-5301.webl.h264.mp4"/>
-			<pubDate>Fri, 05 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
