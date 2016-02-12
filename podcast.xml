@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 12 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 12 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 12 Feb 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Fri, 12 Feb 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 12.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/5c66641a-6c0e-4eba-a8f3-a62acd87b1b2_e6d780d0-c660-4a68-a127-260694d3dcab.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 12.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/36/64/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Clooney im Kanzleramt +++ Mehr UnfÃ¤lle, weniger Tote +++ Jury kÃ¼rt beste EntwÃ¼rfe +++ Polizei testet Body-Cams +++ BÃ¼rgerÃ¤mter: Vergleich mit Umland +++ Berlinale: &quot;Midnight Special&quot; +++ Ausflugstipp: Mies van der Rohe-Haus +++&lt;/p&gt;&lt;p&gt;12.02.2016 | 30:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-12-02-2016-19-30/rbb-Fernsehen/Video?documentId=33366412&amp;bcastId=3822076&quot;&gt;Abendschau 12.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Clooney im Kanzleramt +++ Mehr UnfÃ¤lle, weniger Tote +++ Jury kÃ¼rt beste EntwÃ¼rfe +++ Polizei testet Body-Cams +++ BÃ¼rgerÃ¤mter: Vergleich mit Umland +++ Berlinale: &quot;Midnight Special&quot; +++ Ausflugstipp: Mies van der Rohe-Haus +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/5c66641a-6c0e-4eba-a8f3-a62acd87b1b2_e6d780d0-c660-4a68-a127-260694d3dcab.mp4?url=1"/>
+			<pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>12.02.2016 21:05 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0212/TV-100s-2105.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 12.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0212/TV-100s-2105.webl.h264.mp4"/>
+			<pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>12.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0212/TV-20160212-2022-2501.webl.h264.mp4</link>
+			<description>Themen der Sendung: Syrien-Kontaktgruppe einigt sich auf Feuerpause, EU gibt Griechenland drei Monate zur besseren Sicherung der EU-AuÃengrenze, Antrittsbesuch von Polens MinisterprÃ¤sidentin Szydlo in Berlin, Hendricks fordert mehr Geld fÃ¼r Integration von FlÃ¼chtlingen, Merkel und Cameron beim Matthiae-Mahl in Hamburg, TV-Debatte der Demokraten in Wisconsin, Ein Jahr nach Minsker Friedensabkommen fÃ¼r Ukraine, Deutsche Bank kauft eigene Anleihen zurÃ¼ck, Dritte Blackbox in Bad Aibling gefunden, Kometen-Mission um Roboter &quot;Philae&quot; beendet, FIFA-GeneralsekretÃ¤r Jerome Valcke fÃ¼r zwÃ¶lf Jahre gesperrt, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0212/TV-20160212-2022-2501.webl.h264.mp4"/>
+			<pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 11.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/172708f3-a315-42f2-9478-2cc3b1ccb371_f53ae1c9-4d8e-4292-bf0a-dce8e7a4b0a2.mp4?url=1</link>
@@ -141,27 +162,6 @@
 			<description>Themen der Sendung: Mainz sagt Rosenmontagszug ab, Offensive der syrischen Armee in Aleppo, Lage an tÃ¼rkisch-syrischer Grenze, FlÃ¼chtlingsdiskussion in der groÃen Koalition,  Anti-Terror-Razzia in Mainz, Internationale Kritik an Raketenstart in Nordkorea, US-Fernsehdebatte der Republikaner, Honduras kÃ¤mpft gegen Zika-Virus, DÃ¼rre in SÃ¼dafrika, Der Sport, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0207/TV-20160207-2025-1301.webl.h264.mp4"/>
 			<pubDate>Sun, 07 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.02.2016 21:10 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0206/TV-100s-2110.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:10 Uhr vom 06.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0206/TV-100s-2110.webl.h264.mp4"/>
-			<pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>06.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0206/TV-20160206-2024-1101.webl.h264.mp4</link>
-			<description>Themen der Sendung: Asylpaket II: Diskussion Ã¼ber Familiennachzug, &quot;Pegida&quot;-Demonstrationen in mehreren europÃ¤ischen StÃ¤dten, EU-AuÃenminister beraten Ã¼ber steigende FlÃ¼chtlingszahlen, Twitter sperrt mehr als 125.000 Benutzerkonten, Tausende Schwangere in Kolumbien mit Zika-Virus infiziert, Schweres Erdbeben erschÃ¼ttert Taiwan, Tote bei Lawinenabgang in Tirol, FuÃball-Bundesliga, Die Lottozahlen, Wintersport, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0206/TV-20160206-2024-1101.webl.h264.mp4"/>
-			<pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 06.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/dec4c990-08ee-4b79-bef5-d02153ad055b_e4869efe-a0d2-45fd-b55f-b6bbde10a75c.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 06.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/23/18/38/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Linksautonome randalieren in Tiergarten +++ Linke Szene demonstriert gegen PolizeieinsÃ¤tze +++ Polizeisprecher Redlich zu linker Szene +++ Nachrichten I +++ Opferschutz: 40 Jahre weiÃer Ring +++ CCC-Studios droht das Aus +++ Nachrichten II +++ Gleich nebenan: WÃ¤scherei und PlÃ¤tterei Wiegers +++ Interkulturelles Musikprojekt: 'Zelle 12'&lt;/p&gt;&lt;p&gt;06.02.2016 | 29:17 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-06-02-2016-19-30/rbb-Fernsehen/Video?documentId=33231826&amp;bcastId=3822076&quot;&gt;Abendschau 06.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Linksautonome randalieren in Tiergarten +++ Linke Szene demonstriert gegen PolizeieinsÃ¤tze +++ Polizeisprecher Redlich zu linker Szene +++ Nachrichten I +++ Opferschutz: 40 Jahre weiÃer Ring +++ CCC-Studios droht das Aus +++ Nachrichten II +++ Gleich nebenan: WÃ¤scherei und PlÃ¤tterei Wiegers +++ Interkulturelles Musikprojekt: 'Zelle 12'&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/dec4c990-08ee-4b79-bef5-d02153ad055b_e4869efe-a0d2-45fd-b55f-b6bbde10a75c.mp4?url=1"/>
-			<pubDate>Sat, 06 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
