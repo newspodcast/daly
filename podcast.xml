@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 14 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 14 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 14 Feb 2016 21:30:08 GMT</pubDate>
+		<lastBuildDate>Sun, 14 Feb 2016 21:30:08 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 14.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/17cfed79-db89-49ec-9237-9d4bf83db4b0_9f6ffb65-2a46-4afe-b39d-e9c82ea82ba7.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 14.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/39/60/60/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Tanzen gegen Gewalt an Frauen +++ Rettungswesten am Gendarmenmarkt +++ &quot;24 Wochen&quot; feiert Premiere +++ Streit um Notfallversorgung in Berliner Kliniken +++ BehÃ¶rden-Computer mit Risiko-Software +++ Valentinstag: Blumen fÃ¼r die Liebste +++ Serie BÃ¼rgerÃ¤mter: Das Standesamt +++ &quot;Paula&quot; fÃ¼r Manfred Krug +++ Die Sonntagsfrage: BallsÃ¤le in Berlin +++&lt;/p&gt;&lt;p&gt;14.02.2016 | 29:11 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-14-02-2016/rbb-Fernsehen/Video?documentId=33396048&amp;bcastId=3822076&quot;&gt;Abendschau vom 14.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Tanzen gegen Gewalt an Frauen +++ Rettungswesten am Gendarmenmarkt +++ &quot;24 Wochen&quot; feiert Premiere +++ Streit um Notfallversorgung in Berliner Kliniken +++ BehÃ¶rden-Computer mit Risiko-Software +++ Valentinstag: Blumen fÃ¼r die Liebste +++ Serie BÃ¼rgerÃ¤mter: Das Standesamt +++ &quot;Paula&quot; fÃ¼r Manfred Krug +++ Die Sonntagsfrage: BallsÃ¤le in Berlin +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/17cfed79-db89-49ec-9237-9d4bf83db4b0_9f6ffb65-2a46-4afe-b39d-e9c82ea82ba7.mp4?url=1"/>
+			<pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>14.02.2016 21:23 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0214/TV-100s-2123.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:23 Uhr vom 14.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0214/TV-100s-2123.webl.h264.mp4"/>
+			<pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>14.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0214/TV-20160214-2023-2801.webl.h264.mp4</link>
+			<description>Themen der Sendung: SPD kritisiert das Integrationspapier der CDU, MÃ¼nchner Sicherheitskonferenz endet ohne konkrete Vereinbarungen, TÃ¼rkische Armee greift kurdische Stellungen in Syrien an, Zahl der zivilen Opfer in Afghanistan angestiegen, Republikaner und Demokraten streiten um Nachfolger im US-Verfassungsgericht, Papst ruft in Mexiko zum Kampf gegen die Drogenkartelle auf, Bad Aibling gedenkt mit einem Gottesdienst der Opfer des ZugunglÃ¼cks, Kopenhagen erinnert mit einer Lichterkette an die zwei Opfer der Terrorangriffe vor einem Jahr, Die Ergebnisse der Bundesliga, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0214/TV-20160214-2023-2801.webl.h264.mp4"/>
+			<pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 13.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/27d05f00-b081-41f1-86a6-4f0b531d58ac_61797e1c-7ee9-4da9-9a80-bee8b4883e4e.mp4?url=1</link>
@@ -141,27 +162,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau 09.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/29/09/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;&lt;p&gt;09.02.2016 | 29:08 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-09-02-2016-19-30/rbb-Fernsehen/Video?documentId=33290982&amp;bcastId=3822076&quot;&gt;Abendschau 09.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/798ed059-4e18-42c1-98f1-715bd20bc27a_12944b6d-3c4d-4d1e-a9ae-82bec2e9f01b.mp4?url=1"/>
 			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 08.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/30947169-7602-4b29-bd3a-51e12de37be3_dedd8d67-d599-4ce1-abc8-c4c5a3a0905b.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 08.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/26/56/32/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Reaktionen auf die autonomen Attacken am Wochenende Â +++ Big-Brother-Sternchen vor Gericht +++ Wochenlange StraÃensperrungen nach Rohrbruch +++ Sonderausstellung: Spinosaurus im Museum +++ Kartenvorverkauf zur Berlinale gestartet +++ Die Libertines in der Columbiahalle +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;08.02.2016 | 29:00 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-08-02-2016-19-30/rbb-Fernsehen/Video?documentId=33265620&amp;bcastId=3822076&quot;&gt;Abendschau 08.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Reaktionen auf die autonomen Attacken am Wochenende Â +++ Big-Brother-Sternchen vor Gericht +++ Wochenlange StraÃensperrungen nach Rohrbruch +++ Sonderausstellung: Spinosaurus im Museum +++ Kartenvorverkauf zur Berlinale gestartet +++ Die Libertines in der Columbiahalle +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/30947169-7602-4b29-bd3a-51e12de37be3_dedd8d67-d599-4ce1-abc8-c4c5a3a0905b.mp4?url=1"/>
-			<pubDate>Mon, 08 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.02.2016 21:14 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0208/TV-100s-2114.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:14 Uhr vom 08.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0208/TV-100s-2114.webl.h264.mp4"/>
-			<pubDate>Mon, 08 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>08.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0208/TV-20160208-2024-4101.webl.h264.mp4</link>
-			<description>Themen der Sendung: Merkel fÃ¼hrt GesprÃ¤che Ã¼ber FlÃ¼chtlingskrise in Ankara, Lage der FlÃ¼chtlinge an der tÃ¼rkisch-syrischen Grenze, UN zu Mord und Folter in syrischen GefÃ¤ngnissen, Familienministerium rÃ¤umt Fehler ein im Streit Ã¼ber Asylpaket II, Vier weitere Ãberlebende nach Erdbeben in Taiwan gefunden, DAX fÃ¤llt unter 9000 Punkte, Mehrere RosenmontagszÃ¼ge in Deutschland wegen Sturmwarnung abgesagt, Traditioneller Narrensprung in Rottweil, Denver Broncos gewinnen Super Bowl, Publizist und Moderator Roger Willemsen gestorben, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0208/TV-20160208-2024-4101.webl.h264.mp4"/>
-			<pubDate>Mon, 08 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
