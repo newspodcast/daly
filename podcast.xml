@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 15 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Feb 2016 21:30:11 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Feb 2016 21:30:11 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,20 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>15.02.2016 18:24 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0215/TV-100s-1824.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 18:24 Uhr vom 15.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0215/TV-100s-1824.webl.h264.mp4"/>
+			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>15.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0215/TV-20160215-2105-0901.webl.h264.mp4</link>
+			<description>Themen der Sendung: Zahlreiche Tote bei Angriffen auf Kliniken in Syrien, Spannungen zwischen Russland und der TÃ¼rkei, Visegrad-Gruppe berÃ¤t Ã¼ber Balkanroute, EU-AuÃenministerrat in BrÃ¼ssel, CDU-Spitze billigt Integrationskonzept, Appell von Kardinal Marx in FlÃ¼chtlingskrise, Prozessauftakt gegen frÃ¼here Deutsche-Bank-Mitarbeiter, EuropÃ¤ische Stahlarbeiter demonstrieren in BrÃ¼ssel gegen Billigimporte aus China, Papst in Chiapas, Basler Fastnacht, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0215/TV-20160215-2105-0901.webl.h264.mp4"/>
+			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 14.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/17cfed79-db89-49ec-9237-9d4bf83db4b0_9f6ffb65-2a46-4afe-b39d-e9c82ea82ba7.mp4?url=1</link>
@@ -127,41 +141,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:02 Uhr vom 10.02.2016</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2302.webl.h264.mp4"/>
 			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 09.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/f50c9a61-5b86-4123-a39e-4c66a9c77a44_c2754223-6be8-488c-bb0f-686d3b134fa4.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 09.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/29/09/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;&lt;p&gt;09.02.2016 | 29:42 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-09-02-2016-19-30/rbb-Fernsehen/Video?documentId=33290982&amp;bcastId=3822076&quot;&gt;Abendschau 09.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/f50c9a61-5b86-4123-a39e-4c66a9c77a44_c2754223-6be8-488c-bb0f-686d3b134fa4.mp4?url=1"/>
-			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.02.2016 21:00 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0209/TV-100s-2100.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:00 Uhr vom 09.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0209/TV-100s-2100.webl.h264.mp4"/>
-			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0209/TV-20160209-2022-1301.webl.h264.mp4</link>
-			<description>Themen der Sendung: Mindestens zehn Tote bei ZugunglÃ¼ck in Bayern, Ermittlungen zur Unfallursache, Gabriel fÃ¼r Einzelfall-LÃ¶sungen bei Familiennachzug,  Lage an syrisch-tÃ¼rkischer Grenze, Zweite Runde der US-Vorwahlen, Safer-Internet-Day: Maas warnt vor zu lockerem Umgang mit persÃ¶nlichen Daten, Safer Internet Day 2016, Festnahmen nach versuchtem Handgranaten-Anschlag auf FlÃ¼chtlingsunterkunft, Containerschiff &quot;Indian Ocean&quot; wieder frei, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0209/TV-20160209-2022-1301.webl.h264.mp4"/>
-			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>09.02.2016 22:47 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0209/TV-100s-2247.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 22:47 Uhr vom 09.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0209/TV-100s-2247.webl.h264.mp4"/>
-			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 09.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/798ed059-4e18-42c1-98f1-715bd20bc27a_12944b6d-3c4d-4d1e-a9ae-82bec2e9f01b.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 09.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/29/09/94/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;&lt;p&gt;09.02.2016 | 29:08 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-09-02-2016-19-30/rbb-Fernsehen/Video?documentId=33290982&amp;bcastId=3822076&quot;&gt;Abendschau 09.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;MÃ¼ller und Czaja besuchen FlÃ¼chtlingsunterkunft +++ Verhaltensknigge fÃ¼r FlÃ¼chtlinge in Berliner BÃ¤dern +++ BergmannstraÃe wird Begegnungszone +++ Schlecht geschÃ¼tzte Gesundheitsdaten +++ Selbstversuch im BÃ¼rgeramt +++ Unterwegs mit Lars Eidinger +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/798ed059-4e18-42c1-98f1-715bd20bc27a_12944b6d-3c4d-4d1e-a9ae-82bec2e9f01b.mp4?url=1"/>
-			<pubDate>Tue, 09 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
