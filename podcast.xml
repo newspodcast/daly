@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 15 Feb 2016 21:30:11 GMT</pubDate>
-		<lastBuildDate>Mon, 15 Feb 2016 21:30:11 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Feb 2016 00:30:04 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Feb 2016 00:30:04 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -28,6 +28,20 @@
 			<link>http://media.tagesschau.de/video/2016/0215/TV-20160215-2105-0901.webl.h264.mp4</link>
 			<description>Themen der Sendung: Zahlreiche Tote bei Angriffen auf Kliniken in Syrien, Spannungen zwischen Russland und der TÃ¼rkei, Visegrad-Gruppe berÃ¤t Ã¼ber Balkanroute, EU-AuÃenministerrat in BrÃ¼ssel, CDU-Spitze billigt Integrationskonzept, Appell von Kardinal Marx in FlÃ¼chtlingskrise, Prozessauftakt gegen frÃ¼here Deutsche-Bank-Mitarbeiter, EuropÃ¤ische Stahlarbeiter demonstrieren in BrÃ¼ssel gegen Billigimporte aus China, Papst in Chiapas, Basler Fastnacht, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0215/TV-20160215-2105-0901.webl.h264.mp4"/>
+			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 15.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/9d7855b1-92df-441b-8d4e-7acb880026d0_692bb449-db61-47b0-be07-c4e83569c8fc.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 15.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/42/40/44/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Berlins City-West fÃ¼r Autos gesperrt +++Â Aufsichtsrat: BER-ErÃ¶ffnung 2017 mÃ¶glich +++ Nachrichten I +++ Grippewelle: Mehr als 500 FÃ¤lle und drei Tote in Berlin +++ Landeswahlleiterin sieht kein Problem fÃ¼r Wahl +++ Landeswahlleiterin sieht kein Problem fÃ¼r Wahl +++ Nachrichten II +++ &quot;Jeder stirbt fÃ¼r sich allein&quot; feiert Weltpremiere +++ Jella Haase gehÃ¶rt zu den &quot;Shooting Stars&quot;&lt;/p&gt;&lt;p&gt;15.02.2016 | 29:14 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-15-02-2016-19-30/rbb-Fernsehen/Video?documentId=33424032&amp;bcastId=3822076&quot;&gt;Abendschau 15.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Berlins City-West fÃ¼r Autos gesperrt +++Â Aufsichtsrat: BER-ErÃ¶ffnung 2017 mÃ¶glich +++ Nachrichten I +++ Grippewelle: Mehr als 500 FÃ¤lle und drei Tote in Berlin +++ Landeswahlleiterin sieht kein Problem fÃ¼r Wahl +++ Landeswahlleiterin sieht kein Problem fÃ¼r Wahl +++ Nachrichten II +++ &quot;Jeder stirbt fÃ¼r sich allein&quot; feiert Weltpremiere +++ Jella Haase gehÃ¶rt zu den &quot;Shooting Stars&quot;&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/9d7855b1-92df-441b-8d4e-7acb880026d0_692bb449-db61-47b0-be07-c4e83569c8fc.mp4?url=1"/>
+			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>15.02.2016 21:27 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0215/TV-100s-2127.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:27 Uhr vom 15.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0215/TV-100s-2127.webl.h264.mp4"/>
 			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
