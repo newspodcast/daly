@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Tue, 16 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Tue, 16 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Tue, 16 Feb 2016 21:30:08 GMT</pubDate>
+		<lastBuildDate>Tue, 16 Feb 2016 21:30:08 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 16.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/2c15a050-17e1-4b46-96f9-6ca14b8780c8_e51295fd-14cf-417e-be02-e4b99e3d7488.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 16.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/44/91/60/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ McKinsey bekommt Beratervertrag vom Senat +++ Start der Internationalen Baufachmesse Bautec +++ Senatsbeschluss zur FÃ¶rderung mittelstÃ¤ndischer Unternehmen +++ Beseitigung von giftigem Schlamm im Rummelsburger See +++ NeukÃ¶lln: Bezahlbare Wohnungen fÃ¼r die Stadt +++ Diskussion um FlÃ¼chtlingsunterkunft in Heckeshorn +++ August Macke im Salon +++ Berlinale: &quot;Genius&quot; feiert Premiere +++&lt;/p&gt;&lt;p&gt;16.02.2016 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-16-02-2016/rbb-Fernsehen/Video?documentId=33449148&amp;bcastId=3822076&quot;&gt;Abendschau vom 16.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ McKinsey bekommt Beratervertrag vom Senat +++ Start der Internationalen Baufachmesse Bautec +++ Senatsbeschluss zur FÃ¶rderung mittelstÃ¤ndischer Unternehmen +++ Beseitigung von giftigem Schlamm im Rummelsburger See +++ NeukÃ¶lln: Bezahlbare Wohnungen fÃ¼r die Stadt +++ Diskussion um FlÃ¼chtlingsunterkunft in Heckeshorn +++ August Macke im Salon +++ Berlinale: &quot;Genius&quot; feiert Premiere +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/2c15a050-17e1-4b46-96f9-6ca14b8780c8_e51295fd-14cf-417e-be02-e4b99e3d7488.mp4?url=1"/>
+			<pubDate>Tue, 16 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.02.2016 21:13 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0216/TV-100s-2113.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 16.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0216/TV-100s-2113.webl.h264.mp4"/>
+			<pubDate>Tue, 16 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>16.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0216/TV-20160216-2021-2801.webl.h264.mp4</link>
+			<description>Themen der Sendung: ZugunglÃ¼ck von Bad Aibling: Ermittlungen gegen Fahrdienstleiter, Assad schlieÃt baldige Feuerpause aus - UN-Sondergesandter wirbt fÃ¼r Vereinbarung von MÃ¼nchen, Ãsterreich: SÃ¼dgrenze soll lÃ¼ckenlos und strenger kontrolliert werden, ÃgÃ¤is: Syrische FlÃ¼chtlinge aus Schlauchboot gerettet, Deutsch-israelische GesprÃ¤che, Ukrainischer Regierungschef Jazenjuk Ã¼bersteht Misstrauensvotum, Wirbel um Oettinger-ÃuÃerungen zu Petry, BVerfG prÃ¼ft Euro-Rettungspolitik der EZB, Verleihung der Grammys, FrÃ¼herer UN-GeneralsekretÃ¤r Boutros Boutros-Ghali gestorben, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0216/TV-20160216-2021-2801.webl.h264.mp4"/>
+			<pubDate>Tue, 16 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>15.02.2016 18:24 Uhr - Tagesschau in 100 Sekunden</title>
 			<link>http://media.tagesschau.de/video/100s/2016/0215/TV-100s-1824.webl.h264.mp4</link>
@@ -127,34 +148,6 @@
 			<description>Themen der Sendung: Erstmal Gravitationswellen nachgewiesen, SPD und Union finden Kompromiss beim Familiennachzug, Zehntausende fliehen vor KÃ¤mpfen um Aleppo, Syrien-Konferenz in MÃ¼nchen, NATO-Mission in ÃgÃ¤is, Frankreichs frÃ¼herer Premierminister Ayrault wird neuer AuÃenminister, Mehrere Tote HÃ¤ftlinge bei Gewaltausbruch im mexikanischen GefÃ¤ngnis, Prozessauftakt gegen frÃ¼heren Wachmann von Auschwitz, Razzia gegen Rechtsextremisten in Niedersachsen und Dortmund, Zahl der Toten auf elf gestiegen nach ZugunglÃ¼ck, ErÃ¶ffnung der Internationalen Filmfestspiele in Berlin, Nagelmann neuer Trainer bei 1899 Hoffenheim, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0211/TV-20160211-2021-3201.webl.h264.mp4"/>
 			<pubDate>Thu, 11 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 10.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/43a4172b-00e7-420e-b1c8-66d7fc62103c_299f943e-6d0b-452b-89d8-5fc2566d24bf.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 10.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/31/32/30/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Wirtschaft in Berlin und Brandenburg boomt +++ Ryanair will ganz nach oben +++ Berlin verschÃ¤rft Spielhallengesetz Â +++ Berliner Islamisten im Visier +++ Spandau wehrt sich gegen SenatsplÃ¤ne +++ Ohne Termin beim Mobilen BÃ¼rgeramt +++Stolperstein fÃ¼r Ãberlebende des Holocausts +++ Film ab! Meryl Streep auf der Berlinale +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;10.02.2016 | 28:20 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-10-02-2016-19-30/rbb-Fernsehen/Video?documentId=33313218&amp;bcastId=3822076&quot;&gt;Abendschau 10.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Wirtschaft in Berlin und Brandenburg boomt +++ Ryanair will ganz nach oben +++ Berlin verschÃ¤rft Spielhallengesetz Â +++ Berliner Islamisten im Visier +++ Spandau wehrt sich gegen SenatsplÃ¤ne +++ Ohne Termin beim Mobilen BÃ¼rgeramt +++Stolperstein fÃ¼r Ãberlebende des Holocausts +++ Film ab! Meryl Streep auf der Berlinale +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/43a4172b-00e7-420e-b1c8-66d7fc62103c_299f943e-6d0b-452b-89d8-5fc2566d24bf.mp4?url=1"/>
-			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.02.2016 21:17 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2117.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:17 Uhr vom 10.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2117.webl.h264.mp4"/>
-			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0210/TV-20160210-2024-2501.webl.h264.mp4</link>
-			<description>Themen der Sendung: Ursache des ZugunglÃ¼cks bei Bad Aibling weiterhin unklar, Kritik an Seehofers ÃuÃerungen zur FlÃ¼chtlingspolitik, GestÃ¤ndnisse bei Auftakt des Salzhemmendorf-Prozesses, Lage der FlÃ¼chtlinge im syrisch-tÃ¼rkischen Grenzgebiet verschÃ¤rft sich, NATO-Verteidigungsminister beraten Ã¼ber Anti-Schleuser-Einsatz und Stationierung einer multinationalen Truppe im Osten, FranzÃ¶sischer AuÃenminister Fabius tritt zurÃ¼ck, Trump und Sanders gewinnen US-PrÃ¤sidentschafts-Vorwahlen in New Hampshire, Hoffenheims Trainer Stevens tritt zurÃ¼ck, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0210/TV-20160210-2024-2501.webl.h264.mp4"/>
-			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>10.02.2016 23:02 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2302.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 23:02 Uhr vom 10.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0210/TV-100s-2302.webl.h264.mp4"/>
-			<pubDate>Wed, 10 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
