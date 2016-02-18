@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Thu, 18 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Thu, 18 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Thu, 18 Feb 2016 21:30:05 GMT</pubDate>
+		<lastBuildDate>Thu, 18 Feb 2016 21:30:05 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 18.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/c09978c3-0075-4216-86ce-790d9d4e0f27_770cf9da-dd33-422a-b9db-dfee79833af1.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 18.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/50/72/46/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Tourismusbilanz: Die Welt liebt BerlinÂ  +++ Abgeordnetenhaussitzung: Wohin mit den FlÃ¼chtlingsunterkÃ¼nften? +++ Neubau Fischerinsel: BÃ¼rgerinitiative fÃ¼hlt sich Ã¼bergangen +++ Pfleger wegen sexuellem Missbrauch vor Gericht +++ Lageso verweigert Mietkosten-Ãbernahme +++ Serie: Hinter den Kulissen der Berlinale +++ Das Wetter +++&lt;/p&gt;&lt;p&gt;18.02.2016 | 29:06 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-18-02-2016/rbb-Fernsehen/Video?documentId=33507234&amp;bcastId=3822076&quot;&gt;Abendschau vom 18.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Tourismusbilanz: Die Welt liebt BerlinÂ  +++ Abgeordnetenhaussitzung: Wohin mit den FlÃ¼chtlingsunterkÃ¼nften? +++ Neubau Fischerinsel: BÃ¼rgerinitiative fÃ¼hlt sich Ã¼bergangen +++ Pfleger wegen sexuellem Missbrauch vor Gericht +++ Lageso verweigert Mietkosten-Ãbernahme +++ Serie: Hinter den Kulissen der Berlinale +++ Das Wetter +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/c09978c3-0075-4216-86ce-790d9d4e0f27_770cf9da-dd33-422a-b9db-dfee79833af1.mp4?url=1"/>
+			<pubDate>Thu, 18 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.02.2016 21:05 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0218/TV-100s-2105.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 18.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0218/TV-100s-2105.webl.h264.mp4"/>
+			<pubDate>Thu, 18 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>18.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0218/TV-20160218-2022-2201.webl.h264.mp4</link>
+			<description>Themen der Sendung: EU beraten Ã¼ber FlÃ¼chtlingskrise und drohenden Brexit, TÃ¼rkei macht syrische Kurdenmiliz YPG fÃ¼r Anschlag verantwortlich, Hintergrund: Die Interessen der Kurden, Obama wird nach Kuba reisen, Spitzel-VorwÃ¼rfe gegen Lech Walesa, BND und Verfassungsschutz untersuchen Verbreitung von russischen Desinformationen, BGH-Urteil: Eltern dÃ¼rfen Kita-Vertrag nicht fristlos kÃ¼ndigen, Gewerkschaften fordern sechs Prozent mehr Gehalt fÃ¼r Ã¶ffentlichen Dienst, Bundestag berÃ¤t Ã¼ber Kulturgutschutzrecht, &quot;World Press Photo&quot; des Jahres 2015 verÃ¶ffentlicht, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0218/TV-20160218-2022-2201.webl.h264.mp4"/>
+			<pubDate>Thu, 18 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 17.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/ec5c553e-d854-4820-bbe3-2f1f28ca88fc_dddcb9d8-73f8-48b1-a376-273c896ca4f4.mp4?url=1</link>
@@ -35,6 +56,13 @@
 			<link>http://media.tagesschau.de/video/2016/0217/TV-20160217-2022-5501.webl.h264.mp4</link>
 			<description>Themen der Sendung: Mindestens 18 Tote bei Anschlag in Ankara, Merkel gibt RegierungserklÃ¤rung vor EU-Gipfel ab, EU-Kommission erwartet Umsetzung getroffener FlÃ¼chtlingsbeschlÃ¼sse, Ãsterreich fÃ¼hrt Tageskontingente fÃ¼r FlÃ¼chtlinge ein, UN-Hilfskonvois fÃ¼r belagerte StÃ¤dte in Syrien starten, BGH arbeitet Rechtssprechung zu EntschÃ¤digung von Sinti und Roma auf, Apple verweigert FBI Hilfe beim Entsperren von iPhones, Papst Franziskus besucht GefÃ¤ngnis in Mexiko, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0217/TV-20160217-2022-5501.webl.h264.mp4"/>
+			<pubDate>Wed, 17 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>Abendschau vom 17.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/2c9b8a37-8ce0-48a0-aa9d-af626fc99465_6b65cab2-c0cb-47f5-903d-69d440e4100d.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 17.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/48/62/62/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin will nun auch Lehrer im Ausland anwerben +++ Debatte um FlÃ¼chtlingsunterkÃ¼nfte +++ Harmonie e.V. soll gekÃ¼ndigt werden +++ Inklusion: Taxi fÃ¼r alle +++ BuchprÃ¤sentation: Volkes Stimmen +++ Jim Rakete und Michael Ballhaus im GesprÃ¤ch +++ Berlinale Goes Kiez: Kino Union +++&lt;/p&gt;&lt;p&gt;17.02.2016 | 29:03 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-17-02-2016/rbb-Fernsehen/Video?documentId=33486250&amp;bcastId=3822076&quot;&gt;Abendschau vom 17.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin will nun auch Lehrer im Ausland anwerben +++ Debatte um FlÃ¼chtlingsunterkÃ¼nfte +++ Harmonie e.V. soll gekÃ¼ndigt werden +++ Inklusion: Taxi fÃ¼r alle +++ BuchprÃ¤sentation: Volkes Stimmen +++ Jim Rakete und Michael Ballhaus im GesprÃ¤ch +++ Berlinale Goes Kiez: Kino Union +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/2c9b8a37-8ce0-48a0-aa9d-af626fc99465_6b65cab2-c0cb-47f5-903d-69d440e4100d.mp4?url=1"/>
 			<pubDate>Wed, 17 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 		<item>
@@ -127,27 +155,6 @@
 			<description>Themen der Sendung: Krieg in Syrien steht im Mittelpunkt der MÃ¼nchner Sicherheitskonferenz, FranzÃ¶sischer Regierungschef lehnt EU-Kontingente fÃ¼r FlÃ¼chtlinge ab, CDU plant MaÃnahmenpaket fÃ¼r die Integration von FlÃ¼chtlingen, Dresden erinnert an die Bombardierung vor 71 Jahren, Tausende griechische Landwirte protestieren gegen geplante Renten- und Steuerreform, Papst trifft den russisch-orthodoxen Patriarchen Kyrill auf Kuba, Die Ergebnisse der Bundesliga, Die Lottozahlen, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0213/TV-20160213-2023-3101.webl.h264.mp4"/>
 			<pubDate>Sat, 13 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 12.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/5c66641a-6c0e-4eba-a8f3-a62acd87b1b2_e6d780d0-c660-4a68-a127-260694d3dcab.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 12.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/36/64/24/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Clooney im Kanzleramt +++ Mehr UnfÃ¤lle, weniger Tote +++ Jury kÃ¼rt beste EntwÃ¼rfe +++ Polizei testet Body-Cams +++ BÃ¼rgerÃ¤mter: Vergleich mit Umland +++ Berlinale: &quot;Midnight Special&quot; +++ Ausflugstipp: Mies van der Rohe-Haus +++&lt;/p&gt;&lt;p&gt;12.02.2016 | 30:02 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-12-02-2016-19-30/rbb-Fernsehen/Video?documentId=33366412&amp;bcastId=3822076&quot;&gt;Abendschau 12.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Clooney im Kanzleramt +++ Mehr UnfÃ¤lle, weniger Tote +++ Jury kÃ¼rt beste EntwÃ¼rfe +++ Polizei testet Body-Cams +++ BÃ¼rgerÃ¤mter: Vergleich mit Umland +++ Berlinale: &quot;Midnight Special&quot; +++ Ausflugstipp: Mies van der Rohe-Haus +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/5c66641a-6c0e-4eba-a8f3-a62acd87b1b2_e6d780d0-c660-4a68-a127-260694d3dcab.mp4?url=1"/>
-			<pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.02.2016 21:05 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0212/TV-100s-2105.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 12.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0212/TV-100s-2105.webl.h264.mp4"/>
-			<pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>12.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0212/TV-20160212-2022-2501.webl.h264.mp4</link>
-			<description>Themen der Sendung: Syrien-Kontaktgruppe einigt sich auf Feuerpause, EU gibt Griechenland drei Monate zur besseren Sicherung der EU-AuÃengrenze, Antrittsbesuch von Polens MinisterprÃ¤sidentin Szydlo in Berlin, Hendricks fordert mehr Geld fÃ¼r Integration von FlÃ¼chtlingen, Merkel und Cameron beim Matthiae-Mahl in Hamburg, TV-Debatte der Demokraten in Wisconsin, Ein Jahr nach Minsker Friedensabkommen fÃ¼r Ukraine, Deutsche Bank kauft eigene Anleihen zurÃ¼ck, Dritte Blackbox in Bad Aibling gefunden, Kometen-Mission um Roboter &quot;Philae&quot; beendet, FIFA-GeneralsekretÃ¤r Jerome Valcke fÃ¼r zwÃ¶lf Jahre gesperrt, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0212/TV-20160212-2022-2501.webl.h264.mp4"/>
-			<pubDate>Fri, 12 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
