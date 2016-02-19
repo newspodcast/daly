@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Fri, 19 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Fri, 19 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Fri, 19 Feb 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Fri, 19 Feb 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 19.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/55450a27-9613-4d22-8614-3e6b1973808e_718ad628-c5f0-4b6d-9528-c8247c80579f.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau vom 19.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/54/87/30/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Lange Haftstrafen fÃ¼r Mord an Schwangerer Frau +++ Auf der Suche nach Rasern auf dem Kudamm +++ Warnung vor Internet-Betrugsmasche +++ Lauer gegen Henkel: Akteneinsicht verweigert +++ Teddy-Award und die letzten Wettbewerbsfilme +++ Werner Orlowsky ist tot +++ Othello im Maxim-Gorki-Theater +++ Ausflugstipp: GlashÃ¼tte +++&lt;/p&gt;&lt;p&gt;19.02.2016 | 29:52 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-19-02-2016/rbb-Fernsehen/Video?documentId=33548718&amp;bcastId=3822076&quot;&gt;Abendschau vom 19.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Lange Haftstrafen fÃ¼r Mord an Schwangerer Frau +++ Auf der Suche nach Rasern auf dem Kudamm +++ Warnung vor Internet-Betrugsmasche +++ Lauer gegen Henkel: Akteneinsicht verweigert +++ Teddy-Award und die letzten Wettbewerbsfilme +++ Werner Orlowsky ist tot +++ Othello im Maxim-Gorki-Theater +++ Ausflugstipp: GlashÃ¼tte +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/55450a27-9613-4d22-8614-3e6b1973808e_718ad628-c5f0-4b6d-9528-c8247c80579f.mp4?url=1"/>
+			<pubDate>Fri, 19 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.02.2016 21:12 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0219/TV-100s-2112.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:12 Uhr vom 19.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0219/TV-100s-2112.webl.h264.mp4"/>
+			<pubDate>Fri, 19 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>19.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0219/TV-20160219-2057-4401.webl.h264.mp4</link>
+			<description>Themen der Sendung: EU-Gipfel wegen Brexit-Verhandlungen verlÃ¤ngert, EU-Beratungen Ã¼ber FlÃ¼chtlingspolitik, AsylrechtsverschÃ¤rfung sorgt im Bundestag fÃ¼r Kontroversen, Fremdenfeindliche Protestler blockieren FlÃ¼chtlingsbus, &quot;Freiheitsfalken Kurdistan&quot; bekennen sich zu Anschlag in Ankara, Deutsche RÃ¼stungsexporte 2015 deutlich gestiegen, BundeslÃ¤nder erzielen Ãberschuss von 2,8 Milliarden Euro, Lagarde als IWF-Chefin bestÃ¤tigt, Schriftstellerin Harper Lee gestorben, Wintersport, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0219/TV-20160219-2057-4401.webl.h264.mp4"/>
+			<pubDate>Fri, 19 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 18.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/c09978c3-0075-4216-86ce-790d9d4e0f27_770cf9da-dd33-422a-b9db-dfee79833af1.mp4?url=1</link>
@@ -134,27 +155,6 @@
 			<description>Themen der Sendung: SPD kritisiert das Integrationspapier der CDU, MÃ¼nchner Sicherheitskonferenz endet ohne konkrete Vereinbarungen, TÃ¼rkische Armee greift kurdische Stellungen in Syrien an, Zahl der zivilen Opfer in Afghanistan angestiegen, Republikaner und Demokraten streiten um Nachfolger im US-Verfassungsgericht, Papst ruft in Mexiko zum Kampf gegen die Drogenkartelle auf, Bad Aibling gedenkt mit einem Gottesdienst der Opfer des ZugunglÃ¼cks, Kopenhagen erinnert mit einer Lichterkette an die zwei Opfer der Terrorangriffe vor einem Jahr, Die Ergebnisse der Bundesliga, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0214/TV-20160214-2023-2801.webl.h264.mp4"/>
 			<pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 13.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/27d05f00-b081-41f1-86a6-4f0b531d58ac_61797e1c-7ee9-4da9-9a80-bee8b4883e4e.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 13.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/38/33/80/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Neuer Isabelle Huppert-Film feiert Premiere +++ Ai Weiwei und Cinema for Peace +++ Medienboard Berlin-Brandenburg lÃ¤dt ein +++ Asiatische Filmkunst im IL Kino NeukÃ¶lln +++ rbb-Film &quot;Der Ost-Komplex&quot; feiert Premiere +++ Harting-Comeback mit Spannung erwartet +++ BÃ¼rgerÃ¤mter: Warum nicht Online? +++ Ein Paradies fÃ¼r Modelleisenbahn-Fans +++&lt;/p&gt;&lt;p&gt;13.02.2016 | 28:48 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-13-02-2016/rbb-Fernsehen/Video?documentId=33383368&amp;bcastId=3822076&quot;&gt;Abendschau vom 13.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Neuer Isabelle Huppert-Film feiert Premiere +++ Ai Weiwei und Cinema for Peace +++ Medienboard Berlin-Brandenburg lÃ¤dt ein +++ Asiatische Filmkunst im IL Kino NeukÃ¶lln +++ rbb-Film &quot;Der Ost-Komplex&quot; feiert Premiere +++ Harting-Comeback mit Spannung erwartet +++ BÃ¼rgerÃ¤mter: Warum nicht Online? +++ Ein Paradies fÃ¼r Modelleisenbahn-Fans +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/27d05f00-b081-41f1-86a6-4f0b531d58ac_61797e1c-7ee9-4da9-9a80-bee8b4883e4e.mp4?url=1"/>
-			<pubDate>Sat, 13 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>13.02.2016 21:05 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0213/TV-100s-2105.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:05 Uhr vom 13.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0213/TV-100s-2105.webl.h264.mp4"/>
-			<pubDate>Sat, 13 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>13.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0213/TV-20160213-2023-3101.webl.h264.mp4</link>
-			<description>Themen der Sendung: Krieg in Syrien steht im Mittelpunkt der MÃ¼nchner Sicherheitskonferenz, FranzÃ¶sischer Regierungschef lehnt EU-Kontingente fÃ¼r FlÃ¼chtlinge ab, CDU plant MaÃnahmenpaket fÃ¼r die Integration von FlÃ¼chtlingen, Dresden erinnert an die Bombardierung vor 71 Jahren, Tausende griechische Landwirte protestieren gegen geplante Renten- und Steuerreform, Papst trifft den russisch-orthodoxen Patriarchen Kyrill auf Kuba, Die Ergebnisse der Bundesliga, Die Lottozahlen, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0213/TV-20160213-2023-3101.webl.h264.mp4"/>
-			<pubDate>Sat, 13 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
