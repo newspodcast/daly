@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sat, 20 Feb 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Sat, 20 Feb 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Sat, 20 Feb 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Sat, 20 Feb 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 20.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/6ae80715-0709-438c-9b02-200d8032ab5f_633fbaed-1035-434f-9782-be81da5c1cf1.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 20.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/56/41/28/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Berlinale-BÃ¤ren werden vergeben +++ Veranstalter fÃ¼r Myfest gefunden +++ Heim fÃ¼r queere FlÃ¼chtlinge +++ Proteste gegen Bebauung in der Cicerostrasse +++ ZuschÃ¼sse fÃ¼r Sozialmieter +++ Gleich nebenan: Cogg Guitars +++&lt;/p&gt;&lt;p&gt;20.02.2016 | 28:58 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-20-02-2016-19-30/rbb-Fernsehen/Video?documentId=33564116&amp;bcastId=3822076&quot;&gt;Abendschau 20.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Berlinale-BÃ¤ren werden vergeben +++ Veranstalter fÃ¼r Myfest gefunden +++ Heim fÃ¼r queere FlÃ¼chtlinge +++ Proteste gegen Bebauung in der Cicerostrasse +++ ZuschÃ¼sse fÃ¼r Sozialmieter +++ Gleich nebenan: Cogg Guitars +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/6ae80715-0709-438c-9b02-200d8032ab5f_633fbaed-1035-434f-9782-be81da5c1cf1.mp4?url=1"/>
+			<pubDate>Sat, 20 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>20.02.2016 21:07 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0220/TV-100s-2107.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:07 Uhr vom 20.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0220/TV-100s-2107.webl.h264.mp4"/>
+			<pubDate>Sat, 20 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>20.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0220/TV-20160220-2021-5401.webl.h264.mp4</link>
+			<description>Themen der Sendung: Cameron gibt Termin fÃ¼r EU-Referendum bekannt, Ergebnisse des EU-Gipfels, Umstrittener Polizeieinsatz in Clausnitz, Verleihung des Goldenen BÃ¤ren in Berlin, Schriftsteller Umberto Eco gestorben, Ergebnisse der FuÃball-Bundesliga, Tina Hermann gewinnt Skeleton-WM, Die Lottozahlen, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0220/TV-20160220-2021-5401.webl.h264.mp4"/>
+			<pubDate>Sat, 20 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 19.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/55450a27-9613-4d22-8614-3e6b1973808e_718ad628-c5f0-4b6d-9528-c8247c80579f.mp4?url=1</link>
@@ -141,27 +162,6 @@
 			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:27 Uhr vom 15.02.2016</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0215/TV-100s-2127.webl.h264.mp4"/>
 			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 14.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/17cfed79-db89-49ec-9237-9d4bf83db4b0_9f6ffb65-2a46-4afe-b39d-e9c82ea82ba7.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 14.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/39/60/60/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Tanzen gegen Gewalt an Frauen +++ Rettungswesten am Gendarmenmarkt +++ &quot;24 Wochen&quot; feiert Premiere +++ Streit um Notfallversorgung in Berliner Kliniken +++ BehÃ¶rden-Computer mit Risiko-Software +++ Valentinstag: Blumen fÃ¼r die Liebste +++ Serie BÃ¼rgerÃ¤mter: Das Standesamt +++ &quot;Paula&quot; fÃ¼r Manfred Krug +++ Die Sonntagsfrage: BallsÃ¤le in Berlin +++&lt;/p&gt;&lt;p&gt;14.02.2016 | 29:11 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-14-02-2016/rbb-Fernsehen/Video?documentId=33396048&amp;bcastId=3822076&quot;&gt;Abendschau vom 14.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Tanzen gegen Gewalt an Frauen +++ Rettungswesten am Gendarmenmarkt +++ &quot;24 Wochen&quot; feiert Premiere +++ Streit um Notfallversorgung in Berliner Kliniken +++ BehÃ¶rden-Computer mit Risiko-Software +++ Valentinstag: Blumen fÃ¼r die Liebste +++ Serie BÃ¼rgerÃ¤mter: Das Standesamt +++ &quot;Paula&quot; fÃ¼r Manfred Krug +++ Die Sonntagsfrage: BallsÃ¤le in Berlin +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/17cfed79-db89-49ec-9237-9d4bf83db4b0_9f6ffb65-2a46-4afe-b39d-e9c82ea82ba7.mp4?url=1"/>
-			<pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.02.2016 21:23 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0214/TV-100s-2123.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:23 Uhr vom 14.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0214/TV-100s-2123.webl.h264.mp4"/>
-			<pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>14.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0214/TV-20160214-2023-2801.webl.h264.mp4</link>
-			<description>Themen der Sendung: SPD kritisiert das Integrationspapier der CDU, MÃ¼nchner Sicherheitskonferenz endet ohne konkrete Vereinbarungen, TÃ¼rkische Armee greift kurdische Stellungen in Syrien an, Zahl der zivilen Opfer in Afghanistan angestiegen, Republikaner und Demokraten streiten um Nachfolger im US-Verfassungsgericht, Papst ruft in Mexiko zum Kampf gegen die Drogenkartelle auf, Bad Aibling gedenkt mit einem Gottesdienst der Opfer des ZugunglÃ¼cks, Kopenhagen erinnert mit einer Lichterkette an die zwei Opfer der Terrorangriffe vor einem Jahr, Die Ergebnisse der Bundesliga, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0214/TV-20160214-2023-2801.webl.h264.mp4"/>
-			<pubDate>Sun, 14 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
