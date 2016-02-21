@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Sun, 21 Feb 2016 00:30:04 GMT</pubDate>
-		<lastBuildDate>Sun, 21 Feb 2016 00:30:04 GMT</lastBuildDate>
+		<pubDate>Sun, 21 Feb 2016 21:30:06 GMT</pubDate>
+		<lastBuildDate>Sun, 21 Feb 2016 21:30:06 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 21.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/146b404e-5197-43a0-9d3f-b4d14c609fa5_7d04e7ac-99cc-4f65-a072-11fed089b9e6.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 21.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/57/75/12/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ ALBA ist Pokalsieger +++ Baustellenbesuch am Mendelssohn-Bartholdy-Park +++ Teure Immobilienkredite +++ Der Verhinderer: Carl-Heinz KlingmÃ¼ller +++ Publikumstag auf der Berlinale +++ Sonntagsfrage +++&lt;/p&gt;&lt;p&gt;21.02.2016 | 28:27 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-21-02-2016-19-30/rbb-Fernsehen/Video?documentId=33577500&amp;bcastId=3822076&quot;&gt;Abendschau 21.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ ALBA ist Pokalsieger +++ Baustellenbesuch am Mendelssohn-Bartholdy-Park +++ Teure Immobilienkredite +++ Der Verhinderer: Carl-Heinz KlingmÃ¼ller +++ Publikumstag auf der Berlinale +++ Sonntagsfrage +++&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/146b404e-5197-43a0-9d3f-b4d14c609fa5_7d04e7ac-99cc-4f65-a072-11fed089b9e6.mp4?url=1"/>
+			<pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>21.02.2016 21:09 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0221/TV-100s-2109.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:09 Uhr vom 21.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0221/TV-100s-2109.webl.h264.mp4"/>
+			<pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>21.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0221/TV-20160221-2025-5501.webl.h264.mp4</link>
+			<description>Themen der Sendung: Reaktionen auf Feindseligkeiten gegen FlÃ¼chtlinge in Sachsen, Diskussion FlÃ¼chtlingspolitik, Zustrom von FlÃ¼chtlingen nach Europa hÃ¤lt weiter an, Zahlreiche Tote bei Anschlagsserie in Syrien, Hillary Clinton gewinnt Vorwahl in Nevada, Londons BÃ¼rgermeister Johnson will EU-Austritt unterstÃ¼tzen, Neue GedenkstÃ¤tte hundert Jahre nach Schlacht von Verdun, Borussia Dortmund gewinnt gegen Bayer Leverkusen mit 1:0, 22. Spieltag, Ergebnisse der Fussball Bundesliga, ALBA Berlin gewinnt zum neunten Mal Basketball-Bundesliga, Bob-WM, Mindestens sechs Tote durch Wirbelsturm &quot;Winston&quot; auf Fidschi-Inseln, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0221/TV-20160221-2025-5501.webl.h264.mp4"/>
+			<pubDate>Sun, 21 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 20.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/6ae80715-0709-438c-9b02-200d8032ab5f_633fbaed-1035-434f-9782-be81da5c1cf1.mp4?url=1</link>
@@ -134,34 +155,6 @@
 			<description>Themen der Sendung: ZugunglÃ¼ck von Bad Aibling: Ermittlungen gegen Fahrdienstleiter, Assad schlieÃt baldige Feuerpause aus - UN-Sondergesandter wirbt fÃ¼r Vereinbarung von MÃ¼nchen, Ãsterreich: SÃ¼dgrenze soll lÃ¼ckenlos und strenger kontrolliert werden, ÃgÃ¤is: Syrische FlÃ¼chtlinge aus Schlauchboot gerettet, Deutsch-israelische GesprÃ¤che, Ukrainischer Regierungschef Jazenjuk Ã¼bersteht Misstrauensvotum, Wirbel um Oettinger-ÃuÃerungen zu Petry, BVerfG prÃ¼ft Euro-Rettungspolitik der EZB, Verleihung der Grammys, FrÃ¼herer UN-GeneralsekretÃ¤r Boutros Boutros-Ghali gestorben, Das Wetter</description>
 			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0216/TV-20160216-2021-2801.webl.h264.mp4"/>
 			<pubDate>Tue, 16 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.02.2016 18:24 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0215/TV-100s-1824.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 18:24 Uhr vom 15.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0215/TV-100s-1824.webl.h264.mp4"/>
-			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0215/TV-20160215-2105-0901.webl.h264.mp4</link>
-			<description>Themen der Sendung: Zahlreiche Tote bei Angriffen auf Kliniken in Syrien, Spannungen zwischen Russland und der TÃ¼rkei, Visegrad-Gruppe berÃ¤t Ã¼ber Balkanroute, EU-AuÃenministerrat in BrÃ¼ssel, CDU-Spitze billigt Integrationskonzept, Appell von Kardinal Marx in FlÃ¼chtlingskrise, Prozessauftakt gegen frÃ¼here Deutsche-Bank-Mitarbeiter, EuropÃ¤ische Stahlarbeiter demonstrieren in BrÃ¼ssel gegen Billigimporte aus China, Papst in Chiapas, Basler Fastnacht, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0215/TV-20160215-2105-0901.webl.h264.mp4"/>
-			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 15.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/9d7855b1-92df-441b-8d4e-7acb880026d0_692bb449-db61-47b0-be07-c4e83569c8fc.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau 15.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/42/40/44/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;Berlins City-West fÃ¼r Autos gesperrt +++Â Aufsichtsrat: BER-ErÃ¶ffnung 2017 mÃ¶glich +++ Nachrichten I +++ Grippewelle: Mehr als 500 FÃ¤lle und drei Tote in Berlin +++ Landeswahlleiterin sieht kein Problem fÃ¼r Wahl +++ Landeswahlleiterin sieht kein Problem fÃ¼r Wahl +++ Nachrichten II +++ &quot;Jeder stirbt fÃ¼r sich allein&quot; feiert Weltpremiere +++ Jella Haase gehÃ¶rt zu den &quot;Shooting Stars&quot;&lt;/p&gt;&lt;p&gt;15.02.2016 | 29:14 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-15-02-2016-19-30/rbb-Fernsehen/Video?documentId=33424032&amp;bcastId=3822076&quot;&gt;Abendschau 15.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Berlins City-West fÃ¼r Autos gesperrt +++Â Aufsichtsrat: BER-ErÃ¶ffnung 2017 mÃ¶glich +++ Nachrichten I +++ Grippewelle: Mehr als 500 FÃ¤lle und drei Tote in Berlin +++ Landeswahlleiterin sieht kein Problem fÃ¼r Wahl +++ Landeswahlleiterin sieht kein Problem fÃ¼r Wahl +++ Nachrichten II +++ &quot;Jeder stirbt fÃ¼r sich allein&quot; feiert Weltpremiere +++ Jella Haase gehÃ¶rt zu den &quot;Shooting Stars&quot;&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/9d7855b1-92df-441b-8d4e-7acb880026d0_692bb449-db61-47b0-be07-c4e83569c8fc.mp4?url=1"/>
-			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>15.02.2016 21:27 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0215/TV-100s-2127.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:27 Uhr vom 15.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0215/TV-100s-2127.webl.h264.mp4"/>
-			<pubDate>Mon, 15 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
