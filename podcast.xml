@@ -4,8 +4,8 @@
 		<title>Daly News Dump</title>
 		<link>http://newspodcast.github.io/newspodcast/podcast.xml</link>
 		<description>Get your daly news!</description>
-		<pubDate>Mon, 22 Feb 2016 00:30:05 GMT</pubDate>
-		<lastBuildDate>Mon, 22 Feb 2016 00:30:05 GMT</lastBuildDate>
+		<pubDate>Mon, 22 Feb 2016 21:30:07 GMT</pubDate>
+		<lastBuildDate>Mon, 22 Feb 2016 21:30:07 GMT</lastBuildDate>
 		<generator>PyRSS2Gen-1.1.0</generator>
 		<docs>http://blogs.law.harvard.edu/tech/rss</docs>
 		<image>
@@ -16,6 +16,27 @@
 			<height>1024</height>
 			<description>awsome logo</description>
 		</image>
+		<item>
+			<title>Abendschau vom 22.02.2016</title>
+			<link>http://media-stream-pmd.rbb-online.de/content/e6833b84-f072-4b34-8e73-ce2d31504485_4b833b36-e59c-461f-9a50-30317cd99e71.mp4?url=1</link>
+			<description>&lt;h3&gt;Abendschau - Abendschau 22.02.2016 19:30&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/60/21/14/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Hassparolen gegen FlÃ¼chtlinge +++ Bauen fÃ¼r Berlin +++ Ãffentlichkeitsbeteiligung bei Senatsplanungen +++ Mann im Wedding angeschossen +++ AuslÃ¤nderbehÃ¶rde erÃ¶ffnet Beratungszentrum +++Â Serie: Berliner StraÃen im Wandel +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;&lt;p&gt;22.02.2016 | 28:49 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-22-02-2016-19-30/rbb-Fernsehen/Video?documentId=33602102&amp;bcastId=3822076&quot;&gt;Abendschau 22.02.2016 19:30 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Hassparolen gegen FlÃ¼chtlinge +++ Bauen fÃ¼r Berlin +++ Ãffentlichkeitsbeteiligung bei Senatsplanungen +++ Mann im Wedding angeschossen +++ AuslÃ¤nderbehÃ¶rde erÃ¶ffnet Beratungszentrum +++Â Serie: Berliner StraÃen im Wandel +++ Moderation: Cathrin BÃ¶hme&lt;/p&gt;</description>
+			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/e6833b84-f072-4b34-8e73-ce2d31504485_4b833b36-e59c-461f-9a50-30317cd99e71.mp4?url=1"/>
+			<pubDate>Mon, 22 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>22.02.2016 21:22 Uhr - Tagesschau in 100 Sekunden</title>
+			<link>http://media.tagesschau.de/video/100s/2016/0222/TV-100s-2122.webl.h264.mp4</link>
+			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:22 Uhr vom 22.02.2016</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0222/TV-100s-2122.webl.h264.mp4"/>
+			<pubDate>Mon, 22 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
+		<item>
+			<title>22.02.2016 - tagesschau 20:00 Uhr</title>
+			<link>http://media.tagesschau.de/video/2016/0222/TV-20160222-2021-4601.webl.h264.mp4</link>
+			<description>Themen der Sendung: USA und Russland vereinbaren Feuerpause fÃ¼r Syrien, Debatte nach Ãbergriffen in Sachsen, &quot;Pegida&quot;-Demonstration in Dresden, Diskussion Ã¼ber FlÃ¼chtlingspolitik, Menschenrechtsbeauftragter der Bundesregierung StrÃ¤sser tritt aus Protest gegen Asylpaket von Amt zurÃ¼ck, Viele FlÃ¼chtlinge sitzen in Griechenland fest, Cameron warnt vor EU-Austritt, RÃ¼stungsgeschÃ¤fte nehmen weltweit zu, Weltweit grÃ¶Ãte Mobilfunkmesse in Barcelona, Das Wetter</description>
+			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0222/TV-20160222-2021-4601.webl.h264.mp4"/>
+			<pubDate>Mon, 22 Feb 2016 00:00:00 GMT</pubDate>
+		</item>
 		<item>
 			<title>Abendschau vom 21.02.2016</title>
 			<link>http://media-stream-pmd.rbb-online.de/content/146b404e-5197-43a0-9d3f-b4d14c609fa5_7d04e7ac-99cc-4f65-a072-11fed089b9e6.mp4?url=1</link>
@@ -134,27 +155,6 @@
 			<description>&lt;h3&gt;Abendschau - Abendschau vom 17.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/48/62/62/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin will nun auch Lehrer im Ausland anwerben +++ Debatte um FlÃ¼chtlingsunterkÃ¼nfte +++ Harmonie e.V. soll gekÃ¼ndigt werden +++ Inklusion: Taxi fÃ¼r alle +++ BuchprÃ¤sentation: Volkes Stimmen +++ Jim Rakete und Michael Ballhaus im GesprÃ¤ch +++ Berlinale Goes Kiez: Kino Union +++&lt;/p&gt;&lt;p&gt;17.02.2016 | 29:03 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-17-02-2016/rbb-Fernsehen/Video?documentId=33486250&amp;bcastId=3822076&quot;&gt;Abendschau vom 17.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ Berlin will nun auch Lehrer im Ausland anwerben +++ Debatte um FlÃ¼chtlingsunterkÃ¼nfte +++ Harmonie e.V. soll gekÃ¼ndigt werden +++ Inklusion: Taxi fÃ¼r alle +++ BuchprÃ¤sentation: Volkes Stimmen +++ Jim Rakete und Michael Ballhaus im GesprÃ¤ch +++ Berlinale Goes Kiez: Kino Union +++&lt;/p&gt;</description>
 			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/2c9b8a37-8ce0-48a0-aa9d-af626fc99465_6b65cab2-c0cb-47f5-903d-69d440e4100d.mp4?url=1"/>
 			<pubDate>Wed, 17 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>Abendschau vom 16.02.2016</title>
-			<link>http://media-stream-pmd.rbb-online.de/content/2c15a050-17e1-4b46-96f9-6ca14b8780c8_e51295fd-14cf-417e-be02-e4b99e3d7488.mp4?url=1</link>
-			<description>&lt;h3&gt;Abendschau - Abendschau vom 16.02.2016&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;http://www.ardmediathek.de/image/00/33/44/91/60/276144784/16x9/384&quot;/&gt;&lt;/p&gt;&lt;p&gt;+++ McKinsey bekommt Beratervertrag vom Senat +++ Start der Internationalen Baufachmesse Bautec +++ Senatsbeschluss zur FÃ¶rderung mittelstÃ¤ndischer Unternehmen +++ Beseitigung von giftigem Schlamm im Rummelsburger See +++ NeukÃ¶lln: Bezahlbare Wohnungen fÃ¼r die Stadt +++ Diskussion um FlÃ¼chtlingsunterkunft in Heckeshorn +++ August Macke im Salon +++ Berlinale: &quot;Genius&quot; feiert Premiere +++&lt;/p&gt;&lt;p&gt;16.02.2016 | 29:13 Min. | rbb Fernsehen&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;http://www.ardmediathek.de/tv/Abendschau/Abendschau-vom-16-02-2016/rbb-Fernsehen/Video?documentId=33449148&amp;bcastId=3822076&quot;&gt;Abendschau vom 16.02.2016 in der Mediathek&lt;/a&gt;&lt;/p&gt;&lt;p&gt;+++ McKinsey bekommt Beratervertrag vom Senat +++ Start der Internationalen Baufachmesse Bautec +++ Senatsbeschluss zur FÃ¶rderung mittelstÃ¤ndischer Unternehmen +++ Beseitigung von giftigem Schlamm im Rummelsburger See +++ NeukÃ¶lln: Bezahlbare Wohnungen fÃ¼r die Stadt +++ Diskussion um FlÃ¼chtlingsunterkunft in Heckeshorn +++ August Macke im Salon +++ Berlinale: &quot;Genius&quot; feiert Premiere +++&lt;/p&gt;</description>
-			<enclosure length="0" type="video/mp4" url="http://media-stream-pmd.rbb-online.de/content/2c15a050-17e1-4b46-96f9-6ca14b8780c8_e51295fd-14cf-417e-be02-e4b99e3d7488.mp4?url=1"/>
-			<pubDate>Tue, 16 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>16.02.2016 21:13 Uhr - Tagesschau in 100 Sekunden</title>
-			<link>http://media.tagesschau.de/video/100s/2016/0216/TV-100s-2113.webl.h264.mp4</link>
-			<description>Die aktuelle Tagesschau in 100 Sekunden von 21:13 Uhr vom 16.02.2016</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/100s/2016/0216/TV-100s-2113.webl.h264.mp4"/>
-			<pubDate>Tue, 16 Feb 2016 00:00:00 GMT</pubDate>
-		</item>
-		<item>
-			<title>16.02.2016 - tagesschau 20:00 Uhr</title>
-			<link>http://media.tagesschau.de/video/2016/0216/TV-20160216-2021-2801.webl.h264.mp4</link>
-			<description>Themen der Sendung: ZugunglÃ¼ck von Bad Aibling: Ermittlungen gegen Fahrdienstleiter, Assad schlieÃt baldige Feuerpause aus - UN-Sondergesandter wirbt fÃ¼r Vereinbarung von MÃ¼nchen, Ãsterreich: SÃ¼dgrenze soll lÃ¼ckenlos und strenger kontrolliert werden, ÃgÃ¤is: Syrische FlÃ¼chtlinge aus Schlauchboot gerettet, Deutsch-israelische GesprÃ¤che, Ukrainischer Regierungschef Jazenjuk Ã¼bersteht Misstrauensvotum, Wirbel um Oettinger-ÃuÃerungen zu Petry, BVerfG prÃ¼ft Euro-Rettungspolitik der EZB, Verleihung der Grammys, FrÃ¼herer UN-GeneralsekretÃ¤r Boutros Boutros-Ghali gestorben, Das Wetter</description>
-			<enclosure length="0" type="video/mp4" url="http://media.tagesschau.de/video/2016/0216/TV-20160216-2021-2801.webl.h264.mp4"/>
-			<pubDate>Tue, 16 Feb 2016 00:00:00 GMT</pubDate>
 		</item>
 	</channel>
 </rss>
